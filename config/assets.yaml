@@ -1,0 +1,17 @@
+# Equity universe — Argentine USD-denominated assets.
+# Immutable: tickers do not change during the project.
+
+adrs:
+  - YPF    # YPF S.A.
+  - GGAL   # Grupo Financiero Galicia
+  - BMA    # Banco Macro
+  - PAM    # Pampa Energía
+  - TGS    # Transportadora de Gas del Sur
+  - CEPU   # Central Puerto
+  - EDN    # Empresa Distribuidora Norte
+  - LOMA   # Loma Negra
+  - CRESY  # Cresud
+  - IRS    # IRSA Inversiones y Representaciones
+
+sovereign_bond: AL30D   # Argentine sovereign bond in USD (scraped)
+merval_yf: "^MERV"      # Merval index — yfinance ticker (used for Merval-in-USD benchmark)

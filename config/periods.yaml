@@ -1,0 +1,10 @@
+# Temporal boundaries for the walk-forward pipeline.
+# The model never receives these labels — bull/bear are post-hoc analytical labels only.
+
+in_sample_start: "2015-01"   # Training period start (historical cache)
+in_sample_end:   "2023-12"   # Training period end   (historical cache immutable after first run)
+live_start:      "2024-01"   # Walk-forward period start
+
+# live_end is NOT defined here.
+# Pass --month YYYY-MM to main.py to override the end date.
+# Default: current calendar month (detected at runtime via datetime.now()).

@@ -350,3 +350,83 @@ Por cada corrida en `results/{año}/`:
 8. src/utils/         → logging y helpers (se construye en paralelo desde el inicio)
 9. main.py            → integración final de los dos modos
 ```
+
+## Estado actual del proyecto (actualizar con cada módulo completado)
+
+### Completado ✅
+- `src/data/` — 8 archivos completos y verificados
+  - `downloader.py` — yfinance ADRs + Merval (Adj Close semanal, ticker a ticker)
+  - `scraper_al30d.py` — AY24.BA proxy 2015-2020 → AL30D.BA, fallback BYMA API
+  - `scraper_ccl.py` — Ámbito API primaria, fallback ratio GGAL implícito
+  - `scraper_macro.py` — IPC/EMBI/reservas/TC via datos.gob.ar + BCRA API
+  - `cache_manager.py` — Parquet + JSON sidecar + manifest, guard doble inmutabilidad
+  - `validator.py` — gaps/NaN/outliers, coverage report, ValidationReport dataclass
+  - `loader.py` — orquestador run_historical() + run_live_month(), anti-leakage
+  - `__init__.py` — API pública del paquete
+
+- `src/features/` — 2 archivos completos y verificados
+  - `features.py` — SMA20/30, momentum (rolling sum), volatilidad realizada, granularidad dual portfolio/asset
+  - `__init__.py` — exporta compute_features y FeatureMatrix
+
+- `src/signals/` — 2 archivos completos y verificados
+  - `regime.py` — Pipeline(StandardScaler → PCA ≥95% → SVC RBF); train_regime_classifier() + predict_regime(); label rule price_to_sma30 > 1.0; slot NLP [7] = 0.0 hasta src/nlp/; sidecar .meta.json
+  - `__init__.py` — exporta train_regime_classifier, predict_regime, FEATURE_COLS
+
+- `src/allocation/` — 2 archivos completos y verificados
+  - `allocator.py` — compute_weights(regime_result, assets_features) → AllocationResult; resampleo semanal→mensual interno; Risk-On EW ADRs activos / Risk-Off 80% ADRs + 20% AL30D; edge case double-filter defensive; assert suma=1.0
+  - `__init__.py` — exporta compute_weights, AllocationResult
+
+- `src/backtest/` — 3 archivos completos y verificados
+  - `engine.py` — run_backtest(monthly_allocations, adrs, sovereign_bond, merval, ccl) → BacktestResult; rebalanceo solo en cambio de régimen; execution lag M+1; simulación manual pandas (vbt.from_weights() removido en v1.0.0); BacktestResult dataclass
+  - `benchmarks.py` — compute_benchmarks() → dict[str, pd.Series]; _ew_buy_and_hold, _al30d_static, _merval_usd (Merval/CCL); curvas normalizadas a 1.0
+  - `__init__.py` — exporta run_backtest, BacktestResult
+
+- `src/metrics/` — 3 archivos completos y verificados
+  - `metrics.py` — compute_metrics(BacktestResult) → MetricsResult; _compute_series_metrics (total_return, ann_return, ann_vol, Sharpe, max_dd, Calmar, beta, Treynor, Jensen); save_metrics_csv → performance_metrics.csv; rf=0.0, factor=52, proxy mercado=ew_bnh
+  - `visualizer.py` — plot_equity_curves (portfolio + 3 benchmarks, líneas de rebalanceo, PNG+PDF DPI300); plot_drawdown (área rellena, anotación max dd, PNG+PDF)
+  - `__init__.py` — exporta compute_metrics, save_metrics_csv, MetricsResult, plot_equity_curves, plot_drawdown
+
+- `src/utils/` — 2 archivos completos y verificados
+  - `utils.py` — setup_logging (console + file, logs/run_{ts}.log); ensure_dir; save_snapshot (snapshot_{ts}.json, default=str para tipos no serializables); timer() context manager con [START]/[DONE] y segundos
+  - `__init__.py` — exporta setup_logging, ensure_dir, save_snapshot, timer
+
+- `src/nlp/` — 2 archivos completos y verificados
+  - `nlp.py` — compute_monthly_sentiment(year, month, base_dir, _pipeline) → float [-1,1]; _load_documents (pdf+txt, encoding fallback); _chunk_tokens (450 tok / 50 overlap vía tokenizer FinBERT); _score_chunk P(pos)–P(neg) top_k=None; singleton lazy _pipeline_instance; retorna 0.0+warning si dir ausente o vacía
+  - `__init__.py` — exporta compute_monthly_sentiment
+
+- `main.py` — completo y verificado (AST parse OK + módulos resueltos)
+  - `run_mode_historical`: download → features → train_regime_classifier
+  - `run_mode_live`: loop mensual walk-forward → backtest → outputs por año
+  - `_process_live_month`: anti-leakage (todos los loads capeados a month_end)
+  - `_save_year_outputs`: slice por año, re-normaliza a 1.0, filtra rebalance_dates al año (D40)
+  - CLI: `--mode {historical,live}` + `--month YYYY-MM` opcional
+  - Carry-forward en error de mes; RuntimeError si 0 meses exitosos
+
+- `config/` — 3 archivos completos
+  - `assets.yaml` — 10 ADRs + sovereign_bond AL30D + merval_yf
+  - `periods.yaml` — in_sample_start/end + live_start (live_end via CLI)
+  - `settings.yaml` — sma_short/long, momentum/vol windows, model_path, news_base_dir, results_base_dir, log_level
+
+- `requirements.txt` — completo (pandas, numpy, pyarrow, scikit-learn, joblib, yfinance, requests, beautifulsoup4, lxml, transformers, torch, pdfminer.six, matplotlib, pyyaml, python-dotenv)
+
+### Pendiente ⏳
+Ninguno. Proyecto completo — listo para primera corrida real.
+
+---
+
+## Decisiones de diseño consolidadas (D1–D41)
+
+| # | Módulo | Decisión |
+|---|--------|----------|
+| D23 | metrics | Pandas puro — sin vectorbt para métricas |
+| D24 | metrics | rf = 0.0 anualizado (supuesto documentado en el paper) |
+| D25 | metrics | Proxy de mercado para beta/Treynor/Jensen = ew_bnh |
+| D26 | metrics | MetricsResult dataclass: portfolio dict + benchmarks dict + summary_df |
+| D27 | metrics | Factor anualización = 52 (retornos), √52 (volatilidad) |
+| D28 | metrics | equity_curves.png + drawdown.png (PNG DPI300 + PDF); tabla → performance_metrics.csv |
+| D29 | metrics | metrics.py + visualizer.py + __init__.py |
+| D37 | main | CLI: --mode {historical,live} requerido; --month YYYY-MM opcional para live_end |
+| D38 | main | Loop live: live_start desde periods.yaml; live_end desde --month o datetime.now() |
+| D39 | main | Error por mes: try/except → log + carry-forward; RuntimeError si 0 meses exitosos |
+| D40 | main | Una corrida continua; outputs por año en results/{año}/; re-normalización a 1.0 en cada año; rebalance_dates filtrados al año |
+| D41 | main | config/: assets.yaml + periods.yaml + settings.yaml; live_end fuera de YAML (CLI) |
