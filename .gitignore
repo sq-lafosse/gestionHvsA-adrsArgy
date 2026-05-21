@@ -1,0 +1,35 @@
+# Entorno virtual
+.venv/
+
+# Cache de datos (histórico inmutable — no versionar)
+data/cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Datos binarios / serializados
+*.parquet
+
+# JSON — excluir todo excepto config/
+*.json
+!config/*.json
+
+# Resultados y logs generados (opcionales — descomentar si no se quieren versionar)
+# results/
+# logs/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
