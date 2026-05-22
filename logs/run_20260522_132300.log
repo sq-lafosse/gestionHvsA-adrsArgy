@@ -1,0 +1,63 @@
+2026-05-22 10:23:00 | INFO     | src.utils.utils                | Logging initialized — level=INFO  file=logs\run_20260522_132300.log
+2026-05-22 10:23:00 | INFO     | __main__                       | === gestionHvsA-adrsArgy | mode=historical ===
+2026-05-22 10:23:00 | INFO     | src.utils.utils                | [START] historical data download
+2026-05-22 10:23:00 | INFO     | src.data.loader                | Starting historical download: 2015-01-01 → 2023-12-01 | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-22 10:23:04 | INFO     | src.data.downloader            | [YPF] 466 weekly rows (2015-01-01 → 2023-11-30)
+2026-05-22 10:23:04 | INFO     | src.data.downloader            | [GGAL] 466 weekly rows (2015-01-01 → 2023-11-30)
+2026-05-22 10:23:04 | INFO     | src.data.downloader            | [BMA] 466 weekly rows (2015-01-01 → 2023-11-30)
+2026-05-22 10:23:04 | INFO     | src.data.downloader            | [PAM] 466 weekly rows (2015-01-01 → 2023-11-30)
+2026-05-22 10:23:04 | INFO     | src.data.downloader            | [TGS] 466 weekly rows (2015-01-01 → 2023-11-30)
+2026-05-22 10:23:04 | INFO     | src.data.downloader            | [CEPU] 305 weekly rows (2018-01-29 → 2023-11-27)
+2026-05-22 10:23:04 | INFO     | src.data.downloader            | [EDN] 466 weekly rows (2015-01-01 → 2023-11-30)
+2026-05-22 10:23:04 | INFO     | src.data.downloader            | [LOMA] 318 weekly rows (2017-10-30 → 2023-11-27)
+2026-05-22 10:23:04 | INFO     | src.data.downloader            | [CRESY] 466 weekly rows (2015-01-01 → 2023-11-30)
+2026-05-22 10:23:04 | INFO     | src.data.downloader            | [IRS] 466 weekly rows (2015-01-01 → 2023-11-30)
+2026-05-22 10:23:06 | ERROR    | yfinance                       | $AY24.BA: possibly delisted; no timezone found
+2026-05-22 10:23:06 | WARNING  | src.data.scraper_al30d         | [AY24.BA] all sources failed and no cache available
+2026-05-22 10:23:09 | ERROR    | yfinance                       | HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: AL30D.BA"}}}
+2026-05-22 10:23:10 | ERROR    | yfinance                       | $AL30D.BA: possibly delisted; no timezone found
+2026-05-22 10:23:10 | WARNING  | src.data.scraper_al30d         | [AL30D.BA] all sources failed and no cache available
+2026-05-22 10:23:10 | WARNING  | src.data.scraper_al30d         | sovereign_bond: all sources failed — returning empty series
+2026-05-22 10:23:11 | INFO     | src.data.scraper_ccl           | CCL: GGAL ratio fallback used (466 observations)
+2026-05-22 10:23:11 | INFO     | src.data.scraper_macro         | [macro/ipc] datos.gob.ar: 93 rows
+2026-05-22 10:23:12 | WARNING  | src.data.scraper_macro         | [macro/embi] all sources failed and no cache — NaN series
+2026-05-22 10:23:12 | INFO     | src.data.scraper_macro         | [macro/reservas] datos.gob.ar: 108 rows
+2026-05-22 10:23:13 | INFO     | src.data.scraper_macro         | [macro/tc_oficial] datos.gob.ar: 108 rows
+2026-05-22 10:23:13 | INFO     | src.data.validator             | Coverage report [prices]
+2026-05-22 10:23:13 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:23:13 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 10:23:13 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:23:13 | INFO     | src.data.validator             | YPF                   2015-01-01    2023-11-30      784    318  40.56%  OK        
+2026-05-22 10:23:13 | INFO     | src.data.validator             | GGAL                  2015-01-01    2023-11-30      784    318  40.56%  OK        
+2026-05-22 10:23:13 | INFO     | src.data.validator             | BMA                   2015-01-01    2023-11-30      784    318  40.56%  OK        
+2026-05-22 10:23:13 | INFO     | src.data.validator             | PAM                   2015-01-01    2023-11-30      784    318  40.56%  OK        
+2026-05-22 10:23:13 | INFO     | src.data.validator             | TGS                   2015-01-01    2023-11-30      784    318  40.56%  OK        
+2026-05-22 10:23:13 | INFO     | src.data.validator             | CEPU                  2018-01-29    2023-11-27      784    479  61.10%  LATE +1124d
+2026-05-22 10:23:13 | INFO     | src.data.validator             | EDN                   2015-01-01    2023-11-30      784    318  40.56%  OK        
+2026-05-22 10:23:13 | INFO     | src.data.validator             | LOMA                  2017-10-30    2023-11-27      784    466  59.44%  LATE +1033d
+2026-05-22 10:23:13 | INFO     | src.data.validator             | CRESY                 2015-01-01    2023-11-30      784    318  40.56%  OK        
+2026-05-22 10:23:13 | INFO     | src.data.validator             | IRS                   2015-01-01    2023-11-30      784    318  40.56%  OK        
+2026-05-22 10:23:13 | ERROR    | src.data.validator             | sovereign_bond        MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 10:23:13 | INFO     | src.data.validator             | merval                2015-01-01    2023-11-30      466      0   0.00%  OK        
+2026-05-22 10:23:13 | INFO     | src.data.validator             | ccl                   2015-01-02    2023-12-01      466      0   0.00%  LATE +1d  
+2026-05-22 10:23:13 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:23:13 | INFO     | src.data.validator             | Coverage report [macro]
+2026-05-22 10:23:13 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:23:13 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 10:23:13 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:23:13 | INFO     | src.data.validator             | ipc                   2016-04-30    2023-12-31      108     15  13.89%  LATE +485d
+2026-05-22 10:23:13 | ERROR    | src.data.validator             | embi                  MISSING       MISSING         108    108  100.00%  ERROR     
+2026-05-22 10:23:13 | INFO     | src.data.validator             | reservas              2015-01-31    2023-12-31      108      0   0.00%  LATE +30d 
+2026-05-22 10:23:13 | INFO     | src.data.validator             | tc_oficial            2015-01-31    2023-12-31      108      0   0.00%  LATE +30d 
+2026-05-22 10:23:13 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:23:13 | WARNING  | src.data.loader                | 3199 validation warning(s) — cache will still be written. See coverage report above for details.
+2026-05-22 10:23:13 | INFO     | src.data.cache_manager         | Writing historical cache to data\cache
+2026-05-22 10:23:14 | INFO     | src.data.cache_manager         | Historical cache written. Row counts: {'adrs': 784, 'sovereign_bond': 0, 'merval': 466, 'ccl': 466, 'macro': 108}
+2026-05-22 10:23:14 | INFO     | src.data.loader                | Historical cache written successfully.
+2026-05-22 10:23:14 | INFO     | src.utils.utils                | [DONE]  historical data download — 14.46s
+2026-05-22 10:23:14 | INFO     | __main__                       | Loading in-sample data for model training...
+2026-05-22 10:23:16 | INFO     | src.utils.utils                | [START] feature computation (in-sample)
+2026-05-22 10:23:16 | INFO     | src.features.features          | compute_features: 784 weekly rows | 10 tickers | warm-up = 30 rows
+2026-05-22 10:23:16 | INFO     | src.utils.utils                | [DONE]  feature computation (in-sample) — 0.14s
+2026-05-22 10:23:16 | INFO     | src.utils.utils                | [START] regime classifier training
+2026-05-22 10:23:16 | INFO     | src.utils.utils                | [DONE]  regime classifier training — 0.02s

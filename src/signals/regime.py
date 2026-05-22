@@ -267,6 +267,13 @@ def _build_monthly_feature_matrix(
                 "_build_monthly_feature_matrix: column '%s' absent — filling with NaN", col
             )
             combined[col] = np.nan
+        elif combined[col].isna().all():
+            # Column exists but source data is unavailable (e.g. EMBI scraper failed).
+            # Fill with 0.0 so dropna() doesn't eliminate all training rows.
+            logger.warning(
+                "_build_monthly_feature_matrix: '%s' is entirely NaN — filling with 0.0", col
+            )
+            combined[col] = 0.0
 
     return combined[FEATURE_COLS]
 

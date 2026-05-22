@@ -351,6 +351,9 @@ def _save_year_outputs(
 
     bench_year: dict[str, pd.Series] = {}
     for name, series in full_result.benchmarks.items():
+        if series.empty:
+            bench_year[name] = series
+            continue
         s = series.loc[series.index.year == year]
         bench_year[name] = (s / s.iloc[0]) if not s.empty else s
 

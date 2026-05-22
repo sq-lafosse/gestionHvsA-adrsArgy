@@ -1,0 +1,317 @@
+2026-05-22 10:25:02 | INFO     | src.utils.utils                | Logging initialized — level=INFO  file=logs\run_20260522_132502.log
+2026-05-22 10:25:02 | INFO     | __main__                       | === gestionHvsA-adrsArgy | mode=live ===
+2026-05-22 10:25:02 | INFO     | __main__                       | Live mode: 6 months | 2024-01 → 2024-06
+2026-05-22 10:25:02 | INFO     | src.utils.utils                | [START] live 2024-01
+2026-05-22 10:25:02 | INFO     | src.data.loader                | Starting live-month download: 2024-01-01 → 2024-01-31 (cutoff: 2024-01-31) | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-22 10:25:09 | INFO     | src.data.downloader            | [YPF] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-22 10:25:09 | INFO     | src.data.downloader            | [GGAL] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-22 10:25:09 | INFO     | src.data.downloader            | [BMA] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-22 10:25:09 | INFO     | src.data.downloader            | [PAM] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-22 10:25:09 | INFO     | src.data.downloader            | [TGS] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-22 10:25:09 | INFO     | src.data.downloader            | [CEPU] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-22 10:25:09 | INFO     | src.data.downloader            | [EDN] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-22 10:25:09 | INFO     | src.data.downloader            | [LOMA] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-22 10:25:09 | INFO     | src.data.downloader            | [CRESY] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-22 10:25:09 | INFO     | src.data.downloader            | [IRS] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-22 10:25:13 | ERROR    | yfinance                       | HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: AL30D.BA"}}}
+2026-05-22 10:25:14 | ERROR    | yfinance                       | $AL30D.BA: possibly delisted; no timezone found
+2026-05-22 10:25:14 | WARNING  | src.data.scraper_al30d         | [AL30D.BA] all sources failed and no cache available
+2026-05-22 10:25:14 | WARNING  | src.data.scraper_al30d         | sovereign_bond: all sources failed — returning empty series
+2026-05-22 10:25:15 | INFO     | src.data.scraper_ccl           | CCL: GGAL ratio fallback used (5 observations)
+2026-05-22 10:25:16 | INFO     | src.data.scraper_macro         | [macro/ipc] datos.gob.ar: 1 rows
+2026-05-22 10:25:16 | WARNING  | src.data.scraper_macro         | [macro/embi] cache has no valid values
+2026-05-22 10:25:17 | INFO     | src.data.scraper_macro         | [macro/reservas] datos.gob.ar: 1 rows
+2026-05-22 10:25:18 | INFO     | src.data.scraper_macro         | [macro/tc_oficial] datos.gob.ar: 1 rows
+2026-05-22 10:25:18 | INFO     | src.data.validator             | Coverage report [prices]
+2026-05-22 10:25:18 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:18 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 10:25:18 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:18 | INFO     | src.data.validator             | YPF                   2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-22 10:25:18 | INFO     | src.data.validator             | GGAL                  2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-22 10:25:18 | INFO     | src.data.validator             | BMA                   2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-22 10:25:18 | INFO     | src.data.validator             | PAM                   2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-22 10:25:18 | INFO     | src.data.validator             | TGS                   2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-22 10:25:18 | INFO     | src.data.validator             | CEPU                  2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-22 10:25:18 | INFO     | src.data.validator             | EDN                   2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-22 10:25:18 | INFO     | src.data.validator             | LOMA                  2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-22 10:25:18 | INFO     | src.data.validator             | CRESY                 2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-22 10:25:18 | INFO     | src.data.validator             | IRS                   2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-22 10:25:18 | ERROR    | src.data.validator             | sovereign_bond        MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 10:25:18 | INFO     | src.data.validator             | merval                2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-22 10:25:18 | INFO     | src.data.validator             | ccl                   2024-01-05    2024-02-02        5      0   0.00%  LATE +3291d
+2026-05-22 10:25:18 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:18 | INFO     | src.data.validator             | Coverage report [macro]
+2026-05-22 10:25:18 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:18 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 10:25:18 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:18 | INFO     | src.data.validator             | ipc                   2024-01-31    2024-01-31        1      0   0.00%  LATE +3317d
+2026-05-22 10:25:18 | ERROR    | src.data.validator             | embi                  MISSING       MISSING           1      1  100.00%  ERROR     
+2026-05-22 10:25:18 | INFO     | src.data.validator             | reservas              2024-01-31    2024-01-31        1      0   0.00%  LATE +3317d
+2026-05-22 10:25:18 | INFO     | src.data.validator             | tc_oficial            2024-01-31    2024-01-31        1      0   0.00%  LATE +3317d
+2026-05-22 10:25:18 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:18 | WARNING  | src.data.loader                | 17 validation warning(s) — data will still be appended.
+2026-05-22 10:25:18 | INFO     | src.data.cache_manager         | Appending live month to cache
+2026-05-22 10:25:18 | INFO     | src.utils.utils                | [DONE]  live 2024-01 — 16.13s
+2026-05-22 10:25:18 | ERROR    | __main__                       | Month 2024-01 failed (TypeError: '>' not supported between instances of 'float' and 'Timestamp') — applying carry-forward.
+2026-05-22 10:25:18 | ERROR    | __main__                       | No prior allocation to carry forward — month 2024-01 skipped entirely.
+2026-05-22 10:25:18 | INFO     | src.utils.utils                | [START] live 2024-02
+2026-05-22 10:25:18 | INFO     | src.data.loader                | Starting live-month download: 2024-01-01 → 2024-02-29 (cutoff: 2024-02-29) | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-22 10:25:23 | INFO     | src.data.downloader            | [YPF] 9 weekly rows (2024-01-01 → 2024-02-26)
+2026-05-22 10:25:23 | INFO     | src.data.downloader            | [GGAL] 9 weekly rows (2024-01-01 → 2024-02-26)
+2026-05-22 10:25:23 | INFO     | src.data.downloader            | [BMA] 9 weekly rows (2024-01-01 → 2024-02-26)
+2026-05-22 10:25:23 | INFO     | src.data.downloader            | [PAM] 9 weekly rows (2024-01-01 → 2024-02-26)
+2026-05-22 10:25:23 | INFO     | src.data.downloader            | [TGS] 9 weekly rows (2024-01-01 → 2024-02-26)
+2026-05-22 10:25:23 | INFO     | src.data.downloader            | [CEPU] 9 weekly rows (2024-01-01 → 2024-02-26)
+2026-05-22 10:25:23 | INFO     | src.data.downloader            | [EDN] 9 weekly rows (2024-01-01 → 2024-02-26)
+2026-05-22 10:25:23 | INFO     | src.data.downloader            | [LOMA] 9 weekly rows (2024-01-01 → 2024-02-26)
+2026-05-22 10:25:23 | INFO     | src.data.downloader            | [CRESY] 9 weekly rows (2024-01-01 → 2024-02-26)
+2026-05-22 10:25:23 | INFO     | src.data.downloader            | [IRS] 9 weekly rows (2024-01-01 → 2024-02-26)
+2026-05-22 10:25:25 | ERROR    | yfinance                       | HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: AL30D.BA"}}}
+2026-05-22 10:25:25 | ERROR    | yfinance                       | $AL30D.BA: possibly delisted; no timezone found
+2026-05-22 10:25:25 | WARNING  | src.data.scraper_al30d         | [AL30D.BA] all sources failed and no cache available
+2026-05-22 10:25:25 | WARNING  | src.data.scraper_al30d         | sovereign_bond: all sources failed — returning empty series
+2026-05-22 10:25:26 | INFO     | src.data.scraper_ccl           | CCL: GGAL ratio fallback used (9 observations)
+2026-05-22 10:25:27 | INFO     | src.data.scraper_macro         | [macro/ipc] datos.gob.ar: 2 rows
+2026-05-22 10:25:27 | WARNING  | src.data.scraper_macro         | [macro/embi] using cached fallback for 2024-01-01 → 2024-02-29
+2026-05-22 10:25:28 | INFO     | src.data.scraper_macro         | [macro/reservas] datos.gob.ar: 2 rows
+2026-05-22 10:25:29 | INFO     | src.data.scraper_macro         | [macro/tc_oficial] datos.gob.ar: 2 rows
+2026-05-22 10:25:29 | INFO     | src.data.validator             | Coverage report [prices]
+2026-05-22 10:25:29 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:29 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 10:25:29 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:29 | INFO     | src.data.validator             | YPF                   2024-01-01    2024-02-26        9      0   0.00%  LATE +3287d
+2026-05-22 10:25:29 | INFO     | src.data.validator             | GGAL                  2024-01-01    2024-02-26        9      0   0.00%  LATE +3287d
+2026-05-22 10:25:29 | INFO     | src.data.validator             | BMA                   2024-01-01    2024-02-26        9      0   0.00%  LATE +3287d
+2026-05-22 10:25:29 | INFO     | src.data.validator             | PAM                   2024-01-01    2024-02-26        9      0   0.00%  LATE +3287d
+2026-05-22 10:25:29 | INFO     | src.data.validator             | TGS                   2024-01-01    2024-02-26        9      0   0.00%  LATE +3287d
+2026-05-22 10:25:29 | INFO     | src.data.validator             | CEPU                  2024-01-01    2024-02-26        9      0   0.00%  LATE +3287d
+2026-05-22 10:25:29 | INFO     | src.data.validator             | EDN                   2024-01-01    2024-02-26        9      0   0.00%  LATE +3287d
+2026-05-22 10:25:29 | INFO     | src.data.validator             | LOMA                  2024-01-01    2024-02-26        9      0   0.00%  LATE +3287d
+2026-05-22 10:25:29 | INFO     | src.data.validator             | CRESY                 2024-01-01    2024-02-26        9      0   0.00%  LATE +3287d
+2026-05-22 10:25:29 | INFO     | src.data.validator             | IRS                   2024-01-01    2024-02-26        9      0   0.00%  LATE +3287d
+2026-05-22 10:25:29 | ERROR    | src.data.validator             | sovereign_bond        MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 10:25:29 | INFO     | src.data.validator             | merval                2024-01-01    2024-02-26        9      0   0.00%  LATE +3287d
+2026-05-22 10:25:29 | INFO     | src.data.validator             | ccl                   2024-01-05    2024-03-01        9      0   0.00%  LATE +3291d
+2026-05-22 10:25:29 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:29 | INFO     | src.data.validator             | Coverage report [macro]
+2026-05-22 10:25:29 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:29 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 10:25:29 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:29 | INFO     | src.data.validator             | ipc                   2024-01-31    2024-02-29        2      0   0.00%  LATE +3317d
+2026-05-22 10:25:29 | ERROR    | src.data.validator             | embi                  MISSING       MISSING           2      2  100.00%  ERROR     
+2026-05-22 10:25:29 | INFO     | src.data.validator             | reservas              2024-01-31    2024-02-29        2      0   0.00%  LATE +3317d
+2026-05-22 10:25:29 | INFO     | src.data.validator             | tc_oficial            2024-01-31    2024-02-29        2      0   0.00%  LATE +3317d
+2026-05-22 10:25:29 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:29 | WARNING  | src.data.loader                | 17 validation warning(s) — data will still be appended.
+2026-05-22 10:25:29 | INFO     | src.data.cache_manager         | Appending live month to cache
+2026-05-22 10:25:29 | INFO     | src.utils.utils                | [DONE]  live 2024-02 — 11.43s
+2026-05-22 10:25:29 | ERROR    | __main__                       | Month 2024-02 failed (TypeError: '>' not supported between instances of 'float' and 'Timestamp') — applying carry-forward.
+2026-05-22 10:25:29 | ERROR    | __main__                       | No prior allocation to carry forward — month 2024-02 skipped entirely.
+2026-05-22 10:25:29 | INFO     | src.utils.utils                | [START] live 2024-03
+2026-05-22 10:25:29 | INFO     | src.data.loader                | Starting live-month download: 2024-01-01 → 2024-03-31 (cutoff: 2024-03-31) | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-22 10:25:35 | INFO     | src.data.downloader            | [YPF] 13 weekly rows (2024-01-01 → 2024-03-25)
+2026-05-22 10:25:35 | INFO     | src.data.downloader            | [GGAL] 13 weekly rows (2024-01-01 → 2024-03-25)
+2026-05-22 10:25:35 | INFO     | src.data.downloader            | [BMA] 13 weekly rows (2024-01-01 → 2024-03-25)
+2026-05-22 10:25:35 | INFO     | src.data.downloader            | [PAM] 13 weekly rows (2024-01-01 → 2024-03-25)
+2026-05-22 10:25:35 | INFO     | src.data.downloader            | [TGS] 13 weekly rows (2024-01-01 → 2024-03-25)
+2026-05-22 10:25:35 | INFO     | src.data.downloader            | [CEPU] 13 weekly rows (2024-01-01 → 2024-03-25)
+2026-05-22 10:25:35 | INFO     | src.data.downloader            | [EDN] 13 weekly rows (2024-01-01 → 2024-03-25)
+2026-05-22 10:25:35 | INFO     | src.data.downloader            | [LOMA] 13 weekly rows (2024-01-01 → 2024-03-25)
+2026-05-22 10:25:35 | INFO     | src.data.downloader            | [CRESY] 13 weekly rows (2024-01-01 → 2024-03-25)
+2026-05-22 10:25:35 | INFO     | src.data.downloader            | [IRS] 13 weekly rows (2024-01-01 → 2024-03-25)
+2026-05-22 10:25:35 | ERROR    | yfinance                       | $AL30D.BA: possibly delisted; no timezone found
+2026-05-22 10:25:35 | WARNING  | src.data.scraper_al30d         | [AL30D.BA] all sources failed and no cache available
+2026-05-22 10:25:35 | WARNING  | src.data.scraper_al30d         | sovereign_bond: all sources failed — returning empty series
+2026-05-22 10:25:36 | INFO     | src.data.scraper_ccl           | CCL: GGAL ratio fallback used (13 observations)
+2026-05-22 10:25:37 | INFO     | src.data.scraper_macro         | [macro/ipc] datos.gob.ar: 3 rows
+2026-05-22 10:25:37 | WARNING  | src.data.scraper_macro         | [macro/embi] using cached fallback for 2024-01-01 → 2024-03-31
+2026-05-22 10:25:38 | INFO     | src.data.scraper_macro         | [macro/reservas] datos.gob.ar: 3 rows
+2026-05-22 10:25:39 | INFO     | src.data.scraper_macro         | [macro/tc_oficial] datos.gob.ar: 3 rows
+2026-05-22 10:25:39 | INFO     | src.data.validator             | Coverage report [prices]
+2026-05-22 10:25:39 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:39 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 10:25:39 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:39 | INFO     | src.data.validator             | YPF                   2024-01-01    2024-03-25       13      0   0.00%  LATE +3287d
+2026-05-22 10:25:39 | INFO     | src.data.validator             | GGAL                  2024-01-01    2024-03-25       13      0   0.00%  LATE +3287d
+2026-05-22 10:25:39 | INFO     | src.data.validator             | BMA                   2024-01-01    2024-03-25       13      0   0.00%  LATE +3287d
+2026-05-22 10:25:39 | INFO     | src.data.validator             | PAM                   2024-01-01    2024-03-25       13      0   0.00%  LATE +3287d
+2026-05-22 10:25:39 | INFO     | src.data.validator             | TGS                   2024-01-01    2024-03-25       13      0   0.00%  LATE +3287d
+2026-05-22 10:25:39 | INFO     | src.data.validator             | CEPU                  2024-01-01    2024-03-25       13      0   0.00%  LATE +3287d
+2026-05-22 10:25:39 | INFO     | src.data.validator             | EDN                   2024-01-01    2024-03-25       13      0   0.00%  LATE +3287d
+2026-05-22 10:25:39 | INFO     | src.data.validator             | LOMA                  2024-01-01    2024-03-25       13      0   0.00%  LATE +3287d
+2026-05-22 10:25:39 | INFO     | src.data.validator             | CRESY                 2024-01-01    2024-03-25       13      0   0.00%  LATE +3287d
+2026-05-22 10:25:39 | INFO     | src.data.validator             | IRS                   2024-01-01    2024-03-25       13      0   0.00%  LATE +3287d
+2026-05-22 10:25:39 | ERROR    | src.data.validator             | sovereign_bond        MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 10:25:39 | INFO     | src.data.validator             | merval                2024-01-01    2024-03-25       13      0   0.00%  LATE +3287d
+2026-05-22 10:25:39 | INFO     | src.data.validator             | ccl                   2024-01-05    2024-03-29       13      0   0.00%  LATE +3291d
+2026-05-22 10:25:39 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:39 | INFO     | src.data.validator             | Coverage report [macro]
+2026-05-22 10:25:39 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:39 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 10:25:39 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:39 | INFO     | src.data.validator             | ipc                   2024-01-31    2024-03-31        3      0   0.00%  LATE +3317d
+2026-05-22 10:25:39 | ERROR    | src.data.validator             | embi                  MISSING       MISSING           3      3  100.00%  ERROR     
+2026-05-22 10:25:39 | INFO     | src.data.validator             | reservas              2024-01-31    2024-03-31        3      0   0.00%  LATE +3317d
+2026-05-22 10:25:39 | INFO     | src.data.validator             | tc_oficial            2024-01-31    2024-03-31        3      0   0.00%  LATE +3317d
+2026-05-22 10:25:39 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:39 | WARNING  | src.data.loader                | 17 validation warning(s) — data will still be appended.
+2026-05-22 10:25:39 | INFO     | src.data.cache_manager         | Appending live month to cache
+2026-05-22 10:25:39 | INFO     | src.utils.utils                | [DONE]  live 2024-03 — 9.89s
+2026-05-22 10:25:39 | ERROR    | __main__                       | Month 2024-03 failed (TypeError: '>' not supported between instances of 'float' and 'Timestamp') — applying carry-forward.
+2026-05-22 10:25:39 | ERROR    | __main__                       | No prior allocation to carry forward — month 2024-03 skipped entirely.
+2026-05-22 10:25:39 | INFO     | src.utils.utils                | [START] live 2024-04
+2026-05-22 10:25:39 | INFO     | src.data.loader                | Starting live-month download: 2024-01-01 → 2024-04-30 (cutoff: 2024-04-30) | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-22 10:25:44 | INFO     | src.data.downloader            | [YPF] 18 weekly rows (2024-01-01 → 2024-04-29)
+2026-05-22 10:25:44 | INFO     | src.data.downloader            | [GGAL] 18 weekly rows (2024-01-01 → 2024-04-29)
+2026-05-22 10:25:44 | INFO     | src.data.downloader            | [BMA] 18 weekly rows (2024-01-01 → 2024-04-29)
+2026-05-22 10:25:44 | INFO     | src.data.downloader            | [PAM] 18 weekly rows (2024-01-01 → 2024-04-29)
+2026-05-22 10:25:44 | INFO     | src.data.downloader            | [TGS] 18 weekly rows (2024-01-01 → 2024-04-29)
+2026-05-22 10:25:44 | INFO     | src.data.downloader            | [CEPU] 18 weekly rows (2024-01-01 → 2024-04-29)
+2026-05-22 10:25:44 | INFO     | src.data.downloader            | [EDN] 18 weekly rows (2024-01-01 → 2024-04-29)
+2026-05-22 10:25:44 | INFO     | src.data.downloader            | [LOMA] 18 weekly rows (2024-01-01 → 2024-04-29)
+2026-05-22 10:25:44 | INFO     | src.data.downloader            | [CRESY] 18 weekly rows (2024-01-01 → 2024-04-29)
+2026-05-22 10:25:44 | INFO     | src.data.downloader            | [IRS] 18 weekly rows (2024-01-01 → 2024-04-29)
+2026-05-22 10:25:45 | ERROR    | yfinance                       | $AL30D.BA: possibly delisted; no timezone found
+2026-05-22 10:25:45 | WARNING  | src.data.scraper_al30d         | [AL30D.BA] all sources failed and no cache available
+2026-05-22 10:25:45 | WARNING  | src.data.scraper_al30d         | sovereign_bond: all sources failed — returning empty series
+2026-05-22 10:25:46 | INFO     | src.data.scraper_ccl           | CCL: GGAL ratio fallback used (18 observations)
+2026-05-22 10:25:47 | INFO     | src.data.scraper_macro         | [macro/ipc] datos.gob.ar: 4 rows
+2026-05-22 10:25:47 | WARNING  | src.data.scraper_macro         | [macro/embi] using cached fallback for 2024-01-01 → 2024-04-30
+2026-05-22 10:25:48 | INFO     | src.data.scraper_macro         | [macro/reservas] datos.gob.ar: 4 rows
+2026-05-22 10:25:49 | INFO     | src.data.scraper_macro         | [macro/tc_oficial] datos.gob.ar: 4 rows
+2026-05-22 10:25:49 | INFO     | src.data.validator             | Coverage report [prices]
+2026-05-22 10:25:49 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:49 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 10:25:49 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:49 | INFO     | src.data.validator             | YPF                   2024-01-01    2024-04-29       18      0   0.00%  LATE +3287d
+2026-05-22 10:25:49 | INFO     | src.data.validator             | GGAL                  2024-01-01    2024-04-29       18      0   0.00%  LATE +3287d
+2026-05-22 10:25:49 | INFO     | src.data.validator             | BMA                   2024-01-01    2024-04-29       18      0   0.00%  LATE +3287d
+2026-05-22 10:25:49 | INFO     | src.data.validator             | PAM                   2024-01-01    2024-04-29       18      0   0.00%  LATE +3287d
+2026-05-22 10:25:49 | INFO     | src.data.validator             | TGS                   2024-01-01    2024-04-29       18      0   0.00%  LATE +3287d
+2026-05-22 10:25:49 | INFO     | src.data.validator             | CEPU                  2024-01-01    2024-04-29       18      0   0.00%  LATE +3287d
+2026-05-22 10:25:49 | INFO     | src.data.validator             | EDN                   2024-01-01    2024-04-29       18      0   0.00%  LATE +3287d
+2026-05-22 10:25:49 | INFO     | src.data.validator             | LOMA                  2024-01-01    2024-04-29       18      0   0.00%  LATE +3287d
+2026-05-22 10:25:49 | INFO     | src.data.validator             | CRESY                 2024-01-01    2024-04-29       18      0   0.00%  LATE +3287d
+2026-05-22 10:25:49 | INFO     | src.data.validator             | IRS                   2024-01-01    2024-04-29       18      0   0.00%  LATE +3287d
+2026-05-22 10:25:49 | ERROR    | src.data.validator             | sovereign_bond        MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 10:25:49 | INFO     | src.data.validator             | merval                2024-01-01    2024-04-29       18      0   0.00%  LATE +3287d
+2026-05-22 10:25:49 | INFO     | src.data.validator             | ccl                   2024-01-05    2024-05-03       18      0   0.00%  LATE +3291d
+2026-05-22 10:25:49 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:49 | INFO     | src.data.validator             | Coverage report [macro]
+2026-05-22 10:25:49 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:49 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 10:25:49 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:49 | INFO     | src.data.validator             | ipc                   2024-01-31    2024-04-30        4      0   0.00%  LATE +3317d
+2026-05-22 10:25:49 | ERROR    | src.data.validator             | embi                  MISSING       MISSING           4      4  100.00%  ERROR     
+2026-05-22 10:25:49 | INFO     | src.data.validator             | reservas              2024-01-31    2024-04-30        4      0   0.00%  LATE +3317d
+2026-05-22 10:25:49 | INFO     | src.data.validator             | tc_oficial            2024-01-31    2024-04-30        4      0   0.00%  LATE +3317d
+2026-05-22 10:25:49 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:25:49 | WARNING  | src.data.loader                | 17 validation warning(s) — data will still be appended.
+2026-05-22 10:25:49 | INFO     | src.data.cache_manager         | Appending live month to cache
+2026-05-22 10:25:49 | INFO     | src.utils.utils                | [DONE]  live 2024-04 — 9.88s
+2026-05-22 10:25:49 | ERROR    | __main__                       | Month 2024-04 failed (TypeError: '>' not supported between instances of 'float' and 'Timestamp') — applying carry-forward.
+2026-05-22 10:25:49 | ERROR    | __main__                       | No prior allocation to carry forward — month 2024-04 skipped entirely.
+2026-05-22 10:25:49 | INFO     | src.utils.utils                | [START] live 2024-05
+2026-05-22 10:25:49 | INFO     | src.data.loader                | Starting live-month download: 2024-01-01 → 2024-05-31 (cutoff: 2024-05-31) | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-22 10:25:55 | INFO     | src.data.downloader            | [YPF] 22 weekly rows (2024-01-01 → 2024-05-27)
+2026-05-22 10:25:55 | INFO     | src.data.downloader            | [GGAL] 22 weekly rows (2024-01-01 → 2024-05-27)
+2026-05-22 10:25:55 | INFO     | src.data.downloader            | [BMA] 22 weekly rows (2024-01-01 → 2024-05-27)
+2026-05-22 10:25:55 | INFO     | src.data.downloader            | [PAM] 22 weekly rows (2024-01-01 → 2024-05-27)
+2026-05-22 10:25:55 | INFO     | src.data.downloader            | [TGS] 22 weekly rows (2024-01-01 → 2024-05-27)
+2026-05-22 10:25:55 | INFO     | src.data.downloader            | [CEPU] 22 weekly rows (2024-01-01 → 2024-05-27)
+2026-05-22 10:25:55 | INFO     | src.data.downloader            | [EDN] 22 weekly rows (2024-01-01 → 2024-05-27)
+2026-05-22 10:25:55 | INFO     | src.data.downloader            | [LOMA] 22 weekly rows (2024-01-01 → 2024-05-27)
+2026-05-22 10:25:55 | INFO     | src.data.downloader            | [CRESY] 22 weekly rows (2024-01-01 → 2024-05-27)
+2026-05-22 10:25:55 | INFO     | src.data.downloader            | [IRS] 22 weekly rows (2024-01-01 → 2024-05-27)
+2026-05-22 10:25:55 | ERROR    | yfinance                       | $AL30D.BA: possibly delisted; no timezone found
+2026-05-22 10:25:55 | WARNING  | src.data.scraper_al30d         | [AL30D.BA] all sources failed and no cache available
+2026-05-22 10:25:55 | WARNING  | src.data.scraper_al30d         | sovereign_bond: all sources failed — returning empty series
+2026-05-22 10:25:56 | INFO     | src.data.scraper_ccl           | CCL: GGAL ratio fallback used (22 observations)
+2026-05-22 10:25:57 | INFO     | src.data.scraper_macro         | [macro/ipc] datos.gob.ar: 5 rows
+2026-05-22 10:25:58 | WARNING  | src.data.scraper_macro         | [macro/embi] using cached fallback for 2024-01-01 → 2024-05-31
+2026-05-22 10:25:59 | INFO     | src.data.scraper_macro         | [macro/reservas] datos.gob.ar: 5 rows
+2026-05-22 10:26:00 | INFO     | src.data.scraper_macro         | [macro/tc_oficial] datos.gob.ar: 5 rows
+2026-05-22 10:26:00 | INFO     | src.data.validator             | Coverage report [prices]
+2026-05-22 10:26:00 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:26:00 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 10:26:00 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:26:00 | INFO     | src.data.validator             | YPF                   2024-01-01    2024-05-27       22      0   0.00%  LATE +3287d
+2026-05-22 10:26:00 | INFO     | src.data.validator             | GGAL                  2024-01-01    2024-05-27       22      0   0.00%  LATE +3287d
+2026-05-22 10:26:00 | INFO     | src.data.validator             | BMA                   2024-01-01    2024-05-27       22      0   0.00%  LATE +3287d
+2026-05-22 10:26:00 | INFO     | src.data.validator             | PAM                   2024-01-01    2024-05-27       22      0   0.00%  LATE +3287d
+2026-05-22 10:26:00 | INFO     | src.data.validator             | TGS                   2024-01-01    2024-05-27       22      0   0.00%  LATE +3287d
+2026-05-22 10:26:00 | INFO     | src.data.validator             | CEPU                  2024-01-01    2024-05-27       22      0   0.00%  LATE +3287d
+2026-05-22 10:26:00 | INFO     | src.data.validator             | EDN                   2024-01-01    2024-05-27       22      0   0.00%  LATE +3287d
+2026-05-22 10:26:00 | INFO     | src.data.validator             | LOMA                  2024-01-01    2024-05-27       22      0   0.00%  LATE +3287d
+2026-05-22 10:26:00 | INFO     | src.data.validator             | CRESY                 2024-01-01    2024-05-27       22      0   0.00%  LATE +3287d
+2026-05-22 10:26:00 | INFO     | src.data.validator             | IRS                   2024-01-01    2024-05-27       22      0   0.00%  LATE +3287d
+2026-05-22 10:26:00 | ERROR    | src.data.validator             | sovereign_bond        MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 10:26:00 | INFO     | src.data.validator             | merval                2024-01-01    2024-05-27       22      0   0.00%  LATE +3287d
+2026-05-22 10:26:00 | INFO     | src.data.validator             | ccl                   2024-01-05    2024-05-31       22      0   0.00%  LATE +3291d
+2026-05-22 10:26:00 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:26:00 | INFO     | src.data.validator             | Coverage report [macro]
+2026-05-22 10:26:00 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:26:00 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 10:26:00 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:26:00 | INFO     | src.data.validator             | ipc                   2024-01-31    2024-05-31        5      0   0.00%  LATE +3317d
+2026-05-22 10:26:00 | ERROR    | src.data.validator             | embi                  MISSING       MISSING           5      5  100.00%  ERROR     
+2026-05-22 10:26:00 | INFO     | src.data.validator             | reservas              2024-01-31    2024-05-31        5      0   0.00%  LATE +3317d
+2026-05-22 10:26:00 | INFO     | src.data.validator             | tc_oficial            2024-01-31    2024-05-31        5      0   0.00%  LATE +3317d
+2026-05-22 10:26:00 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:26:00 | WARNING  | src.data.loader                | 17 validation warning(s) — data will still be appended.
+2026-05-22 10:26:00 | INFO     | src.data.cache_manager         | Appending live month to cache
+2026-05-22 10:26:00 | INFO     | src.utils.utils                | [DONE]  live 2024-05 — 10.51s
+2026-05-22 10:26:00 | ERROR    | __main__                       | Month 2024-05 failed (TypeError: '>' not supported between instances of 'float' and 'Timestamp') — applying carry-forward.
+2026-05-22 10:26:00 | ERROR    | __main__                       | No prior allocation to carry forward — month 2024-05 skipped entirely.
+2026-05-22 10:26:00 | INFO     | src.utils.utils                | [START] live 2024-06
+2026-05-22 10:26:00 | INFO     | src.data.loader                | Starting live-month download: 2024-01-01 → 2024-06-30 (cutoff: 2024-06-30) | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-22 10:26:05 | INFO     | src.data.downloader            | [YPF] 26 weekly rows (2024-01-01 → 2024-06-24)
+2026-05-22 10:26:05 | INFO     | src.data.downloader            | [GGAL] 26 weekly rows (2024-01-01 → 2024-06-24)
+2026-05-22 10:26:05 | INFO     | src.data.downloader            | [BMA] 26 weekly rows (2024-01-01 → 2024-06-24)
+2026-05-22 10:26:05 | INFO     | src.data.downloader            | [PAM] 26 weekly rows (2024-01-01 → 2024-06-24)
+2026-05-22 10:26:05 | INFO     | src.data.downloader            | [TGS] 26 weekly rows (2024-01-01 → 2024-06-24)
+2026-05-22 10:26:05 | INFO     | src.data.downloader            | [CEPU] 26 weekly rows (2024-01-01 → 2024-06-24)
+2026-05-22 10:26:05 | INFO     | src.data.downloader            | [EDN] 26 weekly rows (2024-01-01 → 2024-06-24)
+2026-05-22 10:26:05 | INFO     | src.data.downloader            | [LOMA] 26 weekly rows (2024-01-01 → 2024-06-24)
+2026-05-22 10:26:05 | INFO     | src.data.downloader            | [CRESY] 26 weekly rows (2024-01-01 → 2024-06-24)
+2026-05-22 10:26:05 | INFO     | src.data.downloader            | [IRS] 26 weekly rows (2024-01-01 → 2024-06-24)
+2026-05-22 10:26:05 | ERROR    | yfinance                       | $AL30D.BA: possibly delisted; no timezone found
+2026-05-22 10:26:05 | WARNING  | src.data.scraper_al30d         | [AL30D.BA] all sources failed and no cache available
+2026-05-22 10:26:05 | WARNING  | src.data.scraper_al30d         | sovereign_bond: all sources failed — returning empty series
+2026-05-22 10:26:06 | INFO     | src.data.scraper_ccl           | CCL: GGAL ratio fallback used (26 observations)
+2026-05-22 10:26:07 | INFO     | src.data.scraper_macro         | [macro/ipc] datos.gob.ar: 6 rows
+2026-05-22 10:26:07 | WARNING  | src.data.scraper_macro         | [macro/embi] using cached fallback for 2024-01-01 → 2024-06-30
+2026-05-22 10:26:08 | INFO     | src.data.scraper_macro         | [macro/reservas] datos.gob.ar: 6 rows
+2026-05-22 10:26:09 | INFO     | src.data.scraper_macro         | [macro/tc_oficial] datos.gob.ar: 6 rows
+2026-05-22 10:26:09 | INFO     | src.data.validator             | Coverage report [prices]
+2026-05-22 10:26:09 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:26:09 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 10:26:09 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:26:09 | INFO     | src.data.validator             | YPF                   2024-01-01    2024-06-24       26      0   0.00%  LATE +3287d
+2026-05-22 10:26:09 | INFO     | src.data.validator             | GGAL                  2024-01-01    2024-06-24       26      0   0.00%  LATE +3287d
+2026-05-22 10:26:09 | INFO     | src.data.validator             | BMA                   2024-01-01    2024-06-24       26      0   0.00%  LATE +3287d
+2026-05-22 10:26:09 | INFO     | src.data.validator             | PAM                   2024-01-01    2024-06-24       26      0   0.00%  LATE +3287d
+2026-05-22 10:26:09 | INFO     | src.data.validator             | TGS                   2024-01-01    2024-06-24       26      0   0.00%  LATE +3287d
+2026-05-22 10:26:09 | INFO     | src.data.validator             | CEPU                  2024-01-01    2024-06-24       26      0   0.00%  LATE +3287d
+2026-05-22 10:26:09 | INFO     | src.data.validator             | EDN                   2024-01-01    2024-06-24       26      0   0.00%  LATE +3287d
+2026-05-22 10:26:09 | INFO     | src.data.validator             | LOMA                  2024-01-01    2024-06-24       26      0   0.00%  LATE +3287d
+2026-05-22 10:26:09 | INFO     | src.data.validator             | CRESY                 2024-01-01    2024-06-24       26      0   0.00%  LATE +3287d
+2026-05-22 10:26:09 | INFO     | src.data.validator             | IRS                   2024-01-01    2024-06-24       26      0   0.00%  LATE +3287d
+2026-05-22 10:26:09 | ERROR    | src.data.validator             | sovereign_bond        MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 10:26:09 | INFO     | src.data.validator             | merval                2024-01-01    2024-06-24       26      0   0.00%  LATE +3287d
+2026-05-22 10:26:09 | INFO     | src.data.validator             | ccl                   2024-01-05    2024-06-28       26      0   0.00%  LATE +3291d
+2026-05-22 10:26:09 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:26:09 | INFO     | src.data.validator             | Coverage report [macro]
+2026-05-22 10:26:09 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:26:09 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 10:26:09 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:26:09 | INFO     | src.data.validator             | ipc                   2024-01-31    2024-06-30        6      0   0.00%  LATE +3317d
+2026-05-22 10:26:09 | ERROR    | src.data.validator             | embi                  MISSING       MISSING           6      6  100.00%  ERROR     
+2026-05-22 10:26:09 | INFO     | src.data.validator             | reservas              2024-01-31    2024-06-30        6      0   0.00%  LATE +3317d
+2026-05-22 10:26:09 | INFO     | src.data.validator             | tc_oficial            2024-01-31    2024-06-30        6      0   0.00%  LATE +3317d
+2026-05-22 10:26:09 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:26:09 | WARNING  | src.data.loader                | 17 validation warning(s) — data will still be appended.
+2026-05-22 10:26:09 | INFO     | src.data.cache_manager         | Appending live month to cache
+2026-05-22 10:26:09 | INFO     | src.utils.utils                | [DONE]  live 2024-06 — 9.57s
+2026-05-22 10:26:09 | ERROR    | __main__                       | Month 2024-06 failed (TypeError: '>' not supported between instances of 'float' and 'Timestamp') — applying carry-forward.
+2026-05-22 10:26:09 | ERROR    | __main__                       | No prior allocation to carry forward — month 2024-06 skipped entirely.

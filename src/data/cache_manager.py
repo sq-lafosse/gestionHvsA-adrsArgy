@@ -192,13 +192,15 @@ def append_live_month(payload: CachePayload) -> None:
     _append_parquet(_CCL_PATH, _series_to_df(payload.ccl))
     _append_parquet(_MACRO_PATH, payload.macro)
 
-    new_max = max(
+    max_dates = [
         payload.adrs.index.max(),
-        payload.sovereign_bond.index.max(),
         payload.merval.index.max(),
         payload.ccl.index.max(),
         payload.macro.index.max(),
-    )
+    ]
+    if not payload.sovereign_bond.empty:
+        max_dates.append(payload.sovereign_bond.index.max())
+    new_max = max(d for d in max_dates if pd.notna(d))
     manifest = _read_manifest()
     manifest["last_live_date"] = pd.Timestamp(new_max).isoformat()
     _write_manifest(manifest)
@@ -213,24 +215,30 @@ def _append_parquet(path: Path, new_df: pd.DataFrame) -> None:
 
 
 def _validate_live_payload_order(payload: CachePayload) -> None:
-    """Raise ValueError if any payload component overlaps with already-cached live data."""
+    """Raise ValueError if any payload component contains no data newer than last_live_date.
+
+    Uses the MAX date of each component (not the min), so a payload that starts
+    with a bar overlapping last_live_date is accepted as long as it also contains
+    genuinely new data. Duplicate rows are deduped in _append_parquet().
+    """
     last_date = get_last_cached_date()
     if last_date is None:
         return  # First live append — no prior live date to check against
 
     components: dict[str, pd.DatetimeIndex] = {
         "adrs": payload.adrs.index,
-        "sovereign_bond": payload.sovereign_bond.index,
         "merval": payload.merval.index,
         "ccl": payload.ccl.index,
         "macro": payload.macro.index,
     }
+    if not payload.sovereign_bond.empty:
+        components["sovereign_bond"] = payload.sovereign_bond.index
     for name, index in components.items():
-        new_min = pd.Timestamp(index.min()).normalize()
-        if new_min <= last_date.normalize():
+        new_max = pd.Timestamp(index.max()).normalize()
+        if new_max <= last_date.normalize():
             raise ValueError(
-                f"Live append rejected for '{name}': earliest new date {new_min.date()} "
-                f"is not strictly after last cached date {last_date.date()}. "
+                f"Live append rejected for '{name}': latest new date {new_max.date()} "
+                f"is not after last cached date {last_date.date()}. "
                 "Months must be appended in strict chronological order."
             )
 

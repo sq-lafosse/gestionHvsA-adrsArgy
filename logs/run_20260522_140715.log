@@ -1,0 +1,577 @@
+2026-05-22 11:07:15 | INFO     | src.utils.utils                | Logging initialized — level=INFO  file=logs\run_20260522_140715.log
+2026-05-22 11:07:15 | INFO     | __main__                       | === gestionHvsA-adrsArgy | mode=live ===
+2026-05-22 11:07:15 | INFO     | __main__                       | Live mode: 6 months | 2024-01 → 2024-06
+2026-05-22 11:07:15 | INFO     | src.utils.utils                | [START] live 2024-01
+2026-05-22 11:07:15 | INFO     | src.data.loader                | Starting live-month download: 2024-07-01 → 2024-01-31 (cutoff: 2024-01-31) | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-22 11:07:18 | ERROR    | yfinance                       | $YPF: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-01-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1706677200")
+2026-05-22 11:07:18 | WARNING  | src.data.downloader            | [YPF] yfinance returned empty DataFrame
+2026-05-22 11:07:19 | ERROR    | yfinance                       | $GGAL: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-01-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1706677200")
+2026-05-22 11:07:19 | WARNING  | src.data.downloader            | [GGAL] yfinance returned empty DataFrame
+2026-05-22 11:07:20 | ERROR    | yfinance                       | $BMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-01-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1706677200")
+2026-05-22 11:07:20 | WARNING  | src.data.downloader            | [BMA] yfinance returned empty DataFrame
+2026-05-22 11:07:22 | ERROR    | yfinance                       | $PAM: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-01-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1706677200")
+2026-05-22 11:07:22 | WARNING  | src.data.downloader            | [PAM] yfinance returned empty DataFrame
+2026-05-22 11:07:23 | ERROR    | yfinance                       | $TGS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-01-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1706677200")
+2026-05-22 11:07:23 | WARNING  | src.data.downloader            | [TGS] yfinance returned empty DataFrame
+2026-05-22 11:07:25 | ERROR    | yfinance                       | $CEPU: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-01-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1706677200")
+2026-05-22 11:07:25 | WARNING  | src.data.downloader            | [CEPU] yfinance returned empty DataFrame
+2026-05-22 11:07:26 | ERROR    | yfinance                       | $EDN: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-01-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1706677200")
+2026-05-22 11:07:26 | WARNING  | src.data.downloader            | [EDN] yfinance returned empty DataFrame
+2026-05-22 11:07:28 | ERROR    | yfinance                       | $LOMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-01-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1706677200")
+2026-05-22 11:07:28 | WARNING  | src.data.downloader            | [LOMA] yfinance returned empty DataFrame
+2026-05-22 11:07:29 | ERROR    | yfinance                       | $CRESY: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-01-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1706677200")
+2026-05-22 11:07:29 | WARNING  | src.data.downloader            | [CRESY] yfinance returned empty DataFrame
+2026-05-22 11:07:30 | ERROR    | yfinance                       | $IRS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-01-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1706677200")
+2026-05-22 11:07:30 | WARNING  | src.data.downloader            | [IRS] yfinance returned empty DataFrame
+2026-05-22 11:07:30 | WARNING  | src.data.downloader            | [YPF] no data downloaded
+2026-05-22 11:07:30 | WARNING  | src.data.downloader            | [GGAL] no data downloaded
+2026-05-22 11:07:30 | WARNING  | src.data.downloader            | [BMA] no data downloaded
+2026-05-22 11:07:30 | WARNING  | src.data.downloader            | [PAM] no data downloaded
+2026-05-22 11:07:30 | WARNING  | src.data.downloader            | [TGS] no data downloaded
+2026-05-22 11:07:30 | WARNING  | src.data.downloader            | [CEPU] no data downloaded
+2026-05-22 11:07:30 | WARNING  | src.data.downloader            | [EDN] no data downloaded
+2026-05-22 11:07:30 | WARNING  | src.data.downloader            | [LOMA] no data downloaded
+2026-05-22 11:07:30 | WARNING  | src.data.downloader            | [CRESY] no data downloaded
+2026-05-22 11:07:30 | WARNING  | src.data.downloader            | [IRS] no data downloaded
+2026-05-22 11:07:32 | ERROR    | yfinance                       | $^MERV: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-01-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719802800, endDate = 1706670000")
+2026-05-22 11:07:32 | WARNING  | src.data.downloader            | [^MERV] yfinance returned empty DataFrame
+2026-05-22 11:07:35 | ERROR    | yfinance                       | HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: AL30D.BA"}}}
+2026-05-22 11:07:36 | ERROR    | yfinance                       | $AL30D.BA: possibly delisted; no timezone found
+2026-05-22 11:07:36 | WARNING  | src.data.scraper_al30d         | [AL30D.BA] all sources failed and no cache available
+2026-05-22 11:07:36 | WARNING  | src.data.scraper_al30d         | sovereign_bond: all sources failed — returning empty series
+2026-05-22 11:07:37 | WARNING  | src.data.scraper_ccl           | CCL: all sources failed — returning empty series
+2026-05-22 11:07:37 | WARNING  | src.data.scraper_macro         | [macro/ipc] extending last cached value (4132.4790) to fill 2024-07-01 → 2024-01-31
+2026-05-22 11:07:38 | WARNING  | src.data.scraper_macro         | [macro/embi] cache has no valid values
+2026-05-22 11:07:39 | WARNING  | src.data.scraper_macro         | [macro/reservas] extending last cached value (24302.2581) to fill 2024-07-01 → 2024-01-31
+2026-05-22 11:07:40 | WARNING  | src.data.scraper_macro         | [macro/tc_oficial] extending last cached value (845.5000) to fill 2024-07-01 → 2024-01-31
+2026-05-22 11:07:40 | INFO     | src.data.validator             | Coverage report [prices]
+2026-05-22 11:07:40 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:07:40 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 11:07:40 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:07:40 | ERROR    | src.data.validator             | YPF                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:07:40 | ERROR    | src.data.validator             | GGAL                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:07:40 | ERROR    | src.data.validator             | BMA                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:07:40 | ERROR    | src.data.validator             | PAM                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:07:40 | ERROR    | src.data.validator             | TGS                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:07:40 | ERROR    | src.data.validator             | CEPU                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:07:40 | ERROR    | src.data.validator             | EDN                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:07:40 | ERROR    | src.data.validator             | LOMA                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:07:40 | ERROR    | src.data.validator             | CRESY                 MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:07:40 | ERROR    | src.data.validator             | IRS                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:07:40 | ERROR    | src.data.validator             | sovereign_bond        MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:07:40 | ERROR    | src.data.validator             | merval                MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:07:40 | ERROR    | src.data.validator             | ccl                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:07:40 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:07:40 | INFO     | src.data.validator             | Coverage report [macro]
+2026-05-22 11:07:40 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:07:40 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 11:07:40 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:07:40 | ERROR    | src.data.validator             | ipc                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:07:40 | ERROR    | src.data.validator             | embi                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:07:40 | ERROR    | src.data.validator             | reservas              MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:07:40 | ERROR    | src.data.validator             | tc_oficial            MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:07:40 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:07:40 | ERROR    | src.data.loader                | Live-month validation failed — data NOT appended. 15 error(s):
+2026-05-22 11:07:40 | ERROR    | src.data.loader                |   [YPF] series is entirely NaN (0 rows)
+2026-05-22 11:07:40 | ERROR    | src.data.loader                |   [GGAL] series is entirely NaN (0 rows)
+2026-05-22 11:07:40 | ERROR    | src.data.loader                |   [BMA] series is entirely NaN (0 rows)
+2026-05-22 11:07:40 | ERROR    | src.data.loader                |   [PAM] series is entirely NaN (0 rows)
+2026-05-22 11:07:40 | ERROR    | src.data.loader                |   [TGS] series is entirely NaN (0 rows)
+2026-05-22 11:07:40 | ERROR    | src.data.loader                |   [CEPU] series is entirely NaN (0 rows)
+2026-05-22 11:07:40 | ERROR    | src.data.loader                |   [EDN] series is entirely NaN (0 rows)
+2026-05-22 11:07:40 | ERROR    | src.data.loader                |   [LOMA] series is entirely NaN (0 rows)
+2026-05-22 11:07:40 | ERROR    | src.data.loader                |   [CRESY] series is entirely NaN (0 rows)
+2026-05-22 11:07:40 | ERROR    | src.data.loader                |   [IRS] series is entirely NaN (0 rows)
+2026-05-22 11:07:40 | ERROR    | src.data.loader                |   [merval] series is entirely NaN (0 rows)
+2026-05-22 11:07:40 | ERROR    | src.data.loader                |   [ccl] series is entirely NaN (0 rows)
+2026-05-22 11:07:40 | ERROR    | src.data.loader                |   [ipc] series is entirely NaN (0 rows)
+2026-05-22 11:07:40 | ERROR    | src.data.loader                |   [reservas] series is entirely NaN (0 rows)
+2026-05-22 11:07:40 | ERROR    | src.data.loader                |   [tc_oficial] series is entirely NaN (0 rows)
+2026-05-22 11:07:40 | INFO     | src.features.features          | compute_features: 789 weekly rows | 10 tickers | warm-up = 30 rows
+2026-05-22 11:07:40 | WARNING  | src.nlp.nlp                    | News directory not found: data\news\2024\01 — returning 0.0 (neutral)
+2026-05-22 11:07:40 | WARNING  | src.signals.regime             | _build_monthly_feature_matrix: 'embi' is entirely NaN — filling with 0.0
+2026-05-22 11:07:40 | INFO     | src.signals.regime             | Regime prediction: risk_off (p=0.431) | month=2024-01 | nlp_score=0.0000
+2026-05-22 11:07:40 | INFO     | src.allocation.allocator       | compute_weights: risk_off (p=0.431) | active=[BMA=1.495, CEPU=1.506, CRESY=1.269, EDN=1.448, GGAL=1.509, IRS=1.311, LOMA=1.126, PAM=1.172, TGS=1.238, YPF=1.300] | excluded=[none] | BMA=0.0800 CEPU=0.0800 CRESY=0.0800 EDN=0.0800 GGAL=0.0800 IRS=0.0800 LOMA=0.0800 PAM=0.0800 TGS=0.0800 YPF=0.0800 AL30D=0.2000
+2026-05-22 11:07:40 | INFO     | __main__                       | 2024-01 | risk_off (p=0.431) | nlp=0.0000 | active=10 excluded=0
+2026-05-22 11:07:40 | INFO     | src.utils.utils                | [DONE]  live 2024-01 — 25.27s
+2026-05-22 11:07:40 | INFO     | src.utils.utils                | [START] live 2024-02
+2026-05-22 11:07:40 | INFO     | src.data.loader                | Starting live-month download: 2024-07-01 → 2024-02-29 (cutoff: 2024-02-29) | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-22 11:07:42 | ERROR    | yfinance                       | $YPF: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-02-29) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1709182800")
+2026-05-22 11:07:42 | WARNING  | src.data.downloader            | [YPF] yfinance returned empty DataFrame
+2026-05-22 11:07:43 | ERROR    | yfinance                       | $GGAL: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-02-29) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1709182800")
+2026-05-22 11:07:43 | WARNING  | src.data.downloader            | [GGAL] yfinance returned empty DataFrame
+2026-05-22 11:07:44 | ERROR    | yfinance                       | $BMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-02-29) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1709182800")
+2026-05-22 11:07:44 | WARNING  | src.data.downloader            | [BMA] yfinance returned empty DataFrame
+2026-05-22 11:07:46 | ERROR    | yfinance                       | $PAM: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-02-29) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1709182800")
+2026-05-22 11:07:46 | WARNING  | src.data.downloader            | [PAM] yfinance returned empty DataFrame
+2026-05-22 11:07:47 | ERROR    | yfinance                       | $TGS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-02-29) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1709182800")
+2026-05-22 11:07:47 | WARNING  | src.data.downloader            | [TGS] yfinance returned empty DataFrame
+2026-05-22 11:07:49 | ERROR    | yfinance                       | $CEPU: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-02-29) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1709182800")
+2026-05-22 11:07:49 | WARNING  | src.data.downloader            | [CEPU] yfinance returned empty DataFrame
+2026-05-22 11:07:50 | ERROR    | yfinance                       | $EDN: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-02-29) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1709182800")
+2026-05-22 11:07:50 | WARNING  | src.data.downloader            | [EDN] yfinance returned empty DataFrame
+2026-05-22 11:07:52 | ERROR    | yfinance                       | $LOMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-02-29) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1709182800")
+2026-05-22 11:07:52 | WARNING  | src.data.downloader            | [LOMA] yfinance returned empty DataFrame
+2026-05-22 11:07:53 | ERROR    | yfinance                       | $CRESY: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-02-29) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1709182800")
+2026-05-22 11:07:53 | WARNING  | src.data.downloader            | [CRESY] yfinance returned empty DataFrame
+2026-05-22 11:07:54 | ERROR    | yfinance                       | $IRS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-02-29) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1709182800")
+2026-05-22 11:07:54 | WARNING  | src.data.downloader            | [IRS] yfinance returned empty DataFrame
+2026-05-22 11:07:54 | WARNING  | src.data.downloader            | [YPF] no data downloaded
+2026-05-22 11:07:54 | WARNING  | src.data.downloader            | [GGAL] no data downloaded
+2026-05-22 11:07:54 | WARNING  | src.data.downloader            | [BMA] no data downloaded
+2026-05-22 11:07:54 | WARNING  | src.data.downloader            | [PAM] no data downloaded
+2026-05-22 11:07:54 | WARNING  | src.data.downloader            | [TGS] no data downloaded
+2026-05-22 11:07:54 | WARNING  | src.data.downloader            | [CEPU] no data downloaded
+2026-05-22 11:07:54 | WARNING  | src.data.downloader            | [EDN] no data downloaded
+2026-05-22 11:07:54 | WARNING  | src.data.downloader            | [LOMA] no data downloaded
+2026-05-22 11:07:54 | WARNING  | src.data.downloader            | [CRESY] no data downloaded
+2026-05-22 11:07:54 | WARNING  | src.data.downloader            | [IRS] no data downloaded
+2026-05-22 11:07:56 | ERROR    | yfinance                       | $^MERV: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-02-29) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719802800, endDate = 1709175600")
+2026-05-22 11:07:56 | WARNING  | src.data.downloader            | [^MERV] yfinance returned empty DataFrame
+2026-05-22 11:07:57 | ERROR    | yfinance                       | HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: AL30D.BA"}}}
+2026-05-22 11:07:57 | ERROR    | yfinance                       | $AL30D.BA: possibly delisted; no timezone found
+2026-05-22 11:07:58 | WARNING  | src.data.scraper_al30d         | [AL30D.BA] all sources failed and no cache available
+2026-05-22 11:07:58 | WARNING  | src.data.scraper_al30d         | sovereign_bond: all sources failed — returning empty series
+2026-05-22 11:07:58 | WARNING  | src.data.scraper_ccl           | CCL: all sources failed — returning empty series
+2026-05-22 11:07:59 | WARNING  | src.data.scraper_macro         | [macro/ipc] extending last cached value (4132.4790) to fill 2024-07-01 → 2024-02-29
+2026-05-22 11:07:59 | WARNING  | src.data.scraper_macro         | [macro/embi] cache has no valid values
+2026-05-22 11:08:00 | WARNING  | src.data.scraper_macro         | [macro/reservas] extending last cached value (24302.2581) to fill 2024-07-01 → 2024-02-29
+2026-05-22 11:08:01 | WARNING  | src.data.scraper_macro         | [macro/tc_oficial] extending last cached value (861.0000) to fill 2024-07-01 → 2024-02-29
+2026-05-22 11:08:01 | INFO     | src.data.validator             | Coverage report [prices]
+2026-05-22 11:08:01 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:01 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 11:08:01 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:01 | ERROR    | src.data.validator             | YPF                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:01 | ERROR    | src.data.validator             | GGAL                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:01 | ERROR    | src.data.validator             | BMA                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:01 | ERROR    | src.data.validator             | PAM                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:01 | ERROR    | src.data.validator             | TGS                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:01 | ERROR    | src.data.validator             | CEPU                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:01 | ERROR    | src.data.validator             | EDN                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:01 | ERROR    | src.data.validator             | LOMA                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:01 | ERROR    | src.data.validator             | CRESY                 MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:01 | ERROR    | src.data.validator             | IRS                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:01 | ERROR    | src.data.validator             | sovereign_bond        MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:01 | ERROR    | src.data.validator             | merval                MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:01 | ERROR    | src.data.validator             | ccl                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:01 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:01 | INFO     | src.data.validator             | Coverage report [macro]
+2026-05-22 11:08:01 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:01 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 11:08:01 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:01 | ERROR    | src.data.validator             | ipc                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:01 | ERROR    | src.data.validator             | embi                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:01 | ERROR    | src.data.validator             | reservas              MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:01 | ERROR    | src.data.validator             | tc_oficial            MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:01 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:01 | ERROR    | src.data.loader                | Live-month validation failed — data NOT appended. 15 error(s):
+2026-05-22 11:08:01 | ERROR    | src.data.loader                |   [YPF] series is entirely NaN (0 rows)
+2026-05-22 11:08:01 | ERROR    | src.data.loader                |   [GGAL] series is entirely NaN (0 rows)
+2026-05-22 11:08:01 | ERROR    | src.data.loader                |   [BMA] series is entirely NaN (0 rows)
+2026-05-22 11:08:01 | ERROR    | src.data.loader                |   [PAM] series is entirely NaN (0 rows)
+2026-05-22 11:08:01 | ERROR    | src.data.loader                |   [TGS] series is entirely NaN (0 rows)
+2026-05-22 11:08:01 | ERROR    | src.data.loader                |   [CEPU] series is entirely NaN (0 rows)
+2026-05-22 11:08:01 | ERROR    | src.data.loader                |   [EDN] series is entirely NaN (0 rows)
+2026-05-22 11:08:01 | ERROR    | src.data.loader                |   [LOMA] series is entirely NaN (0 rows)
+2026-05-22 11:08:01 | ERROR    | src.data.loader                |   [CRESY] series is entirely NaN (0 rows)
+2026-05-22 11:08:01 | ERROR    | src.data.loader                |   [IRS] series is entirely NaN (0 rows)
+2026-05-22 11:08:01 | ERROR    | src.data.loader                |   [merval] series is entirely NaN (0 rows)
+2026-05-22 11:08:01 | ERROR    | src.data.loader                |   [ccl] series is entirely NaN (0 rows)
+2026-05-22 11:08:01 | ERROR    | src.data.loader                |   [ipc] series is entirely NaN (0 rows)
+2026-05-22 11:08:01 | ERROR    | src.data.loader                |   [reservas] series is entirely NaN (0 rows)
+2026-05-22 11:08:01 | ERROR    | src.data.loader                |   [tc_oficial] series is entirely NaN (0 rows)
+2026-05-22 11:08:01 | INFO     | src.features.features          | compute_features: 793 weekly rows | 10 tickers | warm-up = 30 rows
+2026-05-22 11:08:01 | WARNING  | src.nlp.nlp                    | News directory not found: data\news\2024\02 — returning 0.0 (neutral)
+2026-05-22 11:08:01 | WARNING  | src.signals.regime             | _build_monthly_feature_matrix: 'embi' is entirely NaN — filling with 0.0
+2026-05-22 11:08:01 | INFO     | src.signals.regime             | Regime prediction: risk_on (p=0.973) | month=2024-02 | nlp_score=0.0000
+2026-05-22 11:08:01 | INFO     | src.allocation.allocator       | compute_weights: risk_on (p=0.973) | active=[BMA=1.672, CEPU=1.200, CRESY=1.052, EDN=1.166, GGAL=1.464, IRS=1.123, LOMA=1.032, PAM=1.002, TGS=1.072, YPF=1.247] | excluded=[none] | BMA=0.1000 CEPU=0.1000 CRESY=0.1000 EDN=0.1000 GGAL=0.1000 IRS=0.1000 LOMA=0.1000 PAM=0.1000 TGS=0.1000 YPF=0.1000
+2026-05-22 11:08:01 | INFO     | __main__                       | 2024-02 | risk_on (p=0.973) | nlp=0.0000 | active=10 excluded=0
+2026-05-22 11:08:01 | INFO     | src.utils.utils                | [DONE]  live 2024-02 — 21.21s
+2026-05-22 11:08:01 | INFO     | src.utils.utils                | [START] live 2024-03
+2026-05-22 11:08:01 | INFO     | src.data.loader                | Starting live-month download: 2024-07-01 → 2024-03-31 (cutoff: 2024-03-31) | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-22 11:08:02 | ERROR    | yfinance                       | $YPF: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-03-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1711857600")
+2026-05-22 11:08:02 | WARNING  | src.data.downloader            | [YPF] yfinance returned empty DataFrame
+2026-05-22 11:08:04 | ERROR    | yfinance                       | $GGAL: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-03-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1711857600")
+2026-05-22 11:08:04 | WARNING  | src.data.downloader            | [GGAL] yfinance returned empty DataFrame
+2026-05-22 11:08:05 | ERROR    | yfinance                       | $BMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-03-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1711857600")
+2026-05-22 11:08:05 | WARNING  | src.data.downloader            | [BMA] yfinance returned empty DataFrame
+2026-05-22 11:08:07 | ERROR    | yfinance                       | $PAM: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-03-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1711857600")
+2026-05-22 11:08:07 | WARNING  | src.data.downloader            | [PAM] yfinance returned empty DataFrame
+2026-05-22 11:08:08 | ERROR    | yfinance                       | $TGS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-03-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1711857600")
+2026-05-22 11:08:08 | WARNING  | src.data.downloader            | [TGS] yfinance returned empty DataFrame
+2026-05-22 11:08:10 | ERROR    | yfinance                       | $CEPU: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-03-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1711857600")
+2026-05-22 11:08:10 | WARNING  | src.data.downloader            | [CEPU] yfinance returned empty DataFrame
+2026-05-22 11:08:11 | ERROR    | yfinance                       | $EDN: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-03-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1711857600")
+2026-05-22 11:08:11 | WARNING  | src.data.downloader            | [EDN] yfinance returned empty DataFrame
+2026-05-22 11:08:13 | ERROR    | yfinance                       | $LOMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-03-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1711857600")
+2026-05-22 11:08:13 | WARNING  | src.data.downloader            | [LOMA] yfinance returned empty DataFrame
+2026-05-22 11:08:14 | ERROR    | yfinance                       | $CRESY: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-03-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1711857600")
+2026-05-22 11:08:14 | WARNING  | src.data.downloader            | [CRESY] yfinance returned empty DataFrame
+2026-05-22 11:08:15 | ERROR    | yfinance                       | $IRS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-03-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1711857600")
+2026-05-22 11:08:15 | WARNING  | src.data.downloader            | [IRS] yfinance returned empty DataFrame
+2026-05-22 11:08:15 | WARNING  | src.data.downloader            | [YPF] no data downloaded
+2026-05-22 11:08:15 | WARNING  | src.data.downloader            | [GGAL] no data downloaded
+2026-05-22 11:08:15 | WARNING  | src.data.downloader            | [BMA] no data downloaded
+2026-05-22 11:08:15 | WARNING  | src.data.downloader            | [PAM] no data downloaded
+2026-05-22 11:08:15 | WARNING  | src.data.downloader            | [TGS] no data downloaded
+2026-05-22 11:08:15 | WARNING  | src.data.downloader            | [CEPU] no data downloaded
+2026-05-22 11:08:15 | WARNING  | src.data.downloader            | [EDN] no data downloaded
+2026-05-22 11:08:15 | WARNING  | src.data.downloader            | [LOMA] no data downloaded
+2026-05-22 11:08:15 | WARNING  | src.data.downloader            | [CRESY] no data downloaded
+2026-05-22 11:08:15 | WARNING  | src.data.downloader            | [IRS] no data downloaded
+2026-05-22 11:08:17 | ERROR    | yfinance                       | $^MERV: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-03-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719802800, endDate = 1711854000")
+2026-05-22 11:08:17 | WARNING  | src.data.downloader            | [^MERV] yfinance returned empty DataFrame
+2026-05-22 11:08:17 | ERROR    | yfinance                       | $AL30D.BA: possibly delisted; no timezone found
+2026-05-22 11:08:17 | WARNING  | src.data.scraper_al30d         | [AL30D.BA] all sources failed and no cache available
+2026-05-22 11:08:17 | WARNING  | src.data.scraper_al30d         | sovereign_bond: all sources failed — returning empty series
+2026-05-22 11:08:17 | WARNING  | src.data.scraper_ccl           | CCL: all sources failed — returning empty series
+2026-05-22 11:08:18 | WARNING  | src.data.scraper_macro         | [macro/ipc] extending last cached value (4132.4790) to fill 2024-07-01 → 2024-03-31
+2026-05-22 11:08:19 | WARNING  | src.data.scraper_macro         | [macro/embi] cache has no valid values
+2026-05-22 11:08:19 | WARNING  | src.data.scraper_macro         | [macro/reservas] extending last cached value (24302.2581) to fill 2024-07-01 → 2024-03-31
+2026-05-22 11:08:20 | WARNING  | src.data.scraper_macro         | [macro/tc_oficial] extending last cached value (876.0000) to fill 2024-07-01 → 2024-03-31
+2026-05-22 11:08:20 | INFO     | src.data.validator             | Coverage report [prices]
+2026-05-22 11:08:20 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:20 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 11:08:20 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:20 | ERROR    | src.data.validator             | YPF                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:20 | ERROR    | src.data.validator             | GGAL                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:20 | ERROR    | src.data.validator             | BMA                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:20 | ERROR    | src.data.validator             | PAM                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:20 | ERROR    | src.data.validator             | TGS                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:20 | ERROR    | src.data.validator             | CEPU                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:20 | ERROR    | src.data.validator             | EDN                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:20 | ERROR    | src.data.validator             | LOMA                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:20 | ERROR    | src.data.validator             | CRESY                 MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:20 | ERROR    | src.data.validator             | IRS                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:20 | ERROR    | src.data.validator             | sovereign_bond        MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:20 | ERROR    | src.data.validator             | merval                MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:20 | ERROR    | src.data.validator             | ccl                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:20 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:20 | INFO     | src.data.validator             | Coverage report [macro]
+2026-05-22 11:08:20 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:20 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 11:08:20 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:20 | ERROR    | src.data.validator             | ipc                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:20 | ERROR    | src.data.validator             | embi                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:20 | ERROR    | src.data.validator             | reservas              MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:20 | ERROR    | src.data.validator             | tc_oficial            MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:20 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:20 | ERROR    | src.data.loader                | Live-month validation failed — data NOT appended. 15 error(s):
+2026-05-22 11:08:20 | ERROR    | src.data.loader                |   [YPF] series is entirely NaN (0 rows)
+2026-05-22 11:08:20 | ERROR    | src.data.loader                |   [GGAL] series is entirely NaN (0 rows)
+2026-05-22 11:08:20 | ERROR    | src.data.loader                |   [BMA] series is entirely NaN (0 rows)
+2026-05-22 11:08:20 | ERROR    | src.data.loader                |   [PAM] series is entirely NaN (0 rows)
+2026-05-22 11:08:20 | ERROR    | src.data.loader                |   [TGS] series is entirely NaN (0 rows)
+2026-05-22 11:08:20 | ERROR    | src.data.loader                |   [CEPU] series is entirely NaN (0 rows)
+2026-05-22 11:08:20 | ERROR    | src.data.loader                |   [EDN] series is entirely NaN (0 rows)
+2026-05-22 11:08:20 | ERROR    | src.data.loader                |   [LOMA] series is entirely NaN (0 rows)
+2026-05-22 11:08:20 | ERROR    | src.data.loader                |   [CRESY] series is entirely NaN (0 rows)
+2026-05-22 11:08:20 | ERROR    | src.data.loader                |   [IRS] series is entirely NaN (0 rows)
+2026-05-22 11:08:20 | ERROR    | src.data.loader                |   [merval] series is entirely NaN (0 rows)
+2026-05-22 11:08:20 | ERROR    | src.data.loader                |   [ccl] series is entirely NaN (0 rows)
+2026-05-22 11:08:20 | ERROR    | src.data.loader                |   [ipc] series is entirely NaN (0 rows)
+2026-05-22 11:08:20 | ERROR    | src.data.loader                |   [reservas] series is entirely NaN (0 rows)
+2026-05-22 11:08:20 | ERROR    | src.data.loader                |   [tc_oficial] series is entirely NaN (0 rows)
+2026-05-22 11:08:21 | INFO     | src.features.features          | compute_features: 797 weekly rows | 10 tickers | warm-up = 30 rows
+2026-05-22 11:08:21 | WARNING  | src.nlp.nlp                    | News directory not found: data\news\2024\03 — returning 0.0 (neutral)
+2026-05-22 11:08:21 | WARNING  | src.signals.regime             | _build_monthly_feature_matrix: 'embi' is entirely NaN — filling with 0.0
+2026-05-22 11:08:21 | INFO     | src.signals.regime             | Regime prediction: risk_on (p=0.980) | month=2024-03 | nlp_score=0.0000
+2026-05-22 11:08:21 | INFO     | src.allocation.allocator       | compute_weights: risk_on (p=0.980) | active=[BMA=1.762, CEPU=1.282, CRESY=1.146, EDN=1.180, GGAL=1.535, IRS=1.288, LOMA=1.032, PAM=1.017, TGS=1.178, YPF=1.339] | excluded=[none] | BMA=0.1000 CEPU=0.1000 CRESY=0.1000 EDN=0.1000 GGAL=0.1000 IRS=0.1000 LOMA=0.1000 PAM=0.1000 TGS=0.1000 YPF=0.1000
+2026-05-22 11:08:21 | INFO     | __main__                       | 2024-03 | risk_on (p=0.980) | nlp=0.0000 | active=10 excluded=0
+2026-05-22 11:08:21 | INFO     | src.utils.utils                | [DONE]  live 2024-03 — 19.41s
+2026-05-22 11:08:21 | INFO     | src.utils.utils                | [START] live 2024-04
+2026-05-22 11:08:21 | INFO     | src.data.loader                | Starting live-month download: 2024-07-01 → 2024-04-30 (cutoff: 2024-04-30) | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-22 11:08:22 | ERROR    | yfinance                       | $YPF: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-04-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1714449600")
+2026-05-22 11:08:22 | WARNING  | src.data.downloader            | [YPF] yfinance returned empty DataFrame
+2026-05-22 11:08:24 | ERROR    | yfinance                       | $GGAL: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-04-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1714449600")
+2026-05-22 11:08:24 | WARNING  | src.data.downloader            | [GGAL] yfinance returned empty DataFrame
+2026-05-22 11:08:25 | ERROR    | yfinance                       | $BMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-04-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1714449600")
+2026-05-22 11:08:25 | WARNING  | src.data.downloader            | [BMA] yfinance returned empty DataFrame
+2026-05-22 11:08:26 | ERROR    | yfinance                       | $PAM: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-04-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1714449600")
+2026-05-22 11:08:26 | WARNING  | src.data.downloader            | [PAM] yfinance returned empty DataFrame
+2026-05-22 11:08:28 | ERROR    | yfinance                       | $TGS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-04-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1714449600")
+2026-05-22 11:08:28 | WARNING  | src.data.downloader            | [TGS] yfinance returned empty DataFrame
+2026-05-22 11:08:29 | ERROR    | yfinance                       | $CEPU: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-04-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1714449600")
+2026-05-22 11:08:29 | WARNING  | src.data.downloader            | [CEPU] yfinance returned empty DataFrame
+2026-05-22 11:08:31 | ERROR    | yfinance                       | $EDN: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-04-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1714449600")
+2026-05-22 11:08:31 | WARNING  | src.data.downloader            | [EDN] yfinance returned empty DataFrame
+2026-05-22 11:08:32 | ERROR    | yfinance                       | $LOMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-04-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1714449600")
+2026-05-22 11:08:32 | WARNING  | src.data.downloader            | [LOMA] yfinance returned empty DataFrame
+2026-05-22 11:08:34 | ERROR    | yfinance                       | $CRESY: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-04-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1714449600")
+2026-05-22 11:08:34 | WARNING  | src.data.downloader            | [CRESY] yfinance returned empty DataFrame
+2026-05-22 11:08:35 | ERROR    | yfinance                       | $IRS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-04-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1714449600")
+2026-05-22 11:08:35 | WARNING  | src.data.downloader            | [IRS] yfinance returned empty DataFrame
+2026-05-22 11:08:35 | WARNING  | src.data.downloader            | [YPF] no data downloaded
+2026-05-22 11:08:35 | WARNING  | src.data.downloader            | [GGAL] no data downloaded
+2026-05-22 11:08:35 | WARNING  | src.data.downloader            | [BMA] no data downloaded
+2026-05-22 11:08:35 | WARNING  | src.data.downloader            | [PAM] no data downloaded
+2026-05-22 11:08:35 | WARNING  | src.data.downloader            | [TGS] no data downloaded
+2026-05-22 11:08:35 | WARNING  | src.data.downloader            | [CEPU] no data downloaded
+2026-05-22 11:08:35 | WARNING  | src.data.downloader            | [EDN] no data downloaded
+2026-05-22 11:08:35 | WARNING  | src.data.downloader            | [LOMA] no data downloaded
+2026-05-22 11:08:35 | WARNING  | src.data.downloader            | [CRESY] no data downloaded
+2026-05-22 11:08:35 | WARNING  | src.data.downloader            | [IRS] no data downloaded
+2026-05-22 11:08:36 | ERROR    | yfinance                       | $^MERV: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-04-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719802800, endDate = 1714446000")
+2026-05-22 11:08:36 | WARNING  | src.data.downloader            | [^MERV] yfinance returned empty DataFrame
+2026-05-22 11:08:36 | ERROR    | yfinance                       | $AL30D.BA: possibly delisted; no timezone found
+2026-05-22 11:08:36 | WARNING  | src.data.scraper_al30d         | [AL30D.BA] all sources failed and no cache available
+2026-05-22 11:08:36 | WARNING  | src.data.scraper_al30d         | sovereign_bond: all sources failed — returning empty series
+2026-05-22 11:08:37 | WARNING  | src.data.scraper_ccl           | CCL: all sources failed — returning empty series
+2026-05-22 11:08:38 | WARNING  | src.data.scraper_macro         | [macro/ipc] extending last cached value (5785.5699) to fill 2024-07-01 → 2024-04-30
+2026-05-22 11:08:38 | WARNING  | src.data.scraper_macro         | [macro/embi] cache has no valid values
+2026-05-22 11:08:39 | WARNING  | src.data.scraper_macro         | [macro/reservas] extending last cached value (29203.4000) to fill 2024-07-01 → 2024-04-30
+2026-05-22 11:08:40 | WARNING  | src.data.scraper_macro         | [macro/tc_oficial] extending last cached value (896.0000) to fill 2024-07-01 → 2024-04-30
+2026-05-22 11:08:40 | INFO     | src.data.validator             | Coverage report [prices]
+2026-05-22 11:08:40 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:40 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 11:08:40 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:40 | ERROR    | src.data.validator             | YPF                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:40 | ERROR    | src.data.validator             | GGAL                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:40 | ERROR    | src.data.validator             | BMA                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:40 | ERROR    | src.data.validator             | PAM                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:40 | ERROR    | src.data.validator             | TGS                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:40 | ERROR    | src.data.validator             | CEPU                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:40 | ERROR    | src.data.validator             | EDN                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:40 | ERROR    | src.data.validator             | LOMA                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:40 | ERROR    | src.data.validator             | CRESY                 MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:40 | ERROR    | src.data.validator             | IRS                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:40 | ERROR    | src.data.validator             | sovereign_bond        MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:40 | ERROR    | src.data.validator             | merval                MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:40 | ERROR    | src.data.validator             | ccl                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:40 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:40 | INFO     | src.data.validator             | Coverage report [macro]
+2026-05-22 11:08:40 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:40 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 11:08:40 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:40 | ERROR    | src.data.validator             | ipc                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:40 | ERROR    | src.data.validator             | embi                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:40 | ERROR    | src.data.validator             | reservas              MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:40 | ERROR    | src.data.validator             | tc_oficial            MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:40 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:40 | ERROR    | src.data.loader                | Live-month validation failed — data NOT appended. 15 error(s):
+2026-05-22 11:08:40 | ERROR    | src.data.loader                |   [YPF] series is entirely NaN (0 rows)
+2026-05-22 11:08:40 | ERROR    | src.data.loader                |   [GGAL] series is entirely NaN (0 rows)
+2026-05-22 11:08:40 | ERROR    | src.data.loader                |   [BMA] series is entirely NaN (0 rows)
+2026-05-22 11:08:40 | ERROR    | src.data.loader                |   [PAM] series is entirely NaN (0 rows)
+2026-05-22 11:08:40 | ERROR    | src.data.loader                |   [TGS] series is entirely NaN (0 rows)
+2026-05-22 11:08:40 | ERROR    | src.data.loader                |   [CEPU] series is entirely NaN (0 rows)
+2026-05-22 11:08:40 | ERROR    | src.data.loader                |   [EDN] series is entirely NaN (0 rows)
+2026-05-22 11:08:40 | ERROR    | src.data.loader                |   [LOMA] series is entirely NaN (0 rows)
+2026-05-22 11:08:40 | ERROR    | src.data.loader                |   [CRESY] series is entirely NaN (0 rows)
+2026-05-22 11:08:40 | ERROR    | src.data.loader                |   [IRS] series is entirely NaN (0 rows)
+2026-05-22 11:08:40 | ERROR    | src.data.loader                |   [merval] series is entirely NaN (0 rows)
+2026-05-22 11:08:40 | ERROR    | src.data.loader                |   [ccl] series is entirely NaN (0 rows)
+2026-05-22 11:08:40 | ERROR    | src.data.loader                |   [ipc] series is entirely NaN (0 rows)
+2026-05-22 11:08:40 | ERROR    | src.data.loader                |   [reservas] series is entirely NaN (0 rows)
+2026-05-22 11:08:40 | ERROR    | src.data.loader                |   [tc_oficial] series is entirely NaN (0 rows)
+2026-05-22 11:08:40 | INFO     | src.features.features          | compute_features: 802 weekly rows | 10 tickers | warm-up = 30 rows
+2026-05-22 11:08:40 | WARNING  | src.nlp.nlp                    | News directory not found: data\news\2024\04 — returning 0.0 (neutral)
+2026-05-22 11:08:40 | WARNING  | src.signals.regime             | _build_monthly_feature_matrix: 'embi' is entirely NaN — filling with 0.0
+2026-05-22 11:08:40 | INFO     | src.signals.regime             | Regime prediction: risk_on (p=0.971) | month=2024-04 | nlp_score=0.0000
+2026-05-22 11:08:40 | INFO     | src.allocation.allocator       | compute_weights: risk_on (p=0.971) | active=[BMA=1.647, CEPU=1.308, CRESY=1.168, EDN=1.076, GGAL=1.665, IRS=1.216, LOMA=1.085, PAM=1.034, TGS=1.292, YPF=1.358] | excluded=[none] | BMA=0.1000 CEPU=0.1000 CRESY=0.1000 EDN=0.1000 GGAL=0.1000 IRS=0.1000 LOMA=0.1000 PAM=0.1000 TGS=0.1000 YPF=0.1000
+2026-05-22 11:08:40 | INFO     | __main__                       | 2024-04 | risk_on (p=0.971) | nlp=0.0000 | active=10 excluded=0
+2026-05-22 11:08:40 | INFO     | src.utils.utils                | [DONE]  live 2024-04 — 19.48s
+2026-05-22 11:08:40 | INFO     | src.utils.utils                | [START] live 2024-05
+2026-05-22 11:08:40 | INFO     | src.data.loader                | Starting live-month download: 2024-07-01 → 2024-05-31 (cutoff: 2024-05-31) | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-22 11:08:41 | ERROR    | yfinance                       | $YPF: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-05-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1717128000")
+2026-05-22 11:08:41 | WARNING  | src.data.downloader            | [YPF] yfinance returned empty DataFrame
+2026-05-22 11:08:43 | ERROR    | yfinance                       | $GGAL: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-05-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1717128000")
+2026-05-22 11:08:43 | WARNING  | src.data.downloader            | [GGAL] yfinance returned empty DataFrame
+2026-05-22 11:08:44 | ERROR    | yfinance                       | $BMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-05-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1717128000")
+2026-05-22 11:08:44 | WARNING  | src.data.downloader            | [BMA] yfinance returned empty DataFrame
+2026-05-22 11:08:45 | ERROR    | yfinance                       | $PAM: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-05-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1717128000")
+2026-05-22 11:08:45 | WARNING  | src.data.downloader            | [PAM] yfinance returned empty DataFrame
+2026-05-22 11:08:47 | ERROR    | yfinance                       | $TGS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-05-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1717128000")
+2026-05-22 11:08:47 | WARNING  | src.data.downloader            | [TGS] yfinance returned empty DataFrame
+2026-05-22 11:08:48 | ERROR    | yfinance                       | $CEPU: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-05-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1717128000")
+2026-05-22 11:08:48 | WARNING  | src.data.downloader            | [CEPU] yfinance returned empty DataFrame
+2026-05-22 11:08:50 | ERROR    | yfinance                       | $EDN: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-05-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1717128000")
+2026-05-22 11:08:50 | WARNING  | src.data.downloader            | [EDN] yfinance returned empty DataFrame
+2026-05-22 11:08:51 | ERROR    | yfinance                       | $LOMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-05-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1717128000")
+2026-05-22 11:08:51 | WARNING  | src.data.downloader            | [LOMA] yfinance returned empty DataFrame
+2026-05-22 11:08:53 | ERROR    | yfinance                       | $CRESY: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-05-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1717128000")
+2026-05-22 11:08:53 | WARNING  | src.data.downloader            | [CRESY] yfinance returned empty DataFrame
+2026-05-22 11:08:54 | ERROR    | yfinance                       | $IRS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-05-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1717128000")
+2026-05-22 11:08:54 | WARNING  | src.data.downloader            | [IRS] yfinance returned empty DataFrame
+2026-05-22 11:08:54 | WARNING  | src.data.downloader            | [YPF] no data downloaded
+2026-05-22 11:08:54 | WARNING  | src.data.downloader            | [GGAL] no data downloaded
+2026-05-22 11:08:54 | WARNING  | src.data.downloader            | [BMA] no data downloaded
+2026-05-22 11:08:54 | WARNING  | src.data.downloader            | [PAM] no data downloaded
+2026-05-22 11:08:54 | WARNING  | src.data.downloader            | [TGS] no data downloaded
+2026-05-22 11:08:54 | WARNING  | src.data.downloader            | [CEPU] no data downloaded
+2026-05-22 11:08:54 | WARNING  | src.data.downloader            | [EDN] no data downloaded
+2026-05-22 11:08:54 | WARNING  | src.data.downloader            | [LOMA] no data downloaded
+2026-05-22 11:08:54 | WARNING  | src.data.downloader            | [CRESY] no data downloaded
+2026-05-22 11:08:54 | WARNING  | src.data.downloader            | [IRS] no data downloaded
+2026-05-22 11:08:56 | ERROR    | yfinance                       | $^MERV: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-05-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719802800, endDate = 1717124400")
+2026-05-22 11:08:56 | WARNING  | src.data.downloader            | [^MERV] yfinance returned empty DataFrame
+2026-05-22 11:08:56 | ERROR    | yfinance                       | $AL30D.BA: possibly delisted; no timezone found
+2026-05-22 11:08:56 | WARNING  | src.data.scraper_al30d         | [AL30D.BA] all sources failed and no cache available
+2026-05-22 11:08:56 | WARNING  | src.data.scraper_al30d         | sovereign_bond: all sources failed — returning empty series
+2026-05-22 11:08:56 | WARNING  | src.data.scraper_ccl           | CCL: all sources failed — returning empty series
+2026-05-22 11:08:57 | WARNING  | src.data.scraper_macro         | [macro/ipc] extending last cached value (5785.5699) to fill 2024-07-01 → 2024-05-31
+2026-05-22 11:08:57 | WARNING  | src.data.scraper_macro         | [macro/embi] cache has no valid values
+2026-05-22 11:08:58 | WARNING  | src.data.scraper_macro         | [macro/reservas] extending last cached value (29203.4000) to fill 2024-07-01 → 2024-05-31
+2026-05-22 11:08:59 | WARNING  | src.data.scraper_macro         | [macro/tc_oficial] extending last cached value (914.0000) to fill 2024-07-01 → 2024-05-31
+2026-05-22 11:08:59 | INFO     | src.data.validator             | Coverage report [prices]
+2026-05-22 11:08:59 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:59 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 11:08:59 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:59 | ERROR    | src.data.validator             | YPF                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:59 | ERROR    | src.data.validator             | GGAL                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:59 | ERROR    | src.data.validator             | BMA                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:59 | ERROR    | src.data.validator             | PAM                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:59 | ERROR    | src.data.validator             | TGS                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:59 | ERROR    | src.data.validator             | CEPU                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:59 | ERROR    | src.data.validator             | EDN                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:59 | ERROR    | src.data.validator             | LOMA                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:59 | ERROR    | src.data.validator             | CRESY                 MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:59 | ERROR    | src.data.validator             | IRS                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:59 | ERROR    | src.data.validator             | sovereign_bond        MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:59 | ERROR    | src.data.validator             | merval                MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:59 | ERROR    | src.data.validator             | ccl                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:59 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:59 | INFO     | src.data.validator             | Coverage report [macro]
+2026-05-22 11:08:59 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:59 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 11:08:59 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:59 | ERROR    | src.data.validator             | ipc                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:59 | ERROR    | src.data.validator             | embi                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:59 | ERROR    | src.data.validator             | reservas              MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:59 | ERROR    | src.data.validator             | tc_oficial            MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:08:59 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:08:59 | ERROR    | src.data.loader                | Live-month validation failed — data NOT appended. 15 error(s):
+2026-05-22 11:08:59 | ERROR    | src.data.loader                |   [YPF] series is entirely NaN (0 rows)
+2026-05-22 11:08:59 | ERROR    | src.data.loader                |   [GGAL] series is entirely NaN (0 rows)
+2026-05-22 11:08:59 | ERROR    | src.data.loader                |   [BMA] series is entirely NaN (0 rows)
+2026-05-22 11:08:59 | ERROR    | src.data.loader                |   [PAM] series is entirely NaN (0 rows)
+2026-05-22 11:08:59 | ERROR    | src.data.loader                |   [TGS] series is entirely NaN (0 rows)
+2026-05-22 11:08:59 | ERROR    | src.data.loader                |   [CEPU] series is entirely NaN (0 rows)
+2026-05-22 11:08:59 | ERROR    | src.data.loader                |   [EDN] series is entirely NaN (0 rows)
+2026-05-22 11:08:59 | ERROR    | src.data.loader                |   [LOMA] series is entirely NaN (0 rows)
+2026-05-22 11:08:59 | ERROR    | src.data.loader                |   [CRESY] series is entirely NaN (0 rows)
+2026-05-22 11:08:59 | ERROR    | src.data.loader                |   [IRS] series is entirely NaN (0 rows)
+2026-05-22 11:08:59 | ERROR    | src.data.loader                |   [merval] series is entirely NaN (0 rows)
+2026-05-22 11:08:59 | ERROR    | src.data.loader                |   [ccl] series is entirely NaN (0 rows)
+2026-05-22 11:08:59 | ERROR    | src.data.loader                |   [ipc] series is entirely NaN (0 rows)
+2026-05-22 11:08:59 | ERROR    | src.data.loader                |   [reservas] series is entirely NaN (0 rows)
+2026-05-22 11:08:59 | ERROR    | src.data.loader                |   [tc_oficial] series is entirely NaN (0 rows)
+2026-05-22 11:08:59 | INFO     | src.features.features          | compute_features: 806 weekly rows | 10 tickers | warm-up = 30 rows
+2026-05-22 11:08:59 | WARNING  | src.nlp.nlp                    | News directory not found: data\news\2024\05 — returning 0.0 (neutral)
+2026-05-22 11:08:59 | WARNING  | src.signals.regime             | _build_monthly_feature_matrix: 'embi' is entirely NaN — filling with 0.0
+2026-05-22 11:08:59 | INFO     | src.signals.regime             | Regime prediction: risk_on (p=0.844) | month=2024-05 | nlp_score=0.0000
+2026-05-22 11:08:59 | INFO     | src.allocation.allocator       | compute_weights: risk_on (p=0.844) | active=[BMA=1.710, CEPU=1.170, CRESY=1.151, EDN=1.077, GGAL=1.589, IRS=1.353, LOMA=1.103, PAM=1.117, TGS=1.337, YPF=1.305] | excluded=[none] | BMA=0.1000 CEPU=0.1000 CRESY=0.1000 EDN=0.1000 GGAL=0.1000 IRS=0.1000 LOMA=0.1000 PAM=0.1000 TGS=0.1000 YPF=0.1000
+2026-05-22 11:08:59 | INFO     | __main__                       | 2024-05 | risk_on (p=0.844) | nlp=0.0000 | active=10 excluded=0
+2026-05-22 11:08:59 | INFO     | src.utils.utils                | [DONE]  live 2024-05 — 19.12s
+2026-05-22 11:08:59 | INFO     | src.utils.utils                | [START] live 2024-06
+2026-05-22 11:08:59 | INFO     | src.data.loader                | Starting live-month download: 2024-07-01 → 2024-06-30 (cutoff: 2024-06-30) | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-22 11:09:00 | ERROR    | yfinance                       | $YPF: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-06-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1719720000")
+2026-05-22 11:09:00 | WARNING  | src.data.downloader            | [YPF] yfinance returned empty DataFrame
+2026-05-22 11:09:02 | ERROR    | yfinance                       | $GGAL: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-06-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1719720000")
+2026-05-22 11:09:02 | WARNING  | src.data.downloader            | [GGAL] yfinance returned empty DataFrame
+2026-05-22 11:09:03 | ERROR    | yfinance                       | $BMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-06-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1719720000")
+2026-05-22 11:09:03 | WARNING  | src.data.downloader            | [BMA] yfinance returned empty DataFrame
+2026-05-22 11:09:05 | ERROR    | yfinance                       | $PAM: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-06-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1719720000")
+2026-05-22 11:09:05 | WARNING  | src.data.downloader            | [PAM] yfinance returned empty DataFrame
+2026-05-22 11:09:06 | ERROR    | yfinance                       | $TGS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-06-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1719720000")
+2026-05-22 11:09:06 | WARNING  | src.data.downloader            | [TGS] yfinance returned empty DataFrame
+2026-05-22 11:09:07 | ERROR    | yfinance                       | $CEPU: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-06-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1719720000")
+2026-05-22 11:09:07 | WARNING  | src.data.downloader            | [CEPU] yfinance returned empty DataFrame
+2026-05-22 11:09:09 | ERROR    | yfinance                       | $EDN: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-06-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1719720000")
+2026-05-22 11:09:09 | WARNING  | src.data.downloader            | [EDN] yfinance returned empty DataFrame
+2026-05-22 11:09:10 | ERROR    | yfinance                       | $LOMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-06-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1719720000")
+2026-05-22 11:09:10 | WARNING  | src.data.downloader            | [LOMA] yfinance returned empty DataFrame
+2026-05-22 11:09:12 | ERROR    | yfinance                       | $CRESY: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-06-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1719720000")
+2026-05-22 11:09:12 | WARNING  | src.data.downloader            | [CRESY] yfinance returned empty DataFrame
+2026-05-22 11:09:13 | ERROR    | yfinance                       | $IRS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-06-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1719720000")
+2026-05-22 11:09:13 | WARNING  | src.data.downloader            | [IRS] yfinance returned empty DataFrame
+2026-05-22 11:09:13 | WARNING  | src.data.downloader            | [YPF] no data downloaded
+2026-05-22 11:09:13 | WARNING  | src.data.downloader            | [GGAL] no data downloaded
+2026-05-22 11:09:13 | WARNING  | src.data.downloader            | [BMA] no data downloaded
+2026-05-22 11:09:13 | WARNING  | src.data.downloader            | [PAM] no data downloaded
+2026-05-22 11:09:13 | WARNING  | src.data.downloader            | [TGS] no data downloaded
+2026-05-22 11:09:13 | WARNING  | src.data.downloader            | [CEPU] no data downloaded
+2026-05-22 11:09:13 | WARNING  | src.data.downloader            | [EDN] no data downloaded
+2026-05-22 11:09:13 | WARNING  | src.data.downloader            | [LOMA] no data downloaded
+2026-05-22 11:09:13 | WARNING  | src.data.downloader            | [CRESY] no data downloaded
+2026-05-22 11:09:13 | WARNING  | src.data.downloader            | [IRS] no data downloaded
+2026-05-22 11:09:15 | ERROR    | yfinance                       | $^MERV: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-06-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719802800, endDate = 1719716400")
+2026-05-22 11:09:15 | WARNING  | src.data.downloader            | [^MERV] yfinance returned empty DataFrame
+2026-05-22 11:09:15 | ERROR    | yfinance                       | $AL30D.BA: possibly delisted; no timezone found
+2026-05-22 11:09:15 | WARNING  | src.data.scraper_al30d         | [AL30D.BA] all sources failed and no cache available
+2026-05-22 11:09:15 | WARNING  | src.data.scraper_al30d         | sovereign_bond: all sources failed — returning empty series
+2026-05-22 11:09:15 | WARNING  | src.data.scraper_ccl           | CCL: all sources failed — returning empty series
+2026-05-22 11:09:16 | WARNING  | src.data.scraper_macro         | [macro/ipc] extending last cached value (6297.0960) to fill 2024-07-01 → 2024-06-30
+2026-05-22 11:09:16 | WARNING  | src.data.scraper_macro         | [macro/embi] cache has no valid values
+2026-05-22 11:09:17 | WARNING  | src.data.scraper_macro         | [macro/reservas] extending last cached value (29491.1333) to fill 2024-07-01 → 2024-06-30
+2026-05-22 11:09:18 | WARNING  | src.data.scraper_macro         | [macro/tc_oficial] extending last cached value (930.5000) to fill 2024-07-01 → 2024-06-30
+2026-05-22 11:09:18 | INFO     | src.data.validator             | Coverage report [prices]
+2026-05-22 11:09:18 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:09:18 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 11:09:18 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:09:18 | ERROR    | src.data.validator             | YPF                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:09:18 | ERROR    | src.data.validator             | GGAL                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:09:18 | ERROR    | src.data.validator             | BMA                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:09:18 | ERROR    | src.data.validator             | PAM                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:09:18 | ERROR    | src.data.validator             | TGS                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:09:18 | ERROR    | src.data.validator             | CEPU                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:09:18 | ERROR    | src.data.validator             | EDN                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:09:18 | ERROR    | src.data.validator             | LOMA                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:09:18 | ERROR    | src.data.validator             | CRESY                 MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:09:18 | ERROR    | src.data.validator             | IRS                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:09:18 | ERROR    | src.data.validator             | sovereign_bond        MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:09:18 | ERROR    | src.data.validator             | merval                MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:09:18 | ERROR    | src.data.validator             | ccl                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:09:18 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:09:18 | INFO     | src.data.validator             | Coverage report [macro]
+2026-05-22 11:09:18 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:09:18 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 11:09:18 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:09:18 | ERROR    | src.data.validator             | ipc                   MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:09:18 | ERROR    | src.data.validator             | embi                  MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:09:18 | ERROR    | src.data.validator             | reservas              MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:09:18 | ERROR    | src.data.validator             | tc_oficial            MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 11:09:18 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 11:09:18 | ERROR    | src.data.loader                | Live-month validation failed — data NOT appended. 15 error(s):
+2026-05-22 11:09:18 | ERROR    | src.data.loader                |   [YPF] series is entirely NaN (0 rows)
+2026-05-22 11:09:18 | ERROR    | src.data.loader                |   [GGAL] series is entirely NaN (0 rows)
+2026-05-22 11:09:18 | ERROR    | src.data.loader                |   [BMA] series is entirely NaN (0 rows)
+2026-05-22 11:09:18 | ERROR    | src.data.loader                |   [PAM] series is entirely NaN (0 rows)
+2026-05-22 11:09:18 | ERROR    | src.data.loader                |   [TGS] series is entirely NaN (0 rows)
+2026-05-22 11:09:18 | ERROR    | src.data.loader                |   [CEPU] series is entirely NaN (0 rows)
+2026-05-22 11:09:18 | ERROR    | src.data.loader                |   [EDN] series is entirely NaN (0 rows)
+2026-05-22 11:09:18 | ERROR    | src.data.loader                |   [LOMA] series is entirely NaN (0 rows)
+2026-05-22 11:09:18 | ERROR    | src.data.loader                |   [CRESY] series is entirely NaN (0 rows)
+2026-05-22 11:09:18 | ERROR    | src.data.loader                |   [IRS] series is entirely NaN (0 rows)
+2026-05-22 11:09:18 | ERROR    | src.data.loader                |   [merval] series is entirely NaN (0 rows)
+2026-05-22 11:09:18 | ERROR    | src.data.loader                |   [ccl] series is entirely NaN (0 rows)
+2026-05-22 11:09:18 | ERROR    | src.data.loader                |   [ipc] series is entirely NaN (0 rows)
+2026-05-22 11:09:18 | ERROR    | src.data.loader                |   [reservas] series is entirely NaN (0 rows)
+2026-05-22 11:09:18 | ERROR    | src.data.loader                |   [tc_oficial] series is entirely NaN (0 rows)
+2026-05-22 11:09:18 | INFO     | src.features.features          | compute_features: 810 weekly rows | 10 tickers | warm-up = 30 rows
+2026-05-22 11:09:18 | WARNING  | src.nlp.nlp                    | News directory not found: data\news\2024\06 — returning 0.0 (neutral)
+2026-05-22 11:09:18 | WARNING  | src.signals.regime             | _build_monthly_feature_matrix: 'embi' is entirely NaN — filling with 0.0
+2026-05-22 11:09:18 | INFO     | src.signals.regime             | Regime prediction: risk_on (p=0.996) | month=2024-06 | nlp_score=0.0000
+2026-05-22 11:09:18 | INFO     | src.allocation.allocator       | compute_weights: risk_on (p=0.996) | active=[BMA=1.340, CEPU=1.008, GGAL=1.247, IRS=1.051, TGS=1.208, YPF=1.060] | excluded=[CRESY=0.981, EDN=0.937, LOMA=0.982, PAM=0.980] | BMA=0.1667 CEPU=0.1667 GGAL=0.1667 IRS=0.1667 TGS=0.1667 YPF=0.1667
+2026-05-22 11:09:18 | INFO     | __main__                       | 2024-06 | risk_on (p=0.996) | nlp=0.0000 | active=6 excluded=4
+2026-05-22 11:09:18 | INFO     | src.utils.utils                | [DONE]  live 2024-06 — 19.30s
+2026-05-22 11:09:18 | INFO     | __main__                       | Live loop complete: 6/6 months succeeded.
+2026-05-22 11:09:18 | INFO     | src.utils.utils                | [START] backtest
+2026-05-22 11:09:18 | INFO     | src.backtest.engine            | Rebalance: decision=2024-01 | initial → risk_off | execution=2024-02-05
+2026-05-22 11:09:18 | INFO     | src.backtest.engine            | Rebalance: decision=2024-02 | risk_off → risk_on | execution=2024-03-04
+2026-05-22 11:09:18 | WARNING  | src.backtest.benchmarks        | _al30d_static: no AL30D data for 2024-02-05 → 2024-06-24
+2026-05-22 11:09:18 | INFO     | src.backtest.engine            | Backtest complete: 2024-02-05 → 2024-06-24 | 21 weeks | 2 rebalances
+2026-05-22 11:09:18 | INFO     | src.utils.utils                | [DONE]  backtest — 0.03s
+2026-05-22 11:09:18 | INFO     | src.utils.utils                | [START] metrics + outputs 2024
+2026-05-22 11:09:19 | INFO     | src.metrics.metrics            | Portfolio — total_return=23.86%  ann_return=69.88%  sharpe=1.47  max_dd=-12.94%
+2026-05-22 11:09:19 | INFO     | src.metrics.metrics            | EW B&H ADRs      — total_return=25.35%  ann_return=74.97%  sharpe=1.56
+2026-05-22 11:09:19 | INFO     | src.metrics.metrics            | AL30D Static     — total_return=nan%  ann_return=nan%  sharpe=nan
+2026-05-22 11:09:19 | INFO     | src.metrics.metrics            | Merval USD       — total_return=25.54%  ann_return=34.41%  sharpe=0.83
+2026-05-22 11:09:19 | INFO     | src.metrics.metrics            | Saved: results\2024\performance_metrics.csv
+2026-05-22 11:09:33 | INFO     | src.metrics.visualizer         | Saved: results\2024\figures\equity_curves.png (+ .pdf)
+2026-05-22 11:09:33 | INFO     | src.metrics.visualizer         | Saved: results\2024\figures\drawdown.png (+ .pdf)
+2026-05-22 11:09:33 | INFO     | __main__                       | portfolio_weights.csv → results\2024\portfolio_weights.csv (6 rows)
+2026-05-22 11:09:33 | INFO     | src.utils.utils                | [DONE]  metrics + outputs 2024 — 15.03s
+2026-05-22 11:09:33 | INFO     | src.utils.utils                | Snapshot saved: results\2024\snapshot_20260522_140933.json
+2026-05-22 11:09:33 | INFO     | __main__                       | Year 2024 outputs saved → results\2024 | rebalances=2 | total_return=23.86%
+2026-05-22 11:09:33 | INFO     | __main__                       | Live mode complete. All outputs written to results/

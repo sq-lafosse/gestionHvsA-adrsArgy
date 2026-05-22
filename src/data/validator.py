@@ -73,7 +73,8 @@ def validate_prices(
         ("ccl", ccl),
     ]:
         cov, errs, warns, asset_gaps, asset_outliers = _validate_series(
-            series, name, nominal_ts, gap_threshold_days, outlier_zscore
+            series, name, nominal_ts, gap_threshold_days, outlier_zscore,
+            allow_empty=name in _ALLOW_EMPTY_PRICES,
         )
         coverage[name] = cov
         errors.extend(errs)
@@ -114,7 +115,8 @@ def validate_macro(
 
     for col in macro.columns:
         cov, errs, warns, col_gaps, _ = _validate_series(
-            macro[col], col, nominal_ts, gap_threshold_days, outlier_zscore=None
+            macro[col], col, nominal_ts, gap_threshold_days, outlier_zscore=None,
+            allow_empty=col in _ALLOW_EMPTY_MACRO,
         )
         coverage[col] = cov
         errors.extend(errs)
@@ -169,16 +171,22 @@ def validate_all(
 
 # ─── Core validation ──────────────────────────────────────────────────────────
 
+_ALLOW_EMPTY_PRICES: frozenset[str] = frozenset({"sovereign_bond"})
+_ALLOW_EMPTY_MACRO: frozenset[str] = frozenset({"embi"})
+
+
 def _validate_series(
     series: pd.Series,
     name: str,
     nominal_start: pd.Timestamp,
     gap_threshold_days: int,
     outlier_zscore: float | None,
+    allow_empty: bool = False,
 ) -> tuple[dict, list[str], list[str], list[str], list[str]]:
     """
     Validate a single Series. Returns (coverage, errors, warnings, gaps, outliers).
     outlier_zscore=None skips outlier detection.
+    allow_empty=True downgrades an all-NaN series from ERROR to WARNING.
     """
     errors: list[str] = []
     warnings: list[str] = []
@@ -189,7 +197,11 @@ def _validate_series(
     nan_count = int(series.isna().sum())
 
     if nan_count == total_rows:
-        errors.append(f"[{name}] series is entirely NaN ({total_rows} rows)")
+        msg = f"[{name}] series is entirely NaN ({total_rows} rows)"
+        if allow_empty:
+            warnings.append(msg)
+        else:
+            errors.append(msg)
         return (
             {
                 "first_date": None,

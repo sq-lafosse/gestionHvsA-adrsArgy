@@ -1,0 +1,521 @@
+2026-05-22 10:27:49 | INFO     | src.utils.utils                | Logging initialized — level=DEBUG  file=logs\run_20260522_132749.log
+2026-05-22 10:27:51 | INFO     | src.data.loader                | Starting live-month download: 2024-01-01 → 2024-01-31 (cutoff: 2024-01-31) | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-22 10:27:51 | DEBUG    | yfinance                       | Entering history()
+2026-05-22 10:27:51 | DEBUG    | peewee                         | ('CREATE TABLE IF NOT EXISTS "_tz_kv" ("key" VARCHAR(255) NOT NULL PRIMARY KEY, "value" VARCHAR(255)) WITHOUT ROWID', [])
+2026-05-22 10:27:51 | DEBUG    | peewee                         | ('SELECT "t1"."key", "t1"."value" FROM "_tz_kv" AS "t1" WHERE ("t1"."key" = ?) LIMIT ? OFFSET ?', ['YPF', 1, 0])
+2026-05-22 10:27:52 | DEBUG    | yfinance                       |  Entering history()
+2026-05-22 10:27:52 | DEBUG    | yfinance                       | YPF: Yahoo GET parameters: {'period1': '2024-01-01 00:00:00-05:00', 'period2': '2024-01-31 00:00:00-05:00', 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'}
+2026-05-22 10:27:52 | DEBUG    | yfinance                       |   Entering get()
+2026-05-22 10:27:52 | DEBUG    | yfinance                       |    Entering _make_request()
+2026-05-22 10:27:52 | DEBUG    | yfinance                       | url=https://query2.finance.yahoo.com/v8/finance/chart/YPF
+2026-05-22 10:27:52 | DEBUG    | yfinance                       | params=frozendict.frozendict({'period1': 1704085200, 'period2': 1706677200, 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'})
+2026-05-22 10:27:52 | DEBUG    | yfinance                       |     Entering _get_cookie_and_crumb()
+2026-05-22 10:27:52 | DEBUG    | yfinance                       | cookie_mode = 'basic'
+2026-05-22 10:27:52 | DEBUG    | yfinance                       |      Entering _get_cookie_and_crumb_basic()
+2026-05-22 10:27:52 | DEBUG    | yfinance                       |       Entering _get_cookie_basic()
+2026-05-22 10:27:52 | DEBUG    | yfinance                       |        Entering _load_cookie_curlCffi()
+2026-05-22 10:27:52 | DEBUG    | peewee                         | ('CREATE TABLE IF NOT EXISTS "_cookieschema" ("strategy" VARCHAR(255) NOT NULL PRIMARY KEY, "fetch_date" DATETIME NOT NULL, "cookie_bytes" BLOB NOT NULL) WITHOUT ROWID', [])
+2026-05-22 10:27:52 | DEBUG    | peewee                         | ('SELECT "t1"."strategy", "t1"."fetch_date", "t1"."cookie_bytes" FROM "_cookieschema" AS "t1" WHERE ("t1"."strategy" = ?) LIMIT ? OFFSET ?', ['curlCffi', 1, 0])
+2026-05-22 10:27:52 | DEBUG    | yfinance                       |        Exiting _load_cookie_curlCffi()
+2026-05-22 10:27:52 | DEBUG    | yfinance                       | reusing persistent cookie
+2026-05-22 10:27:52 | DEBUG    | yfinance                       |       Exiting _get_cookie_basic()
+2026-05-22 10:27:52 | DEBUG    | yfinance                       |       Entering _get_crumb_basic()
+2026-05-22 10:27:52 | DEBUG    | yfinance                       |        Entering _get_cookie_basic()
+2026-05-22 10:27:52 | DEBUG    | yfinance                       | reusing cookie
+2026-05-22 10:27:52 | DEBUG    | yfinance                       |        Exiting _get_cookie_basic()
+2026-05-22 10:27:53 | DEBUG    | yfinance                       | crumb = 'GKH2RckUanc'
+2026-05-22 10:27:53 | DEBUG    | yfinance                       |       Exiting _get_crumb_basic()
+2026-05-22 10:27:53 | DEBUG    | yfinance                       |      Exiting _get_cookie_and_crumb_basic()
+2026-05-22 10:27:53 | DEBUG    | yfinance                       |     Exiting _get_cookie_and_crumb()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | response code=200
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |    Exiting _make_request()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |   Exiting get()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | YPF: yfinance received OHLC data: 2024-01-01 05:00:00 -> 2024-01-29 05:00:00
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | YPF: OHLC after cleaning: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | YPF: OHLC after combining events: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | YPF: yfinance returning OHLC: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |  Exiting history()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | Exiting history()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | Entering history()
+2026-05-22 10:27:54 | DEBUG    | peewee                         | ('SELECT "t1"."key", "t1"."value" FROM "_tz_kv" AS "t1" WHERE ("t1"."key" = ?) LIMIT ? OFFSET ?', ['GGAL', 1, 0])
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |  Entering history()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | GGAL: Yahoo GET parameters: {'period1': '2024-01-01 00:00:00-05:00', 'period2': '2024-01-31 00:00:00-05:00', 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'}
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |   Entering get()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |    Entering _make_request()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | url=https://query2.finance.yahoo.com/v8/finance/chart/GGAL
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | params=frozendict.frozendict({'period1': 1704085200, 'period2': 1706677200, 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'})
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |     Entering _get_cookie_and_crumb()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | cookie_mode = 'basic'
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |      Entering _get_cookie_and_crumb_basic()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |       Entering _get_cookie_basic()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | reusing cookie
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |       Exiting _get_cookie_basic()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |       Entering _get_crumb_basic()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | reusing crumb
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |       Exiting _get_crumb_basic()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |      Exiting _get_cookie_and_crumb_basic()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |     Exiting _get_cookie_and_crumb()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | response code=200
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |    Exiting _make_request()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |   Exiting get()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | GGAL: yfinance received OHLC data: 2024-01-01 05:00:00 -> 2024-01-29 05:00:00
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | GGAL: OHLC after cleaning: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | GGAL: OHLC after combining events: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | GGAL: yfinance returning OHLC: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |  Exiting history()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | Exiting history()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | Entering history()
+2026-05-22 10:27:54 | DEBUG    | peewee                         | ('SELECT "t1"."key", "t1"."value" FROM "_tz_kv" AS "t1" WHERE ("t1"."key" = ?) LIMIT ? OFFSET ?', ['BMA', 1, 0])
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |  Entering history()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | BMA: Yahoo GET parameters: {'period1': '2024-01-01 00:00:00-05:00', 'period2': '2024-01-31 00:00:00-05:00', 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'}
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |   Entering get()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |    Entering _make_request()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | url=https://query2.finance.yahoo.com/v8/finance/chart/BMA
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | params=frozendict.frozendict({'period1': 1704085200, 'period2': 1706677200, 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'})
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |     Entering _get_cookie_and_crumb()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | cookie_mode = 'basic'
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |      Entering _get_cookie_and_crumb_basic()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |       Entering _get_cookie_basic()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | reusing cookie
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |       Exiting _get_cookie_basic()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |       Entering _get_crumb_basic()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       | reusing crumb
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |       Exiting _get_crumb_basic()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |      Exiting _get_cookie_and_crumb_basic()
+2026-05-22 10:27:54 | DEBUG    | yfinance                       |     Exiting _get_cookie_and_crumb()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | response code=200
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |    Exiting _make_request()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |   Exiting get()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | BMA: yfinance received OHLC data: 2024-01-01 05:00:00 -> 2024-01-29 05:00:00
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | BMA: OHLC after cleaning: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | BMA: OHLC after combining events: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | BMA: yfinance returning OHLC: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |  Exiting history()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | Exiting history()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | Entering history()
+2026-05-22 10:27:55 | DEBUG    | peewee                         | ('SELECT "t1"."key", "t1"."value" FROM "_tz_kv" AS "t1" WHERE ("t1"."key" = ?) LIMIT ? OFFSET ?', ['PAM', 1, 0])
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |  Entering history()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | PAM: Yahoo GET parameters: {'period1': '2024-01-01 00:00:00-05:00', 'period2': '2024-01-31 00:00:00-05:00', 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'}
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |   Entering get()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |    Entering _make_request()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | url=https://query2.finance.yahoo.com/v8/finance/chart/PAM
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | params=frozendict.frozendict({'period1': 1704085200, 'period2': 1706677200, 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'})
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |     Entering _get_cookie_and_crumb()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | cookie_mode = 'basic'
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |      Entering _get_cookie_and_crumb_basic()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |       Entering _get_cookie_basic()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | reusing cookie
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |       Exiting _get_cookie_basic()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |       Entering _get_crumb_basic()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | reusing crumb
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |       Exiting _get_crumb_basic()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |      Exiting _get_cookie_and_crumb_basic()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |     Exiting _get_cookie_and_crumb()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | response code=200
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |    Exiting _make_request()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |   Exiting get()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | PAM: yfinance received OHLC data: 2024-01-01 05:00:00 -> 2024-01-29 05:00:00
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | PAM: OHLC after cleaning: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | PAM: OHLC after combining events: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | PAM: yfinance returning OHLC: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |  Exiting history()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | Exiting history()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | Entering history()
+2026-05-22 10:27:55 | DEBUG    | peewee                         | ('SELECT "t1"."key", "t1"."value" FROM "_tz_kv" AS "t1" WHERE ("t1"."key" = ?) LIMIT ? OFFSET ?', ['TGS', 1, 0])
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |  Entering history()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | TGS: Yahoo GET parameters: {'period1': '2024-01-01 00:00:00-05:00', 'period2': '2024-01-31 00:00:00-05:00', 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'}
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |   Entering get()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |    Entering _make_request()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | url=https://query2.finance.yahoo.com/v8/finance/chart/TGS
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | params=frozendict.frozendict({'period1': 1704085200, 'period2': 1706677200, 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'})
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |     Entering _get_cookie_and_crumb()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | cookie_mode = 'basic'
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |      Entering _get_cookie_and_crumb_basic()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |       Entering _get_cookie_basic()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | reusing cookie
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |       Exiting _get_cookie_basic()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |       Entering _get_crumb_basic()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       | reusing crumb
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |       Exiting _get_crumb_basic()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |      Exiting _get_cookie_and_crumb_basic()
+2026-05-22 10:27:55 | DEBUG    | yfinance                       |     Exiting _get_cookie_and_crumb()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | response code=200
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |    Exiting _make_request()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |   Exiting get()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | TGS: yfinance received OHLC data: 2024-01-01 05:00:00 -> 2024-01-29 05:00:00
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | TGS: OHLC after cleaning: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | TGS: OHLC after combining events: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | TGS: yfinance returning OHLC: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |  Exiting history()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | Exiting history()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | Entering history()
+2026-05-22 10:27:56 | DEBUG    | peewee                         | ('SELECT "t1"."key", "t1"."value" FROM "_tz_kv" AS "t1" WHERE ("t1"."key" = ?) LIMIT ? OFFSET ?', ['CEPU', 1, 0])
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |  Entering history()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | CEPU: Yahoo GET parameters: {'period1': '2024-01-01 00:00:00-05:00', 'period2': '2024-01-31 00:00:00-05:00', 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'}
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |   Entering get()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |    Entering _make_request()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | url=https://query2.finance.yahoo.com/v8/finance/chart/CEPU
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | params=frozendict.frozendict({'period1': 1704085200, 'period2': 1706677200, 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'})
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |     Entering _get_cookie_and_crumb()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | cookie_mode = 'basic'
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |      Entering _get_cookie_and_crumb_basic()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |       Entering _get_cookie_basic()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | reusing cookie
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |       Exiting _get_cookie_basic()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |       Entering _get_crumb_basic()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | reusing crumb
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |       Exiting _get_crumb_basic()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |      Exiting _get_cookie_and_crumb_basic()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |     Exiting _get_cookie_and_crumb()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | response code=200
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |    Exiting _make_request()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |   Exiting get()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | CEPU: yfinance received OHLC data: 2024-01-01 05:00:00 -> 2024-01-29 05:00:00
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | CEPU: OHLC after cleaning: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | CEPU: OHLC after combining events: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | CEPU: yfinance returning OHLC: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |  Exiting history()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | Exiting history()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | Entering history()
+2026-05-22 10:27:56 | DEBUG    | peewee                         | ('SELECT "t1"."key", "t1"."value" FROM "_tz_kv" AS "t1" WHERE ("t1"."key" = ?) LIMIT ? OFFSET ?', ['EDN', 1, 0])
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |  Entering history()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | EDN: Yahoo GET parameters: {'period1': '2024-01-01 00:00:00-05:00', 'period2': '2024-01-31 00:00:00-05:00', 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'}
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |   Entering get()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |    Entering _make_request()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | url=https://query2.finance.yahoo.com/v8/finance/chart/EDN
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | params=frozendict.frozendict({'period1': 1704085200, 'period2': 1706677200, 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'})
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |     Entering _get_cookie_and_crumb()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | cookie_mode = 'basic'
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |      Entering _get_cookie_and_crumb_basic()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |       Entering _get_cookie_basic()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | reusing cookie
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |       Exiting _get_cookie_basic()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |       Entering _get_crumb_basic()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       | reusing crumb
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |       Exiting _get_crumb_basic()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |      Exiting _get_cookie_and_crumb_basic()
+2026-05-22 10:27:56 | DEBUG    | yfinance                       |     Exiting _get_cookie_and_crumb()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | response code=200
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |    Exiting _make_request()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |   Exiting get()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | EDN: yfinance received OHLC data: 2024-01-01 05:00:00 -> 2024-01-29 05:00:00
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | EDN: OHLC after cleaning: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | EDN: OHLC after combining events: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | EDN: yfinance returning OHLC: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |  Exiting history()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | Exiting history()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | Entering history()
+2026-05-22 10:27:57 | DEBUG    | peewee                         | ('SELECT "t1"."key", "t1"."value" FROM "_tz_kv" AS "t1" WHERE ("t1"."key" = ?) LIMIT ? OFFSET ?', ['LOMA', 1, 0])
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |  Entering history()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | LOMA: Yahoo GET parameters: {'period1': '2024-01-01 00:00:00-05:00', 'period2': '2024-01-31 00:00:00-05:00', 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'}
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |   Entering get()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |    Entering _make_request()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | url=https://query2.finance.yahoo.com/v8/finance/chart/LOMA
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | params=frozendict.frozendict({'period1': 1704085200, 'period2': 1706677200, 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'})
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |     Entering _get_cookie_and_crumb()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | cookie_mode = 'basic'
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |      Entering _get_cookie_and_crumb_basic()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |       Entering _get_cookie_basic()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | reusing cookie
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |       Exiting _get_cookie_basic()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |       Entering _get_crumb_basic()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | reusing crumb
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |       Exiting _get_crumb_basic()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |      Exiting _get_cookie_and_crumb_basic()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |     Exiting _get_cookie_and_crumb()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | response code=200
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |    Exiting _make_request()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |   Exiting get()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | LOMA: yfinance received OHLC data: 2024-01-01 05:00:00 -> 2024-01-29 05:00:00
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | LOMA: OHLC after cleaning: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | LOMA: OHLC after combining events: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | LOMA: yfinance returning OHLC: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |  Exiting history()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | Exiting history()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | Entering history()
+2026-05-22 10:27:57 | DEBUG    | peewee                         | ('SELECT "t1"."key", "t1"."value" FROM "_tz_kv" AS "t1" WHERE ("t1"."key" = ?) LIMIT ? OFFSET ?', ['CRESY', 1, 0])
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |  Entering history()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | CRESY: Yahoo GET parameters: {'period1': '2024-01-01 00:00:00-05:00', 'period2': '2024-01-31 00:00:00-05:00', 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'}
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |   Entering get()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |    Entering _make_request()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | url=https://query2.finance.yahoo.com/v8/finance/chart/CRESY
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | params=frozendict.frozendict({'period1': 1704085200, 'period2': 1706677200, 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'})
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |     Entering _get_cookie_and_crumb()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | cookie_mode = 'basic'
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |      Entering _get_cookie_and_crumb_basic()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |       Entering _get_cookie_basic()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | reusing cookie
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |       Exiting _get_cookie_basic()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |       Entering _get_crumb_basic()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       | reusing crumb
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |       Exiting _get_crumb_basic()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |      Exiting _get_cookie_and_crumb_basic()
+2026-05-22 10:27:57 | DEBUG    | yfinance                       |     Exiting _get_cookie_and_crumb()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | response code=200
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |    Exiting _make_request()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |   Exiting get()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | CRESY: yfinance received OHLC data: 2024-01-01 05:00:00 -> 2024-01-29 05:00:00
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | CRESY: OHLC after cleaning: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | CRESY: OHLC after combining events: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | CRESY: yfinance returning OHLC: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |  Exiting history()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | Exiting history()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | Entering history()
+2026-05-22 10:27:58 | DEBUG    | peewee                         | ('SELECT "t1"."key", "t1"."value" FROM "_tz_kv" AS "t1" WHERE ("t1"."key" = ?) LIMIT ? OFFSET ?', ['IRS', 1, 0])
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |  Entering history()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | IRS: Yahoo GET parameters: {'period1': '2024-01-01 00:00:00-05:00', 'period2': '2024-01-31 00:00:00-05:00', 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'}
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |   Entering get()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |    Entering _make_request()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | url=https://query2.finance.yahoo.com/v8/finance/chart/IRS
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | params=frozendict.frozendict({'period1': 1704085200, 'period2': 1706677200, 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'})
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |     Entering _get_cookie_and_crumb()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | cookie_mode = 'basic'
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |      Entering _get_cookie_and_crumb_basic()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |       Entering _get_cookie_basic()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | reusing cookie
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |       Exiting _get_cookie_basic()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |       Entering _get_crumb_basic()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | reusing crumb
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |       Exiting _get_crumb_basic()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |      Exiting _get_cookie_and_crumb_basic()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |     Exiting _get_cookie_and_crumb()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | response code=200
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |    Exiting _make_request()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |   Exiting get()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | IRS: yfinance received OHLC data: 2024-01-01 05:00:00 -> 2024-01-29 05:00:00
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | IRS: OHLC after cleaning: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | IRS: OHLC after combining events: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | IRS: yfinance returning OHLC: 2024-01-01 00:00:00-05:00 -> 2024-01-29 00:00:00-05:00
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |  Exiting history()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | Exiting history()
+2026-05-22 10:27:58 | INFO     | src.data.downloader            | [YPF] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-22 10:27:58 | INFO     | src.data.downloader            | [GGAL] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-22 10:27:58 | INFO     | src.data.downloader            | [BMA] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-22 10:27:58 | INFO     | src.data.downloader            | [PAM] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-22 10:27:58 | INFO     | src.data.downloader            | [TGS] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-22 10:27:58 | INFO     | src.data.downloader            | [CEPU] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-22 10:27:58 | INFO     | src.data.downloader            | [EDN] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-22 10:27:58 | INFO     | src.data.downloader            | [LOMA] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-22 10:27:58 | INFO     | src.data.downloader            | [CRESY] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-22 10:27:58 | INFO     | src.data.downloader            | [IRS] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | Entering history()
+2026-05-22 10:27:58 | DEBUG    | peewee                         | ('SELECT "t1"."key", "t1"."value" FROM "_tz_kv" AS "t1" WHERE ("t1"."key" = ?) LIMIT ? OFFSET ?', ['^MERV', 1, 0])
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |  Entering history()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | ^MERV: Yahoo GET parameters: {'period1': '2024-01-01 00:00:00-03:00', 'period2': '2024-01-31 00:00:00-03:00', 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'}
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |   Entering get()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |    Entering _make_request()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | url=https://query2.finance.yahoo.com/v8/finance/chart/^MERV
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | params=frozendict.frozendict({'period1': 1704078000, 'period2': 1706670000, 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'})
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |     Entering _get_cookie_and_crumb()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | cookie_mode = 'basic'
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |      Entering _get_cookie_and_crumb_basic()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |       Entering _get_cookie_basic()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | reusing cookie
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |       Exiting _get_cookie_basic()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |       Entering _get_crumb_basic()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       | reusing crumb
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |       Exiting _get_crumb_basic()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |      Exiting _get_cookie_and_crumb_basic()
+2026-05-22 10:27:58 | DEBUG    | yfinance                       |     Exiting _get_cookie_and_crumb()
+2026-05-22 10:27:59 | DEBUG    | yfinance                       | response code=200
+2026-05-22 10:27:59 | DEBUG    | yfinance                       |    Exiting _make_request()
+2026-05-22 10:27:59 | DEBUG    | yfinance                       |   Exiting get()
+2026-05-22 10:27:59 | DEBUG    | yfinance                       | ^MERV: yfinance received OHLC data: 2024-01-01 03:00:00 -> 2024-01-29 03:00:00
+2026-05-22 10:27:59 | DEBUG    | yfinance                       | ^MERV: OHLC after cleaning: 2024-01-01 00:00:00-03:00 -> 2024-01-29 00:00:00-03:00
+2026-05-22 10:27:59 | DEBUG    | yfinance                       | ^MERV: OHLC after combining events: 2024-01-01 00:00:00-03:00 -> 2024-01-29 00:00:00-03:00
+2026-05-22 10:27:59 | DEBUG    | yfinance                       | ^MERV: yfinance returning OHLC: 2024-01-01 00:00:00-03:00 -> 2024-01-29 00:00:00-03:00
+2026-05-22 10:27:59 | DEBUG    | yfinance                       |  Exiting history()
+2026-05-22 10:27:59 | DEBUG    | yfinance                       | Exiting history()
+2026-05-22 10:27:59 | DEBUG    | yfinance                       | Entering history()
+2026-05-22 10:27:59 | DEBUG    | peewee                         | ('SELECT "t1"."key", "t1"."value" FROM "_tz_kv" AS "t1" WHERE ("t1"."key" = ?) LIMIT ? OFFSET ?', ['AL30D.BA', 1, 0])
+2026-05-22 10:27:59 | DEBUG    | yfinance                       |  Entering _fetch_ticker_tz()
+2026-05-22 10:27:59 | DEBUG    | yfinance                       |   Entering get()
+2026-05-22 10:27:59 | DEBUG    | yfinance                       |    Entering _make_request()
+2026-05-22 10:27:59 | DEBUG    | yfinance                       | url=https://query2.finance.yahoo.com/v8/finance/chart/AL30D.BA
+2026-05-22 10:27:59 | DEBUG    | yfinance                       | params=frozendict.frozendict({'range': '1d', 'interval': '1d'})
+2026-05-22 10:27:59 | DEBUG    | yfinance                       |     Entering _get_cookie_and_crumb()
+2026-05-22 10:27:59 | DEBUG    | yfinance                       | cookie_mode = 'basic'
+2026-05-22 10:27:59 | DEBUG    | yfinance                       |      Entering _get_cookie_and_crumb_basic()
+2026-05-22 10:27:59 | DEBUG    | yfinance                       |       Entering _get_cookie_basic()
+2026-05-22 10:27:59 | DEBUG    | yfinance                       | reusing cookie
+2026-05-22 10:27:59 | DEBUG    | yfinance                       |       Exiting _get_cookie_basic()
+2026-05-22 10:27:59 | DEBUG    | yfinance                       |       Entering _get_crumb_basic()
+2026-05-22 10:27:59 | DEBUG    | yfinance                       | reusing crumb
+2026-05-22 10:27:59 | DEBUG    | yfinance                       |       Exiting _get_crumb_basic()
+2026-05-22 10:27:59 | DEBUG    | yfinance                       |      Exiting _get_cookie_and_crumb_basic()
+2026-05-22 10:27:59 | DEBUG    | yfinance                       |     Exiting _get_cookie_and_crumb()
+2026-05-22 10:27:59 | DEBUG    | yfinance                       | response code=404
+2026-05-22 10:27:59 | DEBUG    | yfinance                       | toggling cookie strategy basic -> csrf
+2026-05-22 10:27:59 | DEBUG    | yfinance                       |     Entering _get_cookie_and_crumb()
+2026-05-22 10:27:59 | DEBUG    | yfinance                       | cookie_mode = 'csrf'
+2026-05-22 10:27:59 | DEBUG    | yfinance                       |      Entering _get_crumb_csrf()
+2026-05-22 10:27:59 | DEBUG    | yfinance                       |       Entering _get_cookie_csrf()
+2026-05-22 10:27:59 | DEBUG    | yfinance                       |        Entering _load_cookie_curlCffi()
+2026-05-22 10:27:59 | DEBUG    | peewee                         | ('SELECT "t1"."strategy", "t1"."fetch_date", "t1"."cookie_bytes" FROM "_cookieschema" AS "t1" WHERE ("t1"."strategy" = ?) LIMIT ? OFFSET ?', ['curlCffi', 1, 0])
+2026-05-22 10:27:59 | DEBUG    | yfinance                       |        Exiting _load_cookie_curlCffi()
+2026-05-22 10:27:59 | DEBUG    | yfinance                       | reusing persistent cookie
+2026-05-22 10:27:59 | DEBUG    | yfinance                       |       Exiting _get_cookie_csrf()
+2026-05-22 10:28:00 | DEBUG    | yfinance                       | crumb = 'GKH2RckUanc'
+2026-05-22 10:28:00 | DEBUG    | yfinance                       |      Exiting _get_crumb_csrf()
+2026-05-22 10:28:00 | DEBUG    | yfinance                       |     Exiting _get_cookie_and_crumb()
+2026-05-22 10:28:00 | DEBUG    | yfinance                       | response code=404
+2026-05-22 10:28:00 | DEBUG    | yfinance                       |    Exiting _make_request()
+2026-05-22 10:28:00 | DEBUG    | yfinance                       |   Exiting get()
+2026-05-22 10:28:00 | DEBUG    | yfinance                       | Got error from yahoo api for ticker AL30D.BA, Error: {'code': 'Not Found', 'description': 'No data found, symbol may be delisted'}
+2026-05-22 10:28:00 | DEBUG    | yfinance                       |  Exiting _fetch_ticker_tz()
+2026-05-22 10:28:00 | DEBUG    | yfinance                       | get_raw_json(): https://query2.finance.yahoo.com/v10/finance/quoteSummary/AL30D.BA
+2026-05-22 10:28:00 | DEBUG    | yfinance                       |  Entering get()
+2026-05-22 10:28:00 | DEBUG    | yfinance                       |   Entering _make_request()
+2026-05-22 10:28:00 | DEBUG    | yfinance                       | url=https://query2.finance.yahoo.com/v10/finance/quoteSummary/AL30D.BA
+2026-05-22 10:28:00 | DEBUG    | yfinance                       | params={'modules': 'financialData,quoteType,defaultKeyStatistics,assetProfile,summaryDetail', 'corsDomain': 'finance.yahoo.com', 'formatted': 'false', 'symbol': 'AL30D.BA'}
+2026-05-22 10:28:00 | DEBUG    | yfinance                       |    Entering _get_cookie_and_crumb()
+2026-05-22 10:28:00 | DEBUG    | yfinance                       | cookie_mode = 'csrf'
+2026-05-22 10:28:00 | DEBUG    | yfinance                       |     Entering _get_crumb_csrf()
+2026-05-22 10:28:00 | DEBUG    | yfinance                       | reusing crumb
+2026-05-22 10:28:00 | DEBUG    | yfinance                       |     Exiting _get_crumb_csrf()
+2026-05-22 10:28:00 | DEBUG    | yfinance                       |    Exiting _get_cookie_and_crumb()
+2026-05-22 10:28:01 | DEBUG    | yfinance                       | response code=404
+2026-05-22 10:28:01 | DEBUG    | yfinance                       | toggling cookie strategy csrf -> basic
+2026-05-22 10:28:01 | DEBUG    | yfinance                       |    Entering _get_cookie_and_crumb()
+2026-05-22 10:28:01 | DEBUG    | yfinance                       | cookie_mode = 'basic'
+2026-05-22 10:28:01 | DEBUG    | yfinance                       |     Entering _get_cookie_and_crumb_basic()
+2026-05-22 10:28:01 | DEBUG    | yfinance                       |      Entering _get_cookie_basic()
+2026-05-22 10:28:01 | DEBUG    | yfinance                       |       Entering _load_cookie_curlCffi()
+2026-05-22 10:28:01 | DEBUG    | peewee                         | ('SELECT "t1"."strategy", "t1"."fetch_date", "t1"."cookie_bytes" FROM "_cookieschema" AS "t1" WHERE ("t1"."strategy" = ?) LIMIT ? OFFSET ?', ['curlCffi', 1, 0])
+2026-05-22 10:28:01 | DEBUG    | yfinance                       |       Exiting _load_cookie_curlCffi()
+2026-05-22 10:28:01 | DEBUG    | yfinance                       | reusing persistent cookie
+2026-05-22 10:28:01 | DEBUG    | yfinance                       |      Exiting _get_cookie_basic()
+2026-05-22 10:28:01 | DEBUG    | yfinance                       |      Entering _get_crumb_basic()
+2026-05-22 10:28:01 | DEBUG    | yfinance                       |       Entering _get_cookie_basic()
+2026-05-22 10:28:01 | DEBUG    | yfinance                       | reusing cookie
+2026-05-22 10:28:01 | DEBUG    | yfinance                       |       Exiting _get_cookie_basic()
+2026-05-22 10:28:01 | DEBUG    | yfinance                       | crumb = 'GKH2RckUanc'
+2026-05-22 10:28:01 | DEBUG    | yfinance                       |      Exiting _get_crumb_basic()
+2026-05-22 10:28:01 | DEBUG    | yfinance                       |     Exiting _get_cookie_and_crumb_basic()
+2026-05-22 10:28:01 | DEBUG    | yfinance                       |    Exiting _get_cookie_and_crumb()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       | response code=404
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |   Exiting _make_request()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |  Exiting get()
+2026-05-22 10:28:02 | ERROR    | yfinance                       | HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: AL30D.BA"}}}
+2026-05-22 10:28:02 | DEBUG    | yfinance                       | get_raw_json(): https://query1.finance.yahoo.com/v7/finance/quote?
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |  Entering get()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |   Entering _make_request()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       | url=https://query1.finance.yahoo.com/v7/finance/quote?
+2026-05-22 10:28:02 | DEBUG    | yfinance                       | params={'symbols': 'AL30D.BA', 'formatted': 'false'}
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |    Entering _get_cookie_and_crumb()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       | cookie_mode = 'basic'
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |     Entering _get_cookie_and_crumb_basic()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |      Entering _get_cookie_basic()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       | reusing cookie
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |      Exiting _get_cookie_basic()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |      Entering _get_crumb_basic()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       | reusing crumb
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |      Exiting _get_crumb_basic()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |     Exiting _get_cookie_and_crumb_basic()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |    Exiting _get_cookie_and_crumb()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       | response code=200
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |   Exiting _make_request()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |  Exiting get()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |  Entering get()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |   Entering _make_request()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       | url=https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/AL30D.BA?symbol=AL30D.BA&type=trailingPegRatio&period1=1763683200&period2=1779494400
+2026-05-22 10:28:02 | DEBUG    | yfinance                       | params=None
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |    Entering _get_cookie_and_crumb()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       | cookie_mode = 'basic'
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |     Entering _get_cookie_and_crumb_basic()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |      Entering _get_cookie_basic()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       | reusing cookie
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |      Exiting _get_cookie_basic()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |      Entering _get_crumb_basic()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       | reusing crumb
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |      Exiting _get_crumb_basic()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |     Exiting _get_cookie_and_crumb_basic()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |    Exiting _get_cookie_and_crumb()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       | response code=200
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |   Exiting _make_request()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |  Exiting get()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |  Entering history()
+2026-05-22 10:28:02 | ERROR    | yfinance                       | $AL30D.BA: possibly delisted; no timezone found
+2026-05-22 10:28:02 | DEBUG    | yfinance                       |  Exiting history()
+2026-05-22 10:28:02 | DEBUG    | yfinance                       | Exiting history()
+2026-05-22 10:28:02 | DEBUG    | urllib3.connectionpool         | Starting new HTTPS connection (1): open.byma.com.ar:443
+2026-05-22 10:28:02 | DEBUG    | src.data.scraper_al30d         | [AL30D.BA] BYMA API failed: HTTPSConnectionPool(host='open.byma.com.ar', port=443): Max retries exceeded with url: /api/prices/bonds?symbol=AL30D&date_from=2024-01-01&date_to=2024-01-31 (Caused by NameResolutionError("HTTPSConnection(host='open.byma.com.ar', port=443): Failed to resolve 'open.byma.com.ar' ([Errno 11001] getaddrinfo failed)"))
+2026-05-22 10:28:02 | WARNING  | src.data.scraper_al30d         | [AL30D.BA] all sources failed and no cache available
+2026-05-22 10:28:02 | WARNING  | src.data.scraper_al30d         | sovereign_bond: all sources failed — returning empty series
+2026-05-22 10:28:03 | DEBUG    | urllib3.connectionpool         | Starting new HTTPS connection (1): mercados.ambito.com:443
+2026-05-22 10:28:03 | DEBUG    | urllib3.connectionpool         | https://mercados.ambito.com:443 "GET //dolar/contadoconliqui/historico-general/01/01/2024/31/01/2024 HTTP/1.1" 403 9
+2026-05-22 10:28:03 | DEBUG    | src.data.scraper_ccl           | CCL Ámbito API failed: 403 Client Error: Forbidden for url: https://mercados.ambito.com//dolar/contadoconliqui/historico-general/01/01/2024/31/01/2024
+2026-05-22 10:28:03 | DEBUG    | yfinance                       | Entering history()
+2026-05-22 10:28:03 | DEBUG    | peewee                         | ('SELECT "t1"."key", "t1"."value" FROM "_tz_kv" AS "t1" WHERE ("t1"."key" = ?) LIMIT ? OFFSET ?', ['GGAL.BA', 1, 0])
+2026-05-22 10:28:03 | DEBUG    | yfinance                       |  Entering history()
+2026-05-22 10:28:03 | DEBUG    | yfinance                       | GGAL.BA: Yahoo GET parameters: {'period1': '2024-01-01 00:00:00-03:00', 'period2': '2024-01-31 00:00:00-03:00', 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'}
+2026-05-22 10:28:03 | DEBUG    | yfinance                       |   Entering get()
+2026-05-22 10:28:03 | DEBUG    | yfinance                       |    Entering _make_request()
+2026-05-22 10:28:03 | DEBUG    | yfinance                       | url=https://query2.finance.yahoo.com/v8/finance/chart/GGAL.BA
+2026-05-22 10:28:03 | DEBUG    | yfinance                       | params=frozendict.frozendict({'period1': 1704078000, 'period2': 1706670000, 'interval': '1wk', 'includePrePost': False, 'events': 'div,splits,capitalGains'})
+2026-05-22 10:28:03 | DEBUG    | yfinance                       |     Entering _get_cookie_and_crumb()
+2026-05-22 10:28:03 | DEBUG    | yfinance                       | cookie_mode = 'basic'
+2026-05-22 10:28:03 | DEBUG    | yfinance                       |      Entering _get_cookie_and_crumb_basic()
+2026-05-22 10:28:03 | DEBUG    | yfinance                       |       Entering _get_cookie_basic()
+2026-05-22 10:28:03 | DEBUG    | yfinance                       | reusing cookie
+2026-05-22 10:28:03 | DEBUG    | yfinance                       |       Exiting _get_cookie_basic()
+2026-05-22 10:28:03 | DEBUG    | yfinance                       |       Entering _get_crumb_basic()
+2026-05-22 10:28:03 | DEBUG    | yfinance                       | reusing crumb
+2026-05-22 10:28:03 | DEBUG    | yfinance                       |       Exiting _get_crumb_basic()
+2026-05-22 10:28:03 | DEBUG    | yfinance                       |      Exiting _get_cookie_and_crumb_basic()
+2026-05-22 10:28:03 | DEBUG    | yfinance                       |     Exiting _get_cookie_and_crumb()
+2026-05-22 10:28:03 | DEBUG    | yfinance                       | response code=200
+2026-05-22 10:28:03 | DEBUG    | yfinance                       |    Exiting _make_request()
+2026-05-22 10:28:03 | DEBUG    | yfinance                       |   Exiting get()
+2026-05-22 10:28:03 | DEBUG    | yfinance                       | GGAL.BA: yfinance received OHLC data: 2024-01-01 03:00:00 -> 2024-01-29 03:00:00
+2026-05-22 10:28:03 | DEBUG    | yfinance                       | GGAL.BA: OHLC after cleaning: 2024-01-01 00:00:00-03:00 -> 2024-01-29 00:00:00-03:00
+2026-05-22 10:28:03 | DEBUG    | yfinance                       | GGAL.BA: OHLC after combining events: 2024-01-01 00:00:00-03:00 -> 2024-01-29 00:00:00-03:00
+2026-05-22 10:28:03 | DEBUG    | yfinance                       | GGAL.BA: yfinance returning OHLC: 2024-01-01 00:00:00-03:00 -> 2024-01-29 00:00:00-03:00
+2026-05-22 10:28:03 | DEBUG    | yfinance                       |  Exiting history()
+2026-05-22 10:28:03 | DEBUG    | yfinance                       | Exiting history()
+2026-05-22 10:28:03 | INFO     | src.data.scraper_ccl           | CCL: GGAL ratio fallback used (5 observations)
+2026-05-22 10:28:03 | DEBUG    | urllib3.connectionpool         | Starting new HTTPS connection (1): apis.datos.gob.ar:443
+2026-05-22 10:28:04 | DEBUG    | urllib3.connectionpool         | https://apis.datos.gob.ar:443 "GET /series/api/series/?ids=103.1_I2N_2016_M_19&limit=5000&start_date=2024-01-01&end_date=2024-01-31&format=json HTTP/1.1" 200 None
+2026-05-22 10:28:04 | INFO     | src.data.scraper_macro         | [macro/ipc] datos.gob.ar: 1 rows
+2026-05-22 10:28:04 | DEBUG    | urllib3.connectionpool         | Starting new HTTPS connection (1): mercados.ambito.com:443
+2026-05-22 10:28:04 | DEBUG    | urllib3.connectionpool         | https://mercados.ambito.com:443 "GET //riesgopais/historico-general/01/01/2024/31/01/2024 HTTP/1.1" 403 9
+2026-05-22 10:28:04 | DEBUG    | src.data.scraper_macro         | [macro/embi] Ámbito API failed: 403 Client Error: Forbidden for url: https://mercados.ambito.com//riesgopais/historico-general/01/01/2024/31/01/2024
+2026-05-22 10:28:04 | WARNING  | src.data.scraper_macro         | [macro/embi] using cached fallback for 2024-01-01 → 2024-01-31
+2026-05-22 10:28:04 | DEBUG    | urllib3.connectionpool         | Starting new HTTPS connection (1): apis.datos.gob.ar:443
+2026-05-22 10:28:05 | DEBUG    | urllib3.connectionpool         | https://apis.datos.gob.ar:443 "GET /series/api/series/?ids=92.1_RID_0_0_32&limit=5000&start_date=2024-01-01&end_date=2024-01-31&format=json HTTP/1.1" 200 None
+2026-05-22 10:28:05 | INFO     | src.data.scraper_macro         | [macro/reservas] datos.gob.ar: 1 rows
+2026-05-22 10:28:05 | DEBUG    | urllib3.connectionpool         | Starting new HTTPS connection (1): apis.datos.gob.ar:443
+2026-05-22 10:28:05 | DEBUG    | urllib3.connectionpool         | https://apis.datos.gob.ar:443 "GET /series/api/series/?ids=168.1_T_CAMBIOR_D_0_0_26&limit=5000&start_date=2024-01-01&end_date=2024-01-31&format=json HTTP/1.1" 200 None
+2026-05-22 10:28:05 | INFO     | src.data.scraper_macro         | [macro/tc_oficial] datos.gob.ar: 1 rows
+2026-05-22 10:28:05 | INFO     | src.data.validator             | Coverage report [prices]
+2026-05-22 10:28:05 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:28:05 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 10:28:05 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:28:05 | INFO     | src.data.validator             | YPF                   2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-22 10:28:05 | INFO     | src.data.validator             | GGAL                  2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-22 10:28:05 | INFO     | src.data.validator             | BMA                   2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-22 10:28:05 | INFO     | src.data.validator             | PAM                   2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-22 10:28:05 | INFO     | src.data.validator             | TGS                   2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-22 10:28:05 | INFO     | src.data.validator             | CEPU                  2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-22 10:28:05 | INFO     | src.data.validator             | EDN                   2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-22 10:28:05 | INFO     | src.data.validator             | LOMA                  2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-22 10:28:05 | INFO     | src.data.validator             | CRESY                 2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-22 10:28:05 | INFO     | src.data.validator             | IRS                   2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-22 10:28:05 | ERROR    | src.data.validator             | sovereign_bond        MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 10:28:05 | INFO     | src.data.validator             | merval                2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-22 10:28:05 | INFO     | src.data.validator             | ccl                   2024-01-05    2024-02-02        5      0   0.00%  LATE +3291d
+2026-05-22 10:28:05 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:28:05 | INFO     | src.data.validator             | Coverage report [macro]
+2026-05-22 10:28:05 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:28:05 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 10:28:05 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:28:05 | INFO     | src.data.validator             | ipc                   2024-01-31    2024-01-31        1      0   0.00%  LATE +3317d
+2026-05-22 10:28:05 | ERROR    | src.data.validator             | embi                  MISSING       MISSING           1      1  100.00%  ERROR     
+2026-05-22 10:28:05 | INFO     | src.data.validator             | reservas              2024-01-31    2024-01-31        1      0   0.00%  LATE +3317d
+2026-05-22 10:28:05 | INFO     | src.data.validator             | tc_oficial            2024-01-31    2024-01-31        1      0   0.00%  LATE +3317d
+2026-05-22 10:28:05 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:28:05 | WARNING  | src.data.loader                | 17 validation warning(s) — data will still be appended.
+2026-05-22 10:28:05 | INFO     | src.data.cache_manager         | Appending live month to cache
+2026-05-22 10:28:06 | INFO     | src.features.features          | compute_features: 789 weekly rows | 10 tickers | warm-up = 30 rows
+2026-05-22 10:28:06 | WARNING  | src.signals.regime             | _build_monthly_feature_matrix: 'embi' is entirely NaN — filling with 0.0
+2026-05-22 10:28:06 | INFO     | src.signals.regime             | Regime prediction: risk_on (p=0.957) | month=2017-10 | nlp_score=0.0000

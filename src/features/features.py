@@ -126,17 +126,22 @@ def _compute_signals(
     vol_window: int,
 ) -> pd.DataFrame:
     """Compute all four signals for a single price series."""
-    sma_s = price.rolling(sma_short, min_periods=sma_short).mean()
-    sma_l = price.rolling(sma_long, min_periods=sma_long).mean()
+    # ffill/fillna(0) handles NaN gaps from union-indexing across tickers with
+    # different weekday closes — price holds flat, log-return is 0 on filler dates.
+    price_ff = price.ffill()
+    lr_ff = log_returns.fillna(0.0)
+
+    sma_s = price_ff.rolling(sma_short, min_periods=sma_short).mean()
+    sma_l = price_ff.rolling(sma_long, min_periods=sma_long).mean()
 
     signals = pd.DataFrame(index=price.index)
-    signals[f"price_to_sma{sma_short}"] = price / sma_s
-    signals[f"price_to_sma{sma_long}"] = price / sma_l
+    signals[f"price_to_sma{sma_short}"] = price_ff / sma_s
+    signals[f"price_to_sma{sma_long}"] = price_ff / sma_l
     signals[f"momentum_{momentum_window}"] = (
-        log_returns.rolling(momentum_window, min_periods=momentum_window).sum()
+        lr_ff.rolling(momentum_window, min_periods=momentum_window).sum()
     )
     signals[f"realized_vol_{vol_window}"] = (
-        log_returns.rolling(vol_window, min_periods=vol_window).std()
+        lr_ff.rolling(vol_window, min_periods=vol_window).std()
     )
     return signals
 

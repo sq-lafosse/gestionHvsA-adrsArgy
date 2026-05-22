@@ -30,8 +30,8 @@ _AMBITO_EMBI_URL = (
     "https://mercados.ambito.com//riesgopais/historico-general/{start}/{end}"
 )
 
-_SERIES_IPC = "148.3_INIVELGENERAL_DICI_M_26"
-_SERIES_RESERVAS = "174.1_IR_2012_0_15"
+_SERIES_IPC = "103.1_I2N_2016_M_19"        # IPC-GBA nivel general, base dic-2016 (arranca abr-2016)
+_SERIES_RESERVAS = "92.1_RID_0_0_32"      # Reservas internacionales BCRA (desde 2003)
 _SERIES_TC = "168.1_T_CAMBIOR_D_0_0_26"
 
 _BCRA_RESERVAS_ID = 1
@@ -107,11 +107,8 @@ def get_reservas(
     end: str,
     cached_series: pd.Series | None = None,
 ) -> pd.Series:
-    """BCRA international reserves (USD millions). datos.gob.ar → BCRA API → cache."""
+    """BCRA international reserves (USD millions). datos.gob.ar → cache."""
     s = _try_datos_gob(start, end, _SERIES_RESERVAS, "reservas")
-    if not s.empty:
-        return s
-    s = _try_bcra_api(start, end, _BCRA_RESERVAS_ID, "reservas")
     if not s.empty:
         return s
     return _use_cached_fallback("reservas", start, end, cached_series)
@@ -156,7 +153,11 @@ def _try_datos_gob(
 
         dates = pd.to_datetime([r[0] for r in rows], errors="coerce")
         values = pd.to_numeric([r[1] for r in rows], errors="coerce")
-        s = pd.Series(values, index=_to_month_end(dates), name=name).dropna()
+        # Use daily index first, then resample to ME — handles both daily and monthly source data
+        # and avoids duplicate month-end labels that pd.concat(axis=1) cannot align.
+        s = pd.Series(values, index=dates, name=name).dropna()
+        s = s.resample("ME").last().dropna()
+        s.index = _to_month_end(s.index)
         logger.info("[macro/%s] datos.gob.ar: %d rows", name, len(s))
         return s
     except Exception as exc:  # noqa: BLE001

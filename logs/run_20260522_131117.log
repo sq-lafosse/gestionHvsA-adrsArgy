@@ -1,0 +1,63 @@
+2026-05-22 10:11:17 | INFO     | src.utils.utils                | Logging initialized — level=INFO  file=logs\run_20260522_131117.log
+2026-05-22 10:11:17 | INFO     | __main__                       | === gestionHvsA-adrsArgy | mode=historical ===
+2026-05-22 10:11:17 | INFO     | src.utils.utils                | [START] historical data download
+2026-05-22 10:11:17 | INFO     | src.data.loader                | Starting historical download: 2015-01-01 → 2023-12-01 | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-22 10:11:38 | INFO     | src.data.downloader            | [YPF] 466 weekly rows (2015-01-01 → 2023-11-30)
+2026-05-22 10:11:38 | INFO     | src.data.downloader            | [GGAL] 466 weekly rows (2015-01-01 → 2023-11-30)
+2026-05-22 10:11:38 | INFO     | src.data.downloader            | [BMA] 466 weekly rows (2015-01-01 → 2023-11-30)
+2026-05-22 10:11:38 | INFO     | src.data.downloader            | [PAM] 466 weekly rows (2015-01-01 → 2023-11-30)
+2026-05-22 10:11:38 | INFO     | src.data.downloader            | [TGS] 466 weekly rows (2015-01-01 → 2023-11-30)
+2026-05-22 10:11:38 | INFO     | src.data.downloader            | [CEPU] 305 weekly rows (2018-01-29 → 2023-11-27)
+2026-05-22 10:11:38 | INFO     | src.data.downloader            | [EDN] 466 weekly rows (2015-01-01 → 2023-11-30)
+2026-05-22 10:11:38 | INFO     | src.data.downloader            | [LOMA] 318 weekly rows (2017-10-30 → 2023-11-27)
+2026-05-22 10:11:38 | INFO     | src.data.downloader            | [CRESY] 466 weekly rows (2015-01-01 → 2023-11-30)
+2026-05-22 10:11:38 | INFO     | src.data.downloader            | [IRS] 466 weekly rows (2015-01-01 → 2023-11-30)
+2026-05-22 10:11:42 | ERROR    | yfinance                       | $AY24.BA: possibly delisted; no timezone found
+2026-05-22 10:11:42 | WARNING  | src.data.scraper_al30d         | [AY24.BA] all sources failed and no cache available
+2026-05-22 10:11:45 | ERROR    | yfinance                       | HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: AL30D.BA"}}}
+2026-05-22 10:11:46 | ERROR    | yfinance                       | $AL30D.BA: possibly delisted; no timezone found
+2026-05-22 10:11:46 | WARNING  | src.data.scraper_al30d         | [AL30D.BA] all sources failed and no cache available
+2026-05-22 10:11:46 | WARNING  | src.data.scraper_al30d         | sovereign_bond: all sources failed — returning empty series
+2026-05-22 10:11:48 | INFO     | src.data.scraper_ccl           | CCL: GGAL ratio fallback used (466 observations)
+2026-05-22 10:11:49 | WARNING  | src.data.scraper_macro         | [macro/ipc] all sources failed and no cache — NaN series
+2026-05-22 10:11:49 | WARNING  | src.data.scraper_macro         | [macro/embi] all sources failed and no cache — NaN series
+2026-05-22 10:11:50 | WARNING  | src.data.scraper_macro         | [macro/reservas] all sources failed and no cache — NaN series
+2026-05-22 10:11:52 | INFO     | src.data.scraper_macro         | [macro/tc_oficial] datos.gob.ar: 3257 rows
+2026-05-22 10:11:52 | INFO     | src.data.validator             | Coverage report [prices]
+2026-05-22 10:11:52 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:11:52 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 10:11:52 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:11:52 | INFO     | src.data.validator             | YPF                   2015-01-01    2023-11-30      784    318  40.56%  OK        
+2026-05-22 10:11:52 | INFO     | src.data.validator             | GGAL                  2015-01-01    2023-11-30      784    318  40.56%  OK        
+2026-05-22 10:11:52 | INFO     | src.data.validator             | BMA                   2015-01-01    2023-11-30      784    318  40.56%  OK        
+2026-05-22 10:11:52 | INFO     | src.data.validator             | PAM                   2015-01-01    2023-11-30      784    318  40.56%  OK        
+2026-05-22 10:11:52 | INFO     | src.data.validator             | TGS                   2015-01-01    2023-11-30      784    318  40.56%  OK        
+2026-05-22 10:11:52 | INFO     | src.data.validator             | CEPU                  2018-01-29    2023-11-27      784    479  61.10%  LATE +1124d
+2026-05-22 10:11:52 | INFO     | src.data.validator             | EDN                   2015-01-01    2023-11-30      784    318  40.56%  OK        
+2026-05-22 10:11:52 | INFO     | src.data.validator             | LOMA                  2017-10-30    2023-11-27      784    466  59.44%  LATE +1033d
+2026-05-22 10:11:52 | INFO     | src.data.validator             | CRESY                 2015-01-01    2023-11-30      784    318  40.56%  OK        
+2026-05-22 10:11:52 | INFO     | src.data.validator             | IRS                   2015-01-01    2023-11-30      784    318  40.56%  OK        
+2026-05-22 10:11:52 | ERROR    | src.data.validator             | sovereign_bond        MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-22 10:11:52 | INFO     | src.data.validator             | merval                2015-01-01    2023-11-30      466      0   0.00%  OK        
+2026-05-22 10:11:52 | INFO     | src.data.validator             | ccl                   2015-01-02    2023-12-01      466      0   0.00%  LATE +1d  
+2026-05-22 10:11:52 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:11:52 | INFO     | src.data.validator             | Coverage report [macro]
+2026-05-22 10:11:52 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:11:52 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-22 10:11:52 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:11:52 | ERROR    | src.data.validator             | ipc                   MISSING       MISSING        3257   3257  100.00%  ERROR     
+2026-05-22 10:11:52 | ERROR    | src.data.validator             | embi                  MISSING       MISSING        3257   3257  100.00%  ERROR     
+2026-05-22 10:11:52 | ERROR    | src.data.validator             | reservas              MISSING       MISSING        3257   3257  100.00%  ERROR     
+2026-05-22 10:11:52 | INFO     | src.data.validator             | tc_oficial            2015-01-31    2023-12-31     3257      0   0.00%  LATE +30d 
+2026-05-22 10:11:52 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-22 10:11:52 | ERROR    | src.data.loader                | Validation failed — historical cache NOT written. 4 error(s):
+2026-05-22 10:11:52 | ERROR    | src.data.loader                |   [sovereign_bond] series is entirely NaN (0 rows)
+2026-05-22 10:11:52 | ERROR    | src.data.loader                |   [ipc] series is entirely NaN (3257 rows)
+2026-05-22 10:11:52 | ERROR    | src.data.loader                |   [embi] series is entirely NaN (3257 rows)
+2026-05-22 10:11:52 | ERROR    | src.data.loader                |   [reservas] series is entirely NaN (3257 rows)
+2026-05-22 10:11:52 | INFO     | src.utils.utils                | [DONE]  historical data download — 34.73s
+2026-05-22 10:11:52 | INFO     | __main__                       | Loading in-sample data for model training...
+2026-05-22 10:11:52 | WARNING  | src.data.cache_manager         | ADR cache not found: data\cache\prices\adrs.parquet
+2026-05-22 10:11:52 | WARNING  | src.data.cache_manager         | CCL cache not found: data\cache\prices\ccl.parquet
+2026-05-22 10:11:52 | WARNING  | src.data.cache_manager         | Macro cache not found: data\cache\macro\macro.parquet
+2026-05-22 10:11:52 | ERROR    | __main__                       | ADR cache is empty after historical download — aborting.

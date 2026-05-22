@@ -28,7 +28,8 @@ def download_adrs(tickers: list[str], start: str, end: str) -> pd.DataFrame:
     if not series_list:
         return pd.DataFrame()
     df = pd.concat(series_list, axis=1)
-    df.index = _normalize_index(df.index)
+    if not df.empty:
+        df.index = _normalize_index(df.index)
     _log_coverage(df, tickers)
     return df
 

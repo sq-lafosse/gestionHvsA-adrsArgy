@@ -1,0 +1,153 @@
+2026-05-22 11:00:13 | INFO     | src.utils.utils                | Logging initialized — level=INFO  file=logs\run_20260522_140013.log
+2026-05-22 11:00:13 | INFO     | __main__                       | === gestionHvsA-adrsArgy | mode=live ===
+2026-05-22 11:00:13 | INFO     | __main__                       | Live mode: 6 months | 2024-01 → 2024-06
+2026-05-22 11:00:13 | INFO     | src.utils.utils                | [START] live 2024-01
+2026-05-22 11:00:13 | INFO     | src.data.loader                | Starting live-month download: 2024-07-01 → 2024-01-31 (cutoff: 2024-01-31) | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-22 11:00:17 | ERROR    | yfinance                       | $YPF: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-01-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1706677200")
+2026-05-22 11:00:17 | WARNING  | src.data.downloader            | [YPF] yfinance returned empty DataFrame
+2026-05-22 11:00:19 | ERROR    | yfinance                       | $GGAL: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-01-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1706677200")
+2026-05-22 11:00:19 | WARNING  | src.data.downloader            | [GGAL] yfinance returned empty DataFrame
+2026-05-22 11:00:20 | ERROR    | yfinance                       | $BMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-01-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1706677200")
+2026-05-22 11:00:20 | WARNING  | src.data.downloader            | [BMA] yfinance returned empty DataFrame
+2026-05-22 11:00:22 | ERROR    | yfinance                       | $PAM: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-01-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1706677200")
+2026-05-22 11:00:22 | WARNING  | src.data.downloader            | [PAM] yfinance returned empty DataFrame
+2026-05-22 11:00:24 | ERROR    | yfinance                       | $TGS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-01-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1706677200")
+2026-05-22 11:00:24 | WARNING  | src.data.downloader            | [TGS] yfinance returned empty DataFrame
+2026-05-22 11:00:25 | ERROR    | yfinance                       | $CEPU: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-01-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1706677200")
+2026-05-22 11:00:25 | WARNING  | src.data.downloader            | [CEPU] yfinance returned empty DataFrame
+2026-05-22 11:00:26 | ERROR    | yfinance                       | $EDN: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-01-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1706677200")
+2026-05-22 11:00:26 | WARNING  | src.data.downloader            | [EDN] yfinance returned empty DataFrame
+2026-05-22 11:00:28 | ERROR    | yfinance                       | $LOMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-01-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1706677200")
+2026-05-22 11:00:28 | WARNING  | src.data.downloader            | [LOMA] yfinance returned empty DataFrame
+2026-05-22 11:00:29 | ERROR    | yfinance                       | $CRESY: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-01-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1706677200")
+2026-05-22 11:00:29 | WARNING  | src.data.downloader            | [CRESY] yfinance returned empty DataFrame
+2026-05-22 11:00:31 | ERROR    | yfinance                       | $IRS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-01-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1706677200")
+2026-05-22 11:00:31 | WARNING  | src.data.downloader            | [IRS] yfinance returned empty DataFrame
+2026-05-22 11:00:31 | INFO     | src.utils.utils                | [DONE]  live 2024-01 — 17.57s
+2026-05-22 11:00:31 | ERROR    | __main__                       | Month 2024-01 failed (AttributeError: 'RangeIndex' object has no attribute 'tz') — applying carry-forward.
+2026-05-22 11:00:31 | ERROR    | __main__                       | No prior allocation to carry forward — month 2024-01 skipped entirely.
+2026-05-22 11:00:31 | INFO     | src.utils.utils                | [START] live 2024-02
+2026-05-22 11:00:31 | INFO     | src.data.loader                | Starting live-month download: 2024-07-01 → 2024-02-29 (cutoff: 2024-02-29) | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-22 11:00:32 | ERROR    | yfinance                       | $YPF: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-02-29) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1709182800")
+2026-05-22 11:00:32 | WARNING  | src.data.downloader            | [YPF] yfinance returned empty DataFrame
+2026-05-22 11:00:33 | ERROR    | yfinance                       | $GGAL: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-02-29) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1709182800")
+2026-05-22 11:00:33 | WARNING  | src.data.downloader            | [GGAL] yfinance returned empty DataFrame
+2026-05-22 11:00:35 | ERROR    | yfinance                       | $BMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-02-29) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1709182800")
+2026-05-22 11:00:35 | WARNING  | src.data.downloader            | [BMA] yfinance returned empty DataFrame
+2026-05-22 11:00:36 | ERROR    | yfinance                       | $PAM: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-02-29) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1709182800")
+2026-05-22 11:00:36 | WARNING  | src.data.downloader            | [PAM] yfinance returned empty DataFrame
+2026-05-22 11:00:38 | ERROR    | yfinance                       | $TGS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-02-29) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1709182800")
+2026-05-22 11:00:38 | WARNING  | src.data.downloader            | [TGS] yfinance returned empty DataFrame
+2026-05-22 11:00:39 | ERROR    | yfinance                       | $CEPU: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-02-29) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1709182800")
+2026-05-22 11:00:39 | WARNING  | src.data.downloader            | [CEPU] yfinance returned empty DataFrame
+2026-05-22 11:00:40 | ERROR    | yfinance                       | $EDN: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-02-29) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1709182800")
+2026-05-22 11:00:40 | WARNING  | src.data.downloader            | [EDN] yfinance returned empty DataFrame
+2026-05-22 11:00:42 | ERROR    | yfinance                       | $LOMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-02-29) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1709182800")
+2026-05-22 11:00:42 | WARNING  | src.data.downloader            | [LOMA] yfinance returned empty DataFrame
+2026-05-22 11:00:43 | ERROR    | yfinance                       | $CRESY: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-02-29) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1709182800")
+2026-05-22 11:00:43 | WARNING  | src.data.downloader            | [CRESY] yfinance returned empty DataFrame
+2026-05-22 11:00:45 | ERROR    | yfinance                       | $IRS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-02-29) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1709182800")
+2026-05-22 11:00:45 | WARNING  | src.data.downloader            | [IRS] yfinance returned empty DataFrame
+2026-05-22 11:00:45 | INFO     | src.utils.utils                | [DONE]  live 2024-02 — 14.08s
+2026-05-22 11:00:45 | ERROR    | __main__                       | Month 2024-02 failed (AttributeError: 'RangeIndex' object has no attribute 'tz') — applying carry-forward.
+2026-05-22 11:00:45 | ERROR    | __main__                       | No prior allocation to carry forward — month 2024-02 skipped entirely.
+2026-05-22 11:00:45 | INFO     | src.utils.utils                | [START] live 2024-03
+2026-05-22 11:00:45 | INFO     | src.data.loader                | Starting live-month download: 2024-07-01 → 2024-03-31 (cutoff: 2024-03-31) | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-22 11:00:46 | ERROR    | yfinance                       | $YPF: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-03-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1711857600")
+2026-05-22 11:00:46 | WARNING  | src.data.downloader            | [YPF] yfinance returned empty DataFrame
+2026-05-22 11:00:47 | ERROR    | yfinance                       | $GGAL: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-03-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1711857600")
+2026-05-22 11:00:47 | WARNING  | src.data.downloader            | [GGAL] yfinance returned empty DataFrame
+2026-05-22 11:00:49 | ERROR    | yfinance                       | $BMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-03-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1711857600")
+2026-05-22 11:00:49 | WARNING  | src.data.downloader            | [BMA] yfinance returned empty DataFrame
+2026-05-22 11:00:50 | ERROR    | yfinance                       | $PAM: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-03-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1711857600")
+2026-05-22 11:00:50 | WARNING  | src.data.downloader            | [PAM] yfinance returned empty DataFrame
+2026-05-22 11:00:52 | ERROR    | yfinance                       | $TGS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-03-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1711857600")
+2026-05-22 11:00:52 | WARNING  | src.data.downloader            | [TGS] yfinance returned empty DataFrame
+2026-05-22 11:00:53 | ERROR    | yfinance                       | $CEPU: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-03-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1711857600")
+2026-05-22 11:00:53 | WARNING  | src.data.downloader            | [CEPU] yfinance returned empty DataFrame
+2026-05-22 11:00:54 | ERROR    | yfinance                       | $EDN: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-03-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1711857600")
+2026-05-22 11:00:54 | WARNING  | src.data.downloader            | [EDN] yfinance returned empty DataFrame
+2026-05-22 11:00:56 | ERROR    | yfinance                       | $LOMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-03-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1711857600")
+2026-05-22 11:00:56 | WARNING  | src.data.downloader            | [LOMA] yfinance returned empty DataFrame
+2026-05-22 11:00:57 | ERROR    | yfinance                       | $CRESY: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-03-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1711857600")
+2026-05-22 11:00:57 | WARNING  | src.data.downloader            | [CRESY] yfinance returned empty DataFrame
+2026-05-22 11:00:59 | ERROR    | yfinance                       | $IRS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-03-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1711857600")
+2026-05-22 11:00:59 | WARNING  | src.data.downloader            | [IRS] yfinance returned empty DataFrame
+2026-05-22 11:00:59 | INFO     | src.utils.utils                | [DONE]  live 2024-03 — 14.10s
+2026-05-22 11:00:59 | ERROR    | __main__                       | Month 2024-03 failed (AttributeError: 'RangeIndex' object has no attribute 'tz') — applying carry-forward.
+2026-05-22 11:00:59 | ERROR    | __main__                       | No prior allocation to carry forward — month 2024-03 skipped entirely.
+2026-05-22 11:00:59 | INFO     | src.utils.utils                | [START] live 2024-04
+2026-05-22 11:00:59 | INFO     | src.data.loader                | Starting live-month download: 2024-07-01 → 2024-04-30 (cutoff: 2024-04-30) | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-22 11:01:00 | ERROR    | yfinance                       | $YPF: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-04-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1714449600")
+2026-05-22 11:01:00 | WARNING  | src.data.downloader            | [YPF] yfinance returned empty DataFrame
+2026-05-22 11:01:02 | ERROR    | yfinance                       | $GGAL: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-04-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1714449600")
+2026-05-22 11:01:02 | WARNING  | src.data.downloader            | [GGAL] yfinance returned empty DataFrame
+2026-05-22 11:01:03 | ERROR    | yfinance                       | $BMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-04-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1714449600")
+2026-05-22 11:01:03 | WARNING  | src.data.downloader            | [BMA] yfinance returned empty DataFrame
+2026-05-22 11:01:04 | ERROR    | yfinance                       | $PAM: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-04-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1714449600")
+2026-05-22 11:01:04 | WARNING  | src.data.downloader            | [PAM] yfinance returned empty DataFrame
+2026-05-22 11:01:06 | ERROR    | yfinance                       | $TGS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-04-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1714449600")
+2026-05-22 11:01:06 | WARNING  | src.data.downloader            | [TGS] yfinance returned empty DataFrame
+2026-05-22 11:01:07 | ERROR    | yfinance                       | $CEPU: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-04-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1714449600")
+2026-05-22 11:01:07 | WARNING  | src.data.downloader            | [CEPU] yfinance returned empty DataFrame
+2026-05-22 11:01:09 | ERROR    | yfinance                       | $EDN: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-04-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1714449600")
+2026-05-22 11:01:09 | WARNING  | src.data.downloader            | [EDN] yfinance returned empty DataFrame
+2026-05-22 11:01:10 | ERROR    | yfinance                       | $LOMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-04-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1714449600")
+2026-05-22 11:01:10 | WARNING  | src.data.downloader            | [LOMA] yfinance returned empty DataFrame
+2026-05-22 11:01:11 | ERROR    | yfinance                       | $CRESY: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-04-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1714449600")
+2026-05-22 11:01:11 | WARNING  | src.data.downloader            | [CRESY] yfinance returned empty DataFrame
+2026-05-22 11:01:13 | ERROR    | yfinance                       | $IRS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-04-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1714449600")
+2026-05-22 11:01:13 | WARNING  | src.data.downloader            | [IRS] yfinance returned empty DataFrame
+2026-05-22 11:01:13 | INFO     | src.utils.utils                | [DONE]  live 2024-04 — 14.14s
+2026-05-22 11:01:13 | ERROR    | __main__                       | Month 2024-04 failed (AttributeError: 'RangeIndex' object has no attribute 'tz') — applying carry-forward.
+2026-05-22 11:01:13 | ERROR    | __main__                       | No prior allocation to carry forward — month 2024-04 skipped entirely.
+2026-05-22 11:01:13 | INFO     | src.utils.utils                | [START] live 2024-05
+2026-05-22 11:01:13 | INFO     | src.data.loader                | Starting live-month download: 2024-07-01 → 2024-05-31 (cutoff: 2024-05-31) | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-22 11:01:14 | ERROR    | yfinance                       | $YPF: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-05-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1717128000")
+2026-05-22 11:01:14 | WARNING  | src.data.downloader            | [YPF] yfinance returned empty DataFrame
+2026-05-22 11:01:16 | ERROR    | yfinance                       | $GGAL: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-05-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1717128000")
+2026-05-22 11:01:16 | WARNING  | src.data.downloader            | [GGAL] yfinance returned empty DataFrame
+2026-05-22 11:01:17 | ERROR    | yfinance                       | $BMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-05-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1717128000")
+2026-05-22 11:01:17 | WARNING  | src.data.downloader            | [BMA] yfinance returned empty DataFrame
+2026-05-22 11:01:19 | ERROR    | yfinance                       | $PAM: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-05-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1717128000")
+2026-05-22 11:01:19 | WARNING  | src.data.downloader            | [PAM] yfinance returned empty DataFrame
+2026-05-22 11:01:20 | ERROR    | yfinance                       | $TGS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-05-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1717128000")
+2026-05-22 11:01:20 | WARNING  | src.data.downloader            | [TGS] yfinance returned empty DataFrame
+2026-05-22 11:01:21 | ERROR    | yfinance                       | $CEPU: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-05-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1717128000")
+2026-05-22 11:01:21 | WARNING  | src.data.downloader            | [CEPU] yfinance returned empty DataFrame
+2026-05-22 11:01:23 | ERROR    | yfinance                       | $EDN: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-05-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1717128000")
+2026-05-22 11:01:23 | WARNING  | src.data.downloader            | [EDN] yfinance returned empty DataFrame
+2026-05-22 11:01:24 | ERROR    | yfinance                       | $LOMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-05-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1717128000")
+2026-05-22 11:01:24 | WARNING  | src.data.downloader            | [LOMA] yfinance returned empty DataFrame
+2026-05-22 11:01:26 | ERROR    | yfinance                       | $CRESY: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-05-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1717128000")
+2026-05-22 11:01:26 | WARNING  | src.data.downloader            | [CRESY] yfinance returned empty DataFrame
+2026-05-22 11:01:27 | ERROR    | yfinance                       | $IRS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-05-31) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1717128000")
+2026-05-22 11:01:27 | WARNING  | src.data.downloader            | [IRS] yfinance returned empty DataFrame
+2026-05-22 11:01:27 | INFO     | src.utils.utils                | [DONE]  live 2024-05 — 14.59s
+2026-05-22 11:01:27 | ERROR    | __main__                       | Month 2024-05 failed (AttributeError: 'RangeIndex' object has no attribute 'tz') — applying carry-forward.
+2026-05-22 11:01:27 | ERROR    | __main__                       | No prior allocation to carry forward — month 2024-05 skipped entirely.
+2026-05-22 11:01:27 | INFO     | src.utils.utils                | [START] live 2024-06
+2026-05-22 11:01:27 | INFO     | src.data.loader                | Starting live-month download: 2024-07-01 → 2024-06-30 (cutoff: 2024-06-30) | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-22 11:01:29 | ERROR    | yfinance                       | $YPF: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-06-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1719720000")
+2026-05-22 11:01:29 | WARNING  | src.data.downloader            | [YPF] yfinance returned empty DataFrame
+2026-05-22 11:01:30 | ERROR    | yfinance                       | $GGAL: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-06-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1719720000")
+2026-05-22 11:01:30 | WARNING  | src.data.downloader            | [GGAL] yfinance returned empty DataFrame
+2026-05-22 11:01:32 | ERROR    | yfinance                       | $BMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-06-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1719720000")
+2026-05-22 11:01:32 | WARNING  | src.data.downloader            | [BMA] yfinance returned empty DataFrame
+2026-05-22 11:01:33 | ERROR    | yfinance                       | $PAM: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-06-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1719720000")
+2026-05-22 11:01:33 | WARNING  | src.data.downloader            | [PAM] yfinance returned empty DataFrame
+2026-05-22 11:01:35 | ERROR    | yfinance                       | $TGS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-06-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1719720000")
+2026-05-22 11:01:35 | WARNING  | src.data.downloader            | [TGS] yfinance returned empty DataFrame
+2026-05-22 11:01:36 | ERROR    | yfinance                       | $CEPU: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-06-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1719720000")
+2026-05-22 11:01:36 | WARNING  | src.data.downloader            | [CEPU] yfinance returned empty DataFrame
+2026-05-22 11:01:38 | ERROR    | yfinance                       | $EDN: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-06-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1719720000")
+2026-05-22 11:01:38 | WARNING  | src.data.downloader            | [EDN] yfinance returned empty DataFrame
+2026-05-22 11:01:40 | ERROR    | yfinance                       | $LOMA: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-06-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1719720000")
+2026-05-22 11:01:40 | WARNING  | src.data.downloader            | [LOMA] yfinance returned empty DataFrame
+2026-05-22 11:01:41 | ERROR    | yfinance                       | $CRESY: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-06-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1719720000")
+2026-05-22 11:01:41 | WARNING  | src.data.downloader            | [CRESY] yfinance returned empty DataFrame
+2026-05-22 11:01:43 | ERROR    | yfinance                       | $IRS: possibly delisted; no price data found  (1wk 2024-07-01 -> 2024-06-30) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1719806400, endDate = 1719720000")
+2026-05-22 11:01:43 | WARNING  | src.data.downloader            | [IRS] yfinance returned empty DataFrame
+2026-05-22 11:01:43 | INFO     | src.utils.utils                | [DONE]  live 2024-06 — 15.13s
+2026-05-22 11:01:43 | ERROR    | __main__                       | Month 2024-06 failed (AttributeError: 'RangeIndex' object has no attribute 'tz') — applying carry-forward.
+2026-05-22 11:01:43 | ERROR    | __main__                       | No prior allocation to carry forward — month 2024-06 skipped entirely.
