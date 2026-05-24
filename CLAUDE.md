@@ -1,5 +1,5 @@
 # CLAUDE.md — gestionHvsA-adrsArgy
-
+# To update
 ## Qué es este proyecto
 
 Sistema de **Monthly Tactical Asset Allocation** sobre un universo de activos argentinos denominados en USD.
