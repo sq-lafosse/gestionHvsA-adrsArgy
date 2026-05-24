@@ -1,0 +1,524 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>tm2516381d1_6k.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 12pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;<B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>Washington, D.C.&nbsp;&nbsp;20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 15%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>FORM 6-K</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>REPORT OF FOREIGN PRIVATE ISSUER</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">May 28,&nbsp;2025</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 15%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">Commission File Number: 001-32827</P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 15%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>MACRO BANK INC.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><I>(Translation of registrant&rsquo;s name into
+English)</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 15%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">Av. Eduardo Madero 1182</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">Buenos Aires C1106ACY</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">Tel: 54 11 5222 6500&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><I>(Address of registrant&rsquo;s principal executive
+offices)</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 1in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 1in"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 15%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 1in"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark whether the registrant files or will file annual
+reports under cover of Form 20-F or Form 40-F.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; width: 30%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 7%"><FONT STYLE="font-size: 10pt">Form 20-F</FONT></TD>
+    <TD STYLE="width: 8%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">x</FONT></TD>
+    <TD STYLE="width: 7%"><FONT STYLE="font-size: 10pt">Form 40-F</FONT></TD>
+    <TD STYLE="width: 8%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">o</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark if the registrant is submitting the Form 6-K
+in paper as permitted by Regulation S-T Rule 101(b)(1):</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; width: 30%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 7%"><FONT STYLE="font-size: 10pt">Yes</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; width: 8%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">o</FONT></TD>
+    <TD STYLE="width: 7%"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="width: 8%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">x</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark if the registrant is submitting the Form 6-K
+in paper as permitted by Regulation S-T Rule 101(b)(7):</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; width: 30%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 7%"><FONT STYLE="font-size: 10pt">Yes</FONT></TD>
+    <TD STYLE="width: 8%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">o</FONT></TD>
+    <TD STYLE="width: 7%"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="width: 8%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">x</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 12pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;&nbsp;</P>
+
+<P STYLE="font: italic 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-style: normal"><U>INDEX</U></FONT></P>
+
+<P STYLE="font: italic 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-style: normal">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Translation of a submission from Banco Macro to
+the CNV dated on May 28, 2025.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>&nbsp;</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>&nbsp;</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>&nbsp;</I></P>
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I></I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>&nbsp;</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>&nbsp;</I></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 7pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 10pt; position: relative; top: 0.5pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font-size: 10pt; position: relative; top: 0">&nbsp;<IMG SRC="tm2516381d1_6kimg001.jpg" ALT=""></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 70%; font-size: 10pt; position: relative; top: 0.5pt">&nbsp;</TD>
+    <TD STYLE="width: 5%; font-size: 10pt; position: relative; top: 0.5pt">&nbsp;</TD>
+    <TD STYLE="width: 25%">
+    <P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0">Av. Eduardo Madero 1182 &ndash; C1106ACY</P>
+    <P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0">Ciudad Aut&oacute;noma de Buenos Aires</P>
+    <P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0">Rep&uacute;blica Argentina</P>
+    <P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0">0810-555-2355</P>
+    <P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0">www.macro.com.ar&nbsp;</P></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>&nbsp;</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt"><U>Synthesis of quarterly
+financial statements</U></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt"><U>Sect. 63 BYMA Listing Rules
+and Regulations</U></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt"><U STYLE="text-decoration: none">&nbsp;</U></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 3pt; border: Black 1pt solid"><FONT STYLE="font-size: 10pt"><B>Issuer:</B></FONT></TD>
+    <TD COLSPAN="3" STYLE="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; text-align: center"><FONT STYLE="font-size: 10pt">BANCO MACRO S.A.</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid; border-left: rgb(218,219,221) 1.5pt solid; width: 36%">&nbsp;</TD>
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid; width: 17%">&nbsp;</TD>
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid; width: 28%">&nbsp;</TD>
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid; width: 19%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 3pt; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-size: 10pt"><B>Period ended:</B></FONT></TD>
+    <TD STYLE="padding-left: 3pt; border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">03/31/2025</FONT></TD>
+    <TD STYLE="padding-left: 3pt; border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt"><B>Period of the year:</B></FONT></TD>
+    <TD STYLE="padding-left: 3pt; border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">1st QUARTER</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid; border-left: rgb(218,219,221) 1.5pt solid">&nbsp;</TD>
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid">&nbsp;</TD>
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid">&nbsp;</TD>
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD COLSPAN="3" STYLE="padding-left: 3pt; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-size: 10pt"><B>Date of Board of Director&acute;s approval:</B></FONT></TD>
+    <TD STYLE="padding-left: 3pt; border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">05/28/2025</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid; border-left: rgb(218,219,221) 1.5pt solid">&nbsp;</TD>
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid">&nbsp;</TD>
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid">&nbsp;</TD>
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD COLSPAN="2" STYLE="padding-left: 3pt; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-size: 10pt"><B>Figures expressed in:</B></FONT></TD>
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">Thousands of pesos</FONT></TD>
+    <TD STYLE="padding-left: 3pt; border-right: Black 1pt solid; border-bottom: Black 1pt solid">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid; border-left: rgb(218,219,221) 1.5pt solid">&nbsp;</TD>
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid">&nbsp;</TD>
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid">&nbsp;</TD>
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD COLSPAN="3" STYLE="padding-left: 3pt; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-size: 10pt"><B>Date of issuance of the current information:</B></FONT></TD>
+    <TD STYLE="padding-left: 3pt; border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">05/28/2025</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid; border-left: rgb(218,219,221) 1.5pt solid">&nbsp;</TD>
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid">&nbsp;</TD>
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid">&nbsp;</TD>
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 3pt; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-size: 10pt"><B>Signature Name:</B></FONT></TD>
+    <TD COLSPAN="3" STYLE="padding-left: 3pt; border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">Jorge Pablo Brito</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid; border-left: rgb(218,219,221) 1.5pt solid">&nbsp;</TD>
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid">&nbsp;</TD>
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid">&nbsp;</TD>
+    <TD STYLE="padding-left: 3pt; border-right: rgb(218,219,221) 1.5pt solid; border-bottom: Black 1pt solid">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 3pt; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid"><FONT STYLE="font-size: 10pt"><B>Signature Position:</B></FONT></TD>
+    <TD COLSPAN="3" STYLE="padding-left: 3pt; border-right: Black 1pt solid; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">Chairman</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="2" STYLE="border: black 1pt solid; text-align: center; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Results of the period (in thousands of Pesos)</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-left: 2pt; width: 75%; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt">&nbsp;</TD>
+    <TD STYLE="padding-left: 2pt; width: 25%; border-bottom: black 1pt solid; border-right: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>&nbsp;Net income for the period </B></FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-right: 2.85pt; text-align: right; position: relative; top: 0.5pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attributable to controlling interest &ndash; Profit </FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-right: 2.85pt; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">44,849,785</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attributable to non-controlling interests - Profit</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-right: 2.85pt; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">850,124</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Total Net income for the period </B></FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-right: 2.85pt; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>45,699,909</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Other comprehensive income </B></FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-right: 2.85pt; text-align: right; position: relative; top: 0.5pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other comprehensive income </FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-right: 2.85pt; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>-2,242,163</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Total comprehensive income for the period </B></FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-right: 2.85pt; text-align: right; position: relative; top: 0.5pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attributable to controlling interest &ndash; Profit </FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-right: 2.85pt; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">42,607,622</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attributable to non-controlling interests&nbsp;&nbsp;- Profit</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-right: 2.85pt; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">850,124</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Total comprehensive income for the period - Profit</B></FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-right: 2.85pt; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>43,457,746</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt">&nbsp;</TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-right: 2.85pt; position: relative; top: 0.5pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD COLSPAN="2" STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-align: center; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Net Shareholders&rsquo; Equity (in thousands of Pesos)</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt">&nbsp;</TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-right: 2.85pt; text-align: right; position: relative; top: 0.5pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Capital stock </FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-right: 2.85pt; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">639,413</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adjustments to Shareholders&rsquo; Equity</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-right: 2.85pt; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">1,358,987,247</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other contributions</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-right: 2.85pt; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12,429,781</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Legal Reserve</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-right: 2.85pt; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">1,087,964,636</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other Reserves</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-right: 2.85pt; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">1,606,051,418</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unappropriated Retained Earnings </FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-right: 2.85pt; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">385,880,346</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other comprehensive income</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-right: 2.85pt; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">-12,819,877</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Total Net shareholders&acute;equity attributable to controlling interest</B></FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-right: 2.85pt; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>4,439,132,964</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attributable to non-controlling interests </FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-right: 2.85pt; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">3,099,861</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-right: 5.4pt; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Total Net shareholders&acute;equity</B></FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; padding-right: 2.85pt; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>4,442,232,825</B></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt">&nbsp;&nbsp;&nbsp;</P>
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 7pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 10pt; position: relative; top: 0.5pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font-size: 10pt; position: relative; top: 0">&nbsp;<IMG SRC="tm2516381d1_6kimg001.jpg" ALT=""></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 70%; font-size: 10pt; position: relative; top: 0.5pt">&nbsp;</TD>
+    <TD STYLE="width: 5%; font-size: 10pt; position: relative; top: 0.5pt">&nbsp;</TD>
+    <TD STYLE="width: 25%">
+    <P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0">Av. Eduardo Madero 1182 &ndash; C1106ACY</P>
+    <P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0">Ciudad Aut&oacute;noma de Buenos Aires</P>
+    <P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0">Rep&uacute;blica Argentina</P>
+    <P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0">0810-555-2355</P>
+    <P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0">www.macro.com.ar&nbsp;</P></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt">&nbsp;&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD COLSPAN="4" STYLE="border: black 1pt solid; text-align: center; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Shareholders/Controlling group</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="text-align: center; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; vertical-align: bottom; width: 52%">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt">&nbsp;<B>Shareholder
+Name</B></P></TD>
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; width: 11%; text-align: center; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Type of<BR>
+shares</B></FONT></TD>
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; vertical-align: top; width: 19%; text-align: center; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Number of<BR>
+shares</B></FONT></TD>
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; width: 18%; text-align: center; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Percentage of<BR>
+capital stock</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">ANSES-F.G.S.&nbsp; Law N&ordm; 26.425</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">B</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">184,156,124</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">28.8008%</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Other shareholders (Foreign Stock Exchange)</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">B</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">141,117,870</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">22.0699%</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Delf&iacute;n Jorge Ezequiel Carballo</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">A</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">4,901,415</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">0.7665%</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Delf&iacute;n Jorge Ezequiel Carballo (a)</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">B</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">118,326,495</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">18.5055%</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Banco de Servicios y Transacciones S.A. (b)</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">A</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">5,995,996</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">0.9377%</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Banco de Servicios y Transacciones S.A. (b)</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">B</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">104,473,881</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">16.3390%</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: rgb(204,238,255)">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Other shareholders (Local Stock Exchange)</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">A</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">338,259</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">0.0529%</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: White">
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Other shareholders (Local Stock Exchange)</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">B</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">80,103,368</FONT></TD>
+    <TD STYLE="padding-left: 2pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; position: relative; top: 0.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12.52763%</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">The information contained
+in the table &quot;Shareholders/ Controlling Group&quot; corresponds to the capital composition identifying the main shareholders in the
+absence of a controlling shareholder or controlling group.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.5in"></TD><TD STYLE="width: 0.5in">Notes:</TD><TD STYLE="text-align: justify"></TD></TR></TABLE>
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0pt"></TD><TD STYLE="width: 17.9pt">(a)</TD><TD STYLE="text-align: justify">Include ADRs VN 25,399 equivalent to VN 253,990 Class B shares.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0pt"></TD><TD STYLE="width: 17.9pt">(b)</TD><TD STYLE="text-align: justify">Banco de Servicios y Transacciones S.A., as fiduciary of the Guarantee Trust JHB BMA.</TD></TR></TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I></I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>&nbsp;</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>&nbsp;</I></P>
+
+<!-- Field: Page; Sequence: 5 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I></I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>&nbsp;</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">SIGNATURE</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Pursuant to the requirements of the Securities Exchange Act of 1934,
+the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Date: May 28, 2025</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt">MACRO BANK INC.</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 49%">&nbsp;</TD>
+    <TD STYLE="width: 3%">&nbsp;</TD>
+    <TD STYLE="width: 37%">&nbsp;</TD>
+    <TD STYLE="width: 11%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-bottom: 1.5pt">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 1.5pt"><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt"><U STYLE="text-decoration: none">/s/ Jorge F. Scarinci</U></FONT></TD>
+    <TD STYLE="padding-bottom: 1.5pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt">Name: Jorge F. Scarinci</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt">Title: Chief Financial Officer</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 6; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,383 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>edn20240311_6k1.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<P></P>
+
+<P style="TEXT-ALIGN: center; MARGIN: 0in 0in 0pt"><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal"><BR>UNITED
+STATES</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal">SECURITIES
+AND EXCHANGE COMMISSION</FONT></P>
+
+<P STYLE="margin: 0in 0in 0pt; background-color: white; text-align: center"><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal">Washington,
+D.C. 20549</FONT></P>
+
+<P></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal">FORM
+6-K&nbsp;</FONT></P>
+
+<P></P>
+
+<P></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal">REPORT
+OF FOREIGN PRIVATE ISSUER</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal">PURSUANT
+TO RULE 13a-16 OR 15d-16 UNDER</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal">THE
+SECURITIES EXCHANGE ACT OF 1934&nbsp;</FONT></P>
+
+<P></P>
+
+<P></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal">For
+the month of&nbsp;March, 2024&nbsp;</FONT></P>
+
+<P></P>
+
+<P></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal">EMPRESA
+DISTRIBUIDORA Y COMERCIALIZADORA NORTE S.A. (EDENOR)</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal">(DISTRIBUTION
+AND MARKETING COMPANY OF THE NORTH )</FONT></P>
+
+<P></P>
+
+<P></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal">(Translation
+of Registrant's Name Into English)</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal">Argentina</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal">(Jurisdiction
+of incorporation or organization)&nbsp;</FONT></P>
+
+<P></P>
+
+<P></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal">Av.
+del Libertador 6363,</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal">12th
+Floor,</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal">City
+of Buenos Aires (A1428ARG),</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal">Tel:
+54-11-4346-5000</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">(Address of principal executive offices)</FONT></P>
+
+<P></P>
+
+<P></P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt"><FONT lang=EN-US style="FONT-SIZE: 13.5pt; LINE-HEIGHT: normal" color=black face="times new roman"></FONT>&nbsp;</P>
+
+<P></P>
+
+<P></P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt; TEXT-INDENT: 0.75in"><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal">(Indicate
+by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F.)</FONT></P>
+
+<P></P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt; TEXT-INDENT: 0.75in"><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal">Form
+20-F&nbsp;<U>&nbsp;X&nbsp;</U>&nbsp;&nbsp;&nbsp;&nbsp;Form 40-F&nbsp;<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></FONT></P>
+
+<P></P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt; TEXT-INDENT: 0.75in"><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal">(Indicate
+by check mark whether the registrant by furnishing the information contained in this form is also thereby furnishing the information
+to the Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934.)</FONT></P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt; TEXT-INDENT: 0.75in"><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal">Yes&nbsp;<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>&nbsp;&nbsp;No&nbsp;<U>&nbsp;X&nbsp;&nbsp;</U></FONT></P>
+
+<P></P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt; TEXT-INDENT: 0.75in"><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">(If "Yes" is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b): 82-</FONT><U><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></U><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">.)</FONT></P>
+
+<P></P>
+
+<P></P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt; TEXT-INDENT: 0.75in">&nbsp;</P>
+
+<P></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: right; width: 100%"><IMG SRC="edn202403116k1_001.jpg" ALT="">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 16pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: center; text-indent: 7.1pt; color: #1F497D"><B>PRESS RELEASE
+</B></P>
+
+<P STYLE="font: 14pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 14pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 14pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: center"><B>EDENOR surpasses investment level by 17% in 2023
+compared to the previous year. </B></P>
+
+<P STYLE="font: 14pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: center"><B>As from 02-16-24 an increase in the CPD, which includes
+an automatic monthly adjustment, was approved.</B></P>
+
+<P STYLE="font: 14pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 14pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 3.3pt; text-align: justify"><B>Buenos Aires, March 8, 2024, </B>The Board
+of Directors of Empresa Distribuidora y Comercializadora Norte S.A. (&#8220;<B>Edenor</B>&#8221; or the &#8220;Company&#8221;) approved
+today its financial statements for the year ended December 31, 2023, which show a profit of ARS 48,371 million.</P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 3.3pt; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 3.3pt; text-align: justify">In April and June 2023 there were electricity
+rate adjustments, which implied an increase in the Distribution Own Cost (CPD), and resulted in an improvement in the Company&#8217;s
+distribution margin. Although the adjustments were insufficient to cover inflation of the rest of the year, the investments necessary
+for maintaining the quality of the service continued to be made, which was reflected in the levels reached by our SAIDI and SAIFI indicators,
+as well as in the satisfaction levels of our customers.</P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 3.3pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><IMG SRC="edn202403116k1_002.jpg" ALT=""></P>
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 14.2pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 0pt; text-align: justify">After the Public Hearing held for such purpose
+on last January 26, 2024, the ENRE approved Resolution No.102/2024, which set the new values applicable to the Distribution Own Cost (CPD),
+as well as the new Electricity Rate Schedule, effective as from February 16, 2024. Such provisions imply an increase in the Distribution
+Own Cost of 319.2%, and include an automatic adjustment mechanism applicable as from May 2024, in order to avoid mismatches and adjustments
+that would affect users.</P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 14.2pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 0pt; text-align: justify">The approved changes will make it possible,
+both to continue making investments to improve service quality, with technology and innovations, promoting a responsible and efficient
+use of energy, and, in turn, to continue balancing the Company&#8217;s finances, including the ongoing concern concept.<BR STYLE="clear: both">
+</P>
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: right; width: 100%"><IMG SRC="edn202403116k1_001.jpg" ALT="">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: justify"><B>MAIN FINANCIAL INDICATORS OF 2023</B></P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 3.3pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 3.3pt; text-align: justify">The prior-year&#8217;s figures have been
+restated to reflect the changes in the purchasing power of the Argentine peso, in accordance with International Accounting Standard No.
+29 and the provisions of General Resolution No. 777/2018 of the National Securities Commission.</P>
+
+<P STYLE="font: 8pt Arial, Helvetica, Sans-Serif; margin: 0 28.35pt 0 21.3pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><IMG SRC="edn202403116k1_003.jpg" ALT=""></P>
+
+<P STYLE="font: 6pt Arial, Helvetica, Sans-Serif; margin: 0 28.35pt 0 7.1pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0 28.35pt 0 21.3pt; text-align: justify">(*) In 2023 and 2022, includes the
+effect of the Agreement on the Regularization of Payment Obligations for ARS 197,731 million and ARS 56,579 million, respectively.</P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 3.3pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 3.3pt; text-align: justify">Both, <B>revenue</B> and the <B>distribution
+margin </B>reflected increases in real terms of 9% and 24%, respectively, compared to the previous year, as a consequence of the increase
+in the CPD resulting from the new electricity rate schedules effective as from the April and June 2023.</P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 3.3pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 3.3pt; text-align: justify">The <B>EBIT</B> resulted in a profit of ARS
+77,945 million. Without taking into consideration the results deriving from the Agreement on the Regularization of Payment Obligations,
+the <B>EBIT</B> would amount to a loss of ARS 119,786, which reflects the increase in the Company&#8217;s operating costs.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 3.3pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 3.3pt; text-align: justify">The <B>profit for the year</B> as of December
+31, 2023 amounted to ARS 48,371 million, including the effects of the payment plans on the debt with CAMMESA for energy purchased.</P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 3.3pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 3.3pt; text-align: justify">As for <B>Investments</B>, in 2023 period,
+they amounted to ARS 123,628 million, which in constant values represents 17% more than the investments recorded in 2022. This indicates
+that Edenor continued giving priority to its investment plan with a direct positive impact on the quality of the service.</P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 3.3pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 3.3pt; text-align: justify"><B>OPERATING INDICATORS</B></P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 3.3pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 3.3pt; text-align: justify"><B>Electricity sales</B> in 2023 increased
+3.1% to 23,538 GWh, as compared to the 22,826 GWh sold in the previous year, whereas the level of customers increased by 1.0%.</P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 3.3pt; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 11pt Arial, Helvetica, Sans-Serif; margin: 0">&nbsp;</P>
+
+
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: right; width: 100%"><IMG SRC="edn202403116k1_001.jpg" ALT="">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+
+<P></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><B><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">SIGNATURES</FONT></B></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><STRONG><FONT size=2></FONT></STRONG>&nbsp;</P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><STRONG><FONT size=2></FONT></STRONG>&nbsp;</P>
+
+<P></P>
+
+<P></P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt; TEXT-INDENT: 0.75in"><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</FONT></P>
+
+<P></P>
+
+<P></P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt"><FONT lang=EN-US style="FONT-SIZE: 13.5pt; LINE-HEIGHT: normal" color=black face="times new roman"></FONT>&nbsp;</P>
+
+<P></P>
+
+<DIV align=center>
+
+<TABLE style="WIDTH: 100%" cellSpacing=0 cellPadding=0 border=0>
+
+
+
+<TR>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="48%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman"></FONT>&nbsp;</P></TD>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="52%" colSpan=2>
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman">Empresa Distribuidora y Comercializadora Norte S.A.</FONT></P></TD></TR>
+
+<TR>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="48%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman"></FONT>&nbsp;</P></TD>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="2%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman"></FONT>&nbsp;</P></TD>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="50%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman"></FONT>&nbsp;</P></TD></TR>
+
+<TR>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="48%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman"></FONT>&nbsp;</P></TD>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="2%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman"></FONT>&nbsp;</P></TD>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="50%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman"></FONT>&nbsp;</P></TD></TR>
+
+<TR>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="48%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman"></FONT>&nbsp;</P></TD>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="2%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman">By:</FONT></P></TD>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="50%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman">&nbsp;</FONT><U><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman">/s/ Germ&aacute;n Ranftl</FONT></U></P></TD></TR>
+
+<TR>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="50%" colSpan=2>
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman"></FONT>&nbsp;</P></TD>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="50%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman">Germ&aacute;n Ranftl</FONT></P></TD></TR>
+
+<TR>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="50%" colSpan=2>
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman"></FONT>&nbsp;</P></TD>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="50%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman">Chief Financial Officer</FONT></P></TD></TR></TABLE></DIV>
+
+<P></P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt"><FONT lang=PT-BR style="FONT-SIZE: 13.5pt; LINE-HEIGHT: normal" color=black face="times new roman"></FONT>&nbsp;</P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt">&nbsp;</P>
+
+<P></P>
+
+<P></P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt"><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal">Date:
+March 11, 2024</FONT></P>
+
+<P></P>
+
+
+</BODY>
+
+</HTML>
+
+</TEXT>
+</DOCUMENT>

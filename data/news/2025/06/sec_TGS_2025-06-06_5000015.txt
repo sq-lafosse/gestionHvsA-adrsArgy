@@ -1,0 +1,129 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>tgs.htm
+<DESCRIPTION>MATERIAL FACT
+<TEXT>
+<HTML>
+<!-- Produced by EDGARsuite software, Advanced Computer Innovations, Inc., Copyright (C) 2008-2024 [PPXVPY40XJV0VEY7Z50J]. www.edgarsuite.com -->
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<DIV style=margin-left:85.05pt;width:441.9pt><HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=center style='font:11pt Courier New;margin:0'><B>UNITED STATES</B></P>
+<P align=center style='font:11pt Courier New;margin:0'><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+<P align=center style='font:11pt Courier New;margin:0'><B>Washington, DC 20549</B></P>
+<P align=center style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'><B>_____________</B></P>
+<P style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'><B>FORM 6-K</B></P>
+<P align=center style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'><B>Report of Foreign Issuer</B></P>
+<P align=center style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'>Pursuant to Rule 13a-16 or 15d-16 of</P>
+<P align=center style='font:11pt Courier New;margin:0'>the Securities and Exchange Act of 1934</P>
+<P align=center style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'>For June 6, 2025</P>
+<P align=center style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'><B>Commission file number: 1-13.396</B></P>
+<P align=center style='font:11pt Courier New;margin:0'><B>Transportadora de Gas del Sur S.A.</B></P>
+<P align=center style='font:11pt Courier New;margin:0'>Cecilia Grierson 355, Twenty sixth Floor</P>
+<P align=center style='font:11pt Courier New;margin:0'>(1107), Capital Federal</P>
+<P align=center style='font:11pt Courier New;margin:0'>Argentina</P>
+<P align=center style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=justify style='font:11pt Courier New;margin:0;text-indent:21.3pt'>Indicate by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F.</P>
+<P style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'>Form 20-F&nbsp;<FONT style='border-bottom:1px solid #000000'> X</FONT>&nbsp;&nbsp;Form 40-F&nbsp;<FONT style='border-bottom:1px solid #000000'> </FONT>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=justify style='font:11pt Courier New;margin:0;text-indent:21.3pt'>Indicate by check mark if registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1): __</P>
+<P style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=justify style='font:11pt Courier New;margin:0;text-indent:21.3pt'>Indicate by check mark if registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7): __</P>
+<P align=justify style='font:11pt Courier New;margin:0;text-indent:21.3pt'>&nbsp;</P>
+<P align=justify style='font:11pt Courier New;margin:0;text-indent:21.3pt'>Indicate by check mark whether the registrant by furnishing the information contained in this Form is also thereby furnishing the information to the Commission pursuant to the Rule 12g3-2(b) under the Securities Exchange Act of 1934.</P>
+<P align=justify style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'>Yes&nbsp;&nbsp;&nbsp;No&nbsp;<FONT style='border-bottom:1px solid #000000'>X </FONT>&nbsp;</P>
+<P style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P style='font:11pt Times New Roman;margin:0;margin-right:-0.05pt;color:#000000'><FONT style='font-family:Courier New'>If &quot;Yes&quot; is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b):</FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=right style='font:12pt Book Antiqua;margin:0'>City of Buenos Aires, June 6, 2025.</P>
+<P align=right style='font:12pt Book Antiqua;margin:0'>E-NOTA-20250606-59103</P>
+<P style='font:12pt Times New Roman;margin:0'>&nbsp;</P>
+<P style='font:12pt Book Antiqua;margin:0'>Messrs.</P>
+<P style='font:12pt Book Antiqua;margin:0'><B>Comisi&#243;n Nacional de Valores (Argentine Securities and Exchange Commission)</B></P>
+<P style='font:12pt Book Antiqua;margin:0'>&nbsp;</P>
+<P style='font:12pt Book Antiqua;margin:0'><B>Bolsas y Mercados Argentinos S.A. (Argentine Stock Exchanges and Markets)</B></P>
+<P style='font:12pt Book Antiqua;margin:0'><B>Bolsa de Comercio de Buenos Aires (Buenos Aires Stock Exchange)</B></P>
+<P style='font:12pt Book Antiqua;margin:0'><B>Gerencia T&#233;cnica y de Valores Negociables (Technical and Negotiable Securities Management)</B></P>
+<P style='font:12pt Book Antiqua;margin:0'>&nbsp;</P>
+<P style='font:12pt Book Antiqua;margin:0'><B>Mercado Abierto Electr&#243;nico S.A. (Open Electronic Market)</B></P>
+<P style='font:12pt Book Antiqua;margin:0'>&nbsp;</P>
+<P style='font:12pt Book Antiqua;margin:0'>&nbsp;</P>
+<P align=justify style='font:12pt Book Antiqua;margin:0;text-indent:-0.25pt;margin-left:0.25pt'><FONT style='border-bottom:1px solid #000000'><I>Re: Material Fact. </I><I>Approval of </I><I>Periodic Tariff Adjustment Methodology</I><I>.</I><I> Tariff increase.</I></FONT></P>
+<P align=justify style='font:12pt Book Antiqua;margin:0;text-indent:-0.25pt;margin-left:0.25pt'>&nbsp;</P>
+<P align=justify style='font:12pt Book Antiqua;margin:0;text-indent:-0.25pt;margin-left:0.25pt'>&nbsp;</P>
+<P align=justify style='font:12pt Book Antiqua;margin-top:0pt;margin-bottom:6pt;text-indent:0.25pt'>Dear Sirs,</P>
+<P align=justify style='font:12pt Book Antiqua;margin-top:0pt;margin-bottom:6pt'>I am writing to you in my capacity as Head of Market Relations of Transportadora de Gas del Sur S.A. (&#8220;<B>tgs</B>&#8221;), to report that on June 4, 2025, the Argentine Energy Bureau issued Resolution no. 241/2025 - published in the Argentine Official Gazette on June 5, 2025- (&#8220;Resolution 241&#8221;), whereby it modified the Basic Rules of the Transportation License, approved as Annex A, Sub-annex I of Decree no. 2255/92, thus replacing Item 9.4.1.1. (the &#8220;Basic Rules of the License&#8221;).</P>
+<P align=justify style='font:12pt Book Antiqua;margin-top:0pt;margin-bottom:6pt'>As previously informed though Material Fact dated May 5, 2025, by means of Resolution no. 256/2025 the Argentine Gas Regulatory Body (&#8220;ENARGAS&#8221;) approved <B>tgs&#8217;</B> five-year tariff review (&#8220;RQT&#8221;) and differed approval of the periodic tariff adjustment mechanism following intervention by the Executive Branch.</P>
+<P align=justify style='font:12pt Book Antiqua;margin-top:12pt;margin-bottom:6pt'>Afterwards, Decree no. 371/2025 established that the Energy Bureau shall act as Enforcement Authority whenever amendments to contracts or licenses concerning tariffs are required.</P>
+<P align=justify style='font:12pt Book Antiqua;margin-top:12pt;margin-bottom:6pt'>Within that framework, Resolution 241 established that transportation tariffs shall be adjusted<B> </B>monthly, thus replacing the biannual adjustment mechanism previously in force, in accordance with the variation applied in the indexes established by ENARGAS in the corresponding RQT.</P>
+<P align=justify style='font:12pt Book Antiqua;margin-top:12pt;margin-bottom:6pt'>In this context, on June 5, 2025, <B>tgs</B> consented to Resolution 241 and ENARGAS, through Resolution no. 350/2025 (&#8220;Resolution 350&#8221;) -published in the Argentine Official Gazette on this date-, approved the calculus methodology for gas transportation tariffs by applying a formula that combines the Argentine Consumer </P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=justify style='font:12pt Book Antiqua;margin-top:12pt;margin-bottom:6pt'><FONT style='font-family:Book Antiqua'>Price Index (<I>IPC</I>) and the Argentine Wholesale Price Index (<I>IPIM</I>). Furthermore, through Resolution 350, the ENARGAS approved the tariff charts to be applied as from this date. The monthly adjustment calculus methodology accounts for a 2.81% tariff increase.</FONT></P>
+<P align=justify style='font:12pt Book Antiqua;margin-top:12pt;margin-bottom:6pt'>Yours sincerely,</P>
+<P align=justify style='font:12pt Book Antiqua;margin-top:6pt;margin-bottom:6pt;text-indent:-0.25pt;margin-left:0.25pt'>&nbsp;</P>
+<P align=justify style='font:12pt Book Antiqua;margin-top:0pt;margin-bottom:6pt'>&nbsp;</P>
+<P align=center style='font:12pt Book Antiqua;margin:0;margin-left:7.1pt'><B>Hern&#225;n Diego Flores G&#243;mez</B></P>
+<P align=center style='font:12pt Book Antiqua;margin:0;margin-left:7.1pt'><B>Head of Market Relations </B></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=center style='font:11pt Courier New;margin:0;text-indent:-17.85pt;margin-left:17.85pt'><B>SIGNATURES</B></P>
+<P align=center style='font:11pt Courier New;margin:0;text-indent:-17.85pt;margin-left:17.85pt'>&nbsp;</P>
+<P style='font:11pt Courier New;margin:0;text-indent:-17.85pt;margin-left:17.85pt'>&nbsp;</P>
+<P align=justify style='font:11pt Courier New;margin:0'>Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</P>
+<P align=justify style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=right style='font:11pt Courier New;margin:0'>Transportadora de Gas del Sur S.A.</P>
+<P align=right style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=right style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P style='font:11pt Courier New;margin:0;text-indent:-17.85pt;margin-left:17.85pt'>&nbsp;</P>
+<TABLE style=margin-left:auto;border-collapse:collapse><TR><TD valign=top style=width:27.7pt;padding-left:3.5pt;padding-right:3.5pt><P style='font:12pt Courier New;margin:0'><FONT style=font-size:11pt><B>By:</B></FONT></P>
+</TD><TD colspan=3 valign=top style='width:250.1pt;padding-left:3.5pt;padding-right:3.5pt;border-bottom:0.75pt solid #000000'><P align=center style='font:12pt Courier New;margin:0'><FONT style=font-size:11pt>/s/Alejandro M. Basso</FONT></P>
+</TD></TR>
+<TR><TD valign=top style=width:44.95pt;padding-left:3.5pt;padding-right:3.5pt><P style='font:12pt Courier New;margin:0'><FONT style=font-size:11pt>Name:</FONT></P>
+</TD><TD valign=top style=width:202.85pt;padding-left:3.5pt;padding-right:3.5pt><P style='font:12pt Courier New;margin:0'><FONT style=font-size:11pt>Alejandro M. Basso</FONT></P>
+</TD></TR>
+<TR><TD valign=top style=width:44.95pt;padding-left:3.5pt;padding-right:3.5pt><P style='font:12pt Courier New;margin:0;margin-right:-1.95pt'><FONT style=font-size:11pt>Title:</FONT></P>
+</TD><TD valign=top style=width:202.85pt;padding-left:3.5pt;padding-right:3.5pt><P align=justify style='font:12pt Courier New;margin:0'><FONT style=font-size:11pt><B>Chief Financial Officer and Services Vice President</B></FONT></P>
+</TD></TR>
+</TABLE>
+<P style='font:11pt Courier New;margin:0;text-indent:-17.85pt;margin-left:17.85pt'>&nbsp;</P>
+<P style='font:11pt Courier New;margin:0;text-indent:-17.85pt;margin-left:17.85pt'>&nbsp;</P>
+<P style='font:11pt Courier New;margin:0;text-indent:-17.85pt;margin-left:17.85pt'>&nbsp;</P>
+<P style='font:11pt Courier New;margin:0;text-indent:-17.85pt;margin-left:17.85pt'>&nbsp;</P>
+<P style='font:11pt Courier New;margin:0;text-indent:-17.85pt;margin-left:17.85pt'>&nbsp;</P>
+<TABLE style=margin-left:auto;border-collapse:collapse><TR><TD valign=top style=width:35.4pt;padding-left:3.5pt;padding-right:3.5pt><P style='font:12pt Courier New;margin:0'><FONT style=font-size:11pt><B>By:</B></FONT></P>
+</TD><TD colspan=2 valign=top style='width:244.85pt;padding-left:3.5pt;padding-right:3.5pt;border-bottom:0.75pt solid #000000'><P align=center style='font:12pt Courier New;margin:0'><FONT style=font-size:11pt>/s/Hern&#225;n D. Flores G&#243;mez</FONT></P>
+</TD></TR>
+<TR><TD valign=top style=width:42.55pt;padding-left:3.5pt;padding-right:3.5pt><P style='font:12pt Courier New;margin:0'><FONT style=font-size:11pt>Name:</FONT></P>
+</TD><TD colspan=2 valign=top style=width:203.05pt;padding-left:3.5pt;padding-right:3.5pt><P style='font:12pt Courier New;margin:0'><FONT style=font-size:11pt>Hern&#225;n Diego Flores G&#243;mez</FONT></P>
+</TD></TR>
+<TR><TD valign=top style=width:42.55pt;padding-left:3.5pt;padding-right:3.5pt><P style='font:12pt Courier New;margin:0;margin-right:-9.25pt'><FONT style=font-size:11pt>Title:</FONT></P>
+</TD><TD colspan=2 valign=top style=width:203.05pt;padding-left:3.5pt;padding-right:3.5pt><P style='font:12pt Courier New;margin:0'><FONT style=font-size:11pt><B>Legal Affairs Vice President</B></FONT></P>
+</TD></TR>
+</TABLE>
+<P style='font:11pt Times New Roman;margin:0;margin-right:2.55pt'>&nbsp;</P>
+<P style='font:11pt Times New Roman;margin:0;margin-right:2.55pt'>&nbsp;</P>
+<P style='font:11pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:11pt Courier New;margin:0'>Date: June 6, 2025.</P>
+<P style='font:12pt Calibri;margin:0'> &nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'></DIV>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

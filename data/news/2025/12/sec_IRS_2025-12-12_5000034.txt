@@ -1,0 +1,333 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>a17-14104_106k.htm
+<DESCRIPTION>IRSAAR 2035 NOTES RETAP
+<TEXT>
+<html>
+<head>
+<!-- Document created using Blueprint(R) - powered by Issuer Services - www.issuerservices.net -->
+<!-- Copyright 2025 Issuer Services -->
+<title>a17-14104_106k</title>
+</head>
+<body style="font-family: Times New Roman; font-size: 13px;">
+<div id="pgbrk" style="width: 100%; margin-left: 0px; text-indent: 0px; margin-right: 0px">
+<div id="hdr" style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; width: 100%"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; width: 100%"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; width: 100%"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</div>
+</div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-weight: bold"><font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">&#xA0;</font></font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-weight: bold"><font style="font-weight: bold; font-size: 24px; font-family: Times New Roman">SECURITIES
+AND EXCHANGE COMMISSION</font></font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-weight: bold"><font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">Washington,
+D.C.&#xA0;&#xA0;20549</font></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-weight: bold"><font style="font-weight: bold; font-size: 24px; font-family: Times New Roman">FORM&#xA0;6-K</font></font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-weight: bold"><font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">&#xA0;</font></font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-weight: bold"><font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">REPORT
+OF FOREIGN ISSUER</font></font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-weight: bold"><font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">PURSUANT
+TO RULE 13a-16 OR 15b-16 OF</font></font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-weight: bold"><font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">THE
+SECURITIES EXCHANGE ACT OF 1934</font></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-weight: bold"><font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">For
+the month of</font>&#xA0;December<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">,
+2025</font></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px">&#xA0;</font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-weight: bold"><font style="font-weight: bold; font-size: 24px; font-family: Times New Roman">IRSA
+Inversiones y Representaciones Sociedad
+An&#xF3;nima</font></font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">(Exact name of
+Registrant as specified in its charter)</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-weight: bold"><font style="font-weight: bold; font-size: 24px; font-family: Times New Roman">IRSA
+Investments and Representations Inc.</font></font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">(Translation of
+registrant&#xB4;s name into English)</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-weight: bold"><font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">Republic
+of Argentina</font></font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">(Jurisdiction of
+incorporation or organization)</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-weight: bold"><font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">Carlos
+M. Della Paolera 261 9th Floor<br></font></font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-weight: bold"><font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">(C1001ADA)</font></font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-weight: bold"><font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">Buenos
+Aires, Argentina</font></font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-size: 13px"><font style="font-weight: bold"><font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">(</font></font>Address
+of principal executive offices)</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-size: 13px"><font style="font-size: 13px; font-family: Times New Roman">Form&#xA0;20-F&#xA0;</font>&#x2327;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;Form&#xA0;40-F&#xA0;&#xA0;&#x2610;</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 24px"><font style="font-size: 13px; font-family: Times New Roman">Indicate by check
+mark whether the registrant by furnishing the information contained
+in this Form&#xA0;is also thereby furnishing the information to the
+Commission pursuant to Rule&#xA0;12g3-2(b)&#xA0;under the
+Securities Exchange Act of 1934.</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-size: 13px"><font style="font-size: 13px; font-family: Times New Roman">Yes&#xA0;</font>&#x2610;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;No
+&#x2327;</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; padding-left: 0px; padding-right: 0px"><font style="font-size: 1px; font-family: Times New Roman">&#xA0;</font></div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\105733\17-14104-10\task8509472\14104-10-ba.htm',USER='105733',CD='Jul 21 22:50 2017' -->
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; width: 100%"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div id="pgbrk" style="width: 100%; margin-left: 0px; text-indent: 0px; margin-right: 0px">
+<div id="ftr" style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</div>
+<div id="pb" style="margin-left: 0px; margin-right: 0px; text-align: center; margin-bottom: 6px; page-break-after: always; width: 100%; height: 2px; background-color: #000000"><!--page break--></div>
+<div id="hdr" style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</div>
+</div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; width: 100%"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-weight: bold"><font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">IRSA
+INVERSIONES Y REPRESENTACIONES SOCIEDAD
+AN&#xD3;NIMA</font></font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-weight: bold"><font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">(THE
+&#x201C;COMPANY&#x201D;)</font></font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-weight: bold"><font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">&#xA0;</font></font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-weight: bold"><font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">REPORT
+ON FORM&#xA0;6-K</font></font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-family: Times New Roman; font-size: 13px;">&#xA0;</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div>
+<div>
+<div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;"><font style="font-size: 13px"><font style="font-family: Times New Roman;">&#xA0;</font></font></div>
+<div>
+<div><font style="font-size: 13px"><font style="font-size: 15px"><font style="font-size: 13px"><font style="font-size: 11px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<div style="line-height: 1.2;">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;"><font style="font-size: 13px"><font style="font-family: Times New Roman;">Attached is the English translation
+of the summary of the letter dated December 11, 2025, filed by the
+Company with the <font style="font-style: italic">Bolsa de Comercio
+de Buenos Aires</font>&#xA0; and the <font style="font-style: italic">Comisi&#xF3;n Nacional de
+Valores</font>.</font></font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;"><font style="font-size: 13px">&#xA0;&#xA0;
+<font style="font-family: Times New Roman;"><br>
+</font></font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font style="font-size: 13px"><font style="font-family: Times New Roman;">BUENOS AIRES, ARGENTINA
+&#x2013;&#xA0; December 11, 2025 &#x2013; IRSA Inversiones y
+Representaciones Sociedad An&#xF3;nima (the &#x201C;Company&#x201D;)
+(NYSE: IRS),</font></font> <font style="font-size:13px;">announces
+the issuance of its Series XXIV Additional Notes in the
+international market for USD 180&#xA0;</font><font style="font-size: 13px"><font style="font-family: Times New Roman;"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">million,&#xA0;</font></font><font style="font-family: Times New Roman"><font style="color: #000000; font-family: Times New Roman">according
+to the following information</font>:</font></font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font style="font-family: Times New Roman; font-size: 13px;">&#xA0;</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font style="font-family: Times New Roman; font-size: 13px;">&#xA0;</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font style="font-size: 13px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font><font style="font-family: Times New Roman;"><br></font></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font><font style="font-family: Times New Roman;"><font style="font-weight: bold; text-decoration: underline; color: #000000">Series
+XXIV Additional Notes</font><font style="color: #000000"><br></font></font></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font><font style="font-family: Times New Roman;">&#xA0;</font></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font><font style="color: rgb(0, 0, 0); font-family: Times New Roman;"><font style="font-weight: bold">Amount to be
+Issued</font>:&#xA0;USD&#xA0;<font style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">180,000,000&#xA0;</font></font></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font style="font-family: Times New Roman; font-size: 13px;">&#xA0;</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font style="font-size: 13px"><font style="font-size: 15px"><font style="font-size: 13px"><font style="font-size: 11px"><font style="font-size: 13px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font><font style="color: rgb(0, 0, 0); font-family: Times New Roman;"><font style="font-weight: bold">Total Outstanding Nominal Value after
+Issuance</font>:&#xA0;USD 4<font style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">80,454,198</font></font></font></div>
+</font></font></font></font></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font><font style="font-family: Times New Roman;">&#xA0;</font></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font><font style="font-family: Times New Roman;"><font style="font-weight: bold">Issue and Settlement Date</font>: December 17,
+2025.</font></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font>&#xA0; <font style="font-family: Times New Roman;"><br>
+</font></font></div>
+</div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font><font style="color: rgb(0, 0, 0); font-family: Times New Roman;"><font style="font-weight: bold">Maturity Date</font>: March 31,
+2035.&#xA0;</font></font><font>If the Maturity Date is not a
+Business Day, payment will be made on the next succeeding Business
+Day, without any additional interest accruing.</font></div>
+<br></font>
+<div><font style="font-size: 13px"><font style="font-size: 15px"><font style="font-size: 13px"><font style="font-size: 11px"><font style="font-size: 13px"><font><font style="font-weight: bold">Issue Price</font>: 98.503% plus accrued
+interest from September 30, 2025 (inclusive) to December 17, 2025
+(exclusive), for a total amount of USD 3,080,000 (equivalent to USD
+17.11 per USD 1,000 of principal of the Notes), plus any additional
+accrued interest if settlement occurs after such
+date.</font></font></font></font></font></font></div>
+<div><font style="font-family: Times New Roman; font-size: 13px;">&#xA0;</font></div>
+<font style="font-size: 13px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font><font style="font-weight: bold">Interest Rate</font>:
+8.00%<br></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font><font style="font-family: Times New Roman;">&#xA0;</font></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font><font style="font-weight: bold">Average Life</font>: 8.3
+years.</font></div>
+<div><font style="font-family: Times New Roman; font-size: 13px;">&#xA0;</font></div>
+<div><font style="font-size: 13px"><font style="font-size: 15px"><font style="font-size: 13px"><font style="font-size: 11px"><font style="font-size: 13px"><font><font style="font-weight: bold">Yield to Maturity</font>:
+8.25%.</font></font></font></font></font></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font><font style="font-family: Times New Roman;">&#xA0;</font></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+</div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font><font style="font-weight: bold">Amortization</font>:Principal
+will be amortized in three annual installments as
+follows:</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font><font style="font-family: Times New Roman;">&#xA0;</font></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font>&#xA0;&#xA0;&#xA0; - 33% of the nominal value on March 31,
+2033;</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font>&#xA0;&#xA0;&#xA0; - 33% of the nominal value on March 31,
+2034; and&#xA0;&#xA0;&#xA0;<br></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font><font style="font-family: Times New Roman;">&#xA0;</font>&#xA0;&#xA0; - 34% of
+the nominal value on March 31, 2035.</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font><font style="font-family: Times New Roman;">&#xA0;</font></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font><font style="font-family: Times New Roman;"><font style="font-weight: bold">Interest Payment Dates</font>: Semmiannually,
+on March 31 and September 30 of each year, starting on March 31,
+2026. If any Interest Payment Date is not a Business Day, payment
+will be made on the next succeeding Business Day, with the same
+force and effect as if made on the scheduled date, and without
+accruing additional interest.</font></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font><font style="font-family: Times New Roman;">&#xA0;</font></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font><font style="font-family: Times New Roman;"><font style="font-weight: bold">Form and Place of Payment</font>: in United
+States Dollars, outside of Argentina, through DTC or its
+representative.<br></font></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<font><font style="font-family: Times New Roman;">&#xA0;</font></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; line-height: 1.2;">
+<div style="line-height: 1.2;"><font><font style="font-family: Times New Roman;"><font style="font-weight: bold">CUSIP</font>:</font> <font style="color: rgb(0, 0, 0); font-family: Times New Roman;">Rule 144A:
+450047 AJ4 Regulation S: P58809 BU0</font></font></div>
+<div style="line-height: 1.2;"><font><font style="font-family: Times New Roman;">&#xA0;</font></font></div>
+<div style="line-height: 1.2;"><font><font style="font-family: Times New Roman;"><font style="font-weight: bold">ISIN</font>:</font> <font style="color: rgb(0, 0, 0); font-family: Times New Roman;">Rule 144A:
+US450047AJ43 Regulation S: USP58809BU07</font></font></div>
+</div>
+</font><br></div>
+</div>
+</div>
+</font></font></font></font></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman"><br></font></div>
+<div id="pgbrk" style="width: 100%; margin-left: 0px; text-indent: 0px; margin-right: 0px">
+<div id="ftr" style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"></div>
+</div>
+<div id="pb" style="margin-left: 0px; margin-right: 0px; text-align: center; margin-bottom: 6px; page-break-after: always; width: 100%; height: 2px; background-color: #000000"><!--page break--></div>
+<div id="hdr" style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</div>
+</div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; width: 100%"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-weight: bold"><font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">SIGNATURES</font></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">Pursuant to the
+requirements of the Securities and Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized, in the city of
+Buenos Aires, Argentina.</font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px;">
+<table cellpadding="0" cellspacing="0" style="text-align: left; font-family: inherit; font-size: inherit;text-align: left; width: 100%;">
+<tr>
+<td style="width: 53%; padding-bottom: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 1px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td colspan="2" style="width: 48%; padding-bottom: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-weight: bold"><font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">IRSA
+Inversiones y Representaciones Sociedad
+An&#xF3;nima</font></font></div>
+</td>
+</tr><tr>
+<td style="width: 53%; padding-bottom: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="width: 4%; padding-bottom: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="width: 43%; padding-bottom: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+</tr><tr>
+<td style="width: 53%; padding-bottom: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 1px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="width: 4%; padding-bottom: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">By:</font></div>
+</td>
+<td style="width: 43%; padding-bottom: 0px; border-bottom: 2px solid windowtext">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">/S/ Sa&#xFA;l
+Zang</font></div>
+</td>
+</tr><tr>
+<td style="width: 53%; padding-bottom: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 1px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="width: 4%; padding-bottom: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 1px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="width: 43%; padding-bottom: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">Name: Sa&#xFA;l
+Zang</font></div>
+</td>
+</tr><tr>
+<td style="width: 53%; padding-bottom: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 1px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="width: 4%; padding-bottom: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 1px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="width: 43%; padding-bottom: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">Title: Responsible
+of relationship with the markets</font></div>
+</td>
+</tr></table>
+</div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">December
+11</font><font style="font-size: 13px; font-family: Times New Roman">, 2025</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\105733\17-14104-10\task8509472\14104-10-ba.htm',USER='105733',CD='Jul 21 22:50 2017' -->
+<div id="pgbrk" style="width: 100%; margin-left: 0px; text-indent: 0px; margin-right: 0px">
+<div id="ftr" style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; width: 100%"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</div>
+<div id="pb" style="margin-left: 0px; margin-right: 0px; text-align: center; margin-bottom: 6px; page-break-after: always; width: 100%; height: 2px; background-color: #000000"><!--page break--></div>
+</div>
+
+
+&amp;#xD;
+
+
+
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>

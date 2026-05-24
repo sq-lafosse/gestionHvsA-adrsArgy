@@ -1,0 +1,411 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>d914268d6k.htm
+<DESCRIPTION>6-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>6-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE" STYLE="line-height:Normal">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION
+</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM <FONT
+STYLE="white-space:nowrap">6-K</FONT></B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>REPORT OF
+FOREIGN PRIVATE ISSUER </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>PURSUANT TO RULE <FONT STYLE="white-space:nowrap">13A-16</FONT> OR
+<FONT STYLE="white-space:nowrap">15D-16</FONT> </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>UNDER THE SECURITIES EXCHANGE ACT OF 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>For the month of January 2025 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Commission File Number: <FONT STYLE="white-space:nowrap">001-12102</FONT></B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>YPF Sociedad An&oacute;nima </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Macacha
+G&uuml;emes 515 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>C1106BKK Buenos Aires, Argentina </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Address of principal executive office) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Indicate by check mark whether the registrant files or will file annual reports under cover of Form <FONT
+STYLE="white-space:nowrap">20-F</FONT> or Form <FONT STYLE="white-space:nowrap">40-F:</FONT></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Form
+<FONT STYLE="white-space:nowrap">20-F&#8194;&#9746;&#8195;&#8195;&#8195;Form</FONT> <FONT STYLE="white-space:nowrap">40-F&#8194;&#9744;</FONT></P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>YPF Sociedad An&oacute;nima </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>TABLE OF CONTENT </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>ITEM&#8201;1</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="justify"><B></B>Translation of letter to the Argentine Securities Commission (<B></B><I>Comisi&oacute;n Nacional de
+Valores</I><B></B>) dated January&nbsp;15, 2024<B> </B></P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g914268g0115061424614.jpg" ALT="LOGO" STYLE="width:1.14167in;height:0.59375in;">
+ </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right">City of Buenos Aires, January&nbsp;15, 2025 </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify"><B>COMISION NACIONAL DE VALORES (&#147;CNV&#148;) </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">May 25, 175 </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">City of Buenos Aires
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify"><B>MERCADO ABIERTO ELECTR&Oacute;NICO S.A. (&#147;MAE&#148;) </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Maipu 1210 </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">City of Buenos Aires
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify"><B>BOLSAS Y MERCADOS ARGENTINOS S.A. (&#147;ByMA&#148;) </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Sarmiento 299 </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">City of Buenos
+Aires </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify"><B><U>Present </U></B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><U>Ref</U>: YPF S.A. &#150; Improvement of Credit Rating </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Dear Sir or Madam, </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">We are
+writing to you in compliance with the requirements of the CNV Rules and the corresponding ByMA and MAE regulations. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">On January&nbsp;14,
+2025, Moody&#146;s Ratings (&#147;Moody&#146;s&#148;) upgraded the ratings of the unsecured debt securities (<I>obligaciones negociables no garantizadas</I>) and secured debt securities (<I>obligaciones negociables garantizadas</I>) to
+&#147;Caa1&#148; from &#147;Caa3.&#148; The rating of the medium-term notes program was upgraded to &#147;(P)Caa1&#148; from &#147;(P)Caa3.&#148; </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Moody&#146;s has also assigned a &#147;Caa1 CFR&#148; rating to YPF S.A., withdrawing its &#147;Caa3&#148; issuer rating. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Please find attached the report dated January&nbsp;14, 2025, issued by Moody&#146;s and published on their website
+(<U>https://ratings.moodys.com</U>). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Sincerely, </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Margarita Chun </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Market
+Relations Manager </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">YPF S.A. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g914268g0116004704444.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL"><B>Rating Action: <FONT STYLE="font-family:ARIAL" COLOR="#0a1264">Moody&#146;s Ratings upgrades the ratings of Argentinean <FONT
+STYLE="white-space:nowrap">non-financial</FONT> companies following the raise of country ceilings</FONT> </B></P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">14 Jan 2025 </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">New New York, January&nbsp;14, 2025 &#151; Moody&#146;s Ratings (Moody&#146;s) has taken rating actions on several companies operating in Argentina.
+These actions were prompted by the raise of Argentina&#146;s country ceilings, to Caa1 from Caa3 in the case of foreign currency (FC) and to B3 from Caa1 in the case of local currency (LC). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">For further information on the ceilings change, please refer to our announcement dated 8&nbsp;January 2025 (&#147;Moody&#146;s Ratings raises
+Argentina&#146;s local and foreign currency ceilings to B3 and Caa1, espectively&#148;); <U>https://ratings.moodys.com/ratingsnews/435363</U>). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">ISSUERS AND RATINGS AFFECTED </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Arcor S.A.I.C.&#146;s
+Corporate Family Rating (CFR) was upgraded to Caa1 from Caa2. </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">The outlook remains stable. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Pan American Energy, S.L.&#146;s (PAE) CFR was upgraded to B3 from Caa1. Similarly, Pan American Energy, S.L., Argentine Branch&#146;s (PAE Argentine
+Branch) backed senior unsecured notes were upgraded to B3 from Caa1, reflecting the rating of PAE, which fully guarantees the notes. The outlook remains stable. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Raghsa S.A.&#146;s CFR and senior unsecured notes ratings were upgraded to Caa1 from Caa2. The outlook remains stable. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Telecom Argentina S.A.&#146;s CFR was upgraded to Caa1 from Caa3. The outlook remains stable. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Vista Energy Argentina S.A.U. &#145;s CFR and senior unsecured notes&#146; rating were upgraded to Caa1 from Caa2. The outlook remains stable. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">YPF Sociedad Anonima&#146;s senior unsecured notes&#146; ratings and senior secured notes&#146; rating were upgraded to Caa1 from Caa3. The rating of
+the medium-term notes program was upgraded to (P)Caa1 from (P)Caa3. We have also assigned a Caa1 CFR to YPF, and we have withdrawn its Caa3 issuer rating. YPF&#146;s Baseline Credit Assessment (BCA) was upgraded to caa1 from caa3. The outlook
+remains stable. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">RATINGS RATIONALE </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">The
+recently announced decision to raise Argentina&#146;s LC and FC ceilings&#150;which indicate the highest rating level that generally can be assigned to the financially strongest obligations of issuers domiciled in a country&#150;was based on
+improved economic policy predictability and consistency, which have significantly reduced monetary and fiscal imbalances. The government has eased restrictions on crossborder payments and foreign exchange convertibility, increasing FC liquidity
+despite low capital account openness. Additionally, the government&#146;s reduced intervention in the economy suggests a lower risk of transfer and convertibility issues, which reduces the chance of those risks affecting banks&#146; FC obligations
+repayment capacity. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Still, the creditworthiness of these companies cannot be completely
+<FONT STYLE="white-space:nowrap">de-linked</FONT> from the credit quality of the Argentinean government, and thus their ratings need to closely reflect the risk that they share with the sovereign. We view that there is presently a limit to the
+rating of these issuers in relation to the sovereign ratings in line with Moody&#146;s Rating Methodology &#147;Assessing the Impact of Sovereign Credit Quality on Other Ratings&#148; published on June&nbsp;20, 2019, and available on <FONT
+STYLE="white-space:nowrap">https://ratings.moodys.com/rmc-documents/60258</FONT> . </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Arcor S.A.I.C. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Arcor S.A.I.C.&#146;s (Arcor) rating is supported by its position as one of the largest producers of sweets globally and a leading local manufacturer of
+cookies, processed food and corrugated cardboard; strong diversification in terms of revenue and assets abroad, which include plants, distribution centers and commercial offices; solid access to local and foreign capital markets; and conservative
+financial policy. The rating is mainly constrained by the company&#146;s high exposure to Argentina as the main operating market; and moderate exposure to foreign currency risk. Arcor&#146;s rating also reflects our view that the company&#146;s
+creditworthiness cannot be completely delinked from the credit quality of the Government of Argentina (Ca stable) and, thus, the rating needs to closely reflect the risk that the company shares with the sovereign. The stable outlook on Arcor&#146;s
+ratings reflects our expectation that the company&#146;s credit metrics and operations will remain solid through the next <FONT STYLE="white-space:nowrap">12-18</FONT> months. Also, Arcor&#146;s creditworthiness cannot be completely <FONT
+STYLE="white-space:nowrap">de-linked</FONT> from the credit quality of the Argentine government, and thus its ratings and outlook also incorporate the risks that it shares with the sovereign, in line with our cross-sector rating methodology
+Assessing the Impact of Sovereign Credit Quality on Other Ratings, published in June 2019. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Pan American Energy, S.L. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Pan American Energy, S.L. &#145;s (PAE) credit profile is supported by its status as the second-largest integrated oil and gas producer and one of the
+largest exporters of hydrocarbons in Argentina, with a sound market position and financial and operating performance; good foreign-currency liquidity; and sizable exports. PAE also has exploration, development and production interests in Bolivia and
+Mexico, and renewable power generation projects in Argentina and Brazil. PAE&#146;s main subsidiary is Pan American Energy, S.L., Argentine Branch (PAE Argentine branch), which typically accounts for around 87% of PAE&#146;s total oil and gas
+production and holds PAE&#146;s refining assets. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">PAE&#146;s strong sponsors, which provide certain operational advantages in terms of technical
+knowledge, administrative practices and corporate governance policies, also support the rating. PAE is 50% owned by BP p.l.c. (BP, A1 stable) and 50% owned by BC Energy Investments Corp (BC, formerly known as Bridas Corporation). BC is a privately
+owned oil and gas company, which is 50% owned by Bridas Energy Holdings Ltd. and 50% owned by CNOOC International LTD, a subsidiary of CNOOC Limited (CNOOC, A1 negative). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Given PAE&#146;s high exposure to Argentina &#145;s business environment (88% of revenues as of fiscal-year 2023 were derived from operations in
+Argentina), its rating reflects our view that PAE&#146;s creditworthiness cannot be completely <FONT STYLE="white-space:nowrap">de-linked</FONT> from the credit quality of the Argentine government and, thus, the ratings need to closely reflect the
+risk that the company shares with the sovereign. However, PAE&#146;s credit profile stands out among other Argentine companies because of the company&#146;s robust sponsors, sound credit metrics, and diverse income sources, including
+Argentina&#146;s exports (contributing to 27% of revenues as of 2023) and operations across various countries. These elements, in conjunction with its substantial liquidity, enhance its ability to handle foreign currency debt. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">PAE&#146;s ratings are mainly constrained by its geographic concentration of assets and operations in Argentina, although this is partially mitigated by
+some assets and operations in Bolivia, Mexico and Brazil, and by sales diversification through exports. The company is also exposed to regulatory risks within Argentina&#146;s local hydrocarbon market. Additionally, the company is vulnerable to the
+volatility of energy commodity prices. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">PAE&#146;s stable outlook reflects the company&#146;s solid credit metrics for its rating category and good
+liquidity. However, PAE&#146;s creditworthiness cannot be completely <FONT STYLE="white-space:nowrap">de-linked</FONT> from the credit quality of the Argentine government, from which it generates the bulk of its revenue, and thus its ratings and
+outlook incorporate the risks that it shares with the sovereign, in line with our cross-sector rating methodology, Assessing the Impact of Sovereign Credit Quality on Other Ratings, published in June 2019. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Raghsa S.A. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Raghsa S.A.&#146;s (Raghsa) ratings are mainly supported by its high-quality assets; high occupancy
+rates; and healthy tenant base. The ratings reflect Raghsa&#146;s moderate leverage for the rating category compared with its high-quality assets, which are mostly unencumbered and support its liquidity sources. Raghsa owns three office buildings,
+accounting for around 95,672 square meters (sqm) of leasable area as of August 2024, with an average of 95% occupancy. In addition, Raghsa owns 5,189 sqm of land bank in Buenos Aires; a parking space property in New York City; a luxury residential
+building in New York City. Raghsa&#146;s credit profile is also supported by its very good liquidity. Cash and marketable securities are mainly denominated in US dollars and amounted to $112&nbsp;million as of 31&nbsp;August 2024, with a cash to
+total debt ratio at 41%, and no significant debt maturities until 2027. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Raghsa&#146;s ratings are constrained by its smaller size than peers and
+the concentration of its portfolio in three office buildings in the City of Buenos Aires. The rating also reflects our view that the creditworthiness of the company cannot be completely delinked from the credit quality of the Government of Argentina
+(Ca stable), and, therefore, the rating closely reflects the risk that the company shares with the sovereign. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Raghsa&#146;s stable outlook reflects
+our view that the creditworthiness of the company will be supported by steady revenue and cash flow generation from the broad base of tenants, high occupancy rates and multiple-year lease contracts. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Raghsa&#146;s creditworthiness cannot be completely <FONT STYLE="white-space:nowrap">de-linked</FONT> from the credit quality of Argentina, where it
+generates the bulk of its revenue, and, therefore, the company&#146;s rating and outlook also incorporate the risks that it shares with the sovereign, in line with our cross-sector rating methodology, Assessing the Impact of Sovereign Credit Quality
+on Other Ratings , published in June 2019. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Telecom Argentina S.A. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Telecom Argentina S.A. &#145;s Caa1 rating is supported by the company&#146;s position as one of the three major telecommunications service providers in
+Argentina and its solid financial metrics for its rating category. Telecom Argentina is also the second largest mobile player in Paraguay and Pay TV player in Uruguay. The company&#146;s robust financial indicators, underscored by a strong cash
+flow, conservative financial strategy, and sufficient liquidity, further support the rating. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">The company&#146;s rating is mainly constrained by the
+concentration of the company&#146;s operations in Argentina (Ca stable), a highly competitive telecom market, and moderate exposure to foreign-currency financing risk. Most of the company&#146;s revenue is generated in Argentine pesos, and just over
+half of its total debt is denominated in foreign currency. However, this is partially offset by more revenue linked to the evolution of the U.S. dollar (19%) than expenses in that currency (12%), and additionally, the company covers its <FONT
+STYLE="white-space:nowrap">12-month</FONT> cash flows of principal and interest mainly with its cash position and, in some cases, with currency futures contracted in local markets. It is important to note that the longstanding regulatory oversight
+of Argentina&#146;s telecom industry has been significantly reduced in the past twelve months. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">The company&#146;s stable outlook reflects the
+company&#146;s good credit metrics for its rating category and good liquidity. However, the company&#146;s creditworthiness cannot be completely <FONT STYLE="white-space:nowrap">de-linked</FONT> from the credit quality of Argentina, where it
+generates the bulk of its revenue, and thus its ratings and outlook also incorporate the risks that it shares with the sovereign. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Vista Energy
+Argentina S.A.U. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Vista Energy Argentina S.A.U. &#145;s (Vista Argentina) ratings reflect its robust competitive position in the oil production in
+Government of Argentina (Ca stable), bolstered by high-quality assets in the Vaca Muerta formation and significant growth potential in both production and reserve development. The company has strong profitability due to low operational and
+development costs and enjoys considerable financial flexibility with proven access to both local and international debt markets. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">The rating is also
+supported by its solid capital structure characterized by low leverage and strong cash flow generation. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">The company is a subsidiary of its ultimate
+parent Vista Energy, S.A.B. de C.V (&#147;Vista Group&#148;), headquartered in Mexico, that holds substantial cash reserves in foreign currency, offering financial support to Vista Argentina if </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">
+needed. Vista Argentina&#146;s ratings are constrained by the concentration of operations in one area, the Bajada del Palo Oeste concession, although this is partially mitigated by sales
+diversification through export markets. The company is also exposed to regulatory risks within Argentina&#146;s local hydrocarbon market, though reliance on crude exports and reduced dependence on natural gas (which faces stricter regulations)
+partially offsets this risk. Additionally, the company is vulnerable to the volatility of energy commodity prices. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Vista Argentina&#146;s stable
+outlook reflects the company&#146;s solid credit metrics for its rating category and good liquidity. However, its creditworthiness cannot be completely <FONT STYLE="white-space:nowrap">de-linked</FONT> from the credit quality of the Argentine
+government, where it generates the bulk of its revenue, and thus its ratings and outlook incorporate the risks that it shares with the sovereign. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">YPF Sociedad Anonima </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">The ratings of YPF Sociedad
+Anonima (YPF) reflect the company&#146;s large oil and gas production and its reserve size; solid cash generation and credit metrics for its rating category; status as the largest industrial corporate and energy company in the domestic market; and
+links with the Government of Argentina (Ca stable), its controlling shareholder, which combine YPF&#146;s underlying Baseline Credit Assessment (BCA) that expresses a company&#146;s intrinsic credit risk, and our view of moderate support from the
+Argentine government and high dependence on the domestic market for its operations. The rating reflects our view that the company&#146;s creditworthiness cannot be completely <FONT STYLE="white-space:nowrap">de-linked</FONT> from the credit quality
+of the Argentine government and, thus, the ratings need to closely reflect the risk that the company shares with the sovereign. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Key rating
+challenges for YPF&#146;s ratings are its concentration of operations in Argentina, a <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">moderate-to-high</FONT></FONT> foreign-currency risk given that most of the company&#146;s debt
+is denominated in foreign currency, coupled with refinancing risk; and exposure to the volatility of energy commodity prices. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">The stable outlook
+reflects our view that YPF&#146;s main shareholder, the Argentine state, will exert no influence over the company to spend in capital spending or dividends beyond its operating cash flow generation capacity. However, YPF&#146;s creditworthiness
+cannot be completely <FONT STYLE="white-space:nowrap">de-linked</FONT> from the credit quality of the Argentine government, and, thus, its ratings also incorporate the risks that it shares with the sovereign. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">FACTORS THAT COULD LEAD TO AN UPGRADE OR DOWNGRADE OF THE RATINGS </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Arcor S.A.I.C. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Given Arcor&#146;s strong
+dependence on the Argentinean market, an upward rating movement would be subject to the ratings&#146; relative position to the Government of Argentina &#145;s (Ca stable) ratings. An upgrade would require the company demonstrating a stronger
+resilience to the underlying macroeconomic conditions in its key markets, with a particular focus on Argentina. This resilience can be exemplified through a strategic expansion and diversification of Arcor&#146;s operations outside of Argentina.
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">A downgrade to Arcor&#146;s rating could be prompted by a weakening of liquidity, indicating potential difficulties in meeting short-term
+obligations. Additionally, a downgrade of the Argentine government&#146;s rating could also lead to a corresponding downgrade for Arcor, given the strong interconnectedness between the company&#146;s and the country&#146;s economic health. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Pan American Energy, S.L. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">PAE&#146;s ratings could
+be upgraded if there is an upgrade of the government of Argentina&#146;s Ca rating and PAE maintains good liquidity and good credit metrics for its rating category. Additionally, if PAE broadens and diversifies its operations beyond Argentina, this
+could also exert upward pressure on its ratings. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">PAE&#146;s ratings could be downgraded if the company registers a significant deterioration in
+liquidity or registers a significant deterioration of credit metrics on a sustained basis. PAE&#146;s ratings could also be downgraded if there is a downgrade of the government of Argentina&#146;s rating. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Raghsa S.A. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">An upgrade of Raghsa would depend on an upgrade of the Government of Argentina&#146;s rating,
+currently at Ca with a stable outlook. Also, an upgrade could also be supported by growth and diversification of operations outside Argentina. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">The
+ratings could be downgraded (1)&nbsp;if the Government of Argentina&#146;s Ca rating is downgraded; (2)&nbsp;reduced liquidity, coupled with a deterioration in the company&#146;s credit metrics. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Telecom Argentina S.A. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">An upgrade of Telecom
+Argentina would depend on an upgrade of the Government of Argentina&#146;s rating, currently at Ca with a stable outlook. However, for an upgrade to be considered, the company would have to maintain its leading market position while expanding its
+internal cash flow generation and sustaining its prudent financial policies and healthy credit metrics. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">The ratings could be downgraded (1)&nbsp;if
+the government of Argentina&#146;s Ca rating is downgraded; (2)&nbsp;if its operating margin or market position weakens; (3)&nbsp;an excessive increase in leverage or a deterioration in liquidity could also trigger a rating downgrade. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Vista Energy Argentina S.A.U. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">An upgrade of Vista
+Argentina would depend on an upgrade of the Government of Argentina&#146;s rating, currently at Ca with a stable outlook. Also, an upgrade could also be supported by growth and diversification of operations outside Argentina, while maintaining a
+good liquidity. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">The ratings could be downgraded if the government of Argentina&#146;s Ca rating is downgraded. Also, a downgrade could be triggered
+by reduced liquidity at Vista Argentina and/or its parent, Vista Group, coupled with a significant deterioration in credit metrics. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">YPF Sociedad
+Anonima </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">YPF&#146;s ratings could be upgraded if there is an upgrade of the Government of Argentina&#146;s Ca rating and YPF maintains good credit
+metrics for its rating category. Upgrade pressure could also be triggered if the company further expands and diversifies its operations outside Argentina while maintaining an adequate liquidity profile. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">YPF&#146;s ratings could be downgraded if the company registers a significant deterioration in liquidity or if it loses access to debt markets or
+foreign currency, significantly restricting the company&#146;s ability to meet debt obligations. The ratings could also be downgraded if the Government of Argentina&#146;s rating is downgraded. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">The principal methodology used in rating Pan American Energy, S.L., Pan American Energy, S.L., Argentine Branch was Integrated Oil and Gas published in
+September 2022 and available at <FONT STYLE="white-space:nowrap">https://ratings.moodys.com/rmc-documents/393389</FONT> . The principal methodologies used in rating YPF Sociedad Anonima were Integrated Oil and Gas published in September 2022 and
+available at <FONT STYLE="white-space:nowrap">https://ratings.moodys.com/rmc-documents/393389</FONT> , and Government-Related Issuers methodology published in January 2024 and available at
+<FONT STYLE="white-space:nowrap">https://ratings.moodys.com/rmc-documents/406502</FONT> . The principal methodology used in rating Vista Energy Argentina S.A.U. was Independent Exploration and Production published in December 2022 and available at
+<U>https://ratings.moodys.com/rmcdocuments/</U>396736. The principal methodology used in rating Arcor S.A.I.C. was Consumer Packaged Goods published in June 2022 and available at
+<FONT STYLE="white-space:nowrap">https://ratings.moodys.com/rmc-documents/389866</FONT> . The principal methodology used in rating Raghsa S.A. was REITs and Other Commercial Real Estate Firms published in February 2024 and available at <U><FONT
+STYLE="white-space:nowrap">https://ratings.moodys.com/rmc-documents/414558</FONT></U>. The principal methodology used in rating Telecom Argentina S.A. was Telecommunications Service Providers published in November 2023 and available at <FONT
+STYLE="white-space:nowrap">https://ratings.moodys.com/rmc-documents/411275</FONT> . Alternatively, please see the Rating Methodologies page on https://ratings.moodys.com for a copy of these methodologies. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">REGULATORY DISCLOSURES </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">For further specification of Moody&#146;s key rating assumptions and sensitivity analysis, see the
+sections Methodology Assumptions and Sensitivity to Assumptions in the disclosure form. Moody&#146;s Rating Symbols and Definitions can be found on https://ratings.moodys.com/rating-definitions. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">For any affected securities or rated entities receiving direct credit support/credit substitution from another entity or entities subject to a credit
+rating action (the supporting entity), and whose ratings may change as a result of a credit rating action as to the supporting entity, the associated regulatory disclosures will relate to the supporting entity. Exceptions to this approach may be
+applicable in certain jurisdictions. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">For ratings issued on a program, series, category/class of debt or security, certain regulatory disclosures
+applicable to each rating of a subsequently issued bond or note of the same series, category/class of debt, or security, or pursuant to a program for which the ratings are derived exclusively from existing ratings, in accordance with Moody&#146;s
+rating practices, can be found in the most recent Credit Rating Announcement related to the same class of Credit Rating. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">For provisional ratings,
+the Credit Rating Announcement provides certain regulatory disclosures in relation to the provisional rating assigned, and in relation to a definitive rating that may be assigned subsequent to the final issuance of the debt, in each case where the
+transaction structure and terms have not changed prior to the assignment of the definitive rating in a manner that would have affected the rating. Moody&#146;s does not always publish a separate Credit Rating Announcement for each Credit Rating
+assigned in the Anticipated Ratings Process or Subsequent Ratings Process. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">These ratings are solicited. Please refer to Moody&#146;s Policy for
+Designating and Assigning Unsolicited Credit Ratings available on its website <U>https://ratings.moodys.com</U>. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Regulatory disclosures contained
+in this press release apply to the credit rating and, if applicable, the related rating outlook or rating review. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">The Global Scale Credit Rating(s)
+discussed in this Credit Rating Announcement was (were) issued by one of Moody&#146;s affiliates outside the EU and UK and is(are) endorsed for use in the EU and UK in accordance with the EU and UK CRA Regulation. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Please see https://ratings.moodys.com for any updates on changes to the lead rating analyst and to the Moody&#146;s legal entity that has issued the
+rating. Please see the issuer/deal page on https://ratings.moodys.com for additional regulatory disclosures for each credit rating. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Maria Gallardo
+Barreyro </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">VP - Senior Credit Officer </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Marcos
+Schmidt </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Associate Managing Director </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Releasing
+Office: </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Moody&#146;s Investors Service, Inc. </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">250 Greenwich Street </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">New York, NY 10007 </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">U.S.A. </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">JOURNALISTS: 1 212 553 0376 </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Client Service: 1 212 553 1653 </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify"><SUP STYLE="font-size:75%; vertical-align:top">&copy;</SUP> 2025 Moody&#146;s Corporation, Moody&#146;s Investors Service, Inc., Moody&#146;s Analytics,
+Inc. </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">and/or their licensors and affiliates (collectively, &#147;MOODY&#146;S&#148;). All rights reserved. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify"><B>CREDIT RATINGS ISSUED BY MOODY&#146;S CREDIT RATINGS AFFILIATES ARE THEIR CURRENT OPINIONS OF THE RELATIVE FUTURE CREDIT RISK OF ENTITIES, CREDIT
+COMMITMENTS, OR DEBT OR DEBT-LIKE SECURITIES, AND MATERIALS, PRODUCTS, SERVICES AND INFORMATION PUBLISHED BY MOODY&#146;S (COLLECTIVELY, &#147;PUBLICATIONS&#148;) MAY INCLUDE SUCH CURRENT OPINIONS. MOODY&#146;S DEFINES
+</B></P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify"><B>
+CREDIT RISK AS THE RISK THAT AN ENTITY MAY NOT MEET ITS CONTRACTUAL FINANCIAL OBLIGATIONS AS THEY COME DUE AND ANY ESTIMATED FINANCIAL LOSS IN THE EVENT OF DEFAULT OR IMPAIRMENT. SEE APPLICABLE
+MOODY&#146;S RATING SYMBOLS AND DEFINITIONS PUBLICATION FOR INFORMATION ON THE TYPES OF CONTRACTUAL FINANCIAL OBLIGATIONS ADDRESSED BY MOODY&#146;S CREDIT RATINGS. CREDIT RATINGS DO NOT ADDRESS ANY OTHER RISK, INCLUDING BUT NOT LIMITED TO: LIQUIDITY
+RISK, MARKET VALUE RISK, OR PRICE VOLATILITY. CREDIT RATINGS, <FONT STYLE="white-space:nowrap">NON-CREDIT</FONT> ASSESSMENTS (&#147;ASSESSMENTS&#148;), AND OTHER OPINIONS INCLUDED IN MOODY&#146;S PUBLICATIONS ARE NOT STATEMENTS OF CURRENT OR
+HISTORICAL FACT. MOODY&#146;S PUBLICATIONS MAY ALSO INCLUDE QUANTITATIVE MODEL-BASED ESTIMATES OF CREDIT RISK AND RELATED OPINIONS OR COMMENTARY PUBLISHED BY MOODY&#146;S ANALYTICS, INC. AND/OR ITS AFFILIATES. MOODY&#146;S CREDIT RATINGS,
+ASSESSMENTS, OTHER OPINIONS AND PUBLICATIONS DO NOT CONSTITUTE OR PROVIDE INVESTMENT OR FINANCIAL ADVICE, AND MOODY&#146;S CREDIT RATINGS, ASSESSMENTS, OTHER OPINIONS AND PUBLICATIONS ARE NOT AND DO NOT PROVIDE RECOMMENDATIONS TO PURCHASE, SELL, OR
+HOLD PARTICULAR SECURITIES. MOODY&#146;S CREDIT RATINGS, ASSESSMENTS, OTHER OPINIONS AND PUBLICATIONS DO NOT COMMENT ON THE SUITABILITY OF AN INVESTMENT FOR ANY PARTICULAR INVESTOR. MOODY&#146;S ISSUES ITS CREDIT RATINGS, ASSESSMENTS AND OTHER
+OPINIONS AND PUBLISHES ITS PUBLICATIONS WITH THE EXPECTATION AND UNDERSTANDING THAT EACH INVESTOR WILL, WITH DUE CARE, MAKE ITS OWN STUDY AND EVALUATION OF EACH SECURITY THAT IS UNDER CONSIDERATION FOR PURCHASE, HOLDING, OR SALE. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">MOODY&#146;S CREDIT RATINGS, ASSESSMENTS, OTHER OPINIONS, AND PUBLICATIONS ARE NOT INTENDED FOR USE BY RETAIL INVESTORS AND IT WOULD BE RECKLESS AND
+INAPPROPRIATE FOR RETAIL INVESTORS TO USE MOODY&#146;S CREDIT RATINGS, ASSESSMENTS, OTHER OPINIONS OR PUBLICATIONS WHEN MAKING AN INVESTMENT DECISION. IF IN DOUBT YOU SHOULD CONTACT YOUR FINANCIAL OR OTHER PROFESSIONAL ADVISER. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">ALL INFORMATION CONTAINED HEREIN IS PROTECTED BY LAW, INCLUDING BUT NOT LIMITED TO, COPYRIGHT LAW, AND NONE OF SUCH INFORMATION MAY BE COPIED OR
+OTHERWISE REPRODUCED, REPACKAGED, FURTHER TRANSMITTED, TRANSFERRED, DISSEMINATED, REDISTRIBUTED OR RESOLD, OR STORED FOR SUBSEQUENT USE FOR ANY SUCH PURPOSE, IN WHOLE OR IN PART, IN ANY FORM OR MANNER OR BY ANY MEANS WHATSOEVER, BY ANY PERSON
+WITHOUT MOODY&#146;S PRIOR WRITTEN CONSENT. MOODY&#146;S CREDIT RATINGS, ASSESSMENTS, OTHER OPINIONS AND PUBLICATIONS ARE NOT INTENDED FOR USE BY ANY PERSON AS A BENCHMARK AS THAT TERM IS DEFINED FOR REGULATORY PURPOSES AND MUST NOT BE USED IN ANY
+WAY THAT COULD RESULT IN THEM BEING CONSIDERED A BENCHMARK. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">All information contained herein is obtained by MOODY&#146;S from sources believed by
+it to be accurate and reliable. Because of the possibility of human or mechanical error as well as other factors, however, all information contained herein is provided &#147;AS IS&#148; without warranty of any kind. MOODY&#146;S adopts all necessary
+measures so that the information it uses in assigning a credit rating is of sufficient quality and from sources MOODY&#146;S considers to be reliable including, when appropriate, independent thirdparty sources. However, MOODY&#146;S is not an
+auditor and cannot in every instance independently verify or validate information received in the credit rating process or in preparing its Publications. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">To the extent permitted by law, MOODY&#146;S and its directors, officers, employees, agents representatives, licensors and suppliers disclaim liability
+to any person or entity for any indirect, special, consequential, or incidental losses or damages whatsoever arising from or in connection with the information contained herein or the use of or inability to use any such information, even if
+MOODY&#146;S or any of its directors, officers, employees, agents, representatives, licensors or suppliers is advised in advance of the possibility of such losses or damages, including but not limited to: (a)&nbsp;any loss of present or prospective
+profits or (b)&nbsp;any loss or damage arising where the relevant financial instrument is not the subject of a particular credit rating assigned by MOODY&#146;S. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">To the extent permitted by law, MOODY&#146;S and its directors, officers, employees, agents, representatives, licensors and suppliers disclaim liability
+for any direct or compensatory losses or damages caused to any person or entity, including but not limited to by any negligence (but excluding fraud, willful misconduct or any other type of liability that, for the avoidance of doubt, by law cannot
+be excluded) on the part of, or any contingency within or beyond the control of, MOODY&#146;S or any of its directors, officers, employees, agents, representatives, licensors or suppliers, arising from or in connection with the information contained
+herein or the use of or inability to use any such information. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">NO WARRANTY, EXPRESS OR IMPLIED, AS TO THE ACCURACY, TIMELINESS, COMPLETENESS, MERCHANTABILITY OR
+FITNESS FOR ANY PARTICULAR PURPOSE OF ANY CREDIT RATING, ASSESSMENT, OTHER OPINION OR INFORMATION IS GIVEN OR MADE BY MOODY&#146;S IN ANY FORM OR MANNER WHATSOEVER. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Moody&#146;s Investors Service, Inc., a wholly-owned credit rating agency subsidiary of Moody&#146;s Corporation (&#147;MCO&#148;), hereby discloses
+that most issuers of debt securities (including corporate and municipal bonds, debentures, notes and commercial paper) and preferred stock rated by Moody&#146;s Investors Service, Inc. have, prior to assignment of any credit rating, agreed to pay to
+Moody&#146;s Investors Service, Inc. for credit ratings opinions and services rendered by it fees ranging from $1,000 to approximately $5,000,000. MCO and Moody&#146;s Investors Service also maintain policies and procedures to address the
+independence of Moody&#146;s Investors Service credit ratings and credit rating processes. Information regarding certain affiliations that may exist between directors of MCO and rated entities, and between entities who hold credit ratings from
+Moody&#146;s Investors Service, Inc. and have also publicly reported to the SEC an ownership interest in MCO of more than 5%, is posted annually at www.moodys.com under the heading &#147;Investor Relations &#151; Corporate Governance &#151; Director
+and Shareholder Affiliation Policy.&#148; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Additional terms for Australia only: Any publication into Australia of this document is pursuant to the
+Australian Financial Services License of MOODY&#146;S affiliate, Moody&#146;s Investors Service Pty Limited ABN 61 003 399 657AFSL 336969 and/or Moody&#146;s Analytics Australia Pty Ltd ABN 94 105 136 972 AFSL 383569 (as applicable). This document
+is intended to be provided only to &#147;wholesale clients&#148; within the meaning of section 761G of the Corporations Act 2001. By continuing to access this document from within Australia, you represent to MOODY&#146;S that you are, or are
+accessing the document as a representative of, a &#147;wholesale client&#148; and that neither you nor the entity you represent will directly or indirectly disseminate this document or its contents to &#147;retail clients&#148; within the meaning of
+section 761G of the Corporations Act 2001. MOODY&#146;S credit rating is an opinion as to the creditworthiness of a debt obligation of the issuer, not on the equity securities of the issuer or any form of security that is available to retail
+investors. Additional terms for Japan only: Moody&#146;s Japan K.K. (&#147;MJKK&#148;) is a wholly-owned credit rating agency subsidiary of Moody&#146;s Group Japan G.K., which is wholly-owned by Moody&#146;s Overseas Holdings Inc., a wholly-owned
+subsidiary of MCO. Moody&#146;s SF Japan K.K. (&#147;MSFJ&#148;) is a wholly-owned credit rating agency subsidiary of MJKK. MSFJ is not a Nationally Recognized Statistical Rating Organization (&#147;NRSRO&#148;). Therefore, credit ratings assigned
+by MSFJ are <FONT STYLE="white-space:nowrap">Non-NRSRO</FONT> Credit Ratings. <FONT STYLE="white-space:nowrap">Non-NRSRO</FONT> Credit Ratings are assigned by an entity that is not a NRSRO and, consequently, the rated obligation will not qualify for
+certain types of treatment under U.S. laws. MJKK and MSFJ are credit rating agencies registered with the Japan Financial Services Agency and their registration numbers are FSA Commissioner </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">(Ratings) No.&nbsp;2 and 3 respectively. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">MJKK or
+MSFJ (as applicable) hereby disclose that most issuers of debt securities (including corporate and municipal bonds, debentures, notes and commercial paper) and preferred stock rated by MJKK or MSFJ (as applicable) have, prior to assignment of any
+credit rating, agreed to pay to MJKK or MSFJ (as applicable) for credit ratings opinions and services rendered by it fees ranging from JPY100,000 to approximately JPY550,000,000. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">MJKK and MSFJ also maintain policies and procedures to address Japanese regulatory requirements. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="44%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="5%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><B>YPF Sociedad An&oacute;nima</B></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Date: January 15, 2025</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">By:</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman" ALIGN="justify">/s/ Margarita Chun</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Name:</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Margarita Chun</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Title:</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Market Relations Officer</P></TD></TR>
+</TABLE>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>

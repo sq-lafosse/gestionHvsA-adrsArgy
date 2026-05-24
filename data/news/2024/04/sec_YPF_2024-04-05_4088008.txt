@@ -1,0 +1,486 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>d788727d6k.htm
+<DESCRIPTION>6-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>6-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE" STYLE="line-height:Normal">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION
+</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM <FONT
+STYLE="white-space:nowrap">6-K</FONT></B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>REPORT OF
+FOREIGN PRIVATE ISSUER </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>PURSUANT TO RULE <FONT STYLE="white-space:nowrap">13A-16</FONT> OR
+<FONT STYLE="white-space:nowrap">15D-16</FONT> </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>UNDER THE SECURITIES EXCHANGE ACT OF 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>For the month of April 2024 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Commission File Number: <FONT STYLE="white-space:nowrap">001-12102</FONT></B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>YPF Sociedad An&oacute;nima </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Macacha
+G&uuml;emes 515 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>C1106BKK Buenos Aires, Argentina </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Address of principal executive office) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Indicate by
+check mark whether the registrant files or will file annual reports under cover of Form <FONT STYLE="white-space:nowrap">20-F</FONT> or Form <FONT STYLE="white-space:nowrap">40-F:</FONT></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Form <FONT STYLE="white-space:nowrap">20-F&#8194;&#9746;&#8195;&#8195;&#8195;Form</FONT>
+<FONT STYLE="white-space:nowrap">40-F&#8194;&#9744;</FONT></P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>YPF Sociedad An&oacute;nima </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>TABLE OF CONTENT </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>ITEM 1</B><B>
+</B>Translation of YPF Sociedad An&oacute;nima Proposals of the Board of Directors to Shareholders regarding the Items of the Agenda for the General Ordinary and Extraordinary and Special Ordinary Class&nbsp;A and D Shareholders&acute; Meeting
+called for April&nbsp;26, 2024. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g788727g0405021322337.jpg" ALT="LOGO">
+ </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><div style="max-width:100%;margin-left:0%; margin-right:0%;border:solid 1px;background-color:;;padding-top:2pt;padding-bottom:3pt">
+<P STYLE="margin-top:0pt; margin-bottom:0pt; padding-top:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><B>Proposals of the Board of Directors to YPF S.A.&acute;s Shareholders regarding the Items of the Agenda for the General
+Ordinary and Extraordinary and Special Ordinary Class&nbsp;A and D Shareholders&acute; Meeting called for April&nbsp;26, 2024, available as of April&nbsp;5, 2024. </B></P></div>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&#8201;1. Appointment of two shareholders to sign the minutes of the Meeting. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Board of Directors of YPF S.A. proposes to the Shareholders&#146; Meeting of the Company that the two shareholders to sign the minutes be the
+representative appointed by Class&nbsp;A shares owned by the Argentine Government - Secretary of Energy - Ministry of Economy, and the representative of shares owned by the Sustainability Guarantee Fund (<I>Fondo de Garant&iacute;a de
+Sustentabilidad&#151;FGS</I>) of the Public Social Security System - Argentine Social Security Administration (<I>ANSES</I>) - Law No.&nbsp;26,425. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&#8201;2. Waiver of the preemptive offer of shares to shareholders pursuant to Article 67 of Law No.&nbsp;26,831 regarding the long-term share
+compensation plans for employees, through the acquisition of shares of the Company in accordance with Article 64 et. seq. of Law No.&nbsp;26,831. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">According to the Board of Directors&#146; Annual Report and the Financial Statements as of December&nbsp;31, 2023, the Board of Directors proposed to the
+Shareholders&#146; Meeting to allocate the amount of $28,745&nbsp;million to constitute the creation of a reserve to acquire shares of the Company, in order to grant the Board of Directors the possibility to acquire the Company&#146;s own shares, in
+a timely manner, in order to allocate them to the share-based benefit plans (in accordance with Articles 64 and 67 of Law No.&nbsp;26,831), consistent with the bonus and incentive plans carried out by the Company. Therefore, in the event that the
+Meeting approves the creation of such reserve, the Company may acquire its own shares and create a new Long-Term Share-Based Compensation Program (the &#147;New Program&#148; or &#147;Program 2024&#148;). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Board of Directors&#151;in charge of approval and regulation&#151;is expected to establish the New Program during the course of the current year once the
+necessary approvals have been obtained. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">While the Board of Directors is responsible for the creation of employee compensation plans, in the event of
+plans payable in shares of the issuing company, current legislation in force requires the approval of the shareholders&#146; meeting regarding the exemption of the preemptive offer of the shares and the creation of a reserve aimed to acquire shares
+of the Company, where applicable. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In this regard, the Board of Directors proposes to the Shareholders&#146; Meeting of the Company to approve the waiver
+of the preemptive offer of shares as provides in Article 67 of Law No.&nbsp;26,831 in order to authorize the delivery of the acquired shares of the Company to the beneficiary employees of each Program, a timely manner, in order to comply with the
+2024 Program or the programs created or to be created, as the case may be. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&#8201;3. Consideration of the Annual Report, Information Overview,
+Inventory, Statements of Financial Position, Statements of Comprehensive Income, Statements of Changes in Shareholders&#146; Equity, Statements of Cash Flow, individual and consolidated with its respective notes and related documentation, and the
+Report of the Supervisory Committee and Independent Auditor, corresponding to Fiscal Year No.&nbsp;47, which began on January&nbsp;1, 2023 and ended on December&nbsp;31, 2023. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Board of Directors considered and approved the aforementioned documents and proposes to the Shareholders&acute; Meeting of the Company its approval. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Please find the Company&#146;s individual and consolidated Financial Statements and Annual Report for fiscal
+year beginning January&nbsp;1, 2023 and ended December&nbsp;31, 2023 published on the website of the Argentine Securities Commission (&#147;CNV&#148;) at: </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Individual Financial Statements: </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>https://aif2.cnv.gov.ar/presentations/publicview/ef812e39-94a3-4634-bb9a-efa491a33140</U> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Consolidated Financial Statements: </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>https://aif2.cnv.gov.ar/presentations/publicview/1412f8ac-61b9-4e6a-9f12-c299de9cc00d</U> </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&#8201;4. Consideration of the accumulated results as of December&nbsp;31, 2023. Absorption of losses. Constitution of voluntary reserves. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Board of Directors proposes to the Shareholders&acute; Meeting of the Company: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">1.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">To place on record that, according to the Company&#146;s individual financial statements as of
+December&nbsp;31, 2023, the net loss for fiscal year 2023 amounted $1,561,217&nbsp;million and the accumulated losses (unallocated results) as of December&nbsp;31, 2023, amounted $1,003,419&nbsp;million, which include losses for fiscal year 2023 of
+$1,561,217&nbsp;million, balances restricted for distribution of results of $12,040&nbsp;million and translation differences for fiscal year 2023 of $545,758&nbsp;million. According to the accounting policy set forth in Section&nbsp;12.c) of Article
+3, Chapter III, Title IV of the CNV rules, translation differences accumulated for fiscal year 2023 in the account &#147;Other Comprehensive Income&#148; were assigned to each of the equity items originating such differences, as described in Note
+2.b.10.) to the consolidated financial statements, therefore, it was necessary to appropriate the amount of $3,518,449&nbsp;million corresponding to the translation differences for fiscal year 2023 from the account &#147;Other Comprehensive
+Income&#148; to the increase in the reserve for future dividends ($142,371 million), the investment reserve ($3,354,050 million) and the reserve for the acquisition of the Company&#146;s own shares ($22,028 million). As of December&nbsp;31, 2023,
+the Company&#146;s total shareholders&#146; equity is positive and amounts to $7,221,500&nbsp;million, and the Company is not subject to the provisions of Article 206 or Article 94 paragraph 5 of the General Corporations Law N&deg;19.550
+(&#147;LGS&#148;). </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">2.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">According to item 11 of paragraphs c) and e) of Article 3, Chapter III, Title IV of the CNV rules, it was
+informed under a note to the Company&#146;s Financial Statements that as of December&nbsp;31, 2023, there is a restriction to the distribution of retained earnings for an amount of $56,487&nbsp;million, which is comprised of: (i)&nbsp;treasury
+shares held in portfolio, as long as the treasury shares acquired by the Company are held in treasury for an amount equivalent to the acquisition cost of treasury shares for an amount of $5,635&nbsp;million; (ii)&nbsp;share trading premium of the
+Company&#146;s own shares, where the balance of the &#147;Share Trading Premium&#148; account was negative, for the negative balance of such account of $387&nbsp;million; and (iii)&nbsp;the appropriate conversion differences of $50,465&nbsp;million.
+</P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">3.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">To propose to the Shareholders&acute; Meeting, after deducting the amounts whose distribution is restricted in
+accordance with the above-mentioned paragraph, i.e. the amount of $56,487&nbsp;million, the following: </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(i)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">To fully release the reserve for future dividends, the reserve for the purchase of own shares, and the reserve
+for investments. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(ii)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">To absorb the accumulated losses in the unallocated results, up to $1,003,419&nbsp;million against the amounts
+corresponding to released reserves. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(iii)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">To allocate the amount of $28,745&nbsp;million to constitute a reserve for the purchase of own shares, in order
+to grant the Board of Directors the possibility to purchase the Company&#146;s own shares at the time it deems appropriate for their allocation to share-based benefit plans (in accordance with articles 64 and 67 of Law No.&nbsp;26,831). Please refer
+to &#147;Board of Directors Compensation Policy, Bonuses and Incentive Plans&#148; of our Annual Report. </P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(iv)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">To allocate the amount of $3,418,972&nbsp;million to constitute a reserve for investments in accordance with
+the third paragraph of article 70 of the General Corporations Law No.&nbsp;19,550. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">4.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">To inform that, in accordance with the provisions of article 70 of the General Corporations Law N&deg; 19,550,
+at least 5% of liquid and realized gains resulting from the fiscal year should be allocated to the Legal reserve until such reserve reaches 20% of the capital, which was accomplished in fiscal year ended December&nbsp;31, 2009. Also, pursuant to
+Section&nbsp;12.c) of Article 3, Chapter III, Title IV of the CNV rules, it is informed that due to the accumulated conversion differences associated with the capital stock and capital adjustment, it was necessary to allocate the amount of
+$495,472&nbsp;million corresponding to the conversion differences for fiscal year 2023 in the &#147;Other Comprehensive Income&#148; account to the increase of such Reserve. </P></TD></TR></TABLE>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&#8201;5. Determination of the fees payable to the Independent Auditor for the fiscal year ended December&nbsp;31, 2023. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Board of Directors resolved to propose to the Shareholders&acute; Meeting<B> </B>of the Company, to set a remuneration of $1,066,996,714 to
+Deloitte&nbsp;&amp; Co. S.A. for its audit services as Independent Auditor for the accounting documentation as of December&nbsp;31, 2023, and the quarterly information as of 2023. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&#8201;6. Appointment of the Independent Auditor who shall render an opinion on the annual financial statements as of December&nbsp;31, 2024 and
+determination of its remuneration. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Audit Committee has assessed the performance of Deloitte&nbsp;&amp; Co. S.A., and issued a favorable opinion,
+raising no objections to such firm in the event that the Shareholders&#146; Meeting appoints it as Independent Auditor of the Company to report on the annual financial statements as of December&nbsp;31, 2024. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Along these lines, the Board of Directors resolved to propose to the Shareholders&acute; Meeting<B> </B>of the Company of the Company: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">1. To appoint Deloitte&nbsp;&amp; Co. S.A. as independent auditor of the Company to report on the annual financial statements as of
+December&nbsp;31, 2024, informing that, in compliance with the provisions of Articles 22 and 23 of Chapter III Title of the CNV rules, Messrs. Guillermo Daniel Cohen and Mrs.&nbsp;Vanesa Rial De Sanctis as certifying accountants, and Mr.&nbsp;Diego
+Octavio De Vivo as alternate certifying accountant, have filed the affidavits required under the applicable regulations; and </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">2. To have
+the remuneration of the Independent Auditor determined by the Shareholders&acute; Meeting<B> </B>of the Company at which the financial statements for the fiscal year 2024 will be considered. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&#8201;8. Consideration of the Remuneration of the Board of Directors ($2,087,597,061) for the fiscal year ended December&nbsp;31, 2023, which resulted
+in a computable loss in accordance with the National Securities Commission Regulations. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In relation with the Board of Directors&acute; fees for the
+fiscal year ended December&nbsp;31, 2023, it is informed that: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">1. (i) the General Shareholders&acute; Meeting<B> </B>of the Company held
+on April&nbsp;28, 2023 approved and authorized the Board of Directors to pay advance compensations to the Directors and Supervisory Committee members for the fiscal year 2023 for up to a total amount of $1,624,540,676; and that (ii)&nbsp;during the
+fiscal year ended December&nbsp;31, 2023, the amount of $2,087,597,061 was paid as fees, compensations and remunerations on all accounts to the Board of Directors. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">2. The Board of Directors considers that the remunerations allocated to its members during
+the fiscal year under consideration are adequate and reasonable, in compliance with the provisions of the Argentine Securities Commission&#146;s regulations, as they contemplate the responsibilities of each director, the performance of special
+commissions and/or technical -administrative functions, if any, the time devoted to their duties, its professional competence and reputation and that such remunerations are in line with market guidelines, based on the analysis conducted by the
+People and Culture Vice-Presidency and the Compensation and Nomination Committee, and the particular circumstances of the Company. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Based on the
+foregoing, the Board of Directors proposes to the Shareholders of the Company to approve the amount of $2,087,597,061<B> </B>as remunerations, fees and compensations on all accounts of the Board of Directors for the fiscal year ended
+December&nbsp;31, 2023. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&#8201;9. Consideration of the Remuneration of the Supervisory Committee for the fiscal year ended December&nbsp;31, 2023.
+</B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Board of Directors proposes to the Shareholders&#146; Meeting of the Company to approve the amount of $65,161,356 as remunerations of the
+Supervisory Committee for fiscal year ended December&nbsp;31, 2023. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&#8201;10. Determination of the number of regular and alternate members of the
+Supervisory Committee. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Board of Directors resolved to propose that the Supervisory Committee should be composed of three (3)&nbsp;regular members
+and three (3)&nbsp;alternate members. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&#8201;13. Determination of the number of regular and alternate members of the Board of Directors. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Board of Directors proposes to the Shareholders&#146; Meeting of the Company that the Board of Directors should be composed of twelve (12)&nbsp;regular
+members and eleven (11)&nbsp;alternate members. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&#8201;15. Appointment of regular and alternate Directors for Class&nbsp;D shares and
+determination of their tenure. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Board of Directors proposes to the Shareholders&#146; Meeting of the Company: </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(i)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The appointment of Horacio Daniel Marin, Mario Eduardo V&aacute;zquez, Carlos Manuel Bastos, Jos&eacute;
+Rolandi, Eduardo Alberto Ottino, Omar Gutierrez, Emiliano Jos&eacute; Mongiliardi, Horacio Oscar Forchiassin, Jimena Hebe Latorre, Jos&eacute; Guillermo Terraf and Gerardo Dami&aacute;n Canseco as Regular Directors for Class&nbsp;D Shares, all of
+them for three fiscal years. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(ii)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The appointment of Santiago Mart&iacute;nez Tanoira, Silvia Noem&iacute; Ayala, Mauricio Alejandro Martin,
+Mar&iacute;a Martina Azcurra, Guillermo Gustavo Koenig, Carla Antonela Matarese, Hugo Eduardo Rodr&iacute;guez, Pamela Fernanda Verasay, Mar&iacute;a Araceli Guzm&aacute;n and Julio Alejandro Schiantarelli, as Alternate Directors for Class&nbsp;D
+shares, all of them for three fiscal years. </P></TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In the event of temporary or permanent replacement of regular directors Omar
+Guti&eacute;rrez, Emiliano Jos&eacute; Mongilardi, Horacio Oscar Forchiassin, Jimena Hebe Latorre, Jos&eacute; Guillermo Terraf and Gerardo Dami&aacute;n Canseco, to establish the substitution of each of them in the following order, respectively:
+Guillermo Gustavo Koenig, Carla Antonela Matarese, Hugo Eduardo Rodr&iacute;guez, Pamela Fernanda Verasay, Mar&iacute;a Araceli Guzm&aacute;n and&nbsp;Julio Alejandro Schiantarelli. Messrs.&nbsp;Santiago Mart&iacute;nez Tanoira, Silvia Noem&iacute;
+Ayala, Mauricio Alejandro Martin and Mar&iacute;a Martina Azcurra, may replace any of the remaining Directors for Class&nbsp;D shares hereby proposed. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Additionally, it is informed that according to information received by the Company to date, Messrs. Mario
+Eduardo V&aacute;zquez, Eduardo Alberto Ottino, Omar Guti&eacute;rrez, Horacio Oscar Forchiassin, Jimena Hebe Latorre, y Jos&eacute; Guillermo Terraf do qualify as independent; and Horacio Daniel Marin, Carlos Manuel Bastos, Jos&eacute; Rolandi,
+Emiliano Jos&eacute; Mongilardi and Gerardo Dami&aacute;n Canseco do qualify as <FONT STYLE="white-space:nowrap">non-independent</FONT> in accordance with the Argentine Securities Commission Rules. Additionally, it is informed that according to
+information received by the Company to date, Messrs. Guillermo Gustavo Koenig, Carla Antonela Matarese, Hugo Eduardo Rodr&iacute;guez, Mar&iacute;a Araceli Guzm&aacute;n, do qualify as independent; and Pamela Fernanda Verasay, Santiago
+Mart&iacute;nez Tanoira, Silvia Noem&iacute; Ayala, Mauricio Alejandro Martin, Mar&iacute;a Martina Azcurra&nbsp;and Julio Alejandro Schiantarelli do qualify as <FONT STYLE="white-space:nowrap">non-independent</FONT> in accordance with the National
+Securities Commission Regulations. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Background information of the proposed candidates is attached hereto. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&#8201;16. Determination of advance compensation to be received by the members of the Board of Directors and the members of the Supervisory Committee
+for the fiscal year that began on January&nbsp;1, 2024. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Board of Directors proposes to the Shareholders&#146; Meeting of the Company to approve
+the payment of advanced compensation to directors and members of the Supervisory Committee for fiscal year 2024 for up to an amount of $10,189,823,464. To such effect, the remunerations corresponding to positions to be filled in the Board of
+Directors and the respective Committees, special commissions and technical and administrative functions were taken into account, as well as the inclusion of the CEO&#146;s remuneration and the projections aimed at maintaining the Company&#146;s
+market position. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In consideration of the above and based on the analysis made by the Compensation and Nomination Committee of the Board of Directors on
+the basis of market information provided by a consulting firm specialized in the matter, the proposed remunerations are considered appropriate and reasonable, and in line with comparable remunerations of leading companies in the market. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>The Board of Directors </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">YPF S.A. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">************** </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:55%; font-size:11pt; font-family:Times New Roman"><B><U>Exhibits</U> </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Exhibit to Item 15. Appointment of regular and alternate of the Board of Directors for Class&nbsp;D shares and determination of their tenure. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Background information of regular Directors proposed for Class&nbsp;D shares. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Horacio Daniel Marin </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Marin is a Chemical
+Engineer graduated from the Universidad Nacional de La Plata. In 1994 he completed his master&acute;s degree in Petroleum Engineering at University of Texas at Austin. In 2009 he attended the Stanford University&#146;s Executive Program at the
+Graduate School of Business. Over the course of his <FONT STYLE="white-space:nowrap">35-year</FONT> career he worked in the development and strategy of the oil and gas industry in several countries besides Argentina, including United States,
+M&eacute;xico, Venezuela, Colombia, Ecuador, Per&uacute; and Bolivia, holding different positions in operations, development, exploration and strategy. He was responsible for the development of both the surface and the infrastructure in the
+Fort&iacute;n de Piedra block in Vaca Muerta formation, developed in record time. He served at Tecpetrol S.A. as Corporate Reservoir Manager and, among other positions at November 2008 he was appointed Exploration&nbsp;&amp; Production President of
+Tecpetrol S.A. He is Director and Chairman of the Board since December&nbsp;14, 2023 and he serves as our Chief Executive Officer &#147;CEO&#148; since January&nbsp;26, 2024. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Mario Eduardo V&aacute;zquez </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;V&aacute;zquez is
+a Certified Public Accountant graduated from the Universidad de Buenos Aires. Mr.&nbsp;V&aacute;zquez worked at Arthur Andersen for 32 years until 1993, where he was appointed General Director for 22 years and headed operations in Argentina,
+Uruguay, Paraguay and Chile. He was member of the board of directors of Telef&oacute;nica Espa&ntilde;a S.A. from 2000 to 2006 and Chairman of the board of directors of Grupo Telef&oacute;nica Argentina S.A. from 2003 to 2007.
+Mr.&nbsp;V&aacute;zquez was also member of the board of directors of YPF S.A. (being also Chairman of the Audit Committee) between March 2008 and June 2012, Telef&oacute;nica Chile S.A., Central Puerto S.A., Banco Santander R&iacute;o S.A., La
+Buenos Aires Seguros, Banco Supervielle Societe General S.A., Hoteles Sheraton de la Argentina S.A. and Globant S.A. Mr.&nbsp;V&aacute;zquez currently serves on the board of directors and as chairman of the audit committees of Mercado Libre, Inc and
+Despegar.com Corp. Likewise, Mr.&nbsp;V&aacute;zquez acted in several <FONT STYLE="white-space:nowrap">non-profit</FONT> entities such as FIEL, CARI, IDEA (being a current member of the ethics committee), Fundaleu, Fundace, Fundaci&oacute;n
+Telef&oacute;nica, C&aacute;mara Argentina de Comercio y Servicios, C&aacute;mara Espa&ntilde;ola de Comercio de la Rep&uacute;blica Argentina, Instituto de Auditores Internos, Instituto T&eacute;cnico de Contadores, Organismo Argentino de
+Acreditaciones and Foro Empresarial del Mercosur. He has been a member of the Board of Directors of YPF since December 2023. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Carlos Manuel Bastos
+</I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Bastos holds a degree in Electronic Engineer from the Universidad Nacional de C&oacute;rdoba, Facultad de Ciencias Exactas with a
+postgraduate degree in Energy Economics from Fundaci&oacute;n Bariloche. In 1970 he joined Empresa Provincial de Energ&iacute;a de C&oacute;rdoba (&#147;EPEC&#148;) where he worked as a technician and then as an engineer. He held the following
+positions until 1996: Undersecretary of Energy (1991), Secretary of Energy (1992-1995), Secretary of Energy and Communications (1995), Secretary of Energy and Transportation (1995)&nbsp;and Secretary of Public Works and Services (1996). Between July
+1999 and December 1999, he was Chairman of EPEC. Between March 2001 and December 2001, he was Minister of Infrastructure of Argentina. Between March 2016 and December 2017, he was appointed &#147;vocal primero&#148; of the Ente Nacional Regulador de
+la Electricidad (&#147;ENRE&#148;). He has been a member of the Advisory Experts team of Trench Energy Consulting S.A., and he has been an independent consultant in hydrocarbons and electric energy. He acted as arbitrator and expert witness in many
+arbitration cases on regulatory issues in Argentina and other Latin American countries related to the energy distribution and transport. He is Director of the board of Metrogas S.A. and Integra Recursos Naturales S.A. and Vice President of Andina
+Electricidad S.A. He has been a member of the Board of Directors of YPF since December 2023. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Jos&eacute; Rolandi </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Rolandi holds an Industrial Engineer degree from the ITBA. Mr.&nbsp;Rolandi worked as a senior consultant at Imagina Management&nbsp;&amp; IT S.A.,
+advising on projects in the oil, petrochemical and mass consumption industries between 2007 and 2011. He worked as Project Manager of the Carape I and II Wind Farm and the Aconcagua <FONT STYLE="white-space:nowrap">Bi-oceanic</FONT> Corridor in
+Corporaci&oacute;n Am&eacute;rica S.A. between 2011 and 2014. Between 2014 and 2018 he was Strategic Planning and Commercial Manager of CGC being responsible for the commercialization of crude oil, natural gas and LNG. He also has experience in IT,
+having <FONT STYLE="white-space:nowrap">co-founded</FONT> companies related to artificial intelligence, augmented reality and development of solutions based on facial biometrics. He has been a member of the Board of Directors of YPF since December
+2023. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Eduardo Alberto Ottino </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Ottino is a
+Certified Public Accountant, graduated from the School of Economics of the Universidad Nacional de La Plata. He holds a Master&#146;s Degree in Business Administration from the Instituto de Altos Estudios Empresariales (IAE). Mr.&nbsp;Ottino has 42
+years of experience having held various positions in the areas of Management Control, Economic and Financial Planning, Taxes, Internal Auditing, Administration, Reporting and Finance. He played key roles in takeovers of large and <FONT
+STYLE="white-space:nowrap">medium-sized</FONT> industrial companies acquired by the Techint Group in Argentina (Sociedad Mixta Siderurgia Argentina, SOMISA -today Ternium-, Comesi and Armco), as well as in the United States (Maverick and Hydril),
+Venezuela Siderurgica del Orinoco (SIDOR) and Europe (Silcotube). He was Administrative Director of Siderar between 1992 and 1999, and Director of Administration and Finance of Techint Ingenieria y Construcciones and Techint Engeneering Company
+between 2000 and 2002. Between 2003 and 2007 he was Chief Administrative Officer of Tenaris S.A. and between 2008 and 2016 he was Chief Administrative Officer of the Techint Group. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Omar Guti&eacute;rrez </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Gutierrez is a Certified
+Public Accountant graduated from the Universidad Nacional del Comahue. In 2003 he was elected representative of Neuqu&eacute;n&#146;s Municipal Council, where he served until 2005. He served as Chairman of the board of directors of Banco Provincia
+de Neuqu&eacute;n from 2005 to 2011. He served as Minister of Economy and Public Works of the Neuqu&eacute;n Province between 2011 and 2015. On April 2015, he was elected Governor of the Neuqu&eacute;n Province; being reelected in 2019 until 2023.
+He presides the political party &#147;Movimiento Popular Neuquino&#148;. From 2014 to 2016, he served as Alternate Director of YPF S.A&#146;s Board. He has been a member of the Board of Directors of YPF since December 2023. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Emiliano Jos&eacute; Mongilardi </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Mongilardi
+holds a Management and Administration Diploma from the Instituto Educativo Argentino (&#147;IEA&#148;), specialized in international trade. Mr.&nbsp;Mongilardi worked as production and maintenance officer at Petromark S.R.L. He is a union
+representative of the Sindicato de Petr&oacute;leo y Gas Privado de Chubut (Private Oil and Gas Union of Chubut) and treasurer of the Obra Social de Petroleros de Chubut and Mutual de Petroleros de Chubut. Between 2019 and 2023 he was Provincial
+Deputy for the Chubut Province. He has been a member of the Board of Directors of YPF since December 2023. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Horacio Oscar Forchiassin </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Forchiassin holds a Mechanical Engineering degree from Universidad Nacional de la Patagonia San Juan Bosco of Comodoro Rivadavia, Chubut Province.
+Mr.&nbsp;Forchiassin held various positions at Transportes Dim&oacute;pulos S.R.L since 1973 until he became Operations Manager between January 1980 and September 1991. Between 1991 and 1995 he served in Operaciones Especiales Argentinas S.A. as
+Commercial Manager. From 1995 to 2016 he held various positions in NOV Tuboscope Vetco de Argentina S.A., including Operations Manager for the South regional, Operations Manager for Argentina, until he was appointed General Manager in January 2011.
+He was also member of the Board of Directors of Tuboscope Vetco de Argentina S.A., serving as Chairman and General Manager from March 2012 to December 2016. During the same period, he was Director in Tuboscope Vetco of Canada Inc. Between March 2013
+and December 2016, he was Director of Black Max Argentina S.A. He has been a member of the Board of Directors of YPF since March 2020. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Jimena Hebe
+Latorre </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mrs.&nbsp;Latorre is a Lawyer with Registry and Notarial orientation, from the Universidad de Mendoza. She has a postgraduate degree with a
+Diploma in Civil and Commercial Code from the School of Law of the University of Cuyo and she is in progress of a master&#146;s degree in government and public administration in Latin America from the University of Pampeau Fabra in Barcelona.
+Mrs.&nbsp;Latorre held the position of Legal Advisor at the Ministry of Transportation of the Government of the Mendoza Province. Then she served as Cabinet Coordinator of Public Services Secretary and in 2018 she assumed as Chairman of the board of
+directors of Provincial Electricity Regulatory Entity (<I>Ente Provincial Regulador El&eacute;ctrico &#147;EPRE&#148;</I>) of the Mendoza Province, a position she held until her assumption as a National Deputy in December 2019. She was an authority
+in the Energy and Fuel Commission in the Chamber of Deputies of the Nation between 2019 and 2023, and she presented numerous bills related to the subject and requests for reports addressed to the energy portfolio of the Executive Power. She is
+currently Minister of Energy and Environment of the Mendoza Province. She is member of the board of directors of the Instituto Argentino de la Energ&iacute;a General Mosconi and the Fundaci&oacute;n Alem. She has been a member of the Board of
+Directors of YPF since January 2024. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Jos&eacute; Guillermo Terraf </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Terraf is a Certified Public Accountant graduated from the Universidad Nacional de C&oacute;rdoba and holds a Postgraduate Degree in Finance from the
+Pontificia Universidad Cat&oacute;lica Argentina. He took several specialization courses at Yield Academy (Mexico City), Instituto Argentino de Mercado de Capitales, Universidad del CEMA and Universidad de Modena (Italy). Mr.&nbsp;Terraf has more
+than 25 years of experience covering financial advisory and management of technology <FONT STYLE="white-space:nowrap">start-ups.</FONT> Throughout his career, he worked as a freelance financial analyst in several public-private consulting projects
+and played key roles in local companies. Since 2016 he is <FONT STYLE="white-space:nowrap">Co-Founder</FONT> and Chief Operating Officer (COO) of Agrodreams, a big data and artificial intelligence <FONT STYLE="white-space:nowrap">start-up</FONT>
+company focused on agribusiness. Between 2005 and 2018 he held various positions in private companies such as: financial auditor of Laishi Group S.A., a software development and artificial intelligence technology company. Mr.&nbsp;Terraf served as
+Senior Financial Analyst at <FONT STYLE="white-space:nowrap">RSH-Macroeconomics,</FONT> a consulting firm specialized in macroeconomic, financial and investment matters. Between 2001 and 2007, Mr.&nbsp;Terraf was tax advisor to the Budget and
+Treasury Committee of the Honorable Senate of the Nation. Mr.&nbsp;Terraf provided advised on the development of instruments for the financing of provincial governments, investment and institutional strengthening projects financed by international
+lending agencies (IDB, World Bank), has implemented integrated financial management systems in provinces, and has designed and organized private investment funds. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Gerardo Dami&aacute;n Canseco </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Canseco has a law degree from Universidad Abierta Interamericana (&#147;UAI&#148;) and specializes in trade union law. Mr.&nbsp;Canseco has been an
+employee of YPF since September 1984. He has held several other positions, including Government Secretary for the Municipality of San Lorenzo in the Santa Fe Province from 2007 to 2011, Undersecretary of Labor for the Labor and Social Security
+Ministry from 2011 to 2014. Likewise, he was the President of the Centro de Estudios Laborales y Sociales of Rosario in the Santa Fe Province from 2014 to 2016. Between 1992 and 2021, he was the General Secretary of the San Lorenzo branch of SUPeH.
+Since December 2021 he is the Secretary of Trade Union Affairs and Training of SUPeH. He has been a member of the Board of Directors of YPF since April 2023. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Background information of alternate Directors proposed for Class&nbsp;D shares. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Santiago Mart&iacute;nez Tanoira </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Tanoira holds a
+degree in Industrial Engineering from the Instituto Tecnol&oacute;gico de Buenos Aires (&#147;ITBA&#148;) and a master&#146;s degree in business administration from Universidad Austral. He completed specialization courses at the Universities of
+Darden, Wharton and Harvard in the United States. In 1998, Mr.&nbsp;Mart&iacute;nez Tanoira joined YPF and took on several roles within the petrochemical business. He was in charge of the Marketing, Planning and Business Development in Argentina
+between December 2002 and April 2008. In May 2008, he held the position of Basic Petrochemical and Intermediate Products Director at Repsol in Spain. Afterwards, he was appointed Chemical Director at YPF S.A. from 2011 until 2012. He was also member
+of the board of directors of Profertil S.A. From 2012 until 2016 he served as Executive Manager of the Mendoza Region, in charge of the Upstream operations. He was our Upstream Executive Vice President from October 2016 until August 2017, and our
+Downstream Executive Vice President from August 2017 until May 2020. Since May 2020, he is our Gas and Power Executive Vice President. He is Director and Chairman of the board of directors of Compa&ntilde;&iacute;a Mega S.A. and YPF Energ&iacute;a
+El&eacute;ctrica S.A. He is our Gas and Power Executive Vice President of YPF S.A. He has been an alternate member of the Board of Directors of YPF since April 2017. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Silvia Noem&iacute; Ayala </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mrs.&nbsp;Ayala holds a public
+accounting degree from the Universidad de Mor&oacute;n, with different specialization programs, and a master&#146;s degree in economics and administration from the ESEADE. Mrs.&nbsp;Ayala joined YPF S.A. in 1994 to participate in the project to
+launch Operadora de Estaciones de Servicios S.A (&#147;OPESSA&#148;), a subsidiary of YPF S.A. that operates service stations. She took on different roles in relation to the administrative and financial processes until 2007. From 2008 to 2011, she
+served as SAP Processing Coordinator and as Chief of Planning and Management Control. In 2012, she was appointed Treasury Manager. She was the Financial Services Department Manager in YPF S.A. between June 2018 to August 2021. She is Member of the
+board of director of <FONT STYLE="white-space:nowrap">A-Evangelista</FONT> S.A (&#147;AESA&#148;) and Eleran Inversiones 2011 S.A.U. She serves as Executive Leader of the Aconcagua and Cenit Projects of YPF S.A. She has been an alternate member of
+the Board of Directors of YPF since June 2020. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Mauricio Alejandro Mart&iacute;n </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Mart&iacute;n holds a degree in Industrial Engineering from the Universidad Nacional de Cuyo, with several specialization programs from IAE Business
+School and an MBA from the Universidad del CEMA. Mr.&nbsp;Mart&iacute;n joined YPF S.A. in 1997, developing his career in different areas and roles of our Downstream business, as Process Engineer, Production Manager, CMASS Manager, Industrial
+Complex Manager, Manager of Planning and Technical Development. Since June 2017, he has served as Logistics Executive Manager. Between May 2020 and August 2022, he was our Downstream Vice President. Between September 2022 and February 2023, he
+served as our Services Vice President. He also served as our Digital Technologies and Transversal Solutions Vice President from February 2023 to December 2023. Since December 2023, he serves as our Downstream Executive Vice president. He is Chairman
+of the board of directors of YPF Digital S.A.U. He is our Downstream Executive Vice President. He has been an alternate member of the Board of Directors of YPF since December 2023. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Mar&iacute;a Martina Azcurra </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mrs.&nbsp;Azcurra holds a Public Accounting and a Business Administration degree from the Universidad de Buenos Aires and a master&#146;s degree in business
+management from the Universidad del Salvador. Mrs.&nbsp;Azcurra joined YPF S.A. in 1992 and developed her professional career in different positions in the Commercial Downstream area until 2007, when she was appointed Responsible for Support and
+Functional Development within the Corporate Economic-Administrative area. From 2008 through 2010, she served as Corporate Manager for Strategy, Planning and Management Control. Between 2010 and 2017, she took on different managing positions within
+the Commercial Downstream area. From 2017 to 2020, she was Human Resources Manager for the Downstream Vice Presidency. As of 2020, she took up commercial positions again as Executive Chemical Manager. Since January 2024, she is our Executive B2B
+Manager within our Downstream Vice Presidency. She is member of the board of directors of Profertil S.A. and Compa&ntilde;&iacute;a Mega S.A. She has been an alternate member of the Board of Directors of YPF since June 2020. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Guillermo Gustavo Koenig </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Koenig holds Certified
+Public accountant degree from the Universidad Nacional del Comahue. Mr.&nbsp;Koenig served as financial director of Casino Magic Neuqu&eacute;n S.A., being responsible for the financial management of the company and the coordination of areas such as
+internal audit, purchasing, administration and accounting. He was financial advisor of Argentina Gaming Group S.A. (&#147;AGG&#148;). He was financial director of Crown Casinos S.A., coordinating the accounting team, preparing monthly and annual
+balance sheets. He was administration and finance manager of Bacs S.A. He was also president of Mercado de Concentraci&oacute;n de la Provincia de Neuqu&eacute;n S.A. until December 2023. Since December&nbsp;10, 2023 he is the Minister of Economy,
+Production and Industry of the Neuqu&eacute;n Province. He has been an alternate member of the Board of Directors of YPF since December, 2023. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Carla
+Antonela Matarese </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mrs.&nbsp;Matarese holds a degree in Banking and Financial Companies from Universidad Argentina de la Empresa (&#147;UADE&#148;).
+Between 2005 and 2007, Mrs.&nbsp;Matarese worked at the Ministry of Production of the Chubut Province, as Advisor in the Management of Financial Programs and Special Projects and as Director of Development Promotion. Between 2007 and 2009, she
+worked as Undersecretary of Resources in the Comodoro Rivadavia Municipality and as Secretary of Finance and Management Control. She was Government Advisor in Organizational Strategic Management in the Government of the Chubut Province between 2011
+and 2013. In 2018, she worked as a consultant for the design and communication of the Government Plan for the municipal political campaign. During 2021, she worked as an external consultant in administrative management with trade union health
+schemes of the Puerto Madryn City, as well as internal consultant in the Sociedad Cooperativa Popular Limitada in strategic planning and organizational management. Since December 2023, she is working as Government Advisor in the Cabinet Coordination
+of the Chubut Province, in charge of the design of the Government Management System. She has been an alternate member of the Board of Directors of YPF since December 2023. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Hugo Eduardo Rodr&iacute;guez </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Rodriguez is a
+mechanical technician of Escuela Nacional de Educaci&oacute;n T&eacute;cnica N&deg;2 (Rosario, Province of Santa Fe). He has experience in the oil and gas industry, having managed national and international oil services companies. He has worked as
+head of logistics and warehousing between 1986 and 1988, head of personnel and head of human resources between 1993 and 1997 in Parker Drilling Services Americas S.R.L. and Rowan Drilling Argentina Inc. In 1995, he founded MEMCAP S.A., an oilfield
+and land remediation services supplier. Likewise, in 2011 he founded Brest S.A., a provider of oil field services. In 2014 he founded CODEDCO S.A., digital education schools in Caleta Olivia, Pico Truncado and Las Heras cities. In 2018, he founded
+Santa Cruz Prevention S.A., a company that provides workwear for the oil industry. He has been an alternate member of the Board of Directors of YPF since December 2023. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Pamela Fernanda Verasay </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mrs.&nbsp;Verasay is a certified Public Accountant graduated from Universidad Nacional de Cuyo. She has completed a Specialization in the Legal and Economic
+Structure of Energy Regulation and an interdisciplinary master&#146;s degree in Energy (thesis currently pending), both at the Center for the Study of Energy Regulatory Activity, School of Law of the Universidad de Buenos Aires. Ms.&nbsp;Verasay has
+served from December 2015 to December 2021 as National Senator for the Mendoza Province and serving on the committees of General Legislation; Regional Economies, Social Economy, Micro, Small and Medium Enterprises; National Economy and Investment;
+Industry and Trade; Mining, Energy and Fuels; Science and Technology, among others. Ms.&nbsp;Verasay served as Chairman of the Argentina-Chile Joint Parliamentary Bicameral Commission. Between 2019 and 2021, Ms.&nbsp;Verasay has served as First Vice
+President of the Senate of the Nation. From 2021 to date, Ms.&nbsp;Verasay has been a National Deputy for the Mendoza Province and is a member, among others, of the committees of Energy and Fuels, Natural Resources and Conservation of the Human
+Environment, Labor Legislation, and Finance. She has been an alternate member of the Board of Directors of YPF since January 2024. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Mar&iacute;a
+Araceli Guzm&aacute;n </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Ms.&nbsp;Guzman is a Geologist, graduated from the Universidad Nacional de C&oacute;rdoba. She holds a Master&#146;s degree in
+Mining Hydrogeology from the Universidad T&eacute;cnica de Oruro and C&aacute;mara Minera de Per&uacute;. She also completed a specialization in Mining and the Environment at the Universidad Europea del Atl&aacute;ntico, and pursued postgraduate
+studies in Geosciences and Lithium Technologies and Lithium Production and Environmental Impact Assessment. Since 2016, Ms.&nbsp;Guzm&aacute;n is a geologist at Jujuy Energ&iacute;a y Miner&iacute;a S.E. Since October 2016 to date, she is head of
+the mining area at Jujuy Energ&iacute;a y Miner&iacute;a S.E., being responsible for the promotion of new mining projects in the Province of Jujuy. In the private sector, she has been environmental and geological consultant in the Provinces of Salta
+and Jujuy performing geological and environmental impact surveys. She is also a professor of Sedimentology and Drilling II at the School of Engineering, Universidad Nacional de Jujuy. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Julio Alejandro Schiantarelli </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Schiantarelli
+holds a degree in Industrial Relations from the UADE. Mr.&nbsp;Schiantarelli joined YPF S.A. in November 1977 at the Reservoir Engineering area. He also served at the Training and Development Area. He was appointed General Secretary of SUPeH
+Florencio Varela in 1984, reelected until 1992. He held different positions in SUPeH. He was a member of the Arbitration Commission of the General Confederation of Workers of the Argentine Republic (&#147;CGT&#148;), representing SUPeH. Currently,
+he serves as Deputy Secretary of SUPeH. He has been an alternate member of the Board of Directors of YPF since April 2023. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">**************** </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="44%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="5%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3"><B>YPF Sociedad An&oacute;nima</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Date: April&nbsp;5, 2024</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Margarita Chun</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Name:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Margarita Chun</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Title:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Market Relations Officer</TD></TR>
+</TABLE>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>

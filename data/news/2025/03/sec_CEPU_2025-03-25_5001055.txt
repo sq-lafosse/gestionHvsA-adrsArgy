@@ -1,0 +1,393 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>cepu20250325_6k.htm
+<DESCRIPTION>6-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<HR SIZE="5" NOSHADE ALIGN="LEFT" STYLE="width: 100%; color: black">
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Washington, D.C. 20549</B></P>
+
+<HR SIZE="3" NOSHADE ALIGN="CENTER" STYLE="width: 21%; color: black">
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>FORM 6-K</B></P>
+
+<HR SIZE="3" NOSHADE ALIGN="CENTER" STYLE="width: 21%; color: black">
+
+<P STYLE="font: 11pt/115% Times New Roman, Times, Serif; margin: 0; text-align: center">Report of Foreign Private Issuer<BR>
+Pursuant to Rule 27a-16 or 15d-16<BR>
+under the Securities Exchange Act of 1934</P>
+
+<P STYLE="font: 11pt/115% Times New Roman, Times, Serif; margin: 0 0 10pt; text-align: center"><B>For the month of March, 2025</B></P>
+
+<P STYLE="font: 11pt/115% Times New Roman, Times, Serif; margin: 0 0 10pt; text-align: center"><B>Commission File Number: 001-38376</B></P>
+
+<HR SIZE="3" NOSHADE ALIGN="CENTER" STYLE="width: 21%; color: black">
+
+<P STYLE="font: 24pt Times New Roman, Times, Serif; margin: 2pt 0 0; text-align: center"><B>Central Puerto S.A. </B></P>
+
+<P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>(Exact name of registrant as specified in its charter)
+</B></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 1pt 221.75pt"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 3pt 0 0; text-align: center"><B>Port Central S.A. </B></P>
+
+<P STYLE="font: 7.5pt/115% Times New Roman, Times, Serif; margin: 0 0 10pt; text-align: center"><B>(Translation of registrant&rsquo;s
+name into English)</B></P>
+
+<HR SIZE="3" NOSHADE ALIGN="CENTER" STYLE="width: 21%; color: black">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Avenida Thomas Edison 2701 </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>C1104BAB Buenos Aires </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Republic of Argentina </B></P>
+
+<P STYLE="font: 10pt/115% Times New Roman, Times, Serif; margin: 0 0 10pt; text-align: center"><B>+54 (11) 4317-5000</B></P>
+
+<P STYLE="font: 10pt/115% Times New Roman, Times, Serif; margin: 0 0 10pt; text-align: center">(Address of principal executive offices)</P>
+
+<HR SIZE="3" NOSHADE ALIGN="CENTER" STYLE="width: 21%; color: black">
+
+<P STYLE="font: 10pt/115% Times New Roman, Times, Serif; margin: 0 0 10pt 9pt">Indicate by check mark whether the registrant files or
+will file annual reports under cover Form 20-F or Form 40-F.&nbsp;</P>
+
+<P STYLE="font: 11pt/115% Calibri, Helvetica, Sans-Serif; margin: 0 0 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Form
+20-F </FONT>[X] <FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Form 40-F </FONT>[_]</P>
+
+<P STYLE="font: 10pt/115% Times New Roman, Times, Serif; margin: 0 0 10pt 9pt">Indicate by check mark if the registrant is submitting
+the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1):</P>
+
+<P STYLE="font: 11pt/115% Calibri, Helvetica, Sans-Serif; margin: 0 0 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Yes
+</FONT>[_] <FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">No </FONT>[X]</P>
+
+<P STYLE="font: 10pt/115% Times New Roman, Times, Serif; margin: 0 0 10pt 9pt">Indicate by check mark if the registrant is submitting
+the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7):</P>
+
+<P STYLE="font: 11pt/115% Calibri, Helvetica, Sans-Serif; margin: 0 0 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Yes
+</FONT>[_] <FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">No </FONT>[X]</P>
+
+<HR SIZE="5" NOSHADE ALIGN="LEFT" STYLE="width: 100%; color: black">
+
+<P STYLE="font: 9pt Verdana, Helvetica, Sans-Serif; margin: 0 0 0 76.5pt; text-align: center; text-indent: -76.5pt"><B>&nbsp;</B></P>
+
+<P STYLE="font: 11pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-size: 12pt">&nbsp;</FONT><FONT STYLE="font-size: 14pt"><B>CENTRAL
+PUERTO S.A</B></FONT></P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 11pt/107% Calibri, Helvetica, Sans-Serif; margin: 0 0 8pt">&nbsp;</P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"><IMG SRC="cepu202503256k_001.jpg" ALT="" STYLE="width: 202px; height: 96px"></P>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 6pt; text-indent: 212.65pt">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 6pt; text-indent: 212.65pt"><B>BUENOS AIRES, March 25, 2025</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: left; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: left; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: left; text-indent: 0in">COMISI&Oacute;N NACIONAL DE VALORES
+(&#8220;CNV&#8221;)</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>Deputy Management of Issuing Companies</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>25 de Mayo 175</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>City of Buenos Aires</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>To Management of Issuing Companies</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: left; text-indent: 0in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 12pt/115% Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: left; text-indent: 0in">BOLSAS Y MERCADOS ARGENTINOS S.A. (&#8220;BYMA&#8221;)</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>Sarmiento 299</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>City of Buenos Aires</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: left; text-indent: 0in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: left; text-indent: 0in">To 3 MERCADOS S.A.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: left; text-indent: 0in"><B>Paraguay 777</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>Rosario</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: left; text-indent: 0in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 0 215pt"><FONT><B>Notice: CPSA-GG-N-0___/25-AL</B></FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 6pt 212.65pt"><B>Subject: Material news</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: right">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">Dear Mr./Mrs.,</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 28.35pt">It is a pleasure to contact
+you in my capacity as Head of Market Relations of Central&nbsp;Puerto S.A. (the &#8220;<U>Company</U>&#8221;) so as to inform that the
+Company&#8217;s Board of Directors decided to submit the following proposals for shareholders consideration regarding the items on the
+Shareholders&#8217; Meeting Agenda to be held on April 30, 2025, which proposals are described below:</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 28.35pt">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 12pt/150% Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 42.55pt"><I>3.</I></TD><TD STYLE="text-align: justify"><B><I>Consideration of the income (loss) for the fiscal year and the Board of Directors proposal to assign
+2,231,245 thousand ARS to the Statutory Reserve and the remaining balance of the retained accumulated income to increase the Optional
+Reserve for the payment of dividends based on the evolution of the Company&#8217;s financial position and the Dividends Payment Policy
+in force, and to delegate on the Company&#8217;s Board of Directors its partial or total reversal for the payment of dividends and the
+determination of the opportunity, currency, terms and other terms and conditions for payment, in accordance with the delegation agreed
+at the Meeting. Consideration and approval of payment
+of the Profit-Sharing Bond stated by Sections 12 and 33 of the Bylaws.</I></B></TD></TR></TABLE>
+
+
+<!-- Field: Page; Sequence: 2; Options: NewSection -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%"><P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P><P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0; text-align: center">Avda. Tom&aacute;s A. Edison 2701 &ndash; C1104BAB &ndash; City of Buenos Aires &ndash; Argentina</P><P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0; text-align: center">Telephone (54 11) 4317 5000 &ndash; Fax (54 11) 4317 5099</P></TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%"><IMG SRC="cepu202503256k_001.jpg" ALT="" STYLE="width: 202px; height: 96px">&nbsp;</TD></TR></TABLE><P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt/150% Times New Roman, Times, Serif; margin: 0 0 0 42.55pt; text-align: justify"></P>
+
+<P STYLE="font: 12pt/150% Times New Roman, Times, Serif; margin: 0 0 0 42.55pt; text-align: justify">The Board of Directors proposes shareholders
+to assign 2,231,245 thousand&nbsp;ARS to the Statutory Reserve and the remaining balance of the retained accumulated income to increase
+the Optional Reserve for the payment of dividends based on the evolution of the Company&#8217;s financial position and the Dividends Payment
+Policy in force, and to delegate on the Company&#8217;s Board of Directors its partial or total reversal for the payment of dividends
+and the determination of the opportunity, currency, terms, and other terms and conditions for payment, in accordance with the delegation
+agreed at the Meeting. In addition, it proposes the shareholders to pay the profit-sharing bond of the Company&#8217;s personnel as per
+Sections 12 and 33 of the Bylaws, delegating on the Board of Directors its payment conditions.</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 12pt/150% Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 42.55pt"><B><I>6.</I></B></TD><TD STYLE="text-align: justify"><B><I>Consideration of the remuneration of the Company&#8217;s Board of Directors for the fiscal year
+ended December 31, 2024 within the limit of profits in accordance with section 261 of the Business Entities Act and CNV Regulations. Consideration
+of the advanced payment of fees to the Board of Directors for the fiscal year closing next December 31, 2025.</I></B></TD></TR></TABLE>
+
+<P STYLE="font: 12pt/150% Times New Roman, Times, Serif; margin: 0 0 0 42.55pt; text-align: justify">The Board of Directors proposes shareholders
+the following: a) to ratify advanced payments to the Board of Directors during the fiscal year ended December 31, 2024 for the total amount
+of $156,721,000 considering their ability and professional reputation; and b) to authorize the members of the Board of Directors to continue
+receiving advanced payment ad referendum being approved at the corresponding Shareholders&#8217; Meeting.</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 12pt/150% Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 42.55pt"><B><I>7.</I></B></TD><TD STYLE="text-align: justify"><B><I>Consideration of the remuneration of the members of the Statutory Audit Committee for the fiscal
+year ended December 31, 2024; and the fee scheme for the fiscal year closing next December 31, 2025.</I></B></TD></TR></TABLE>
+
+<P STYLE="font: 12pt/150% Times New Roman, Times, Serif; margin: 0 0 6pt 42.55pt; text-align: justify">The Board of Directors proposes
+shareholders the following: a) to approve the advanced payments to the Statutory Auditors during the fiscal year ended December 31, 2024
+for the total amount of $20,393,500; and b) to authorize the members of the Statutory Audit Committee to continue receiving advanced
+payment ad referendum being approved at the corresponding Shareholders&#8217; Meeting.</P>
+<P STYLE="font: 12pt/150% Times New Roman, Times, Serif; margin: 0 0 6pt 42.55pt; text-align: justify"></P>
+
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%"><P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P><P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0; text-align: center">Avda. Tom&aacute;s A. Edison 2701 &ndash; C1104BAB &ndash; City of Buenos Aires &ndash; Argentina</P><P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0; text-align: center">Telephone (54 11) 4317 5000 &ndash; Fax (54 11) 4317 5099</P></TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%"><IMG SRC="cepu202503256k_001.jpg" ALT="" STYLE="width: 202px; height: 96px">&nbsp;</TD></TR></TABLE><P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 12pt/150% Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 42.55pt"><B><I>8.</I></B></TD><TD STYLE="text-align: justify"><B><I>Board of Directors partial renewal. Appointment of 3 (three) directors and 3&nbsp;(three) deputy
+directors for the period of 3 (three) fiscal years as per Section 17 of the Bylaws. Continuity of the current Chairman until the appointment
+by the Board of Directors of the Company.</I></B></TD></TR></TABLE>
+
+<P STYLE="font: 12pt/150% Times New Roman, Times, Serif; margin: 0 0 0 42.55pt; text-align: justify">The Company&#8217;s Board of Directors
+proposes shareholders to appoint Marcelo Atilio SUVA, Jorge Eduardo VILLEGAS and Martina BLANCO as members, and Mario ELIZALDE, Jos&eacute;
+Manuel PAZOS and Alejo VILLEGAS as deputy members to perform their duties during 3 (three) fiscal years.</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 12pt/150% Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 42.55pt"><B><I>10.</I></B></TD><TD STYLE="text-align: justify"><B><I>Consideration of the remuneration of the certifying accountant of the Company regarding the annual
+accounting documents for the fiscal year&nbsp;2024.</I></B></TD></TR></TABLE>
+
+<P STYLE="font: 12pt/150% Times New Roman, Times, Serif; margin: 0 0 0 42.55pt; text-align: justify">The Board of Directors proposes shareholders
+to approve the remuneration of external auditors during fiscal year 2024 for the amount of $620,155,393 for their audit services and $50,767,194
+for their tax services.</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 12pt/150% Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 42.55pt"><B><I>11.</I></B></TD><TD STYLE="text-align: justify"><B><I>Appointment of the certifying accountant and of the deputy certifying accountant for the fiscal
+year closing next <FONT>December 31, 2025</FONT> and the fixing of their remuneration. </I></B></TD></TR></TABLE>
+
+<P STYLE="font: 12pt/150% Times New Roman, Times, Serif; margin: 0 0 6pt 42.55pt; text-align: justify">The Board of Directors proposes
+shareholders the firm EY as independent auditors for the fiscal year 2025 and the appointment of Pablo Gabriel Decundo (C.P.C.E.C.A.B.A.
+Volume 286, Page 106), member of such firm, as certifying accountant, and Hern&aacute;n Crocci (C.P.C.E.C.A.B.A. Volume 410, Page166)
+as deputy certifying accountant of the mentioned financial statements, respectively.</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt/150% Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 42.55pt"><FONT STYLE="font-size: 12pt"><B><I>12.</I></B></FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="font-size: 12pt"><B><I>Approval of the Annual Budget for the functioning of the Supervisory
+Committee.</I></B></FONT></TD></TR></TABLE>
+
+<P STYLE="font: 12pt/150% Times New Roman, Times, Serif; margin: 0 0 0 42.55pt; text-align: justify">The Company&#8217;s Board of Directors
+proposes shareholders to assign $3,500,000 for the functioning of the Supervisory Committee.</P>
+
+<P STYLE="font: 12pt/150% Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 12pt/150% Times New Roman, Times, Serif; margin: 0 0 0 42.55pt; text-align: justify">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%"><P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P><P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0; text-align: center">Avda. Tom&aacute;s A. Edison 2701 &ndash; C1104BAB &ndash; City of Buenos Aires &ndash; Argentina</P><P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0; text-align: center">Telephone (54 11) 4317 5000 &ndash; Fax (54 11) 4317 5099</P></TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%"><IMG SRC="cepu202503256k_001.jpg" ALT="" STYLE="width: 202px; height: 96px">&nbsp;</TD></TR></TABLE><P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt/150% Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 7.1pt"></TD><TD STYLE="width: 35.45pt"><FONT STYLE="font-size: 12pt; letter-spacing: -0.15pt"><B><I>13.</I></B></FONT></TD><TD STYLE="text-align: justify; padding-right: 2.45pt"><FONT STYLE="font-size: 12pt"><B><I>Consideration of the extension of the validity
+term of the Global Issuance Program of Simple Corporate Bonds (not convertible into shares) in short, term or long term for a maximum
+amount of up to US$500,000,000 (or its equivalent in other currency and/or other value units) (the &#8220;Program&#8221;). Power delegation
+to the Board of Directors. Authorization to the Board of Directors to subdelegate.</I></B></FONT></TD></TR></TABLE>
+
+<P STYLE="font: 12pt/150% Times New Roman, Times, Serif; margin: 0 0 6pt 42.55pt; text-align: justify">The Company&#8217;s Board of Directors
+proposes shareholders to request CNV at this stage the extension of the validity term of the Program for the maximum term authorized
+by the legislation in force (the &#8220;<B><U>Program Extension</U></B>&#8221;). Moreover, the Chairman mentions it would be convenient
+to extend the delegation made at Meeting 2020 for the maximum term authorized by the legislation in force or by any other regulation
+extending it in the future so that (i) the Board of Directors determines and establishes all the terms and conditions of the Program
+and the corporate bonds to be issued under it not expressly determined at this Meeting, including among others, the manner, the issuance
+time, term, price, placement, payment conditions, interest rate, listed or negotiated in local markets authorized by CNV and/or markets
+abroad, and other manner considered appropriate by the Board; (ii) to delegate on the Board of Directors the duty to conduct before CNV
+all necessary procedures to obtain the authorization to extend the Program, to fix the Program&#8217;s amount and the authorization of
+the public offering of corporate bonds issued under it; (iii) to delegate on the Board of Directors the duty to conduct before Bolsas
+y Mercados Argentinos SA. (&#8220;BYMA&#8221;), A3 Mercados S.A. (&#8220;A3 Mercados&#8221;) and any other stock exchange or market of
+the Argentine Republic and/or abroad all necessary procedures to obtain the authorization to extend the Program, eventual listing and/or
+negotiation of corporate bonds issued within the Program; (iv) to delegate on the Board of Directors the approval and entering into the
+corresponding agreements, the approval and signature of prospectus and pricing supplements (both local and international, if any) required
+by regulatory authorities and other issuance documents; (v) to delegate on the Board of Directors the hiring of independent and different
+rating agencies to rate the Program and/or series to be issued under it; and (vi) to authorize the Board of Directors to subdelegate
+in one or more members or in one or more first-line managers, or in one or more attorneys-in-fact of the Company, the powers required
+in the previous points, provided under no circumstances such subdelegation releases the Board of Directors from such subdelegated powers.</P>
+<P STYLE="font: 12pt/150% Times New Roman, Times, Serif; margin: 0 0 6pt 42.55pt; text-align: justify"></P>
+
+
+<!-- Field: Page; Sequence: 5 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%"><P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P><P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0; text-align: center">Avda. Tom&aacute;s A. Edison 2701 &ndash; C1104BAB &ndash; City of Buenos Aires &ndash; Argentina</P><P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0; text-align: center">Telephone (54 11) 4317 5000 &ndash; Fax (54 11) 4317 5099</P></TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%"><IMG SRC="cepu202503256k_001.jpg" ALT="" STYLE="width: 202px; height: 96px">&nbsp;</TD></TR></TABLE><P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt/150% Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 6pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 7.1pt"></TD><TD STYLE="width: 35.45pt"><FONT STYLE="font-size: 12pt; letter-spacing: -0.15pt"><B><I>14.</I></B></FONT></TD><TD STYLE="text-align: justify; padding-right: 2.45pt"><FONT STYLE="font-size: 12pt"><B><I>Consideration of the extension of the Program&#8217;s
+amount to a maximum amount of up to USD 1,000,000,000 (one billion US dollars) (or its equivalent in other currency and/or value units);
+and the revision, amendment and determination of the terms and conditions of the Program.</I></B></FONT></TD></TR></TABLE>
+
+<P STYLE="font: 12pt/150% Times New Roman, Times, Serif; margin: 0 2.45pt 0 42.55pt; text-align: justify">The Company&#8217;s Board of
+Directors proposes the shareholders to extend the Program&#8217;s amount by USD 500,000,000 (five hundred million US dollars) (or its
+equivalent in other currency and/or value units), therefore the Program being extended to a total outstanding amount at all times of USD&nbsp;1,000,000,000
+(one billion US dollars) (or its equivalent in other currency and/or value units) (the &#8220;Extension of the Program's Amount). Moreover,
+within the context of the Extension of the Program&#8217;s Amount, it would be convenient to amend certain terms and conditions of the
+Program to foresee, among others and without limitation, the possibility of issuing thematic corporate bonds, such as social, green, sustainable,
+sustainability-related and/or others, in accordance with Exhibit III of Chapter I of Title VI of CNV Regulations, and the regulations
+and guidelines of the markets in which the corporate bonds will be listed and/or negotiated (the &#8220;Amendment of Terms and Conditions&#8221;).</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 42.55pt">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 42.55pt">With nothing further at present,
+I remain sincerely yours,</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">Leonardo Marinaro</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">Head of Market Relations</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>CENTRAL PUERTO S.A.</B></P>
+
+
+
+<P STYLE="font: 11pt/107% Calibri, Helvetica, Sans-Serif; margin: 0 0 8pt"></P>
+
+<!-- Field: Page; Sequence: 6; Options: Last -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%"><P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P><P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0; text-align: center">Avda. Tom&aacute;s A. Edison 2701 &ndash; C1104BAB &ndash; City of Buenos Aires &ndash; Argentina</P><P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0; text-align: center">Telephone (54 11) 4317 5000 &ndash; Fax (54 11) 4317 5099</P></TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 11pt/107% Calibri, Helvetica, Sans-Serif; margin: 0 0 8pt"></P>
+
+<P STYLE="font: 10pt/107% Times New Roman, Times, Serif; margin: 0 0 8pt; text-align: center"><B>SIGNATURES</B></P>
+
+<P STYLE="font: 10pt/115% Times New Roman, Times, Serif; margin: 12pt 0 0">Pursuant to the requirements of the Securities Exchange Act
+of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</P>
+
+<P STYLE="font: 11pt/115% Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="width: 45%; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; width: 1%; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="width: 4%; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="width: 4%; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; width: 1%; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="width: 44%; line-height: 115%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="3" STYLE="line-height: 115%">&nbsp;</TD>
+    <TD STYLE="line-height: 115%">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="line-height: 115%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%"><B>Central Puerto S.A.</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="line-height: 115%">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="line-height: 115%">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="line-height: 115%">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="line-height: 115%">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; line-height: 115%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Date: March 25, 2025</FONT></TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="line-height: 115%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">By:</FONT></TD>
+    <TD STYLE="line-height: 115%">&nbsp;</TD>
+    <TD>
+    <P STYLE="font: 10pt/115% Times New Roman, Times, Serif; margin: 0; border-bottom: black 0.5pt solid">/s/ <FONT STYLE="font-variant: small-caps">Leonardo
+    Marinaro</FONT></P></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="line-height: 115%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Name:</FONT></TD>
+    <TD STYLE="line-height: 115%">&nbsp;</TD>
+    <TD STYLE="line-height: 115%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Leonardo Marinaro</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="line-height: 115%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Title:</FONT></TD>
+    <TD STYLE="line-height: 115%">&nbsp;</TD>
+    <TD STYLE="line-height: 115%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Attorney-in-Fact</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 12pt/115% Calibri, Helvetica, Sans-Serif; margin: 0 0 10pt">&nbsp;</P>
+
+<P STYLE="font: 12pt/107% Calibri, Helvetica, Sans-Serif; margin: 0 0 8pt">&nbsp;</P>
+
+
+
+<P STYLE="font: 11pt/107% Calibri, Helvetica, Sans-Serif; margin: 0 0 8pt"></P>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

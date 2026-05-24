@@ -1,0 +1,854 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>form6k.htm
+<DESCRIPTION>ART. 63
+<TEXT>
+<html>
+<head>
+<!-- Document created using Blueprint(R) - powered by Issuer Direct - www.issuerdirect.com -->
+<!-- Copyright 2024 Issuer Direct Corporation -->
+<title>form6k</title>
+</head>
+<body style="font-family: Times New Roman; font-size: 13px;">
+<div id="pgbrk" style="width: 100%; margin-left: 0px; text-indent: 0px; margin-right: 0px">
+<div id="ftr" style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px"></div>
+</div>
+</div>
+<div id="pgbrk" style="width: 100%; margin-left: 0px; text-indent: 0px; margin-right: 0px">
+<div id="ftr" style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; width: 100%"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</div>
+</div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 24px; font-family: Times New Roman">SECURITIES
+AND EXCHANGE COMMISSION</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">Washington,
+D.C.&#xA0;&#xA0;20549</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;<font style="font-weight: bold; font-size: 24px; font-family: Times New Roman">FORM
+6-K</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">&#xA0;REPORT
+OF FOREIGN ISSUER</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">PURSUANT
+TO RULE 13a-16 OR 15b-16 OF</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">THE
+SECURITIES EXCHANGE ACT OF 1934</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">For
+the month of</font></font> <font style="font-weight: bold;">May</font><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman"><font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">,
+2024</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px;">
+&#xA0;</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;<font style="font-weight: bold; font-size: 24px; font-family: Times New Roman">IRSA
+Inversiones y Representaciones Sociedad
+An&#xF3;nima</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+(Exact name of Registrant as specified in its charter)</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 24px; font-family: Times New Roman">IRSA
+Investments and Representations Inc.</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+(Translation of registrant&#xB4;s name into English)</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">Republic
+of Argentina</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+(Jurisdiction of incorporation or organization)</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-weight: bold">Carlos Della Paolera
+261</font><br></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">(C1001ADA)</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">Buenos
+Aires, Argentina</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold">&#xA0;(</font>Address of principal
+executive offices)</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;Form 20-F&#xA0;&#x2327;<font id="TAB2" style="letter-spacing: 3pt; color: black">&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;</font>Form
+40-F&#xA0;&#xA0;&#x2610;</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font id="TAB1" style="margin-left: 96px">&#xA0;</font>Indicate by
+check mark whether the registrant by furnishing the information
+contained in this Form is also thereby furnishing the information
+to the Commission pursuant to Rule 12g3-2(b) under the Securities
+Exchange Act of 1934.</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+Yes&#xA0;&#x2610;<font id="TAB2" style="letter-spacing: 3pt; color: black">&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;</font>No
+x</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font>&#xA0;</font></div>
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">IRSA
+INVERSIONES Y REPRESENTACIONES SOCIEDAD
+AN&#xD3;NIMA</font></font></div>
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">(THE
+&#x201C;COMPANY&#x201D;)</font></font></div>
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;</font></div>
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">REPORT
+ON FORM 6-K</font></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font>&#xA0;</font></div>
+<div id="pgbrk" style="width: 100%; margin-left: 0px; text-indent: 0px; margin-right: 0px">
+<div id="ftr" style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px; width: 100%"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</div>
+<div id="pb" style="margin-left: 0px; margin-right: 0px; text-align: center; margin-bottom: 6px; page-break-after: always; width: 100%; height: 2px; background-color: #000000"><!--page break--></div>
+<div id="hdr" style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; width: 100%"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</div>
+</div>
+<div id="pgbrk" style="width: 100%; margin-left: 0px; text-indent: 0px; margin-right: 0px">
+<div id="ftr" style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">By letter dated May
+7, 2024, the Company reported that in compliance with Section 63 of
+the Regulations issued by the Buenos Aires Stock Exchange, this is
+to report the following information:</font>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 48px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div id="ftr" style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman"><br></font>
+<div id="pgbrk" style="margin-left: 0px; margin-right: 0px; text-indent: 0px; width: 100%">
+<div id="ftr" style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px;">
+<table cellpadding="0" cellspacing="0" style="text-align: right; font-family: inherit; font-size: inherit;text-align: left; width: 100%;">
+<tr>
+<td style="vertical-align: middle; width: 73%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-weight: bold; font-size: 13px; font-family: Times New Roman">
+1. Results of the period<br></font></div>
+</td>
+<td colspan="2" style="vertical-align: middle; width: 27%">
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font>&#xA0; <font style="font-weight: bold; color: #000000; font-size: 13px; font-family: Times New Roman">
+in million ARS</font></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-bottom: 2px solid #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-bottom: 2px solid #000000">
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-weight: bold; font-size: 13px; font-family: Times New Roman">
+03/31/2024</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-bottom: 2px solid #000000">
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-weight: bold; font-size: 13px; font-family: Times New Roman">
+03/31/2023</font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-weight: bold; font-size: 13px; font-family: Times New Roman">
+Results of the period (nine-month period)</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-weight: bold; color: #000000; font-size: 13px; font-family: Times New Roman">
+(111,728)</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-weight: bold; color: #000000; font-size: 13px; font-family: Times New Roman">
+123,217<br></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000">
+<font style="font-style: italic; color: #000000; font-size: 13px; font-family: Times New Roman">
+Attributable to:</font></td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">Shareholders
+of the controlling company<br></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">(104,926)</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">119,339<br>
+</font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000; border-bottom: 2px solid #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">Non-controlling
+interest<br></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000; border-bottom: 2px solid #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">(6,802)<br>
+</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000; border-bottom: 2px solid #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">3,878<br>
+</font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-weight: bold; font-size: 13px; font-family: Times New Roman">
+2. Other comprehensive income for the results of the
+period<br></font></div>
+</td>
+<td colspan="2" style="vertical-align: middle; width: 27%">
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font>&#xA0; <font style="font-weight: bold; color: #000000; font-size: 13px; font-family: Times New Roman">
+in million ARS</font></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-bottom: 2px solid #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-bottom: 2px solid #000000">
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-weight: bold; font-size: 13px; font-family: Times New Roman">
+03/31/2024</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-bottom: 2px solid #000000">
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-weight: bold; font-size: 13px; font-family: Times New Roman">
+03/31/2023</font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-weight: bold; font-size: 13px; font-family: Times New Roman">
+Other comprehensive income for</font> <font style="color: #000000; font-weight: bold; font-size: 13px; font-family: Times New Roman">
+the period (nine-month period)</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="font-weight: bold; color: rgb(0, 0, 0); font-family: Times New Roman;">
+(3,292)<br></font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="font-weight: bold; color: rgb(0, 0, 0); font-family: Times New Roman;">
+(4,170)<br></font></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-style: italic; color: #000000; font-size: 13px; font-family: Times New Roman">
+Attributable to:</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="font-family: Times New Roman;">&#xA0;</font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="font-family: Times New Roman;">&#xA0;</font></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">Shareholders
+of the controlling company<br></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">(3,388)<br></font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">(4,186)</font>
+<font style="font-family: Times New Roman;"><br>
+</font></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000; border-bottom: 2px solid #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font><font style="font-size: 11px"><font style="font-size: 13px">Non-controlling
+interest</font></font><br></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000; border-bottom: 2px solid #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">96<br></font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000; border-bottom: 2px solid #000000">
+&#xA0; <font style="color: #000000; font-size: 13px; font-family: Times New Roman">&#xA0;&#xA0;&#xA0;
+&#xA0;&#xA0;&#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0;
+&#xA0;&#xA0;&#xA0;
+&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
+16<br></font></td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%">
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%">
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-weight: bold; font-size: 13px; font-family: Times New Roman">
+3. Total</font> <font style="color: #000000; font-weight: bold; font-size: 13px; font-family: Times New Roman">
+comprehensive income for the</font> <font style="color: #000000; font-weight: bold; font-size: 13px; font-family: Times New Roman">
+results of the period<br></font></div>
+</td>
+<td colspan="2" style="vertical-align: middle; width: 27%">
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font>&#xA0; <font style="font-weight: bold; color: #000000; font-size: 13px; font-family: Times New Roman">
+in million ARS</font></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-bottom: 2px solid #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-bottom: 2px solid #000000">
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-weight: bold; font-size: 13px; font-family: Times New Roman">
+03/31/2024</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-bottom: 2px solid #000000">
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-weight: bold; font-size: 13px; font-family: Times New Roman">
+03/31/2023</font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-weight: bold; font-size: 13px; font-family: Times New Roman">
+Total integral results of the period (nine-month
+period)</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-weight: bold; color: #000000; font-size: 13px; font-family: Times New Roman">
+(115,020)</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-weight: bold; color: #000000; font-size: 13px; font-family: Times New Roman">
+119,047<br></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-style: italic; color: #000000; font-size: 13px; font-family: Times New Roman">
+Attributable to:</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">Shareholders
+of the controlling company<br></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">(108,314)</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">115,153<br>
+</font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000; border-bottom: 2px solid #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font>Non-controlling interest<br></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000; border-bottom: 2px solid #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">(6,706)<br>
+</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000; border-bottom: 2px solid #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">3,894<br>
+</font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%">
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%">
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;</font>
+<font style="font-weight: bold; color: #000000; font-size: 13px; font-family: Times New Roman">
+<br></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-weight: bold; color: #000000; font-size: 13px; font-family: Times New Roman">
+4. Equity details</font></div>
+</td>
+<td colspan="2" style="vertical-align: middle; width: 27%">
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font>&#xA0; <font style="font-weight: bold; color: #000000; font-size: 13px; font-family: Times New Roman">
+in million ARS</font></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-bottom: 2px solid #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-bottom: 2px solid #000000">
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-weight: bold; font-size: 13px; font-family: Times New Roman">
+03/31/2024</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-bottom: 2px solid #000000">
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-weight: bold; font-size: 13px; font-family: Times New Roman">
+03/31/2023</font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">Share
+Capital<br></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">7,265<br></font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">800<br></font></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">Treasury
+shares<br></font></div>
+</div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">124</font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">11<br></font></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">
+Comprehensive adjustment of capital stock and of treasury
+shares</font>&#xA0;<br></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">274,023<br></font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">236,309<br></font></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">
+Warrants</font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">19,122<br></font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px">19,636</font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">
+Share Premium<br></font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">402,378<br></font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">445,406<br></font></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">
+Premium for trading of treasury shares</font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">(8,691)<br></font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px">1,618</font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">
+Legal Reserve</font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px">40,432<br></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">31,450<br></font></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">
+Special Reserve (Resolution CNV 609/12)</font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">156,428<br></font></font></div>
+</div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">156,428<br></font></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">
+Cost of treasury share</font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">(17,161)</font></font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">(8,807)</font></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">Reserve
+for future dividends</font></div>
+</div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">61,532</font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">28,151</font></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">Reserve
+for conversion</font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">(2,796)</font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">(181)<br></font></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">
+Special Reserve</font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">97,493</font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">182,428<br></font></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">
+Other reserves&#xA0;</font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px">&#xA0;
+(79,001)<font style="color: rgb(0, 0, 0); font-family: Times New Roman;"><br></font></font></div>
+</div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">(78,707)<br></font></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000; border-bottom: 2px solid #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">Retained
+earnings<br></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000; border-bottom: 2px solid #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">(78,628)<br></font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000; border-bottom: 2px solid #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">140,353</font></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000; border-bottom: 2px solid #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-weight: bold; color: #000000; font-size: 13px; font-family: Times New Roman">
+Shareholders&#x2019; Equity attributable to controlling
+company&#x2019;s shareholders</font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000; border-bottom: 2px solid #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="font-weight: bold; color: rgb(0, 0, 0); font-family: Times New Roman;">
+872,520</font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-right: solid 1px #000000; border-bottom: 2px solid #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="font-weight: bold; color: rgb(0, 0, 0); font-family: Times New Roman;">
+1,154,895</font></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000; border-bottom: 2px solid #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="color: #000000; font-size: 13px; font-family: Times New Roman">Non-controlling
+interest<br></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000; border-bottom: 2px solid #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">59,637</font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000; border-right: solid 1px #000000; border-bottom: 2px solid #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="color: rgb(0, 0, 0); font-family: Times New Roman;">71,397</font></font></div>
+</td>
+</tr><tr>
+<td style="vertical-align: middle; width: 73%; border-left: solid 1px #000000; border-bottom: 2px solid #000000">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-weight: bold; color: #000000; font-size: 13px; font-family: Times New Roman">
+Total shareholder's equity<br></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000; border-bottom: 2px solid #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="font-weight: bold; color: rgb(0, 0, 0); font-family: Times New Roman;">
+932,157</font></font></div>
+</td>
+<td style="vertical-align: middle; width: 14%; border-left: solid 1px #000000; border-right: solid 1px #000000; border-bottom: 2px solid #000000">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px"><font style="font-weight: bold; color: rgb(0, 0, 0); font-family: Times New Roman;">
+1,226,292<br></font></font></div>
+</td>
+</tr></table>
+</div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; width: 100%"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; width: 100%"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; width: 100%"><font>
+<div><font style="font-family: Times New Roman; font-size: 13px;">Pursuant to
+Article 63 paragraph l) sections 6) and 8) of the next Regulation,
+we inform that at the closing date of the financial statements, the
+share capital of the Company is ARS 7,389,022,820 (including
+treasury shares) represented by 738,902,282&#xA0;</font>
+<font><font style="font-family: Times New Roman; font-size: 13px;"><font><font style="font-size: 13px; font-family: Times New Roman">non-endorsable
+nominative ordinary shares</font></font></font></font> of Nominal
+Value ARS 10 <font><font style="font-family: Times New Roman; font-size: 13px;"><font><font style="font-size: 13px; font-family: Times New Roman">each with the right
+to 1 vote each</font></font></font></font> <font style="font-family: Times New Roman; font-size: 13px;">which are as of
+today duly registered. The amount of outstanding shares is
+726,505,142.<br></font></div>
+<div><font style="font-family: Times New Roman; font-size: 13px;">&#xA0;</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">The Company's
+market capitalization as of March 31, 2024, was approximately USD
+692 million. (73,890,228 GDS with a price per GDS of USD
+9.36)<br></font></div>
+<div><font style="font-family: Times New Roman; font-size: 13px;">&#xA0;</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">The main
+shareholder of the Company is Cresud S.A.C.I.F. y A. (Cresud) with
+397,831,498 shares directly and indirectly (through Helmir S.A.),
+which represents 54.76% of the share capital (the treasury shares
+are subtracted). Cresud is our ultimate controlling entity and is a
+company incorporated and domiciled in the Argentine Republic. The
+address of its registered office is Carlos Della Paolera 261, 9th
+floor, Autonomous City of Buenos Aires, Argentina.</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">We also inform that
+as of March 31, 2024, subtracting the direct and indirect ownership
+of Cresud and the treasury shares, the remaining shareholders held
+the amount of 328,673,644 nominative non-endorsable ordinary shares
+of Nominal Value 10 ARS each with the right to 1 vote each from the
+Company that represents 45.24% of the issued share
+capital.</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</font>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">It should be
+considered that in May 2021 the company increased its share capital
+by 80 million shares. For each subscribed share, each shareholder
+received at no additional cost 1 warrant, that is, 80 million
+warrants were issued. The options expire on May 12, 2026 and are
+listed on the Buenos Aires Stock Exchange under the symbol
+&#x201C;IRS2W&#x201D; and on the NYSE under the symbol
+&#x201C;IRSWS&#x201D;. As of today, the amount outstanding of
+warrants is 77,624,512.<br></font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">In the case that
+all warrants were converted, the number of shares issued and
+subscribed would increase to 834,163,083 (considering the current
+ratio of 1,2272 ordinary shares per warrant). We also inform that
+if Cresud, through its subsidiary Helmir S.A., were to exercise its
+warrants like the rest of the shareholders, its stake would
+increase by 60,923,885 ordinary shares, which would mean a 55.83%
+stake on the share capital (excluding treasury shares), that is,
+458,755,383 shares.</font></div>
+<font>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">Among the news of
+the period ended on March 31, 2024 and subsequent, the following
+can be highlighted:</font></div>
+<div><font style="font-family: Times New Roman; font-size: 13px;">&#xA0;</font></div>
+</font></div>
+</div>
+</div>
+<div id="ftr" style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; width: 100%"><font style="font-family: Times New Roman; font-size: 13px;">&#xA0;</font></div>
+<div style="margin-left: 24px; display: table">
+<div style="display: table-row">
+<div style="text-align: left; display: table-cell; width: 24px">
+<font style="font-size: 13px">&#x25CF;</font></div>
+<div style="text-align: justify; display: table-cell"><font style="font-family: Times New Roman; font-size: 13px;"><font style="font-family: Times New Roman; font-size: 13px">The net result for
+the nine-month period of fiscal year 2024 recorded a loss of ARS
+111,728 million compared to a gain of ARS 123,217 million in the
+same period of the previous year, mainly explained by the impact of
+inflation exposure on the fair value of investment
+properties.</font></font></div>
+</div>
+</div>
+<div style="margin-left: 24px; display: table">
+<div style="display: table-row">
+<div style="text-align: left; display: table-cell; width: 24px">
+<font style="font-size: 13px"><br></font></div>
+<div style="text-align: justify; display: table-cell"><font style="font-family: Times New Roman; font-size: 13px;"><br></font></div>
+</div>
+</div>
+<div style="margin-left: 24px; display: table">
+<div style="display: table-row">
+<div style="text-align: left; display: table-cell; width: 24px">
+<font style="font-size: 13px">&#x25CF;</font></div>
+<div style="text-align: justify; display: table-cell"><font style="font-family: Times New Roman; font-size: 13px;"><font style="font-family: Times New Roman; font-size: 13px">The rental adjusted
+EBITDA reached ARS 112,911 million in the nine months of fiscal
+year 2024, 9.1% higher than the same period of the previous year,
+ARS 86,475 million coming from the Shopping Malls segment, ARS
+8,776 million from the office segment and ARS 17,660 million from
+the Hotels. Total adjusted EBITDA reached ARS 128,826 million,
+increasing 6.3% compared to the same period of the previous
+year.</font></font></div>
+</div>
+</div>
+<div style="margin-left: 24px; display: table">
+<div style="display: table-row">
+<div style="text-align: left; display: table-cell; width: 24px">
+<font style="font-family: Times New Roman; font-size: 13px;">&#xA0;</font></div>
+</div>
+</div>
+<div style="margin-left: 24px; display: table">
+<div style="display: table-row">
+<div style="text-align: left; display: table-cell; width: 24px">
+<font style="font-size: 13px">&#x25CF;</font></div>
+<div style="text-align: justify; display: table-cell"><font style="font-family: Times New Roman; font-size: 13px;"><font style="font-family: Times New Roman; font-size: 13px"><font style="font-family: Times New Roman; font-size: 13px">Real tenant sales
+in shopping malls fell 18.5% in the third quarter of fiscal year
+2024 as a result of the acceleration of inflation and a drop in
+consumption. In the accumulated nine-month period of the year,
+sales grew by 0.9% compared to the same period in
+2023.</font></font><br></font></div>
+</div>
+</div>
+<div style="margin-left: 24px; display: table">
+<div style="display: table-row">
+<div style="text-align: left; display: table-cell; width: 24px">
+<font style="font-size: 13px"><br></font></div>
+<div style="text-align: justify; display: table-cell"><font style="font-family: Times New Roman; font-size: 13px;"><br></font></div>
+</div>
+</div>
+<div style="margin-left: 24px; display: table">
+<div style="display: table-row">
+<div style="text-align: left; display: table-cell; width: 24px">
+<font style="font-size: 13px">&#x25CF;</font></div>
+<div style="text-align: justify; display: table-cell"><font style="font-family: Times New Roman; font-size: 13px">We maintained high
+occupancy rates in the three rental segments: 97.9% in shopping
+centers, 92.8% in our premium offices and 68.7% in the hotel
+portfolio.</font><font style="font-family: Times New Roman; font-size: 10">&#xA0;</font></div>
+</div>
+</div>
+<div style="margin-left: 24px; display: table">
+<div style="display: table-row">
+<div style="text-align: left; display: table-cell; width: 24px">
+<font style="font-family: Times New Roman; font-size: 13px;">&#xA0;</font></div>
+</div>
+</div>
+<div style="margin-left: 24px; display: table">
+<div style="display: table-row">
+<div style="text-align: left; display: table-cell; width: 24px">
+<font style="font-size: 13px">&#x25CF;</font></div>
+<div style="text-align: justify; display: table-cell"><font style="font-family: Times New Roman; font-size: 13px">During the quarter
+and subsequently, we repurchased approximately 1.7% of the stock
+capital and in May 2024, we approved a new cash dividend for ARS
+55,000 million (ARS/share 76.1457 and ARS/GDS 761.4575), which will
+be distributed since May 9.</font></div>
+</div>
+</div>
+<div style="margin-left: 24px; display: table">
+<div style="display: table-row">
+<div style="text-align: left; display: table-cell; width: 24px">
+<font style="font-family: Times New Roman; font-size: 13px;">&#xA0;</font></div>
+</div>
+</div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; width: 100%"><font style="font-family: Times New Roman; font-size: 13px;">&#xA0;</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; width: 100%"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</div>
+</div>
+</div>
+</div>
+<div id="pgbrk" style="width: 100%; margin-left: 0px; text-indent: 0px; margin-right: 0px">
+<div id="pb" style="margin-left: 0px; margin-right: 0px; text-align: center; margin-bottom: 6px; page-break-after: always; width: 100%; height: 2px; background-color: #000000"><!--page break--></div>
+<div id="hdr" style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px; width: 100%"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</div>
+</div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font>&#xA0;</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">SIGNATURES</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font>&#xA0;</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font>&#xA0;</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">Pursuant to the
+requirements of the Securities and Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized, in the city of
+Buenos Aires, Argentina.</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font>&#xA0;</font></div>
+<div style="text-align: left; margin-left: auto; margin-right: auto;">
+<table cellpadding="0" cellspacing="0" style="text-align: left; font-family: inherit; font-size: inherit;text-align: left; background-color: white; margin-left: auto; margin-right: auto; width: 100%;">
+<tr>
+<td style="width: 48%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td colspan="3" style="width: 3%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman"><font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">&#xA0;IRSA
+Inversiones y Representaciones Sociedad
+An&#xF3;nima</font></font></div>
+</td>
+</tr><tr>
+<td style="width: 48%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td colspan="3" style="width: 3%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+</tr><tr>
+<td style="width: 48%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="width: 3%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;By:</font></div>
+</td>
+<td style="width: 42%; border-bottom: 2px solid black">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;/S/ Sa&#xFA;l
+Zang</font></div>
+</td>
+<td style="width: 7%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+</tr><tr>
+<td style="width: 48%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="width: 3%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="width: 42%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;Name:
+Sa&#xFA;l Zang</font></div>
+</td>
+<td style="width: 7%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+</tr><tr>
+<td style="width: 48%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="width: 3%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="width: 42%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;Title:
+Responsible&#xA0;for the Relationship with the Markets</font></div>
+</td>
+<td style="width: 7%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+</tr></table>
+</div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">Dated: May 7,
+2024</font></div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>

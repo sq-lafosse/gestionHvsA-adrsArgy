@@ -1,0 +1,422 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>ef20032454_6-k.htm
+<DESCRIPTION>6-K
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge Financial Solutions. Inc.
+         Document created using Broadridge PROfile 24.6.1.5240
+         Copyright 1995 - 2024 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman'; font-size: 10pt; text-align: left; color: #000000;">
+  <div>
+    <hr align="center" style="border: none; border-bottom: 1px solid black; border-top: 4px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;">
+    <div>
+      <div style="color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center; font-size: 14pt; font-weight: bold;">UNITED STATES</div>
+      <div style="color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center; font-size: 14pt; font-weight: bold;">SECURITIES AND EXCHANGE
+        COMMISSION</div>
+      <div style="color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center; font-size: 12pt; font-weight: bold;">Washington, D.C. 20549</div>
+      <div><br>
+      </div>
+      <div style="text-align: center; font-weight: bold;">_____________</div>
+      <div><br>
+      </div>
+      <div style="text-align: center; font-weight: bold;"><font style="color: rgb(0, 0, 0); font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">FORM 6-K</font></div>
+      <div><br>
+      </div>
+      <div style="text-align: center; font-weight: bold;">Report of Foreign Issuer</div>
+      <div><br>
+      </div>
+      <div style="text-align: center;">Pursuant to Rule 13a-16 or 15d-16 of</div>
+      <div style="text-align: center;">the Securities and Exchange Act of 1934</div>
+      <div><br>
+      </div>
+      <div style="text-align: center;">For July 15, 2024</div>
+      <div><br>
+      </div>
+      <div style="text-align: center; font-weight: bold;">Commission file number: 1-13.396</div>
+      <div style="text-align: center; font-size: 32px; font-weight: bold;">Transportadora de Gas del Sur S.A.</div>
+      <div style="text-align: center;">Cecilia Grierson 355, 26thFloor </div>
+      <div>
+        <div style="text-align: center; color: rgb(0, 0, 0);">Buenos Aires (C1107ABF)</div>
+        <div style="text-align: center; color: rgb(0, 0, 0);">Argentina</div>
+      </div>
+      <div><br>
+      </div>
+      <div style="text-align: justify; text-indent: 21.3pt;">Indicate by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F.</div>
+      <div><br>
+      </div>
+      <div>
+        <table cellspacing="0" cellpadding="0" border="0" id="z26b86bab759a42c686ac0aa7b9a8978d" style="font-family: 'Times New Roman'; font-size: 10pt; color: #000000; width: 100%;">
+
+            <tr>
+              <td style="width: 38%; padding-bottom: 2px;">
+                <div>&#160;</div>
+              </td>
+              <td style="white-space: nowrap; width: 4%; padding: 0px 0px 2px; text-align: right;">Form 20-F</td>
+              <td style="width: 5%; text-align: center; border-bottom: 2px solid rgb(0, 0, 0);">X<br>
+              </td>
+              <td style="width: 5%; padding-bottom: 2px;">
+                <div>&#160;</div>
+              </td>
+              <td style="white-space: nowrap; width: 4%; padding: 0px 0px 2px; text-align: right;">Form 40-F</td>
+              <td style="width: 5%; border-bottom: 2px solid rgb(0, 0, 0);">
+                <div>&#160;</div>
+              </td>
+              <td style="width: 39%; padding-bottom: 2px;">
+                <div>&#160;</div>
+              </td>
+            </tr>
+
+        </table>
+      </div>
+      <div style="text-align: center;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <br>
+      </div>
+      <div style="text-align: justify; text-indent: 21.3pt;">Indicate by check mark if registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1): __</div>
+      <div><br>
+      </div>
+      <div style="text-align: justify; text-indent: 21.3pt;">Indicate by check mark if registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7): __</div>
+      <div><br>
+      </div>
+      <div style="text-align: justify; text-indent: 21.3pt;">Indicate by check mark whether the registrant by furnishing the information contained in this Form is also thereby furnishing the information to the Commission pursuant to the Rule 12g3-2(b)
+        under the Securities Exchange Act of 1934.</div>
+      <div><br>
+      </div>
+      <div>
+        <div>
+          <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; color: #000000; width: 100%;">
+
+              <tr>
+                <td style="width: 38%; padding-bottom: 2px;">
+                  <div>&#160;</div>
+                </td>
+                <td style="width: 5%; padding-bottom: 2px; text-align: right;">Yes<br>
+                </td>
+                <td style="width: 5%; text-align: center; border-bottom: 2px solid rgb(0, 0, 0);">X<br>
+                </td>
+                <td style="width: 5%; padding-bottom: 2px;">
+                  <div>&#160;</div>
+                </td>
+                <td style="width: 5%; padding-bottom: 2px; text-align: right;">No</td>
+                <td style="width: 5%; border-bottom: 2px solid rgb(0, 0, 0);">
+                  <div style="text-align: center;">X <br>
+                  </div>
+                </td>
+                <td style="width: 37%; padding-bottom: 2px;">
+                  <div>&#160;</div>
+                </td>
+              </tr>
+
+          </table>
+        </div>
+      </div>
+      <div style="text-align: center;"><br>
+      </div>
+      <div>If &#8220;Yes&#8221; is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b):</div>
+      <div> <br>
+      </div>
+      <div>
+        <hr align="center" style="border: none; border-bottom: 4px solid black; border-top: 1px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;"> </div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+        <div style="page-break-after: always;" class="BRPFPageBreak">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+      </div>
+      <div style="font-weight: bold;">TRANSPORTADORA DE GAS DEL SUR S.A. COMMENCES TENDER OFFER FOR ANY AND ALL OF ITS OUTSTANDING 6.750% SENIOR NOTES DUE 2025</div>
+      <div>&#160;</div>
+      <div>BUENOS AIRES, ARGENTINA (July 15, 2024) &#8212; Transportadora de Gas del Sur S.A. (&#8220;TGS&#8221;, the &#8220;Company&#8221; or &#8220;we&#8221;) today announced that it has commenced a cash tender offer (the &#8220;Offer&#8221;), on the terms and subject to the conditions set forth in the
+        Company&#8217;s Offer to Purchase for Cash dated July 15, 2024 (the &#8220;Offer to Purchase&#8221;), for any and all of its outstanding 6.750% Senior Notes due 2025 (the &#8220;Notes&#8221;).</div>
+      <div>&#160;</div>
+      <div>The Offer to Purchase more fully sets forth the terms of the Offer.</div>
+      <div>&#160;</div>
+      <div>Principal terms relating to the Offer are listed in the table below:</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z0e986ee00910455695fb762bcb52173c">
+
+          <tr>
+            <td style="width: 18%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>
+                <div style="text-align: center; font-weight: bold;">Notes</div>
+              </div>
+            </td>
+            <td colspan="1" style="width: 1%; vertical-align: bottom; padding-bottom: 2px;">&#160;</td>
+            <td style="width: 33.97%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>
+                <div style="text-align: center; font-weight: bold;">CUSIP / ISIN / Common Code Numbers</div>
+              </div>
+            </td>
+            <td colspan="1" style="width: 1%; vertical-align: bottom; padding-bottom: 2px;">&#160;</td>
+            <td style="width: 21.08%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>
+                <div style="text-align: center; font-weight: bold;">Outstanding Principal Amount</div>
+              </div>
+            </td>
+            <td colspan="1" style="width: 1%; vertical-align: bottom; padding-bottom: 2px;">&#160;</td>
+            <td style="width: 23.62%; vertical-align: bottom; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>
+                <div style="text-align: center; font-weight: bold;">Offer Consideration<sup style="color: #000000; vertical-align: text-top; line-height: 1; font-size: smaller;">(2) (3)</sup></div>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 18%; vertical-align: middle;">
+              <div style="text-align: center; text-indent: -9pt; margin-left: 9pt;">6.750% Senior Notes due 2025</div>
+            </td>
+            <td colspan="1" style="width: 1%; vertical-align: middle;">&#160;</td>
+            <td style="width: 33.97%; vertical-align: middle;">
+              <div style="text-align: center;">893870 AX3 / US893870AX30 / 181768711</div>
+              <div style="text-align: center;">P9308R AZ6 / USP9308RAZ66 / 181768690</div>
+            </td>
+            <td colspan="1" style="width: 1%; vertical-align: middle;">&#160;</td>
+            <td style="width: 21.08%; vertical-align: middle;">
+              <div style="text-align: center;">U.S.$470,324,000<sup style="color: #000000; vertical-align: text-top; line-height: 1; font-size: smaller;">(1)</sup></div>
+            </td>
+            <td colspan="1" style="width: 1%; vertical-align: middle;">&#160;</td>
+            <td style="width: 23.62%; vertical-align: middle;">
+              <div style="text-align: center;">U.S.$1,000</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>
+        <div><br>
+        </div>
+      </div>
+      <div>
+        <hr noshade="noshade" align="left" style="height: 2px; width: 10%; color: #000000; background-color: #000000; margin-left: 0px; margin-right: auto; border: none;"></div>
+      <div>&#160;</div>
+      <div>
+        <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z584c02656ec14be3bf292e949d922c86">
+
+            <tr>
+              <td style="width: 36pt; vertical-align: top; text-align: right;">
+                <div style="text-align: left; margin-left: 18pt;">(1)</div>
+              </td>
+              <td style="width: auto; vertical-align: top;">
+                <div>Outstanding principal amount resulting from original principal amount of U.S.$500,000,000 issued for the Notes less the redemption of proprietary notes.</div>
+              </td>
+            </tr>
+
+        </table>
+      </div>
+      <div>
+        <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z268a0fc83eec4d7a906b440180734948">
+
+            <tr>
+              <td style="width: 36pt; vertical-align: top; text-align: right;">
+                <div style="text-align: left; margin-left: 18pt;">(2)</div>
+              </td>
+              <td style="width: auto; vertical-align: top;">
+                <div>Per U.S.$1,000<font style="color: rgb(255, 0, 0);">&#160;</font>principal amount of Notes validly tendered and accepted for purchase. The Offer Consideration does not include accrued interest.</div>
+              </td>
+            </tr>
+
+        </table>
+      </div>
+      <div>
+        <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z3bfaec61a28a40f894078267ea526ca9">
+
+            <tr>
+              <td style="width: 36pt; vertical-align: top; text-align: right;">
+                <div style="text-align: left; margin-left: 18pt;">(3)</div>
+              </td>
+              <td style="width: auto; vertical-align: top;">
+                <div>Holders will also receive accrued interest from and including the last interest payment date for the Notes up to but not including the Settlement Date (as defined below).</div>
+              </td>
+            </tr>
+
+        </table>
+      </div>
+      <div>&#160;</div>
+      <div>The Offer will expire at 5:00 p.m., New York City time, on July 19, 2024, unless extended or terminated earlier at the sole discretion of the Company (such date and time, as it may be extended or terminated earlier, the &#8220;Expiration Date&#8221;).</div>
+      <div>&#160;</div>
+      <div>Subject to the satisfaction of the terms and conditions set forth in the Offer to Purchase, holders validly tendering and not withdrawing their Notes pursuant to the Offer will be entitled to receive U.S.$1,000 per U.S.$1,000 principal amount of
+        the Notes tendered (the &#8220;Offer Consideration&#8221;), on a date promptly following the Expiration Date (the &#8220;Settlement Date&#8221;) (which date is expected to occur within three business days of the Expiration Date, but which may change without notice). The
+        settlement date in respect of Notes for which a properly completed guaranteed delivery instruction is submitted at or prior<font style="background-color: rgb(255, 255, 255);"> to the Expiration Date </font>and which are validly tendered at or
+        prior to the guaranteed delivery date that are accepted by the Company for purchase in the Offer is expected to be the Settlement Date.</div>
+      <div>&#160;</div>
+      <div>Tendered Notes may be validly withdrawn from the Offer at any time (i) at or prior to the earlier of (x) the Expiration Date and (y) in the event that the Offer is extended, the tenth business day after commencement of the Offer, and (ii) after
+        the 60<sup style="vertical-align: text-top; line-height: 1; font-size: smaller;">th</sup> business day after commencement of the Offer if for any reason the Offer has not been consummated within 60 business days after commencement.</div>
+      <div>&#160;</div>
+      <div class="BRPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+        <div class="BRPFPageBreak" style="page-break-after: always;">
+          <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+      </div>
+      <div>The Company&#8217;s obligation to accept for purchase and to pay for Notes validly tendered and not withdrawn pursuant to the Offer is subject to the satisfaction or waiver, in the Company&#8217;s discretion, of certain conditions, which are more fully
+        described in the Offer, including (i) the financing condition requiring the consummation of the Company&#8217;s concurrent offering of senior notes, and (ii) other general conditions described in the Offer to Purchase.</div>
+      <div>&#160;</div>
+      <div>The Company has retained Citigroup Global Markets Inc., Itau BBA USA Securities, Inc., J.P. Morgan Securities LLC and Santander US Capital Markets LLC. to serve as the dealer managers for the Offer, and Banco Santander Argentina S.A. to act as
+        local information agent in Argentina. Questions regarding the Offer may be directed to Citigroup Global Markets Inc. at (212) 723-6106 (collect) or (800) 558-3785 (toll-free), Itau BBA USA Securities, Inc. at (888) 770-4828 (toll-free), J.P. Morgan
+        Securities LLC at (212) 834-7279 (collect) or at (866) 846-2874 (toll-free) and/or to Santander US Capital Markets LLC at (212) 350-0660 (collect) or at (855) 404-3636 (toll-free). Requests for documents may be directed to Morrow Sodali
+        International LLC, the information and tender agent for the Offer, by e-mail at tgs@investor.morrowsodali.com, or by telephone in Stamford at +1 203 658 9457 or in London at +44 20 4513 6933.</div>
+      <div>&#160;</div>
+      <div style="font-size: 12pt;"><font style="font-size: 10pt; color: rgb(0, 0, 0);">Documents relating to the Offer, including the Offer to Purchase and guaranteed delivery instruction, are also available at<u> </u></font><u><font style="font-size: 10pt;">https://projects.morrowsodali.com/tgs</font></u><font style="font-size: 10pt;">.</font></div>
+      <div>&#160;</div>
+      <div>None of the Company, the dealer managers, the local dealer managers or the information and tender agent make any recommendations as to whether holders should tender their Notes pursuant to the Offer, and no one has been authorized by any of them
+        to make such recommendations. Holders must make their own decisions as to whether to tender their Notes, and, if so, the principal amount of Notes to tender.</div>
+      <div>&#160;</div>
+      <div>This press release is for informational purposes only and is not a recommendation and is not an offer to sell or a solicitation of an offer to buy any security. The Offer is being made solely pursuant to the offer documents.</div>
+      <div>&#160;</div>
+      <div>The Offer does not constitute, and may not be used in connection with, an offer or solicitation by anyone in any jurisdiction in which such offer or solicitation is not permitted by law or in which the person making such offer or solicitation is
+        not qualified to do so or to any person to whom it is unlawful to make such offer or solicitation.</div>
+      <div>&#160;</div>
+      <div>In any jurisdiction where the securities, blue sky or other laws require tender offers to be made by a licensed broker or dealer and in which the dealer managers, or any affiliates thereof, are so licensed, the Offer will be deemed to have been
+        made by any such dealer managers, or such affiliates, on behalf of the Company.</div>
+      <div>&#160;</div>
+      <div style="font-weight: bold;">The new notes offered pursuant to the concurrent offering have not been and will not be registered under the U.S. Securities Act of 1933, as amended (the &#8220;Securities Act&#8221;), and may not be offered or sold in the United
+        States absent registration or an applicable exemption from the registration requirements of the Securities Act.</div>
+      <div><br>
+      </div>
+      <div class="BRPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+        <div class="BRPFPageBreak" style="page-break-after: always;">
+          <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+      </div>
+      <div style="font-weight: bold;">The new notes are not intended to be offered, sold or otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in the European Economic Area (&#8220;EEA&#8221;). For these
+        purposes, a retail investor means a person who is one (or more) of: (i) a retail client as defined in point (11) of Article 4(1) of Directive 2014/65/EU (as amended, &#8220;MiFID II&#8221;); or (ii) a customer within the meaning of Directive (EU) 2016/97 (as
+        amended, the &#8220;Insurance Distribution Directive&#8221;), where that customer would not qualify as a professional client as defined in point (10) of Article 4(1) of MiFID II; or (iii) not a qualified investor as defined in Regulation (EU) 2017/1129 (as
+        amended, the &#8220;Prospectus Regulation&#8221;). Consequently no key information document required by Regulation (EU) No 1286/2014 (as amended, the &#8220;PRIIPs Regulation&#8221;) for offering or selling the new notes or otherwise making them available to retail
+        investors in the EEA has been prepared and therefore offering or selling the new notes or otherwise making them available to any retail investor in the EEA may be unlawful under the PRIIPs Regulation.</div>
+      <div><br>
+      </div>
+      <div style="font-weight: bold;">The new notes are not intended to be offered, sold or otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in the United Kingdom. For these purposes, a retail
+        investor means a person who is one (or more) of: (i) a retail client as defined in point (8) of Article 2 of Regulation (EU) No 2017/565 as it forms part of domestic law in the United Kingdom by virtue of the European Union (Withdrawal) Act 2018
+        (the &#8220;EUWA&#8221;); or (ii) a customer within the meaning of the provisions of the Financial Services and Markets Act 2000 (as amended, the &#8220;FSMA&#8221;) and any rules or regulations made under the FSMA to implement Directive (EU) 2016/97, where that customer
+        would not qualify as a professional client as defined in point (8) of Article 2(1) of Regulation (EU) No 600/2014 as it forms part of domestic law in the United Kingdom by virtue of the EUWA; or (iii) not a qualified investor as defined in Article
+        2 of Regulation (EU) 2017/1129 as it forms part of domestic law in the United Kingdom by virtue of the EUWA (as amended, the &#8220;UK Prospectus Regulation&#8221;). Consequently no key information document required by Regulation (EU) No 1286/2014 as it forms
+        part of domestic law in the United Kingdom by virtue of the EUWA (the &#8220;UK PRIIPs Regulation&#8221;) for offering or selling the new notes or otherwise making them available to retail investors in the United Kingdom has been prepared and therefore
+        offering or selling the new notes or otherwise making them available to any retail investor in the United Kingdom may be unlawful under the UK PRIIPs Regulation.</div>
+      <div>&#160;</div>
+      <div style="font-weight: bold;">Forward Looking Statements</div>
+      <div>&#160;</div>
+      <div>This press release contains forward-looking statements within the meaning of the United States Private Securities Litigation Reform Act of 1995, as amended. Actual results may differ materially from those reflected in the forward-looking
+        statements. We undertake no obligation to update any forward-looking statement or other information contained in this press release to reflect events or circumstances occurring after the date of this press release or to reflect the occurrence of
+        unanticipated events or circumstances, including, without limitation, changes in our business or acquisition strategy or planned capital expenditures, or to reflect the occurrence of unanticipated events.</div>
+      <div>&#160;</div>
+      <div class="BRPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+        <div class="BRPFPageBreak" style="page-break-after: always;">
+          <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+      </div>
+      <div style="font-weight: bold;">About TGS</div>
+      <div>&#160;</div>
+      <div>TGS is the leader in Argentina in the transportation of natural gas, transporting approximately 60% of the gas consumed in the country, through more than 5,700 miles of gas pipelines, with a firm-contracted capacity of 83.1 MMm3/d. We are one of
+        the main natural gas processors. In addition, our infrastructure investments in Vaca Muerta formation place us as one of the main midstreamers in Argentina. Our shares are traded on NYSE (New York Stock Exchange) and BYMA (Bolsas y Mercados
+        Argentinos S.A.). Our controlling company is Compa&#241;&#237;a de Inversiones de Energ&#237;a S.A. (&#8220;CIESA&#8221;), which owns 51% of the total share capital. CIESA&#8217;s shareholders are: (i) Pampa Energ&#237;a S.A. with 50%, and led by the Sielecki family, (i) Grupo Investor
+        Petroqu&#237;mica S.L. (GIP) and&#160; (iii) PCT L.L.C. hold the remaining 50%.</div>
+      <div>&#160;</div>
+      <div>For further information, see our website <u>https://www.tgs.com.ar/inversores/servicio-parainversores?lang=EN</u> or contact:</div>
+      <div><br>
+      </div>
+      <div>Name: Leandro P&#233;rez Casta&#241;o</div>
+      <div>Phone: (54-11)-4371-5100</div>
+      <div>Email: inversores@tgs.com.ar</div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+        <div style="page-break-after: always;" class="BRPFPageBreak">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+      </div>
+      <div style="text-align: center; text-indent: -17.85pt; margin-left: 17.85pt; font-weight: bold;">SIGNATURES</div>
+      <div><br>
+      </div>
+      <div style="text-align: justify;">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</div>
+      <div style="text-align: right;"><br>
+      </div>
+      <table cellspacing="0" cellpadding="0" border="0" align="right" style="border-collapse: collapse; width: 60%; color: #000000; font-family: 'Times New Roman'; font-size: 10pt; text-align: left;" id="z987427a789014f7c9517b192adfc5e23">
+
+          <tr>
+            <td rowspan="1" style="width: 9.97%; vertical-align: top;">&#160;</td>
+            <td rowspan="1" colspan="3" style="vertical-align: top; text-align: center;">Transportadora de Gas del Sur S.A.</td>
+          </tr>
+          <tr>
+            <td style="width: 9.97%; vertical-align: top;">
+              <div style="font-weight: bold;"><br>
+              </div>
+            </td>
+            <td colspan="3" style="vertical-align: top;">
+              <div style="text-align: center;"><br>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="1" style="width: 9.97%; vertical-align: top; padding-bottom: 2px; font-weight: bold; text-align: right;">By:</td>
+            <td rowspan="1" style="width: 1%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+            <td rowspan="1" style="width: 7%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">&#160;</td>
+            <td rowspan="1" style="width: 42%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">/s/Alejandro M. Basso</td>
+          </tr>
+          <tr>
+            <td style="width: 9.97%; vertical-align: top;">&#160;</td>
+            <td style="width: 1%; vertical-align: top;">&#160;</td>
+            <td style="width: 7%; vertical-align: top;">
+              <div>Name:</div>
+            </td>
+            <td style="width: 42%; vertical-align: top;">
+              <div>Alejandro M. Basso</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 9.97%; vertical-align: top;">&#160;</td>
+            <td style="width: 1%; vertical-align: top;">&#160;</td>
+            <td style="width: 7%; vertical-align: top;">
+              <div>Title:</div>
+            </td>
+            <td style="width: 42%; vertical-align: top;">
+              <div style="text-align: justify; font-weight: bold;">Chief Financial Officer and Services Vice President</div>
+            </td>
+          </tr>
+
+      </table>
+      <div style="clear: both;"><br>
+      </div>
+      <div style="clear: both;">
+        <table cellspacing="0" cellpadding="0" border="0" align="right" style="border-collapse: collapse; width: 60%; color: #000000; font-family: 'Times New Roman'; font-size: 10pt; text-align: left;">
+
+            <tr>
+              <td rowspan="1" style="width: 9.97%; vertical-align: top; padding-bottom: 2px; font-weight: bold; text-align: right;">By:</td>
+              <td rowspan="1" style="width: 1%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+              <td rowspan="1" style="width: 7%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">&#160;</td>
+              <td rowspan="1" style="width: 42%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">/s/Hern&#225;n D. Flores G&#243;mez</td>
+            </tr>
+            <tr>
+              <td style="width: 9.97%; vertical-align: top;">&#160;</td>
+              <td style="width: 1%; vertical-align: top;">&#160;</td>
+              <td style="width: 7%; vertical-align: top;">
+                <div>Name:</div>
+              </td>
+              <td style="width: 42%; vertical-align: top;">
+                <div>Hern&#225;n D. Flores G&#243;mez</div>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 9.97%; vertical-align: top;">&#160;</td>
+              <td style="width: 1%; vertical-align: top;">&#160;</td>
+              <td style="width: 7%; vertical-align: top;">
+                <div>Title:</div>
+              </td>
+              <td style="width: 42%; vertical-align: top;">
+                <div style="text-align: justify; font-weight: bold;">Legal Affairs Vice President</div>
+              </td>
+            </tr>
+
+        </table>
+      </div>
+      <div><br>
+      </div>
+      <div><br>
+      </div>
+      <div><br>
+      </div>
+      <div><br>
+      </div>
+      <div><br>
+      </div>
+      <div style="text-align: justify;">Date: July 15, 2024.</div>
+      <div><br>
+      </div>
+      <div>
+        <hr noshade="noshade" align="center" style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;"></div>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>

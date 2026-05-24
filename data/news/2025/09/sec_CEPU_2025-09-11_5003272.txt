@@ -1,0 +1,414 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>cepu20250910_6k1.htm
+<DESCRIPTION>6-K
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<HR SIZE="4" NOSHADE ALIGN="LEFT" STYLE="width: 100%; color: black">
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Washington, D.C. 20549</B></P>
+
+<HR SIZE="2" NOSHADE ALIGN="CENTER" STYLE="width: 21%; color: black">
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>FORM 6-K</B></P>
+
+<HR SIZE="2" NOSHADE ALIGN="CENTER" STYLE="width: 21%; color: black">
+
+<P STYLE="font: 11pt/115% Times New Roman, Times, Serif; margin: 0; text-align: center">Report of Foreign Private Issuer<BR>
+Pursuant to Rule 27a-16 or 15d-16<BR>
+under the Securities Exchange Act of 1934</P>
+
+<P STYLE="font: 11pt/115% Times New Roman, Times, Serif; margin: 0 0 10pt; text-align: center"><B>For the month of September, 2025</B></P>
+
+<P STYLE="font: 11pt/115% Times New Roman, Times, Serif; margin: 0 0 10pt; text-align: center"><B>Commission File Number: 001-38376</B></P>
+
+<HR SIZE="2" NOSHADE ALIGN="CENTER" STYLE="width: 37%; color: black">
+
+<P STYLE="font: 24pt Times New Roman, Times, Serif; margin: 2pt 0 0; text-align: center"><B>Central Puerto S.A. </B></P>
+
+<P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>(Exact name of registrant as specified in its charter)
+</B></P>
+
+<P STYLE="font: 6pt/2pt Times New Roman, Times, Serif; margin: 0 221.75pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 3pt 0 0; text-align: center"><B>Port Central S.A. </B></P>
+
+<P STYLE="font: 7.5pt/115% Times New Roman, Times, Serif; margin: 0 0 10pt; text-align: center"><B>(Translation of registrant&rsquo;s
+name into English)</B></P>
+
+<HR SIZE="2" NOSHADE ALIGN="CENTER" STYLE="width: 36%; color: black">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Avenida Thomas Edison 2701 </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>C1104BAB Buenos Aires </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Republic of Argentina </B></P>
+
+<P STYLE="font: 10pt/115% Times New Roman, Times, Serif; margin: 0 0 10pt; text-align: center"><B>+54 (11) 4317-5000</B></P>
+
+<P STYLE="font: 10pt/115% Times New Roman, Times, Serif; margin: 0 0 10pt; text-align: center">(Address of principal executive offices)</P>
+
+<HR SIZE="2" NOSHADE ALIGN="CENTER" STYLE="width: 21%; color: black">
+
+<P STYLE="text-align: center; font: 10pt/115% Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 10pt">Indicate by check mark whether the registrant files or
+will file annual reports under cover Form 20-F or Form 40-F.&nbsp;</P>
+
+<P STYLE="font: 11pt/115% Calibri, Helvetica, Sans-Serif; margin: 0 0 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Form
+20-F </FONT>[X] <FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Form 40-F </FONT>[_]</P>
+
+<P STYLE="text-align: center; font: 10pt/115% Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 10pt">Indicate by check mark if the registrant is submitting
+the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1):</P>
+
+<P STYLE="font: 11pt/115% Calibri, Helvetica, Sans-Serif; margin: 0 0 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Yes
+</FONT>[_] <FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">No </FONT>[X]</P>
+
+<P STYLE="text-align: center; font: 10pt/115% Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 10pt">Indicate by check mark if the registrant is submitting
+the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7):</P>
+
+<P STYLE="font: 11pt/115% Calibri, Helvetica, Sans-Serif; margin: 0 0 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Yes
+</FONT>[_] <FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">No </FONT>[X]</P>
+
+<HR SIZE="4" NOSHADE ALIGN="LEFT" STYLE="width: 100%; color: black">
+
+<P STYLE="font: 9pt Verdana, Helvetica, Sans-Serif; margin: 0 0 0 76.5pt; text-align: center; text-indent: -76.5pt"><B>&nbsp;</B></P>
+
+
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; font: 9pt Sans-Serif; margin-top: 0; margin-bottom: 0; color: Red"><IMG SRC="cepu202509106k1_001.jpg" ALT=""><B></B></P>
+
+<P STYLE="font: 10pt/107% Arial, Helvetica, Sans-Serif; margin: 0 0 0 85.35pt; text-align: justify; text-indent: 243pt">&nbsp;</P>
+
+<P STYLE="font: 10pt/107% Arial, Helvetica, Sans-Serif; margin: 0 0 0 85.35pt; text-align: center; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 12pt/104% Times New Roman, Times, Serif; margin: 0 0 0.2pt 0.55pt; text-align: right; text-indent: -0.55pt"><B>BUENOS
+AIRES, September 10, 2025</B></P>
+
+<P STYLE="font: 12pt/104% Times New Roman, Times, Serif; margin: 0 0 0.2pt 0.55pt; text-align: right; text-indent: -0.55pt"><B>Original
+note to CNV: CPSA-GG-N0321/25-AL</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 0 7.1pt; text-indent: -1.15pt"><B>&nbsp;</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 0 7.1pt; text-indent: -1.15pt"><B>COMISI&Oacute;N NACIONAL DE VALORES
+(&ldquo;CNV&rdquo;)</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 226.2pt 0 7.1pt; text-indent: -1.15pt"><B>Deputy Management of Issuing Companies</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 226.2pt 0 7.1pt; text-indent: -1.15pt">25 de Mayo 175</P>
+
+<P STYLE="font: 12pt/12.7pt Times New Roman, Times, Serif; margin: 0.05pt 296.1pt 0 7.1pt; text-indent: -1.15pt">City of Buenos Aires</P>
+
+<P STYLE="font: 12pt/12.7pt Times New Roman, Times, Serif; margin: 0.05pt 296.1pt 0 7.1pt; text-indent: -1.15pt">Issuance Companies</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0.15pt 0 0 7.1pt; text-indent: -1.15pt"><B>&nbsp;</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 4.45pt 0 0 7.1pt; text-indent: -1.15pt"><B>BOLSAS Y MERCADOS ARGENTINOS S.A.
+(&ldquo;BYMA&rdquo;)</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 0 7.1pt; text-indent: -1.15pt">Sarmiento 299</P>
+
+<P STYLE="font: 10pt/103% Arial, Helvetica, Sans-Serif; margin: 0 0 0.85pt 7.1pt; text-align: left; text-indent: -1.15pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 12pt; line-height: 103%">City
+of Buenos Aire</FONT>s</P>
+
+<P STYLE="font: 12pt/103% Times New Roman, Times, Serif; margin: 0 0 0.85pt 7.1pt; text-align: left; text-indent: -1.15pt">&nbsp;</P>
+
+<P STYLE="font: 12pt/103% Times New Roman, Times, Serif; margin: 0 0 0.85pt 7.1pt; text-align: left; text-indent: -1.15pt"><B>A3 Mercados
+S.A. </B></P>
+
+<P STYLE="font: 12pt/103% Times New Roman, Times, Serif; margin: 0 0 0.85pt 7.1pt; text-align: justify; text-indent: -1.15pt">Paraguay
+777</P>
+
+<P STYLE="font: 12pt/103% Times New Roman, Times, Serif; margin: 0 0 0.85pt 7.1pt; text-align: justify; text-indent: -1.15pt">Rosario,
+Santa Fe</P>
+
+<P STYLE="font: 12pt/103% Times New Roman, Times, Serif; margin: 0 0 0.2pt 7.1pt; text-align: justify; text-indent: -1.15pt">&nbsp;</P>
+
+<P STYLE="font: 12pt/103% Times New Roman, Times, Serif; margin: 0 0 0.2pt; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 12pt/103% Times New Roman, Times, Serif; margin: 0 0 0.2pt 7.1pt; text-align: justify; text-indent: 0in">From my consideration</P>
+
+<P STYLE="font: 12pt/103% Times New Roman, Times, Serif; margin: 0 0 0.2pt 170.1pt; text-align: right; text-indent: -0.5pt"><B>&nbsp;</B></P>
+
+<P STYLE="font: 12pt/103% Times New Roman, Times, Serif; margin: 0 0 0.2pt 276.45pt; text-align: right; text-indent: 0in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 12pt/103% Times New Roman, Times, Serif; margin: 0 0 0.2pt 318.6pt; text-align: left; text-indent: 0in"><B>Ref.: CEPU-ECOGAS
+Corporate Reorganization. Relevant Fact.</B></P>
+
+<P STYLE="font: 12pt/103% Times New Roman, Times, Serif; margin: 0 0 0.2pt 170.1pt; text-align: right; text-indent: -0.5pt"><B>&nbsp;</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">I am pleased to write to you, in
+my capacity as Head of Market Relations of <B>Central Puerto S.A.</B> (hereinafter, the &quot;<U>Company</U>&quot; or &quot;<U>CEPU&quot;),</U>
+in relation to the spin-off-merger operation (the &quot;<U>Spin-off-Merger</U>&quot;) between the Company and ECOGAS Inversiones S.A.
+(&quot;<U>ECOGAS&quot;)</U> authorized by the Extraordinary General Shareholders' Meetings of CEPU and ECOGAS on May 22, 2025, which was
+informed to the market by the Company through a Relevant Fact dated 05/22/2025, filed in CNV Argentina and SEC, under ID No. 3366214,
+published on that date in the Daily Bulletin of Bolsas y Mercados Argentinos S.A. and in the Electronic Bulletin of A3 Mercados S.A.,
+in order to inform that the administrative conformities corresponding to the Spin-Off-Merger have been obtained, including the authorization
+of the National Securities Commission (the &quot;<U>CNV</U>&quot;) granted by means of Resolution No. [&#9679;] dated 10 September 2025.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">Likewise, investors are informed
+that, in accordance with the terms of the definitive corporate reorganization agreement signed on June 17, 2025 between the Company and
+ECOGAS (the &quot;<U>Definitive Corporate Reorganization Agreement</U>&quot;), October 1, 2025 has been established as the &quot;Effective
+Date of Corporate Reorganization&quot; as this term is defined in the Definitive Corporate Reorganization Agreement. By virtue of this,
+the following acts will take place on that date, among others:</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 255.65pt; text-align: center; text-indent: -298.15pt">Avda. Tom&aacute;s
+A. Edison 2701 &ndash; C1104BAB &ndash; City of Buenos Aires &ndash; Argentina</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 255.65pt; text-align: center; text-indent: -298.15pt">Phone (54 11) 4317
+5000 &ndash; Fax (54 11) 4317 5099</P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin-top: 0; margin-bottom: 0; text-align: center"><IMG SRC="cepu202509106k1_001.jpg" ALT="">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in"><FONT STYLE="font-size: 12pt">1)</FONT><FONT STYLE="font-size: 7pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 12pt">ECOGAS will receive all Spin-Off CEPU Equity, consisting of: (a) 59,986,580 Class &quot;A&quot; book-entry
+ordinary shares, with a par value of $1 each and with the right to one vote per share of ECOGAS; (b) 33,369 non-endorsable registered
+ordinary shares, of $1 par value each and entitled to one vote per share of Energ&iacute;a Sudamericana S.A.; (c) 27,597,032 Class &quot;B&quot;
+book-entry ordinary shares, with a par value of $1 each and entitled to one vote per share of Distribuidora de Gas del Centro S.A.; and
+(d) the sum of $305,000,000 in cash;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in"><FONT STYLE="font-size: 12pt">2)</FONT><FONT STYLE="font-size: 7pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 12pt">ECOGAS Bylaws approved by the Extraordinary Meeting of such company on May 22, 2025 will enter into
+force;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in"><FONT STYLE="font-size: 12pt">3)</FONT><FONT STYLE="font-size: 7pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 12pt">All of Class &quot;A&quot; shares of ECOGAS (59,986,580 shares with a par value of $1 each and with
+the right to one vote per share) will be cancelled; </FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in"><FONT STYLE="font-size: 12pt">4)</FONT><FONT STYLE="font-size: 7pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 12pt">80,973,264 new Class &quot;D&quot; shares of ECOGAS will be issued, with a par value of $1 each and
+with the right to one vote per share, to be distributed among CEPU shareholders based on their holding in such company according to the
+register of Caja de Valores S.A. as of the date of registration, which will be [September 26], 2025 (the &quot;<U>Registration </U>Date&quot;).&quot;),
+and to the Exchange Ratio determined in one Class &quot;D&quot; share of ECOGAS for every 18.6694 shares held in CEPU. Fractions of shares
+will not be delivered.</FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">As indicated in the Corporate Reorganization
+Agreement, the new shares of ECOGAS to be delivered to those CEPU shareholders who hold their interests in the Company through <I>CEPU'</I>s
+American Depositary Receipts <U>(&quot;CEPU ADRs</U>&quot;) program as of the Record Date, will be delivered to JPMorgan Chase Bank, N.A.
+(&quot;<U>JPMorgan</U>&quot;) in its capacity as depositary of the CEPU ADR program and, if they are not capable of being delivered in
+the form of certificates representing such New ECOGAS Shares, they will be retained by JPMorgan, in its capacity as depositary of the
+CEPU ADR program, which will dispose of them, in accordance with the provisions of the <I>Amended and Restated Deposit Agreement</I> dated
+October 16, 2023 between CEPU, JPMorgan, and CEPU ADR holders, and any agreements or instructions JPMorgan enters into with, or receives
+from, CEPU.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">In this regard, as reported by ECOGAS
+through Relevant Fact on September 10, 2025, filing No. 3413911, said company is in the process of creating a program of <I>Global Depositary
+Receipts</I> of ECOGAS (the &quot;<U>Ecogas GDR Program</U>&quot;), which will represent <I>Global Depositary Shares</I> (&quot;<U>GDSs</U>&quot;)
+whose assets will have as an underlying part of the new shares of ECOGAS, in order to offer investors who have their shares in CEPU, through
+CEPU ADRs, has the possibility of receiving securities representing the New Shares abroad and granting them a reasonable period of approximately
+ninety (90) days from their entry into force to carry out operations aimed at receiving their shares in the local market, if deemed appropriate.
+Considering that the Spin-Off-Merger is an operation exempt from registration with the U.S. Securities Exchange Commission (&quot;<U>SEC&quot;),</U>
+Ecogas' GDR Program must be restricted, and can only be accessed by investors who have their shares in CEPU through ADRs as of the registration
+date determined by JPMorgan and who present the certifications required under Regulation S and Rule 144 A of the U.S. Securities Act United
+States of America of 1933 (<I>Securities Act</I>) and investors who, after the initial distribution, acquire GDRs issued as a result of
+the Spin-Off-Merger through the trading mechanisms and with the applicable restrictions.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 255.65pt; text-align: center; text-indent: -298.15pt">Avda. Tom&aacute;s
+A. Edison 2701 &ndash; C1104BAB &ndash; City of Buenos Aires &ndash; Argentina</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 255.65pt; text-align: center; text-indent: -298.15pt">Phone (54 11) 4317
+5000 &ndash; Fax (54 11) 4317 5099</P>
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><IMG SRC="cepu202509106k1_001.jpg" ALT="">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">Consequently, the GDRs will be delivered
+to those holders of CEPU ADRs that are eligible under the aforementioned standards, to the extent that they have complied with the certifications
+and other documentation required by JPMorgan, in the times and forms that the entity has provided.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in"><FONT STYLE="font-size: 12pt">5)</FONT><FONT STYLE="font-size: 7pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 12pt">The amount corresponding to the undelivered fraction of the undelivered share valued in accordance
+with the price of the Class &quot;D&quot; share of ECOGAS at the close of the Registration Date will be transferred to the shareholders
+of the Company on the Record Date, in accordance with the register of Caja de Valores S.A. and as applicable to each one;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in"><FONT STYLE="font-size: 12pt">6)</FONT><FONT STYLE="font-size: 7pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT><FONT STYLE="font-size: 12pt">The new capital stock of ECOGAS will be $250,217,264, as a result of the cancellation and issuance
+of shares referred to in points 3) and 4), and treasury shares may remain in the hands of ECOGAS as a result of fractions of shares not
+delivered.</FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in">Sincerely.</P>
+
+<P STYLE="font: 12pt/103% Times New Roman, Times, Serif; margin: 0 0 0.2pt; text-align: justify; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 12pt/103% Times New Roman, Times, Serif; margin: 0 0 0.2pt 255.65pt; text-align: justify; text-indent: -0.5pt">&nbsp;</P>
+
+<P STYLE="font: 12pt/103% Times New Roman, Times, Serif; margin: 0 0 0.2pt 255.65pt; text-align: justify; text-indent: -0.5pt">&nbsp;</P>
+
+<P STYLE="font: 12pt/104% Times New Roman, Times, Serif; margin: 0 0 0 0.55pt; text-align: center; text-indent: -0.55pt">Leonardo Marinaro</P>
+
+<P STYLE="font: 12pt/104% Times New Roman, Times, Serif; margin: 0 0 0 0.55pt; text-align: center; text-indent: -0.55pt">Market Relations
+Manager</P>
+
+<P STYLE="font: 12pt/104% Times New Roman, Times, Serif; margin: 0 0 0 0.55pt; text-align: center; text-indent: -0.55pt"><B>Central Puerto
+S.A.</B></P>
+
+<P STYLE="font: 12pt/103% Times New Roman, Times, Serif; margin: 0 0 0.2pt 255.65pt; text-align: right; text-indent: -0.5pt">&nbsp;</P>
+
+
+
+<P STYLE="font: 9pt Sans-Serif; margin: 0; color: Red"><B></B></P>
+
+<P STYLE="font: 9pt Verdana, Helvetica, Sans-Serif; margin: 0 0 0 76.5pt; text-align: center; text-indent: -76.5pt"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 255.65pt; text-align: center; text-indent: -298.15pt">Avda. Tom&aacute;s
+A. Edison 2701 &ndash; C1104BAB &ndash; City of Buenos Aires &ndash; Argentina</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0 0 0 255.65pt; text-align: center; text-indent: -298.15pt">Phone (54 11) 4317
+5000 &ndash; Fax (54 11) 4317 5099</P>
+<P STYLE="font: 9pt Verdana, Helvetica, Sans-Serif; margin: 0 0 0 76.5pt; text-align: center; text-indent: -76.5pt"><B></B></P>
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 9pt Verdana, Helvetica, Sans-Serif; margin: 0 0 0 76.5pt; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 9pt Verdana, Helvetica, Sans-Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B><IMG SRC="cepu202509106k1_002.jpg" ALT="">&nbsp;</B></P>
+
+<P STYLE="font: 9pt Verdana, Helvetica, Sans-Serif; margin: 0 0 0 76.5pt; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 9pt Verdana, Helvetica, Sans-Serif; margin: 0 0 0 76.5pt; text-align: center"><B></B></P>
+
+<!-- Field: Page; Sequence: 5 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 9pt Verdana, Helvetica, Sans-Serif; margin: 0 0 0 76.5pt; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 9pt Verdana, Helvetica, Sans-Serif; margin-top: 0; margin-bottom: 0; text-align: center"><B><IMG SRC="cepu202509106k1_003.jpg" ALT="">&nbsp;</B></P>
+
+<P STYLE="font: 9pt Verdana, Helvetica, Sans-Serif; margin: 0 0 0 76.5pt; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 9pt Verdana, Helvetica, Sans-Serif; margin: 0 0 0 76.5pt; text-align: center"><B></B></P>
+
+<!-- Field: Page; Sequence: 6 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 9pt Verdana, Helvetica, Sans-Serif; margin-top: 0; margin-bottom: 0; text-align: center">&nbsp;<IMG SRC="cepu202509106k1_004.jpg" ALT=""></P>
+
+<P STYLE="font: 9pt Verdana, Helvetica, Sans-Serif; margin: 0 0 0 76.5pt; text-align: center"><B>&nbsp;</B></P>
+
+
+
+<!-- Field: Page; Sequence: 7 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt/107% Times New Roman, Times, Serif; margin: 0 0 8pt; text-align: center"><B>SIGNATURES</B></P>
+
+<P STYLE="font: 10pt/115% Times New Roman, Times, Serif; margin: 12pt 0 0">Pursuant to the requirements of the Securities Exchange Act
+of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</P>
+
+<P STYLE="font: 11pt/115% Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="width: 45%; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; width: 1%; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="width: 4%; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="width: 4%; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; width: 1%; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="width: 44%; line-height: 115%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="3" STYLE="line-height: 115%">&nbsp;</TD>
+    <TD STYLE="line-height: 115%">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="line-height: 115%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%"><B>Central Puerto S.A.</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="line-height: 115%">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="line-height: 115%">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="line-height: 115%">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="line-height: 115%">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; line-height: 115%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Date: September 10, 2025</FONT></TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="line-height: 115%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">By:</FONT></TD>
+    <TD STYLE="line-height: 115%">&nbsp;</TD>
+    <TD>
+    <P STYLE="font: 10pt/115% Times New Roman, Times, Serif; margin: 0; border-bottom: black 0.5pt solid">/s/ <FONT STYLE="font-variant: small-caps">Leonardo
+    Marinaro</FONT></P></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="line-height: 115%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Name:</FONT></TD>
+    <TD STYLE="line-height: 115%">&nbsp;</TD>
+    <TD STYLE="line-height: 115%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Leonardo Marinaro</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="line-height: 115%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Title:</FONT></TD>
+    <TD STYLE="line-height: 115%">&nbsp;</TD>
+    <TD STYLE="line-height: 115%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Attorney-in-Fact</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 12pt/115% Calibri, Helvetica, Sans-Serif; margin: 0 0 10pt">&nbsp;</P>
+
+<P STYLE="font: 12pt/107% Calibri, Helvetica, Sans-Serif; margin: 0 0 8pt">&nbsp;</P>
+
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

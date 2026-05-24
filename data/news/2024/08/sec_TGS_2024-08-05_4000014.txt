@@ -1,0 +1,397 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>tgs.htm
+<DESCRIPTION>2 ND QUARTER FINANCIAL RESULTS
+<TEXT>
+<HTML>
+<!-- Produced by EDGARsuite software, Advanced Computer Innovations, Inc., Copyright (C) 2008-2024 [PPXVPY40XJV0VDNWDZUM]. www.edgarsuite.com -->
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<DIV style=margin-left:85.05pt;width:453.6pt><HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:11pt Courier New;margin:0'><KBD style='position:absolute;text-align:center;font:11pt Arial;width:453.6pt'><B>UNITED STATES</B></KBD>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+<P align=center style='font:11pt Courier New;margin:0'><B>Washington, DC 20549</B></P>
+<P align=center style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'><B>_____________</B></P>
+<P style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'><B>FORM 6-K</B></P>
+<P align=center style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'><B>Report of Foreign Issuer</B></P>
+<P align=center style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'>Pursuant to Rule 13a-16 or 15d-16 of</P>
+<P align=center style='font:11pt Courier New;margin:0'>the Securities and Exchange Act of 1934</P>
+<P align=center style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'>For August 5, 2024</P>
+<P align=center style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'><B>Commission file number: 1-13.396</B></P>
+<P align=center style='font:11pt Courier New;margin:0'><B>Transportadora de Gas del Sur S.A.</B></P>
+<P align=center style='font:11pt Courier New;margin:0'>Cecilia Grierson 355, 26th Floor</P>
+<P align=center style='font:11pt Courier New;margin:0'>1107 Capital Federal</P>
+<P align=center style='font:11pt Courier New;margin:0'>Argentina</P>
+<P align=center style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=justify style='font:11pt Courier New;margin:0;text-indent:21.3pt'>Indicate by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F.</P>
+<P style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'>Form 20-F&nbsp;<FONT style='border-bottom:1px solid #000000'> X</FONT>&nbsp;&nbsp;Form 40-F&nbsp;<FONT style='border-bottom:1px solid #000000'> </FONT>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=justify style='font:11pt Courier New;margin:0;text-indent:21.3pt'>Indicate by check mark if registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1): __</P>
+<P style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=justify style='font:11pt Courier New;margin:0;text-indent:21.3pt'>Indicate by check mark if registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7): __</P>
+<P align=justify style='font:11pt Courier New;margin:0;text-indent:21.3pt'>&nbsp;</P>
+<P align=justify style='font:11pt Courier New;margin:0;text-indent:21.3pt'>Indicate by check mark whether the registrant by furnishing the information contained in this Form is also thereby furnishing the information to the Commission pursuant to the Rule 12g3-2(b) under the Securities Exchange Act of 1934.</P>
+<P align=justify style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=center style='font:11pt Courier New;margin:0'>Yes&nbsp;&nbsp;&nbsp;No&nbsp;<FONT style='border-bottom:1px solid #000000'>X </FONT>&nbsp;</P>
+<P style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P style='font:11pt Arial;margin:0;margin-right:-0.05pt;color:#000000'><FONT style='font-family:Courier New'>If &quot;Yes&quot; is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b):</FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=right style='font:10pt Verdana;margin:0;margin-right:-0.05pt;color:#1F497D'><FONT style='font-family:Times New Roman;color:#000000'><IMG src=tgs_1.jpg width=567 height=126 alt='Imagen 7' title='Imagen 7'></FONT>&nbsp;</P>
+<P align=center style='font:11pt Verdana;margin:0;text-indent:36pt;color:#0070C0'>&nbsp;</P>
+<P align=center style='font:11pt Verdana;margin:0;text-indent:36pt;color:#0070C0'>&nbsp;</P>
+<P align=center style='font:11pt Verdana;margin:0;text-indent:36pt;color:#0070C0'>&nbsp;</P>
+<P align=center style='font:11pt Verdana;margin:0;text-indent:36pt;color:#0070C0'>&nbsp;</P>
+<P align=center style='font:11pt Verdana;margin:0;text-indent:36pt;color:#0070C0'>&nbsp;</P>
+<P align=center style='font:11pt Verdana;margin:0;text-indent:36pt;color:#0070C0'><B>tgs announces results for the second quarter (&#8220;2Q&#8221;) </B></P>
+<P align=center style='font:11pt Verdana;margin:0;text-indent:36pt;color:#0070C0'><B>ended on June 30, 2024 <SUP>(1)</SUP> </B></P>
+<P align=center style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+</DIV>
+<DIV style=margin-left:85.05pt;width:446.55pt><P align=justify style='font:7pt Verdana;margin-top:6pt;margin-bottom:6pt'><I>Transportadora de Gas del Sur (&quot;</I><B><I>tgs</I></B><I>&quot;, &quot;the Company&quot;, &#8220;us&#8221;, &#8220;our&#8221;, or &#8220;we&#8221;) is the leader in Argentina in the transportation of natural gas, transporting approximately 60% of the gas consumed in the country, through more than 5,700 miles of gas pipelines, with a firm-contracted capacity of 83.4 MMm<SUP>3</SUP>/d. We are one of the main natural gas processors. In addition, our infrastructure investment in the Vaca Muerta formation places us as one of the main Midstreamers in Argentina.</I></P>
+<P align=justify style='font:7pt Verdana;margin-top:6pt;margin-bottom:6pt'><I>Our shares are traded on NYSE (New York Stock Exchange) and BYMA (Bolsas y Mercados Argentinos S.A.).</I></P>
+<P align=justify style='font:7pt Verdana;margin:0'><I>Our controlling company is Compa&#241;&#237;a de Inversiones de Energ&#237;a S.A. (&quot;CIESA&quot;), which owns 51% of the total share capital. CIESA&#8217;s shareholders are: (i) Pampa Energ&#237;a S.A. with 50%, (ii) led by the Sielecki family, Grupo Investor Petroqu&#237;mica S.L. (GIP), and PCT L.L.C. hold the remaining 50%.</I></P>
+<P align=justify style='font:7pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0'><I>For further information, see our website </I><FONT style='border-bottom:1px solid #000000'><I>https://www.tgs.com.ar/inversores/servicio-para-inversores?lang=EN</I></FONT></P>
+<P align=justify style='font:7pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0;color:#0070C0'><B><I>Stock Information</I></B></P>
+<P align=justify style='font:7pt Verdana;margin:0'><B><I>BYMA Symbol:</I></B><I> TGSU2</I></P>
+<P align=justify style='font:7pt Verdana;margin:0'><B><I>NYSE Symbol:</I></B><I> TGS (1 ADS = 5 ordinary shares)</I></P>
+<P align=justify style='font:2pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0;color:#0070C0'><B><I>Shareholding structure as of June 30, 2024</I></B></P>
+<P style='font:7pt Verdana;margin:0;margin-right:14.15pt'><B><I>tgs</I></B><I> holds 794,495,283 issued shares and 752,761,058 outstanding shares.</I></P>
+<P align=center style='font:7pt Verdana;margin:0;margin-right:14.15pt'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:-70.9pt;margin-right:-14.2pt'><I><IMG src=tgs_2.jpg width=322 height=184 alt='Imagen 53' title='Imagen 53'></I>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0;color:#548DD4'> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+<P align=justify style='font:8pt Verdana;margin:0;color:#0070C0'><B>Buenos Aires, Argentina, August 5, 2024</B></P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:3.5pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-21.25pt;color:#000000'>During the 2Q2024, total comprehensive income amounted to Ps. 85,708 million, or a Ps. 113.86 income per share (Ps. 569.29 per ADS), compared to a total comprehensive income of Ps. 44,969 million, or Ps. 59.74 per share (Ps. 298.69 per ADS) in the second quarter ended on June 30, 2023 (&#8220;2Q2023&#8221;).</P>
+<P align=justify style='font:10pt Arial;margin:0'><FONT style='font:9pt Verdana'> </FONT>&nbsp;</P>
+<P align=justify style='font:10pt Arial;margin:0;margin-right:-28.35pt'><FONT style='font-family:Times New Roman'><IMG src=tgs_3.jpg width=323 height=136 alt='Picture 6' title='Picture 6'></FONT>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;color:#000000'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-21.25pt'>Operating profit for 2Q2024 totaled Ps. 126,648 million, Ps. 70,463 million above 2Q2023. This variation was mainly due to higher revenues from the Natural Gas Transportation and Midstream and Telecommunications (&#8220;Midstream&#8221;) segments amounting to Ps. 66,983 million and Ps. 7,559 million, respectively. </P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-21.25pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-21.25pt'>Revenues from the Production and Commercialization of Natural Gas Liquids (Liquids) decreased by Ps. 20,966 million.</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-21.25pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-21.25pt'>Net cost of sales, administrative and selling expenses decreased Ps. 18,513 million in the period.</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-left:14.2pt;margin-right:-21.25pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-21.25pt;color:#000000'>Financial results reflected a negative variation of Ps. 7,780 million. The income tax charge increased Ps. 22,255 million as a result of higher taxable income.</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=justify style='font:7pt Verdana;margin:0;margin-left:14.2pt;color:#808080'><KBD style='position:absolute;font:7pt Verdana;margin-left:-14.2pt'><FONT style='border-bottom:1px solid #808080'><B><I>(1)</I></B></FONT></KBD><I>The financial information presented in this press release is based on interim consolidated financial statements presented in constant Argentine pesos as of June 30, 2024 (Ps.) which is based on the application of the International Financial Reporting Standards (IFRS).</I>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:14.2pt;margin-right:-35.45pt;color:#0070C0'><FONT style=font-size:8pt;color:#000000><IMG src=tgs_4.jpg width=351 height=59 alt='Picture 1' title='Picture 1'></FONT>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#1F497D'><KBD style='position:absolute;font:8pt Verdana;margin-left:0pt'><B>Transportadora de Gas del Sur S.A. </B></KBD><KBD style='position:absolute;text-align:right;font:8pt Verdana;width:425.25pt'><B>2</B></KBD>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0'><I>Edificio Madero Office</I> &#8211;&nbsp;355 Cecilia Grierson St. 26<SUP>th</SUP> floor</P>
+<P style='font:8pt Verdana;margin:0'>(C1107CPG), Autonomous City of Buenos Aires, Argentina.</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+</DIV>
+<DIV style=margin-left:85.05pt;width:425.25pt><P style='font:10pt Times New Roman;margin:0'><FONT style=font-family:Verdana;color:#365F91><B><IMG src=tgs_5.jpg width=156 height=55 alt='Picture 2' title='Picture 2'></B></FONT><FONT style='font:9pt Verdana;color:#4F81BD'><B>2Q2024</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=justify style='font:10pt Verdana;margin:0;color:#0070C0'><B>Highlights during 2Q2024 and beyond</B></P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-left:35.45pt'><KBD style='position:absolute;font:9pt Wingdings;margin-left:-28.85pt'>&#216;</KBD>On March 27, 2024, ENARGAS issued Resolution No. 112/2024 which provides a 675% transitional adjustment in the Natural Gas Transportation tariffs, effective from April 3, 2024. ENARGAS subsequently informed tgs the postponement of the monthly tariff adjustment agreed upon for the period between May and July. Effective from August 2, 2024, the tariff charts were adjusted by 4%. &nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-left:35.45pt'><KBD style='position:absolute;font:9pt Wingdings;margin-left:-28.85pt'>&#216;</KBD>In relation with the License extension, on June 19, 2024, ENARGAS issued a technical and legal report indicating that tgs have broadly fulfilled its obligations regarding the License. Based on this report, and after a non-binding public hearing to be convened, and thereafter, ENARGAS' controller may submit a recommendation to the National Executive Branch, which, in turn, may issue a decree granting the extension of the License within 120 days from the date of the recommendation.&nbsp;</P>
+<P style='font:9pt Verdana;margin:0;margin-left:35.4pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-left:35.45pt'><KBD style='position:absolute;font:9pt Wingdings;margin-left:-28.85pt'>&#216;</KBD>On June 19, 2024, tgs submitted a proposal to expand the existing natural gas transportation systems to the Ministry of Economy. To execute the works, tgs estimates an investment of US$ 700 million. The goal is to increase natural gas volumes starting in the winter of 2026 at the Litoral node (14 MMm3/d), which will allow replacing natural gas and liquid imports every winter by using the existing infrastructure. This project not only reinforces tgs and its shareholders&#8217; comprise with the economy and social growth of the country, but also translates into a lower cost for end users, in addition to a shorter construction period.&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-left:35.45pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-left:35.45pt'><KBD style='position:absolute;font:9pt Wingdings;margin-left:-28.85pt'>&#216;</KBD>On July 18, 2024, the placement of Class 3 Notes (the &#8220;2031 Notes&#8221;) for a nominal value of US$ 490 million was successfully done. The 2031 Notes due on July 24, 2031 and accrue interest which is payable on a semiannual basis at a fixed annual nominal rate of 8.5%. The total proceeds received from the issuance at the initial price amounted to US$ 484 million, resulting in a nominal annual yield of 8.75%. The proceeds were fully allocated to cancel the outstanding amount of the 2025 Notes maturing May 2, 2025.&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:36pt'>&nbsp;</P>
+<P align=justify style='font:8pt Verdana;margin:0;margin-left:0.55pt;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:6pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:10pt Verdana;margin:0;color:#0070C0'><B>Analysis of the results</B></P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>Total revenues amounted to Ps. 264,314 million in 2Q2024, a Ps. 53,575 million increase compared to Ps. 210,739 million in 2Q2023.</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0;margin-left:-7.1pt'><IMG src=tgs_6.jpg width=521 height=242 alt='Picture 2' title='Picture 2'>&nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:8pt Verdana;margin:0;color:#1F497D'><B><IMG src=tgs_7.jpg width=351 height=59 alt='Picture 1' title='Picture 1'></B><KBD style='position:absolute;font:8pt Verdana;margin-left:0pt'><B> </B></KBD><KBD style='position:absolute;text-align:right;font:8pt Verdana;width:425.25pt'><B>3</B></KBD>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0'><FONT style=font-family:Verdana;color:#365F91><B><IMG src=tgs_5.jpg width=156 height=55 alt='Picture 2' title='Picture 2'></B></FONT><FONT style='font:9pt Verdana;color:#4F81BD'><B>2Q2024</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>The breakdown of<FONT style=color:#0070C0><B> </B><B>net </B><B>cost of sales</B><B>, administrative and </B><B>selling</B><B> expenses, </B></FONT>excluding depreciation, for 2Q2024 and 2Q2023 is shown in the table below:</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0'><FONT style='font-family:Times New Roman'><IMG src=tgs_8.jpg width=540 height=97 alt='Picture 8' title='Picture 8'></FONT> &nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt;color:#000000'><FONT style=color:#0070C0><B>C</B><B>ost</B><B> of sale</B><B>s and administrative and selling expenses</B></FONT> decreased by Ps. 18,513 million in 2Q2024 from 2Q2023. This variation was due to the lower cost of natural gas consumed for liquids production, equivalent to Ps. 21,968 million (lower price in accordance with IAS 29 restatement effect) as well as other operating expenses. These effects were partially offset by: (i) higher third parties services expenses of Ps. 3,572 million, (ii) taxes, fees and contributions of Ps. 1,946 million (mainly due to higher turnover tax offset by lower export taxes), and (iii) higher labor costs of Ps. 638 million.</P>
+<P style='font:9pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'><FONT style=color:#0070C0><B>Financial results </B></FONT>are presented<B> </B>in gross terms considering the effect of change in the currency purchasing power (&quot;(Loss) / gain on monetary position&quot;) in a single separate line. In 2Q2024, the financial results registered a negative variation of Ps. 7,780 million compared to 2Q2023. This variation is mainly due to the lower result obtained from financial assets of Ps. 25,308 million and the higher negative loss on the monetary position at Ps. 14,303 million. These effects were partially offset by the lower negative exchange rate difference of Ps. 35,477 million (as a consequence of the lower exchange rate variation during 2Q2024).</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0;margin-right:-0.05pt'><IMG src=tgs_9.jpg width=463 height=346 alt='Picture 3' title='Picture 3'>&nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:8pt Verdana;margin:0;color:#1F497D'><B><IMG src=tgs_7.jpg width=351 height=59 alt='Picture 1' title='Picture 1'></B><KBD style='position:absolute;font:8pt Verdana;margin-left:0pt'><B> </B></KBD><KBD style='position:absolute;text-align:right;font:8pt Verdana;width:425.25pt'><B>4</B></KBD>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0'><FONT style=font-family:Verdana;color:#365F91><B><IMG src=tgs_5.jpg width=156 height=55 alt='Picture 2' title='Picture 2'></B></FONT><FONT style='font:9pt Verdana;color:#4F81BD'><B>2Q2024</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:9pt Verdana;margin:0;color:#0070C0'><B>Natural Gas Transportation</B></P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>Operating profit of the <FONT style=color:#0070C0><B>Natural Gas Transportation </B></FONT>segment was Ps. 67,688 million in 2Q2024, which is Ps. 67,440 million above the profit recorded in 2Q2023. </P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'> <FONT style='font-family:Times New Roman'><IMG src=tgs_10.jpg width=540 height=136 alt='Picture 1' title='Picture 1'></FONT>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>Natural gas transportation revenues accounted for approximately 44% and 24% of total revenues in 2Q2024 and 2Q2023, respectively.</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>Revenues from this segment are derived mainly from firm natural gas transportation contracts, which represented approximately 85% of the total revenues for this segment in 2Q2024 and 2Q2023.</P>
+<P style='font:9pt Verdana;margin:0;color:#4F81BD'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0;margin-left:-21.3pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-left:-14.2pt'><IMG src=tgs_11.jpg width=585 height=248 alt='Picture 4' title='Picture 4'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>This business segment is subject to ENARGAS regulation, and as mentioned in the &#8220;<I>Highlights of 2Q2024 and beyond</I>&#8221; section above, the tariffs applicable to this business segment received a tariff increase of 675%, effective as of April 3, 2024. </P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>The increase in operating profit was mainly due to the increase in revenues of Ps. 66,983 million following the tariff adjustment mentioned above, which was partially offset by the restatement for inflation as required by IAS 29. </P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:8pt Verdana;margin:0;color:#1F497D'><B><IMG src=tgs_7.jpg width=351 height=59 alt='Picture 1' title='Picture 1'></B><KBD style='position:absolute;font:8pt Verdana;margin-left:0pt'><B> </B></KBD><KBD style='position:absolute;text-align:right;font:8pt Verdana;width:425.25pt'><B>5</B></KBD>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0'><FONT style=font-family:Verdana;color:#365F91><B><IMG src=tgs_5.jpg width=156 height=55 alt='Picture 2' title='Picture 2'></B></FONT><FONT style='font:9pt Verdana;color:#4F81BD'><B>2Q2024</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt;color:#0070C0'><B>Liquids Production and Commercialization </B></P>
+<P align=justify style='font:8pt Verdana;margin:0;margin-right:-0.05pt;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'><FONT style=color:#0070C0><B>Liquids Production and Commercialization</B> </FONT>revenues accounted for approximately 39% and 59% of total revenues in 2Q2024 and 2Q2023, respectively. During 2Q2024, the production decreased by 4,371 tons, reaching 279,001 tons.</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:8pt Verdana;margin:0;margin-right:-0.05pt'><FONT style='font-family:Times New Roman'><IMG src=tgs_12.jpg width=540 height=116 alt='Picture 37' title='Picture 37'></FONT>&nbsp;</P>
+<P align=center style='font:10pt Arial;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>Operating profit for this business segment in 2Q2024 was Ps. 2,581 million lower than in 2Q2023, reaching Ps. 35,590 million (Ps. 38,171 million in 2Q2023). This decline was mainly explained by the decrease in revenues of Ps. 20,966 million and the increase in repair and maintenance expenses and third-party services. These effects were partially offset by lower natural gas costs of Ps. 21,968 million.</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>In terms of revenues, which amounted to Ps. 104,229 million in 2Q2024 (Ps. 125,195 million in 2Q2023), we can highlight the negative impact of the IAS 29 restatement that resulted in a decrease of Ps. 89,216 million, the decrease in propane and ethane volumes at Ps. 13,231 million, and the lower ethane price of Ps. 11,802 million (including the lower take or pay compensation). These effects were partially offset by the increase in: (i) the nominal variation of the exchange rate on U.S. dollar-denominated revenues of Ps. 76,448 million, (ii) international reference prices of Ps. 8,294 million, (iii) the price of butane sold in the domestic market of Ps. 4,501 million, and (iv) services rendered of Ps. 3,955 million.</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>Total volume dispatched decreased 13%, or 37,401 tons, compared to 2Q2023. This decline was mainly due to the lower tons of ethane and butane dispatched in the local market as well as the decrease in exported propane. These effects were partially offset by higher exports of butane.</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>The breakdown of volumes dispatched by market and product and revenues by market is included below:</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0;margin-right:-0.05pt'><FONT style='font-family:Times New Roman'><IMG src=tgs_13.jpg width=540 height=253 alt='Picture 35' title='Picture 35'></FONT>&nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:8pt Verdana;margin:0;color:#1F497D'><B><IMG src=tgs_7.jpg width=351 height=59 alt='Picture 1' title='Picture 1'></B><KBD style='position:absolute;font:8pt Verdana;margin-left:0pt'><B> </B></KBD><KBD style='position:absolute;text-align:right;font:8pt Verdana;width:425.25pt'><B>6</B></KBD>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0'><FONT style=font-family:Verdana;color:#365F91><B><IMG src=tgs_5.jpg width=156 height=55 alt='Picture 2' title='Picture 2'></B></FONT><FONT style='font:9pt Verdana;color:#4F81BD'><B>2Q2024</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:9pt Verdana;margin:0;color:#0070C0'><B><IMG src=tgs_14.jpg width=551 height=314 alt='Picture 8' title='Picture 8'></B>&nbsp;</P>
+<P style='font:9pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P style='font:9pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P style='font:9pt Verdana;margin:0;color:#0070C0'><B>Midstream and Telecommunications</B></P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>Midstream and Telecommunications business segment includes mainly services provided by tgs at Vaca Muerta, representing approximately 16% and 17% of our total revenues in 2Q2024 and 2Q2023, respectively. </P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'><FONT style='font-family:Times New Roman'><IMG src=tgs_15.jpg width=540 height=113 alt='Picture 13' title='Picture 13'></FONT>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>Operating profit rose by Ps. 5,605 million mainly as a result of the Ps. 7,559 million increase in revenues during 2Q2024, which was partially offset by higher operating costs of Ps. 1,674 million. </P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>The increase in revenues was primarily explained by the nominal effect of the exchange rate on U.S. dollar-denominated revenues of Ps. 23,357 million, more natural gas transportation and conditioning services at Vaca Muerta amounting of Ps. 6,711 million, and the increase in services related to the N&#233;stor Kirchner pipeline operation as well as the maintenance and complementary works of Ps. 1,241 million. These effects were partially offset by the impact of the IAS 29 restatement of Ps. 24,875 million.</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:8pt Verdana;margin:0;color:#1F497D'><B><IMG src=tgs_7.jpg width=351 height=59 alt='Picture 1' title='Picture 1'></B><KBD style='position:absolute;font:8pt Verdana;margin-left:0pt'><B> </B></KBD><KBD style='position:absolute;text-align:right;font:8pt Verdana;width:425.25pt'><B>7</B></KBD>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0'><FONT style=font-family:Verdana;color:#365F91><B><IMG src=tgs_5.jpg width=156 height=55 alt='Picture 2' title='Picture 2'></B></FONT><FONT style='font:9pt Verdana;color:#4F81BD'><B>2Q2024</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:9pt Verdana;margin:0;margin-left:-7.1pt;color:#0070C0'><B><IMG src=tgs_16.jpg width=550 height=325 alt='Picture 2' title='Picture 2'></B>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>Finally, on June 19, 2024, tgs presented an investment proposal under the private initiative  figure with the purpose of making available incremental volumes of natural gas starting the winter of 2026 at the Litoral node, which will allow for the substitution of natural gas and liquids imports during the winters by using the existing infrastructure. This proposal, with an estimated investment of US$ 700 million, will result in relevant fiscal savings for Argentina as it will allow for imports substitution.</P>
+<P align=justify style='font:9pt Verdana;margin:0'> &nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>This proposal would be executed as a complement to the construction of stage 2 of the GPNK and would be presented as an alternative by using the existing infrastructure, with the objective of achieving the lowest cost for end users as well as savings for the National Government. In the event that this initiative is approved by the National Government, a bidding process will have to be developed, and through which, tgs will have priority in the awarding conditions.</P>
+<P style='font:9pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P style='font:9pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P style='font:9pt Verdana;margin:0;color:#0070C0'><B>Financial position analysis</B></P>
+<P align=justify style='font:9pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;color:#0070C0'><B>Net debt</B></P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>As of June 30, 2024, our negative net debt amounted to Ps. 59,656 million, which compares to the positive net debt of Ps. 62,923 million as of December 31, 2023. Our total net financial debt is denominated in foreign currency for both periods.</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>During 2Q2024 tgs incurred in new bank debt amounting to Ps. 4,473 million (US$ 4.9 million). In addition, loans amounting to Ps. 18,322 million (US$ 19.7 million) were cancelled.</P>
+<P style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>The table below shows a reconciliation of our net debt:</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:8pt Verdana;margin:0;color:#1F497D'><B><IMG src=tgs_7.jpg width=351 height=59 alt='Picture 1' title='Picture 1'></B><KBD style='position:absolute;font:8pt Verdana;margin-left:0pt'><B> </B></KBD><KBD style='position:absolute;text-align:right;font:8pt Verdana;width:425.25pt'><B>8</B></KBD>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0'><FONT style=font-family:Verdana;color:#365F91><B><IMG src=tgs_5.jpg width=156 height=55 alt='Picture 2' title='Picture 2'></B></FONT><FONT style='font:9pt Verdana;color:#4F81BD'><B>2Q2024</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=center style='font:9pt Verdana;margin:0'><FONT style='font-family:Times New Roman'><IMG src=tgs_17.jpg width=505 height=196 alt='Picture 3' title='Picture 3'></FONT>&nbsp;</P>
+<P style='font:9pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>The maturity profile of our financial debt as of June 30, 2024 and giving effect to the issuance of the 2031 Notes for the cancellation of the 2025 Notes:</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-left:-35.45pt'><IMG src=tgs_18.jpg width=647 height=278 alt='Picture 7' title='Picture 7'>&nbsp;</P>
+<P style='font:9pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P style='font:9pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P style='font:10pt Verdana;margin:0;color:#1F497D'><FONT style=font-size:9pt;color:#0070C0><B>Liquidity and capital resources</B></FONT></P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>The net variation in cash and cash equivalents for 2Q2024 and 2Q2023 is broken down as follows:</P>
+<P style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0;margin-left:-14.2pt;margin-right:-0.05pt'> <FONT style='font-family:Times New Roman'><IMG src=tgs_19.jpg width=556 height=113 alt='Picture 2' title='Picture 2'></FONT>&nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:8pt Verdana;margin:0;color:#1F497D'><B><IMG src=tgs_7.jpg width=351 height=59 alt='Picture 1' title='Picture 1'></B><KBD style='position:absolute;font:8pt Verdana;margin-left:0pt'><B> </B></KBD><KBD style='position:absolute;text-align:right;font:8pt Verdana;width:425.25pt'><B>9</B></KBD>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0'><FONT style=font-family:Verdana;color:#365F91><B><IMG src=tgs_5.jpg width=156 height=55 alt='Picture 2' title='Picture 2'></B></FONT><FONT style='font:9pt Verdana;color:#4F81BD'><B>2Q2024</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>As of June 30, 2024 and December 31, 2023, the funds allocation was as follows:</P>
+<P style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P style='font:9pt Verdana;margin:0'><FONT style='font-family:Times New Roman'><IMG src=tgs_20.jpg width=540 height=115 alt='Picture 27' title='Picture 27'></FONT>&nbsp;</P>
+<P style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Arial;margin:0;margin-right:-0.05pt'><FONT style='font:9pt Verdana'>The table below shows a reconciliation of the free cash flows for the 2Q2024 and 2Q2023 periods:</FONT><FONT style='font-family:Times New Roman'> </FONT></P>
+<P align=center style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P style='font:10pt Verdana;margin:0;margin-right:-0.05pt;color:#0070C0'><FONT style='font-family:Times New Roman;color:#000000'><IMG src=tgs_21.jpg width=540 height=152 alt='Picture 3' title='Picture 3'></FONT>&nbsp;</P>
+<P style='font:10pt Verdana;margin:0;margin-right:-0.05pt;color:#0070C0'>&nbsp;</P>
+<P style='font:10pt Verdana;margin:0;margin-right:-0.05pt;color:#0070C0'>&nbsp;</P>
+<P style='font:10pt Verdana;margin:0;margin-right:-0.05pt;color:#0070C0'><B>2Q2024 vs. 2Q2023</B></P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>During 2Q2024, the <FONT style=color:#0070C0><B>cash flow </B><B>provided</B><B> by operating activities</B> </FONT>amounted to Ps. 98,338 million, while in 2Q2023 the cash flow provided by operating activities totaled Ps. 70,866 million. The positive variation is mainly due to higher operating profit. This effect was partially offset by increase in working capital.</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-left:-7.1pt'><FONT style='font-family:Times New Roman'><IMG src=tgs_22.jpg width=575 height=112 alt='Picture 40' title='Picture 40'></FONT>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'><FONT style=color:#0070C0><B>Cash flow used in</B><B> investing activities</B> </FONT>amounted to Ps. 82,839 million in 2Q2024, compared to Ps. 100,632 in 2Q2023. The decrease was mainly due to lower payments for the acquisition of PPE as part of our ongoing investment plan.</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'><FONT style='font-family:Times New Roman'><IMG src=tgs_23.jpg width=574 height=53 alt='Picture 1' title='Picture 1'></FONT>&nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:8pt Verdana;margin:0;color:#1F497D'><B><IMG src=tgs_7.jpg width=351 height=59 alt='Picture 1' title='Picture 1'></B><KBD style='position:absolute;font:8pt Verdana;margin-left:0pt'><B> </B></KBD><KBD style='position:absolute;text-align:right;font:8pt Verdana;width:425.25pt'><B>10</B></KBD>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0'><FONT style=font-family:Verdana;color:#365F91><B><IMG src=tgs_5.jpg width=156 height=55 alt='Picture 2' title='Picture 2'></B></FONT><FONT style='font:9pt Verdana;color:#4F81BD'><B>2Q2024</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=justify style='font:9pt Verdana;margin:0'>Finally, <FONT style=color:#0070C0><B>cash flow </B><B>used in</B><B> </B><B>financing activities</B> </FONT>amounted to Ps. 13,994 million, mainly due to the cancellation of financial loans, net during the 2Q2024. </P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:10pt Verdana;margin:0;color:#0070C0'><FONT style='font-family:Times New Roman;color:#000000'><IMG src=tgs_24.jpg width=540 height=60 alt='Picture 22' title='Picture 22'></FONT>&nbsp;</P>
+<P align=justify style='font:10pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:10pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:10pt Verdana;margin:0;color:#0070C0'><B>2Q2024 earnings videoconference </B></P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>We invite you to participate in the videoconference to discuss the 2Q2024 financial results on <FONT style=color:#0070C0><B>Tuesday August 6, 2024 at 10</B><B>:00 a.m. Eastern Time / </B><B>11</B><B>:00 a.m. Buenos Aires time</B></FONT>. </P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt;color:#000000'>For those interested in participating in our earnings videoconference, there will be a live webcast that you can access at:</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt;color:#0000FF'><FONT style='font-family:Times New Roman;border-bottom:1px solid #0000FF'>https://us02web.zoom.us/webinar/register/WN_kgWCNMKPThuYbs29bCYUWw</FONT></P>
+<P align=justify style='font:10pt Arial;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:10pt Arial;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Verdana;margin:0;margin-right:-0.05pt;color:#0070C0'><B>Forward-Looking Statements</B></P>
+<P align=justify style='font:7pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0'>This press release contains forward-looking statements. These forward-looking statements include, but are not limited to, all statements other than statements of historical facts contained in this press release, including, without limitation, those regarding our future financial position and results of operations, our strategy, plans, objectives, goals and targets, future developments in the markets in which we operate or are seeking to operate or anticipated regulatory changes in the markets in which we operate or intend to operate. In some cases, you can identify forward-looking statements by terminology such as &quot;anticipate,&quot; &quot;believe,&quot; &quot;continue,&quot; &quot;could,&quot; &quot;estimate,&quot; &quot;expect,&quot; &quot;guidance,&quot; &quot;may,&quot;, &quot;should&quot; or &quot;will&quot; or the negative of such terms or other similar expressions or terminology.</P>
+<P align=justify style='font:7pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0'>By their nature, forward-looking statements involve risks and uncertainties because they relate to events and depend on circumstances that may or may not occur in the future. Forward-looking statements speak only as of the date of this press release and are not guarantees of future performance and are based on numerous assumptions. Our actual results of operations, financial condition and the development of events may differ materially from (and be more negative than) those made in, or suggested by, the forward-looking statements. Except as required by law, we do not undertake any obligation to update any forward-looking statements to reflect events or circumstances after the date hereof or to reflect anticipated or unanticipated events or circumstances.</P>
+<P align=justify style='font:7pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0'>Investors should read the section entitled &quot;<FONT style='font-family:Times New Roman'> </FONT>Item 3. Key Information&#8212;D. Risk Factors &quot; and the description of our segments and business sectors in the section entitled &quot;Item 4.B. Information on the Company&#8212;Business Overview&quot;, each in our Annual Report on Form 20-F for the year ended December 31, 2023, filed with the Securities and Exchange Commission (&#8220;SEC&#8221;), for a more complete discussion of the risks and factors that could affect us. </P>
+<P align=justify style='font:7pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0'>Forward-looking statements include, but are not limited to, statements relating to: operating profits, new investments and projects, including their expected development, completion, commercial operations date, expected financial and operating performance (including enterprise value to EBITDA multiples), expected output capacity, anticipated synergies and market dynamics relating to such investments and projects; the Inflation Reduction Act in the U.S (&#8220;IRA&#8221;) and benefits thereunder; our anticipated limited exposure to current market risks, including our position with respect current market risks and the potential impact from foreign exchange rates and interest rates on CAFD; the impact from potential caps on market prices in the net value of our assets; taxes on energy companies in Spain; equity investments; estimates and targets; escalation factors in relation to inflation; net corporate leverage based on CAFD estimates; financial flexibility; the use of non-IFRS measures as a useful predicting tool for investors; and various other factors, including those factors discussed under &#8220;Item 3. Key Information&#8212;D. Risk Factors&#8221; and &#8220;Item 5.A&#8212;Operating Results&#8221;in our Annual Report on Form 20-F for the year ended December 31, 2023 filed with the SEC. </P>
+<P align=justify style='font:7pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0;color:#0070C0'><B>Non-IFRS Financial Measures</B></P>
+<P align=justify style='font:7pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0'>This press release also includes certain non-IFRS financial measures. Non-IFRS financial measures are not measurements of our performance or liquidity under IFRS as issued by IASB and should not be considered alternatives to operating profit or profit for the period or net cash provided by operating activities or any other performance measures derived in accordance with IFRS as issued by the IASB or any other generally accepted accounting principles or as alternatives to cash flow from operating, investing or financing activities. </P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:8pt Verdana;margin:0;color:#1F497D'><B><IMG src=tgs_7.jpg width=351 height=59 alt='Picture 1' title='Picture 1'></B><KBD style='position:absolute;font:8pt Verdana;margin-left:0pt'><B> </B></KBD><KBD style='position:absolute;text-align:right;font:8pt Verdana;width:425.25pt'><B>11</B></KBD>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0'><FONT style=font-family:Verdana;color:#365F91><B><IMG src=tgs_5.jpg width=156 height=55 alt='Picture 2' title='Picture 2'></B></FONT><FONT style='font:9pt Verdana;color:#4F81BD'><B>2Q2024</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=justify style='font:7pt Verdana;margin:0'>We present non-IFRS financial measures because we believe that they and other similar measures are widely used by certain investors, securities analysts and other interested parties as supplemental measures of performance and liquidity. The non-IFRS financial measures may not be comparable to other similarly titled measures employed by other companies and may have limitations as analytical tools. These measures may not be fit for isolated consideration or as a substitute for analysis of our operating results as reported under IFRS as issued by the IASB. Non-IFRS financial measures and ratios are not measurements of our performance or liquidity under IFRS as issued by the IASB. Thus, they should not be considered as alternatives to operating profit, profit for the period, any other performance measures derived in accordance with IFRS as issued by the IASB, any other generally accepted accounting principles or as alternatives to cash flow from operating, investing or financing activities.</P>
+<P align=justify style='font:8pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0'>Rounding: Certain figures included in this press release have been rounded for ease of presentation. Percentage figures included in this press release have not, in all cases, been calculated on the basis of such rounded figures but on the basis of such amounts prior to rounding. For this reason, percentage amounts in this press release may vary from those obtained by performing the same calculations using the figures in our Financial Statements. Certain numerical figures shown as totals in some tables may not be an arithmetic aggregation of the figures that preceded them due to rounding.</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:8pt Verdana;margin:0;color:#1F497D'><B><IMG src=tgs_7.jpg width=351 height=59 alt='Picture 1' title='Picture 1'></B><KBD style='position:absolute;font:8pt Verdana;margin-left:0pt'><B> </B></KBD><KBD style='position:absolute;text-align:right;font:8pt Verdana;width:425.25pt'><B>12</B></KBD>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0'><FONT style=font-family:Verdana;color:#365F91><B><IMG src=tgs_5.jpg width=156 height=55 alt='Picture 2' title='Picture 2'></B></FONT><FONT style='font:9pt Verdana;color:#4F81BD'><B>2Q2024</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:9pt Verdana;margin:0'><FONT style='font-family:Times New Roman'>  </FONT><B>   </B>&nbsp;</P>
+<P style='font:9pt Verdana;margin:0;margin-left:14.2pt'>&nbsp;</P>
+<P style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0;margin-left:-7.1pt'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0;margin-left:-14.2pt'><FONT style='font-family:Times New Roman'><IMG src=tgs_25.jpg width=588 height=309 alt='Picture 1' title='Picture 1'></FONT>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0'><B> </B>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0;margin-left:-7.1pt'>&nbsp;</P>
+<P align=center style='font:10pt Arial;margin:0'>&nbsp;</P>
+<P align=center style='font:10pt Arial;margin:0'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0;margin-left:-14.2pt'><FONT style='font-family:Times New Roman'><IMG src=tgs_26.jpg width=581 height=280 alt='Picture 1' title='Picture 1'></FONT>&nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:8pt Verdana;margin:0;color:#1F497D'><B><IMG src=tgs_7.jpg width=351 height=59 alt='Picture 1' title='Picture 1'></B><KBD style='position:absolute;font:8pt Verdana;margin-left:0pt'><B> </B></KBD><KBD style='position:absolute;text-align:right;font:8pt Verdana;width:425.25pt'><B>13</B></KBD>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0'><FONT style=font-family:Verdana;color:#365F91><B><IMG src=tgs_5.jpg width=156 height=55 alt='Picture 2' title='Picture 2'></B></FONT><FONT style='font:9pt Verdana;color:#4F81BD'><B>2Q2024</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=center style='font:9pt Verdana;margin:0;margin-left:-7.1pt'><FONT style='font-family:Times New Roman'><IMG src=tgs_27.jpg width=540 height=655 alt='Picture 1' title='Picture 1'></FONT>&nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:8pt Verdana;margin:0;color:#1F497D'><B><IMG src=tgs_7.jpg width=351 height=59 alt='Picture 1' title='Picture 1'></B><KBD style='position:absolute;font:8pt Verdana;margin-left:0pt'><B> </B></KBD><KBD style='position:absolute;text-align:right;font:8pt Verdana;width:425.25pt'><B>14</B></KBD>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0'><FONT style=font-family:Verdana;color:#365F91><B><IMG src=tgs_5.jpg width=156 height=55 alt='Picture 2' title='Picture 2'></B></FONT><FONT style='font:9pt Verdana;color:#4F81BD'><B>2Q2024</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=center style='font:9pt Verdana;margin:0;margin-left:14.2pt'><FONT style='font-family:Times New Roman'><IMG src=tgs_28.jpg width=453 height=785 alt='Picture 3' title='Picture 3'></FONT>&nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:8pt Verdana;margin:0;color:#1F497D'><B><IMG src=tgs_7.jpg width=351 height=59 alt='Picture 1' title='Picture 1'></B><KBD style='position:absolute;font:8pt Verdana;margin-left:0pt'><B> </B></KBD><KBD style='position:absolute;text-align:right;font:8pt Verdana;width:425.25pt'><B>15</B></KBD>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0'><FONT style=font-family:Verdana;color:#365F91><B><IMG src=tgs_5.jpg width=156 height=55 alt='Picture 2' title='Picture 2'></B></FONT><FONT style='font:9pt Verdana;color:#4F81BD'><B>2Q2024</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=justify style='font:9pt Verdana;margin:0'><FONT style='font-family:Times New Roman'><IMG src=tgs_29.jpg width=540 height=728 alt='Picture 5' title='Picture 5'></FONT>&nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:8pt Verdana;margin:0;color:#1F497D'><B><IMG src=tgs_7.jpg width=351 height=59 alt='Picture 1' title='Picture 1'></B><KBD style='position:absolute;font:8pt Verdana;margin-left:0pt'><B> </B></KBD><KBD style='position:absolute;text-align:right;font:8pt Verdana;width:425.25pt'><B>16</B></KBD>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=center style='font:11pt Courier New;margin:0;text-indent:-17.85pt;margin-left:17.85pt'><B>SIGNATURES</B></P>
+<P align=center style='font:11pt Courier New;margin:0;text-indent:-17.85pt;margin-left:17.85pt'>&nbsp;</P>
+<P style='font:11pt Courier New;margin:0;text-indent:-17.85pt;margin-left:17.85pt'>&nbsp;</P>
+<P align=justify style='font:11pt Courier New;margin:0'>Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</P>
+<P align=justify style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=right style='font:11pt Courier New;margin:0'>Transportadora de Gas del Sur S.A.</P>
+<P align=right style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P align=right style='font:11pt Courier New;margin:0'>&nbsp;</P>
+<P style='font:11pt Courier New;margin:0;text-indent:-17.85pt;margin-left:17.85pt'>&nbsp;</P>
+<TABLE style=margin-left:auto;border-collapse:collapse><TR><TD valign=top style=width:27.7pt;padding-left:3.5pt;padding-right:3.5pt><P style='font:10pt Courier New;margin:0'><FONT style=font-size:11pt><B>By:</B></FONT></P>
+</TD><TD colspan=3 valign=top style='width:250.1pt;padding-left:3.5pt;padding-right:3.5pt;border-bottom:0.75pt solid #000000'><P align=center style='font:10pt Courier New;margin:0'><FONT style=font-size:11pt>/s/Alejandro M. Basso</FONT></P>
+</TD></TR>
+<TR><TD valign=top style=width:44.95pt;padding-left:3.5pt;padding-right:3.5pt><P style='font:10pt Courier New;margin:0'><FONT style=font-size:11pt>Name:</FONT></P>
+</TD><TD valign=top style=width:202.85pt;padding-left:3.5pt;padding-right:3.5pt><P style='font:10pt Courier New;margin:0'><FONT style=font-size:11pt>Alejandro M. Basso</FONT></P>
+</TD></TR>
+<TR><TD valign=top style=width:44.95pt;padding-left:3.5pt;padding-right:3.5pt><P style='font:10pt Courier New;margin:0;margin-right:-1.95pt'><FONT style=font-size:11pt>Title:</FONT></P>
+</TD><TD valign=top style=width:202.85pt;padding-left:3.5pt;padding-right:3.5pt><P align=justify style='font:10pt Courier New;margin:0'><FONT style=font-size:11pt><B>Chief Financial Officer and Services Vice President</B></FONT></P>
+</TD></TR>
+</TABLE>
+<P style='font:11pt Courier New;margin:0;text-indent:-17.85pt;margin-left:17.85pt'>&nbsp;</P>
+<P style='font:11pt Courier New;margin:0;text-indent:-17.85pt;margin-left:17.85pt'>&nbsp;</P>
+<P style='font:11pt Courier New;margin:0;text-indent:-17.85pt;margin-left:17.85pt'>&nbsp;</P>
+<P style='font:11pt Courier New;margin:0;text-indent:-17.85pt;margin-left:17.85pt'>&nbsp;</P>
+<P style='font:11pt Courier New;margin:0;text-indent:-17.85pt;margin-left:17.85pt'>&nbsp;</P>
+<TABLE style=margin-left:auto;border-collapse:collapse><TR><TD valign=top style=width:35.4pt;padding-left:3.5pt;padding-right:3.5pt><P style='font:10pt Courier New;margin:0'><FONT style=font-size:11pt><B>By:</B></FONT></P>
+</TD><TD colspan=2 valign=top style='width:244.85pt;padding-left:3.5pt;padding-right:3.5pt;border-bottom:0.75pt solid #000000'><P align=center style='font:10pt Courier New;margin:0'><FONT style=font-size:11pt>/s/Hern&#225;n D. Flores G&#243;mez</FONT></P>
+</TD></TR>
+<TR><TD valign=top style=width:42.55pt;padding-left:3.5pt;padding-right:3.5pt><P style='font:10pt Courier New;margin:0'><FONT style=font-size:11pt>Name:</FONT></P>
+</TD><TD colspan=2 valign=top style=width:203.05pt;padding-left:3.5pt;padding-right:3.5pt><P style='font:10pt Courier New;margin:0'><FONT style=font-size:11pt>Hern&#225;n Diego Flores G&#243;mez</FONT></P>
+</TD></TR>
+<TR><TD valign=top style=width:42.55pt;padding-left:3.5pt;padding-right:3.5pt><P style='font:10pt Courier New;margin:0;margin-right:-9.25pt'><FONT style=font-size:11pt>Title:</FONT></P>
+</TD><TD colspan=2 valign=top style=width:203.05pt;padding-left:3.5pt;padding-right:3.5pt><P style='font:10pt Courier New;margin:0'><FONT style=font-size:11pt><B>Legal Affairs Vice President</B></FONT></P>
+</TD></TR>
+</TABLE>
+<P style='font:11pt Arial;margin:0;margin-right:2.55pt'>&nbsp;</P>
+<P style='font:11pt Arial;margin:0;margin-right:2.55pt'>&nbsp;</P>
+<P style='font:11pt Arial;margin:0'>&nbsp;</P>
+<P align=justify style='font:11pt Courier New;margin:0'>Date: August 5, 2024.</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:8pt Verdana;margin:0;color:#1F497D'><KBD style='position:absolute;font:8pt Verdana;margin-left:0pt'><B> </B></KBD><KBD style='position:absolute;text-align:right;font:8pt Verdana;width:425.25pt'><B>17</B></KBD>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>&nbsp;</P>
+</DIV>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
