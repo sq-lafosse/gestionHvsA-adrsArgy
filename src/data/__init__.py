@@ -26,6 +26,7 @@ from .loader import run_historical, run_live_month
 from .scraper_al30d import get_sovereign_bond
 from .scraper_ccl import get_ccl
 from .scraper_macro import get_all_macro, get_embi, get_ipc, get_reservas, get_tc_oficial
+from .news_downloader import download_news_for_period
 from .validator import ValidationReport, validate_all, validate_macro, validate_prices
 
 __all__ = [
@@ -54,6 +55,8 @@ __all__ = [
     "get_embi",
     "get_reservas",
     "get_tc_oficial",
+    # news downloader
+    "download_news_for_period",
     # validator
     "ValidationReport",
     "validate_prices",

@@ -1,0 +1,155 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>d941588d6k.htm
+<DESCRIPTION>6-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>6-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE" STYLE="line-height:Normal">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+<DIV STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;
+</DIV><DIV STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</DIV> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE
+COMMISSION </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center><DIV STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</DIV></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM <FONT STYLE="white-space:nowrap">6-K</FONT></B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center><DIV STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</DIV></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>REPORT OF FOREIGN PRIVATE ISSUER </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>PURSUANT TO RULE <FONT STYLE="white-space:nowrap">13A-16</FONT> OR <FONT STYLE="white-space:nowrap">15D-16</FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>UNDER THE SECURITIES EXCHANGE ACT OF 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>For the month of June 2025 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Commission File Number: <FONT STYLE="white-space:nowrap">001-12102</FONT></B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center><DIV STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</DIV></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>YPF Sociedad An&oacute;nima </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center><DIV STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</DIV></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Macacha G&uuml;emes 515 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>C1106BKK Buenos Aires, Argentina </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Address of principal executive office) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center><DIV STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</DIV></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Indicate by check mark whether the registrant files or will file annual reports under cover of Form
+<FONT STYLE="white-space:nowrap">20-F</FONT> or Form <FONT STYLE="white-space:nowrap">40-F:</FONT></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Form
+<FONT STYLE="white-space:nowrap">20-F&#8194;</FONT> &#9746;&#8195;&#8195;&#8195;Form <FONT STYLE="white-space:nowrap">40-F&#8194;&#9744;</FONT></P>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;
+</DIV><DIV STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</DIV>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>YPF Sociedad An&oacute;nima </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>TABLE OF CONTENT </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>ITEM&#8201;1</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><B></B>Translation of letter to the Argentine Securities Commission dated June&nbsp;30, 2025.<B>
+</B></P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g941588g0701080239536.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right">City of Buenos Aires, June&nbsp;30, 2025 </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>COMISI&Oacute;N NACIONAL DE VALORES (&#147;CNV&#148;) </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">25
+de Mayo 175 </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">City of Buenos Aires </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>BOLSAS Y MERCADOS
+ARGENTINOS S.A. (&#147;ByMA&#148;) </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Sarmiento 299 </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">City
+of Buenos Aires </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>A3 MERCADOS S.A. (&#147;A3 Mercados&#148;) </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Maipu 1210 </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">City of Buenos Aires </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>PRESENT </U></B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><U>Ref</U>: Relevant Fact
+&#150; Judicial Proceeding in New York. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The purpose hereof is to comply with the requirements set forth in Article 2, Chapter I, Title XII of the Rules
+of the CNV (T.O. 2013, as amended and supplemented), and the corresponding ByMA and A3 rules. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As previously disclosed, in our Relevant Fact (&#147;Hecho
+Relevante&#148;) of April&nbsp;23, 2024 and our Financial Statements, Plaintiffs in the proceedings brought by Petersen Energ&iacute;a Inversora S.A.U., Petersen Energ&iacute;a S.A.U., Eton Park Capital Management, L.P., Eton Park Master Fund, LTD.
+and Eton Park Fund, L.P. (collectively, &#147;Plaintiffs&#148;) against the Argentine Republic (the &#147;Republic&#148;) and YPF S.A. (&#147;YPF&#148;), had filed a turnover motion against the Republic, in connection with the enforcement of the
+judgment entered by the District Court in New York on September&nbsp;15, 2023, asking the District Court to require the Republic to turnover to Plaintiffs its Class&nbsp;D shares of YPF. On June&nbsp;30, 2025, the District Court granted
+Plaintiffs&#146; turnover motion, ordering the Republic to (i)&nbsp;transfer its Class&nbsp;D shares of YPF to a global custody account at the Bank of New York Mellon (&#147;BNYM&#148;) in New York within 14 days of the date of the order; and
+(ii)&nbsp;instruct BNYM to initiate a transfer of the Republic&#146;s ownership interests in its Class&nbsp;D shares of YPF to Plaintiffs or their designees within one business day of the date on which the shares are deposited into the account. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In addition, on the same date, in the proceedings brought by Bainbridge Fund Ltd. against the Republic, the District Court partially granted Bainbridge&#146;s
+turnover motion, ordering the Republic to (i)&nbsp;transfer its Class&nbsp;A and Class&nbsp;D shares of YPF to a global custody account at BNYM in New York within 14 days from the date of the order; and (ii)&nbsp;instruct BNYM to initiate a transfer
+of the Republic&acute;s ownership interest in its Class&nbsp;A and Class&nbsp;D shares of YPF to Bainbridge or its designees within one business day of the date on which the shares are deposited into the account. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">YPF is not a party to either of the turnover proceedings referenced above. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The District Court&#146;s decisions on the turnover motions may be appealed by the Republic in accordance with applicable procedural rules. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Sincerely yours, </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Margarita Chun </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Market Relations Manager </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">YPF S.A.
+</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="44%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="5%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><B>YPF Sociedad An&oacute;nima</B></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">Date: June&nbsp;30, 2025</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">By:</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">/s/ Margarita Chun</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Name:</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Margarita Chun</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Title:</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Market Relations Officer</P></TD></TR>
+</TABLE>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>

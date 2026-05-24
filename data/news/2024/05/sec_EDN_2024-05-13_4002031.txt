@@ -1,0 +1,499 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>edn20240510_6k3.htm
+<DESCRIPTION>6-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<P style="TEXT-ALIGN: center; MARGIN: 0in 0in 0pt"><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman"><BR>UNITED STATES</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">SECURITIES AND EXCHANGE COMMISSION</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">Washington, D.C. 20549</FONT></P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt"><FONT lang=EN-US style="FONT-SIZE: 13.5pt; LINE-HEIGHT: normal" color=black face="times new roman"></FONT>&nbsp;</P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">FORM 6-K</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 13.5pt; LINE-HEIGHT: normal" color=black face="times new roman"></FONT>&nbsp;</P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt"><FONT lang=EN-US style="FONT-SIZE: 13.5pt; LINE-HEIGHT: normal" color=black face="times new roman"></FONT>&nbsp;</P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">REPORT OF FOREIGN PRIVATE ISSUER</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">PURSUANT TO RULE 13a-16 OR 15d-16 UNDER</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">THE SECURITIES EXCHANGE ACT OF 1934</FONT></P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt"><FONT lang=EN-US style="FONT-SIZE: 13.5pt; LINE-HEIGHT: normal" color=black face="times new roman"></FONT>&nbsp;</P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">For the month of&nbsp;<FONT style="FONT-SIZE: 10pt">May</FONT>, 2024</FONT></P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt"><FONT lang=EN-US style="FONT-SIZE: 13.5pt; LINE-HEIGHT: normal" color=black face="times new roman"></FONT>&nbsp;</P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=PT-BR style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">EMPRESA DISTRIBUIDORA Y COMERCIALIZADORA NORTE S.A. (EDENOR)</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">(DISTRIBUTION AND MARKETING COMPANY OF THE NORTH )</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 13.5pt; LINE-HEIGHT: normal" color=black face="times new roman"></FONT>&nbsp;</P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">(Translation of Registrant's Name Into English)</FONT></P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt"><FONT lang=EN-US style="FONT-SIZE: 13.5pt; LINE-HEIGHT: normal" color=black face="times new roman"></FONT>&nbsp;</P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">Argentina</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 13.5pt; LINE-HEIGHT: normal" color=black face="times new roman"></FONT>&nbsp;</P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">(Jurisdiction of incorporation or organization)</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 13.5pt; LINE-HEIGHT: normal" color=black face="times new roman"></FONT>&nbsp;</P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt"><FONT lang=EN-US style="FONT-SIZE: 13.5pt; LINE-HEIGHT: normal" color=black face="times new roman"></FONT>&nbsp;</P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">Av. del Libertador 6363,</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">12th Floor,</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">City of Buenos Aires (A1428ARG),</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">Tel: 54-11-4346-5000</FONT></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 13.5pt; LINE-HEIGHT: normal" color=black face="times new roman"></FONT>&nbsp;</P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">(Address of principal executive offices)</FONT></P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt"><FONT lang=EN-US style="FONT-SIZE: 13.5pt; LINE-HEIGHT: normal" color=black face="times new roman"></FONT>&nbsp;</P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt; TEXT-INDENT: 0.75in"><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">(Indicate by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F.)</FONT></P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt"><FONT lang=EN-US style="FONT-SIZE: 13.5pt; LINE-HEIGHT: normal" color=black face="times new roman"></FONT>&nbsp;</P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt; TEXT-INDENT: 0.75in"><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">Form 20-F&nbsp;</FONT><U><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">&nbsp;X&nbsp;</FONT></U><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">&nbsp;&nbsp;&nbsp;&nbsp;Form 40-F&nbsp;</FONT><U><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></U></P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt"><FONT lang=EN-US style="FONT-SIZE: 13.5pt; LINE-HEIGHT: normal" color=black face="times new roman"></FONT>&nbsp;</P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt; TEXT-INDENT: 0.75in"><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">(Indicate by check mark whether the registrant by furnishing the information contained in this form is also thereby furnishing the information to the Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934.)</FONT></P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt"><FONT lang=EN-US style="FONT-SIZE: 13.5pt; LINE-HEIGHT: normal" color=black face="times new roman"></FONT>&nbsp;</P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt; TEXT-INDENT: 0.75in"><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">Yes&nbsp;</FONT><U><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></U><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">&nbsp;&nbsp;No&nbsp;</FONT><U><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">&nbsp;X&nbsp;&nbsp;</FONT></U></P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt"><FONT lang=EN-US style="FONT-SIZE: 13.5pt; LINE-HEIGHT: normal" color=black face="times new roman"></FONT>&nbsp;</P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt; TEXT-INDENT: 0.75in"><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">(If "Yes" is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b): 82-</FONT><U><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></U><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">.)</FONT></P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt; TEXT-INDENT: 0.75in">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_001.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_002.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_003.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_004.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 5 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_005.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 6 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_006.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 7 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_007.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 8 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_008.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 9 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_009.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 10 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_010.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 11 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_011.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 12 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_012.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 13 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_013.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 14 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_014.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 15 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_015.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 16 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"><IMG SRC="edn202405106k3_016.jpg" ALT="">&nbsp;</P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 17 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_017.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 18 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_018.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 19 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_019.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 20 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_020.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 21 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"><IMG SRC="edn202405106k3_021.jpg" ALT="">&nbsp;</P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 22 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_022.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 23 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"><IMG SRC="edn202405106k3_023.jpg" ALT="">&nbsp;</P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 24 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"><IMG SRC="edn202405106k3_024.jpg" ALT="">&nbsp;</P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 25 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_025.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 26 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_026.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 27 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_027.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 28 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_028.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 29 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_029.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 30 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_030.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 31 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_031.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 32 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_032.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 33 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0">&nbsp;<IMG SRC="edn202405106k3_033.jpg" ALT=""></P>
+
+<P STYLE="text-align: center; margin-top: 0; margin-bottom: 0"></P>
+
+
+<!-- Field: Page; Sequence: 34 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Gray 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><B><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">SIGNATURES</FONT></B></P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><STRONG><FONT size=2></FONT></STRONG>&nbsp;</P>
+
+<P style="BACKGROUND: white; TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" align=center><STRONG><FONT size=2></FONT></STRONG>&nbsp;</P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt; TEXT-INDENT: 0.75in"><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" color=black face="times new roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</FONT></P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt"><FONT lang=EN-US style="FONT-SIZE: 13.5pt; LINE-HEIGHT: normal" color=black face="times new roman"></FONT>&nbsp;</P>
+
+<DIV align=center>
+
+<TABLE style="WIDTH: 100%" cellSpacing=0 cellPadding=0 border=0>
+
+
+
+<TR>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="48%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT lang=EN-US style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman"></FONT>&nbsp;</P></TD>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="52%" colSpan=2>
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman">Empresa Distribuidora y Comercializadora Norte S.A.</FONT></P></TD></TR>
+
+<TR>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="48%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman"></FONT>&nbsp;</P></TD>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="2%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman"></FONT>&nbsp;</P></TD>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="50%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman"></FONT>&nbsp;</P></TD></TR>
+
+<TR>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="48%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman"></FONT>&nbsp;</P></TD>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="2%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman"></FONT>&nbsp;</P></TD>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="50%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman"></FONT>&nbsp;</P></TD></TR>
+
+<TR>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="48%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman"></FONT>&nbsp;</P></TD>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="2%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman">By:</FONT></P></TD>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="50%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman">&nbsp;</FONT><U><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman">/s/ Germ&aacute;n Ranftl</FONT></U></P></TD></TR>
+
+<TR>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="50%" colSpan=2>
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman"></FONT>&nbsp;</P></TD>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="50%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman">Germ&aacute;n Ranftl</FONT></P></TD></TR>
+
+<TR>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="50%" colSpan=2>
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman"></FONT>&nbsp;</P></TD>
+
+   <TD style="BACKGROUND: white; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" width="50%">
+
+   <P style="MARGIN: 0in 0in 0pt"><FONT style="FONT-SIZE: 10pt; LINE-HEIGHT: normal" face="times new roman">Chief Financial Officer</FONT></P></TD></TR></TABLE></DIV>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt"><FONT lang=PT-BR style="FONT-SIZE: 13.5pt; LINE-HEIGHT: normal" color=black face="times new roman"></FONT>&nbsp;</P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt">&nbsp;</P>
+
+<P style="BACKGROUND: white; MARGIN: 0in 0in 0pt"><FONT STYLE="font-family: times new roman; font-size: 10pt; color: black; line-height: normal">Date:
+May 10, 2024</FONT></P>
+
+</BODY>
+
+</HTML>
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,278 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>cepu20250511_6k.htm
+<DESCRIPTION>6-K
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<HR SIZE="4" NOSHADE ALIGN="LEFT" STYLE="width: 100%; color: black">
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Washington, D.C. 20549</B></P>
+
+<HR SIZE="2" NOSHADE ALIGN="CENTER" STYLE="width: 21%; color: black">
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>FORM 6-K</B></P>
+
+<HR SIZE="2" NOSHADE ALIGN="CENTER" STYLE="width: 21%; color: black">
+
+<P STYLE="font: 11pt/115% Times New Roman, Times, Serif; margin: 0; text-align: center">Report of Foreign Private Issuer<BR>
+Pursuant to Rule 27a-16 or 15d-16<BR>
+under the Securities Exchange Act of 1934</P>
+
+<P STYLE="font: 11pt/115% Times New Roman, Times, Serif; margin: 0 0 10pt; text-align: center"><B>For the month of May, 2025</B></P>
+
+<P STYLE="font: 11pt/115% Times New Roman, Times, Serif; margin: 0 0 10pt; text-align: center"><B>Commission File Number: 001-38376</B></P>
+
+<HR SIZE="2" NOSHADE ALIGN="CENTER" STYLE="width: 37%; color: black">
+
+<P STYLE="font: 24pt Times New Roman, Times, Serif; margin: 2pt 0 0; text-align: center"><B>Central Puerto S.A. </B></P>
+
+<P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>(Exact name of registrant as specified in its charter)
+</B></P>
+
+<P STYLE="font: 6pt/2pt Times New Roman, Times, Serif; margin: 0 221.75pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 3pt 0 0; text-align: center"><B>Port Central S.A. </B></P>
+
+<P STYLE="font: 7.5pt/115% Times New Roman, Times, Serif; margin: 0 0 10pt; text-align: center"><B>(Translation of registrant&rsquo;s
+name into English)</B></P>
+
+<HR SIZE="2" NOSHADE ALIGN="CENTER" STYLE="width: 36%; color: black">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Avenida Thomas Edison 2701 </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>C1104BAB Buenos Aires </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Republic of Argentina </B></P>
+
+<P STYLE="font: 10pt/115% Times New Roman, Times, Serif; margin: 0 0 10pt; text-align: center"><B>+54 (11) 4317-5000</B></P>
+
+<P STYLE="font: 10pt/115% Times New Roman, Times, Serif; margin: 0 0 10pt; text-align: center">(Address of principal executive offices)</P>
+
+<HR SIZE="2" NOSHADE ALIGN="CENTER" STYLE="width: 21%; color: black">
+
+<P STYLE="text-align: center; font: 10pt/115% Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 10pt">Indicate by check mark whether the registrant files or
+will file annual reports under cover Form 20-F or Form 40-F.&nbsp;</P>
+
+<P STYLE="font: 11pt/115% Calibri, Helvetica, Sans-Serif; margin: 0 0 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Form
+20-F </FONT>[X] <FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Form 40-F </FONT>[_]</P>
+
+<P STYLE="text-align: center; font: 10pt/115% Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 10pt">Indicate by check mark if the registrant is submitting
+the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1):</P>
+
+<P STYLE="font: 11pt/115% Calibri, Helvetica, Sans-Serif; margin: 0 0 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Yes
+</FONT>[_] <FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">No </FONT>[X]</P>
+
+<P STYLE="text-align: center; font: 10pt/115% Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 10pt">Indicate by check mark if the registrant is submitting
+the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7):</P>
+
+<P STYLE="font: 11pt/115% Calibri, Helvetica, Sans-Serif; margin: 0 0 10pt; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Yes
+</FONT>[_] <FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">No </FONT>[X]</P>
+
+<HR SIZE="4" NOSHADE ALIGN="LEFT" STYLE="width: 100%; color: black">
+
+<P STYLE="font: 9pt Verdana, Helvetica, Sans-Serif; margin: 0 0 0 76.5pt; text-align: center; text-indent: -76.5pt"><B>&nbsp;</B></P>
+
+
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 9pt Sans-Serif; margin: 0; color: Red"><B></B></P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0; text-indent: 210pt"><IMG SRC="cepu202505116k_001.jpg" ALT="">&nbsp;</P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0; text-indent: 210pt">&nbsp;</P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0; text-indent: 210pt"><B>BUENOS AIRES, May 9, 2025</B></P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0; text-indent: 210pt"><B>&nbsp;</B></P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: left; text-indent: 0in"><FONT STYLE="font-weight: normal">COMISI&Oacute;N
+NACIONAL DE VALORES (&#8220;CNV&#8221;)</FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Deputy Management of Issuing Companies</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify">25 de Mayo 175</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify">City of Buenos Aires</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify">To Management of Issuing Companies</P>
+
+<P STYLE="font: bold 12pt Times New Roman, Times, Serif; margin: 0; text-align: left; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 12pt/115% Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: left; text-indent: 0in"><FONT STYLE="font-weight: normal">BOLSAS
+Y MERCADOS ARGENTINOS S.A. (&#8220;BYMA&#8221;)</FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Sarmiento 299</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify">City of Buenos Aires</P>
+
+<P STYLE="font: bold 12pt Times New Roman, Times, Serif; margin: 0; text-align: left; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: left; text-indent: 0in"><FONT STYLE="font-weight: normal">MERCADO
+ABIERTO ELECTR&Oacute;NICO (&#8220;MAE&#8221;)</FONT></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">San Martin 344</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: justify">City of Buenos Aires</P>
+
+<P STYLE="font: bold 12pt Times New Roman, Times, Serif; margin: 0; text-align: left; text-indent: 0in">&nbsp;</P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0; text-indent: 210pt"><B>Subject: Material News</B></P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0; text-indent: 210pt">&nbsp;</P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0; text-indent: 210pt">&nbsp;</P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0">Dear Mr./Mrs.,</P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 96pt">It is a pleasure to contact you
+in my capacity as Head of Market Relations of Central Puerto S.A. (the &#8220;Company&#8221;) so as to inform that the Company&#8217;s
+Board of Directors decided the following at its meeting held today: (i) to appoint Osvaldo Arturo Reca as President of the Company and
+Miguel Dodero as Vice President; and (ii) to appoint Tom&aacute;s White, Jos&eacute; Luis Morea and Jorge Villegas as Members of the Supervisory
+Committee; and Jos&eacute; Manuel Ort&iacute;z and Mario Elizalde as Deputy Members. In addition, the Board of Directors approved the
+resignation submitted by Deputy Director Rub&eacute;n Omar L&oacute;pez.</P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0; text-indent: 96pt">&nbsp;</P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0; text-indent: 96pt">Yours sincerely,</P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0; text-indent: 96pt">&nbsp;</P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0; text-indent: 96pt">&nbsp;</P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 96pt">Leonardo Marinaro</P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 96pt">Head of Market Relations</P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 96pt">Central Puerto S.A.</P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0; text-indent: 96pt">&nbsp;</P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0; text-indent: 210pt">&nbsp;</P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0 0 0 148.85pt; text-align: center; text-indent: -170.15pt"><B>&nbsp;</B></P>
+
+
+
+<P STYLE="font: 9pt Sans-Serif; margin: 0; color: Red"><B></B></P>
+
+<P STYLE="font: 9pt Verdana, Helvetica, Sans-Serif; margin: 0 0 0 76.5pt; text-align: center; text-indent: -76.5pt"><B>&nbsp;</B></P>
+
+<P STYLE="font: 9pt Verdana, Helvetica, Sans-Serif; margin: 0 0 0 0.5in; text-indent: -0.5in"><B>&nbsp;</B></P>
+
+
+
+<P STYLE="font: 10pt/107% Times New Roman, Times, Serif; margin: 0 0 8pt; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt/107% Times New Roman, Times, Serif; margin: 0 0 8pt"><B>&nbsp;</B></P>
+
+<P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0; text-align: center">Avda. Tom&aacute;s A. Edison 2701 &ndash; C1104BAB &ndash;
+City of Buenos Aires &ndash; Argentina</P>
+
+<P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0; text-align: center">Telephone (54 11) 4317 5000 &ndash; Fax (54 11) 4317
+5099</P>
+<P STYLE="font: 10pt/107% Times New Roman, Times, Serif; margin: 0 0 8pt"><B></B></P>
+
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt/107% Times New Roman, Times, Serif; margin: 0 0 8pt; text-align: center"><B>SIGNATURES</B></P>
+
+<P STYLE="font: 10pt/115% Times New Roman, Times, Serif; margin: 12pt 0 0">Pursuant to the requirements of the Securities Exchange Act
+of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</P>
+
+<P STYLE="font: 11pt/115% Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 11pt Calibri, Helvetica, Sans-Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="width: 45%; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; width: 1%; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="width: 4%; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="width: 4%; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; width: 1%; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="width: 44%; line-height: 115%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="3" STYLE="line-height: 115%">&nbsp;</TD>
+    <TD STYLE="line-height: 115%">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="line-height: 115%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%"><B>Central Puerto S.A.</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="line-height: 115%">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="line-height: 115%">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="line-height: 115%">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="line-height: 115%">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; line-height: 115%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Date: May 10, 2025</FONT></TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="line-height: 115%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">By:</FONT></TD>
+    <TD STYLE="line-height: 115%">&nbsp;</TD>
+    <TD>
+    <P STYLE="font: 10pt/115% Times New Roman, Times, Serif; margin: 0; border-bottom: black 0.5pt solid">/s/ <FONT STYLE="font-variant: small-caps">Leonardo
+    Marinaro</FONT></P></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="line-height: 115%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Name:</FONT></TD>
+    <TD STYLE="line-height: 115%">&nbsp;</TD>
+    <TD STYLE="line-height: 115%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Leonardo Marinaro</FONT></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; line-height: 115%">&nbsp;</TD>
+    <TD STYLE="line-height: 115%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Title:</FONT></TD>
+    <TD STYLE="line-height: 115%">&nbsp;</TD>
+    <TD STYLE="line-height: 115%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 115%">Attorney-in-Fact</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 12pt/115% Calibri, Helvetica, Sans-Serif; margin: 0 0 10pt">&nbsp;</P>
+
+<P STYLE="font: 12pt/107% Calibri, Helvetica, Sans-Serif; margin: 0 0 8pt">&nbsp;</P>
+
+
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

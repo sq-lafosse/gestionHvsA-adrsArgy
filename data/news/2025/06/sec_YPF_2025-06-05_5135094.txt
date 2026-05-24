@@ -1,0 +1,187 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>d18563d6k.htm
+<DESCRIPTION>6-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>6-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE" STYLE="line-height:Normal">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+<DIV STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;
+</DIV><DIV STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</DIV> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE
+COMMISSION </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center><DIV STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</DIV></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM <FONT STYLE="white-space:nowrap">6-K</FONT></B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center><DIV STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</DIV></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>REPORT OF FOREIGN PRIVATE ISSUER </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>PURSUANT TO RULE <FONT STYLE="white-space:nowrap">13A-16</FONT> OR <FONT STYLE="white-space:nowrap">15D-16</FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>UNDER THE SECURITIES EXCHANGE ACT OF 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>For the month of June 2025 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Commission File Number: <FONT STYLE="white-space:nowrap">001-12102</FONT></B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center><DIV STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</DIV></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>YPF Sociedad An&oacute;nima </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center><DIV STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</DIV></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Macacha G&uuml;emes 515 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>C1106BKK Buenos Aires, Argentina </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Address of principal executive office) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center><DIV STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</DIV></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Indicate by check mark whether the registrant files or will file annual reports under cover of Form
+<FONT STYLE="white-space:nowrap">20-F</FONT> or Form <FONT STYLE="white-space:nowrap">40-F:</FONT></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Form
+<FONT STYLE="white-space:nowrap">20-F&#8194;&#9746;&#8195;&#8195;&#8195;Form</FONT> <FONT STYLE="white-space:nowrap">40-F&#8194;&#9744;</FONT></P>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;
+</DIV><DIV STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</DIV>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>YPF Sociedad An&oacute;nima </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>TABLE OF CONTENT </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify"><B>ITEM
+1</B><B>&#8195;</B>Translation of letter to the Argentine Securities Commission dated June&nbsp;4, 2025. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="35%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="31%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt ; margin-bottom:0pt" ALIGN="justify">
+
+
+<IMG SRC="g18563g0605005639914.jpg" ALT="LOGO">
+</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">City of Buenos Aires, June&nbsp;4, 2025</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">COMISI&Oacute;N NACIONAL DE VALORES (&#147;<B>CNV</B>&#148;) </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">25 de Mayo 175 </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">City of Buenos
+Aires </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">BOLSAS Y MERCADOS ARGENTINOS S.A. (&#147;<B>ByMA</B>&#148;) </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Sarmiento 299 </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">City of Buenos
+Aires </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">A3 MERCADOS S.A. (&#147;<B>A3 Mercados</B>&#148;) </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Maipu 1210 </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">City of Buenos Aires
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Re</B>.: Relevant Information - Acquisition of shareholding in </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right">OLEODUCTO LOMA CAMPANA - LAGO PELLEGRINI S.A. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Ladies and Gentleman, </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" ALIGN="justify">We are writing to you in compliance with the provisions of Title II, Chapter II, Article 4(e) of the CNV Rules and the
+corresponding regulations of ByMA and A3 Mercados. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" ALIGN="justify">In this regard, we inform you that, on this date, YPF S.A.
+(&#147;<B>YPF</B>&#148;) acquired 15% of the capital stock and voting rights of OLEODUCTO LOMA CAMPANA - LAGO PELLEGRINI S.A. (&#147;<B>OLCLP</B>&#148;), through the purchase to TECPETROL S.A. (&#147;<B>TECPETROL</B>&#148;) of 130,259,852 class
+&#147;B&#148; ordinary, nominative, <FONT STYLE="white-space:nowrap">non-endorsable</FONT> shares, with a par value of Ps.1 (one Argentine peso) each and with the right to one vote per share of OLCLP (the &#147;Transaction&#148;). With the
+aforementioned acquisition, YPF, which already owned 85% of the capital stock, will own 100% of the capital stock of OLCLP. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" ALIGN="justify">OLCLP operates an oil pipeline whose starting point is the Crude Oil Treatment Plant located in Loma Campana, Province of
+Neuqu&eacute;n, and its end point is the Pumping Station located in Lago Pellegrini, Province of R&iacute;o Negro, whose concessionaire is Oleoductos del Valle S.A. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" ALIGN="justify">The total price of the Transaction amounts to US$15,000,000, and will be paid according to the following schedule: </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="justify"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">(i)</P></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="justify">as of the date hereof, the amount of US$13,606,450 was paid by offsetting with payment obligations assumed
+by TECPETROL under the Firm Transportation Services Agreement Vaca Muerta Sur Pipeline - Tranche 1, instrumented by means of an offer issued by YPF; and </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="justify"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">(ii)</P></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="justify">the remaining balance, equivalent to US$1,393,550, will be paid by YPF within the next 15 days, through a
+bank wire transfer in Argentine pesos. </P></TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Likewise, and according to OLCLP&#146;s last quarterly balance
+sheet as of March&nbsp;31, 2025, there were credits for sales and accounts receivable with YPF for a total of Ps.4,440,400,932, as well as liabilities for Ps.543,136,353. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Finally, it is hereby stated for the record that all other additional information required by the regulations in force is
+available in the corresponding web pages of BYMA (<U>https://www.byma.com.ar/</U>) and of the <I>Autopista de Informaci&oacute;n Financiera</I> of the CNV (under the items &#147;<I>Informaci&oacute;n Financiera&#150;Estados Contables Sociedades
+Controladas&#148; e &#147;Informaci&oacute;n Societaria&#150;N&oacute;mina de Autoridades&#150;Sociedades Controladas</I>&#148;): <U>https://www.cnv.gov.ar/SitioWeb/Empresas/Empresa/30546689979?fdesde=28/1/2021</U> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Yours faithfully, </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Marco Bramer
+</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Market Relations Officer </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">YPF
+S.A. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="44%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="5%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"><B>YPF Sociedad An&oacute;nima</B></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Date: June&nbsp;4, 2025</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">By:</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman" ALIGN="justify">/s/ Marco Bramer</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Name:</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Marco Bramer</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Title:</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Market Relations Officer</P></TD></TR>
+</TABLE>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>

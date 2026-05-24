@@ -1,0 +1,373 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>tm257854d1_6k.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 12pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>Washington, D.C.&nbsp;&nbsp;20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 15%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>FORM 6-K</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>REPORT OF FOREIGN PRIVATE ISSUER</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">February 27,&nbsp;2025</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 15%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">Commission File Number: 001-32827</P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 15%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>MACRO BANK INC.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><I>(Translation of registrant&rsquo;s name into
+English)</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 15%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">Av. Eduardo Madero 1182</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">Buenos Aires C1106ACY</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">Tel: 54 11 5222 6500&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><I>(Address of registrant&rsquo;s principal executive
+offices)</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 15%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark whether the registrant files or will file annual
+reports under cover of Form 20-F or Form 40-F.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; width: 38%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 9%"><FONT STYLE="font-size: 10pt">Form 20-F</FONT></TD>
+    <TD STYLE="width: 10%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">x</FONT></TD>
+    <TD STYLE="width: 9%"><FONT STYLE="font-size: 10pt">Form 40-F</FONT></TD>
+    <TD STYLE="width: 10%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">o</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark if the registrant is submitting the Form 6-K
+in paper as permitted by Regulation S-T Rule 101(b)(1):</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; width: 38%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 9%"><FONT STYLE="font-size: 10pt">Yes</FONT></TD>
+    <TD STYLE="width: 10%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">o</FONT></TD>
+    <TD STYLE="width: 9%"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="width: 10%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">x</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark if the registrant is submitting the Form 6-K
+in paper as permitted by Regulation S-T Rule 101(b)(7):</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; width: 38%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 9%"><FONT STYLE="font-size: 10pt">Yes</FONT></TD>
+    <TD STYLE="width: 10%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">o</FONT></TD>
+    <TD STYLE="width: 9%"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="width: 10%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">x</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 12pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: italic 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-style: normal"><U>INDEX</U></FONT></P>
+
+<P STYLE="font: italic 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-style: normal">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Translation of a submission from Banco Macro to
+the Comisi&oacute;n Nacional de Valores (Argentine Securities Exchange Commission) &ldquo;CNV&rdquo; dated on February 27, 2025.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>&nbsp;</I></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I></I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>&nbsp;&nbsp;</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">NOTICE OF SHAREHOLDERS&rsquo; MEETING</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The Board of Directors of Banco Macro S.A. calls
+for a General and Special Shareholders&rsquo; Meeting to be held in person on April 4<SUP>th</SUP>&nbsp;2025, at 11:0<FONT STYLE="background-color: white">0
+AM (Buenos Aires Time),&nbsp;at the offices located at Avenida Eduardo Madero 1172, Autonomous City of Buenos Aires, this not being the
+Company's principal pla</FONT>ce of business, to discuss the following Agenda:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">AGENDA</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 3.3pt"></TD><TD STYLE="width: 32.15pt">1)</TD><TD STYLE="text-align: justify">Appoint three shareholders to sign the Minutes of the Shareholders&rsquo; Meeting.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 3.3pt"></TD><TD STYLE="width: 32.15pt">2)</TD><TD STYLE="text-align: justify">Evaluate the documentation provided for in section 234, subsection 1 of Law No. 19550, for the fiscal
+year ended December 31<SUP>st </SUP>2024.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 3.3pt"></TD><TD STYLE="width: 32.15pt">3)</TD><TD STYLE="text-align: justify">Evaluate the management of the Board and the Supervisory Committee.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 3.3pt"></TD><TD STYLE="width: 32.15pt">4)</TD><TD STYLE="text-align: justify">Application of the retained earnings as of December 31st 2024. Total Retained Earnings expressed in constant
+currency as of December 31st 2024, are AR$ 314,113,791,042.40 which are to be applied as follows: a) AR$ 62,524,569,405.95 to the Legal
+Reserve fund; b) AR$ 6,926,474,246.94 to the Personal Asset Tax on Business Companies (Impuesto a los Bienes Personales Sociedades y Participaciones);
+and c) AR$ 244,662,747,389.51 to the Optional Reserve Fund for Future Distribution of Profits, pursuant to Communique &ldquo;A&rdquo;
+6464 and supplementary provisions of <I>Banco Central de la Rep&uacute;blica Argentina (</I>Central Bank of the Republic of Argentina).</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 3.3pt"></TD><TD STYLE="width: 32.15pt">5)</TD><TD STYLE="text-align: justify">Separate a portion of the Optional Reserve Fund for Future Distribution of Profits, in order to allow
+the application of AR$ 300,000,000,000 to the payment of a cash dividend or dividend in kind, in this case valued at market price, or
+in any combination of both alternatives, subject to prior authorization by the Central Bank of the Republic of Argentina. Please be advised
+that the dividend shall be subject to a 7% withholding established under section 97 of the Argentine Income Tax Law, as revised in 2019.
+Delegation to the Board of Directors of the powers to release the Reserve and establish the date, currency and other applicable payment
+terms and conditions in accordance with the delegation provided for by the Shareholders&rsquo; Meeting. Amount expressed in constant currency
+as of December 31st 2024.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 3.3pt"></TD><TD STYLE="width: 32.15pt">6)</TD><TD STYLE="text-align: justify">Evaluate the remunerations of the members of the Board of Directors for the fiscal year ended December
+31<SUP>st</SUP> 2024 within the limits as to profits, pursuant to section 261 of Law 19550 and the Rules of the <I>Comisi&oacute;n Nacional
+de Valores</I> (Argentine Securities Exchange Commission).</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 3.3pt"></TD><TD STYLE="width: 32.15pt">7)</TD><TD STYLE="text-align: justify">Evaluate the remunerations of the members of the Supervisory Committee for the fiscal year ended December
+31<SUP>st</SUP> 2024.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 3.3pt"></TD><TD STYLE="width: 32.15pt">8)</TD><TD STYLE="text-align: justify">Evaluate the remuneration of the independent auditor for the fiscal year ended December 31<SUP>st</SUP>
+2024.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 3.3pt"></TD><TD STYLE="width: 32.15pt">9)</TD><TD STYLE="text-align: justify">Appoint five regular directors and three alternate directors who shall hold office for three fiscal years
+to fill the vacancies existing due to the expiration of the relevant terms of office.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 3.3pt"></TD><TD STYLE="width: 32.15pt">10)</TD><TD STYLE="text-align: justify">Appoint one regular director who shall hold office for one fiscal year and one regular director who shall
+hold office for two fiscal years to fill the vacancies generated by the resignations of Mr. Hugo Ra&uacute;l Lazzarini and Mr. Juan Facundo
+Etchenique, respectively and complete the terms of their offices.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 3.3pt"></TD><TD STYLE="width: 32.15pt">11)</TD><TD STYLE="text-align: justify">Establish the number and designate the regular and alternate members of the Supervisory Committee who
+shall hold office for one fiscal year.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 3.3pt"></TD><TD STYLE="width: 32.15pt">12)</TD><TD STYLE="text-align: justify">Appoint the independent auditor for the fiscal year ending December 31<SUP>st</SUP> 2025.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 3.3pt"></TD><TD STYLE="width: 32.15pt">13)</TD><TD STYLE="text-align: justify">Determine the auditing committee&rsquo;s budget.</TD></TR></TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 3.3pt"></TD><TD STYLE="width: 32.15pt">14)</TD><TD STYLE="text-align: justify">Evaluate the amendment of sections 25, 26, 28 and 31 of the Company's bylaws.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 3.3pt"></TD><TD STYLE="width: 32.15pt">15)</TD><TD STYLE="text-align: justify">Approve the amended and restated bylaws.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 3.3pt"></TD><TD STYLE="width: 32.15pt">16)</TD><TD STYLE="text-align: justify">Authorize any acts, proceedings and filings aimed at obtaining the administrative approval and registration
+of the resolutions adopted at the Shareholders&rsquo; Meeting.</TD></TR></TABLE>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">THE BOARD OF DIRECTORS</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 2.5in; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; margin-left: 0in; text-indent: 0in; text-align: justify">NOTES:
+Be advised that: (i) when considering item 5, 14 y 15 of the Agenda, the Shareholders&rsquo; Meeting shall be held as a Special Meeting;
+(ii) in order to be able to participate in the Meeting, by March 28<SUP>th</SUP> 2025, the shareholders must submit by email addressed
+to asambleabancomacro@macro.com.ar the following: (a) proof of the book-entry share account issued by Caja de Valores S.A. and prove
+their identity and legal capacity, as the case may be; (b) name and surname or corporate name, document type and number of the individuals
+or registration data of the legal entities or companies, expressly indicating the registry in which they are registered and the jurisdiction,
+and domicile and capacity. The same information must be provided by anyone who intends to attend the Meeting as representative of the
+owner of the shares; and (c) when applicable, Shareholders shall comply with the provisions under Title II, Chapter II, Sections 25 and
+26 of the Rules of the Argentine Securities Exchange Commission.&nbsp; In addition, Shareholders that are companies or other legal entities,
+either local or foreign, shall inform the name and surname, nationality, real domicile, date of birth, ID or passport number, CUIT, CUIL
+or other taxpayer ID number or professional registration number of their end beneficiaries.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 21.3pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; margin-left: 0in; text-indent: 0in; text-align: justify">Be
+advised that no person declared incompetent under section 10 of the Financial Entities Law No. 21526 and/or under the Revised Text &ldquo;Financial
+Entity Authorities&rdquo; issued by the Central Bank of the Republic of Argentina may be nominated as candidate to hold office as member
+of the Board or the Supervisory Committee.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;<I>&nbsp;</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>&nbsp;</I></P>
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I></I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">SIGNATURE</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Pursuant to the requirements of the Securities Exchange Act of 1934,
+the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Date: February 27, 2025</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt">MACRO BANK INC.</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 3%">&nbsp;</TD>
+    <TD STYLE="width: 37%">&nbsp;</TD>
+    <TD STYLE="width: 10%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-bottom: 1.5pt">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 1.5pt"><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt"><U STYLE="text-decoration: none">/s/ Jorge F. Scarinci </U></FONT></TD>
+    <TD STYLE="padding-bottom: 1.5pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt">Name: Jorge F. Scarinci</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt">Title: Chief Financial Officer</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 5; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,1525 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>tm259904d1_6k.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Washington, D.C.&nbsp;&nbsp;20549</B></P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 0 auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FORM 6-K</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>REPORT OF FOREIGN PRIVATE ISSUER</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">March 20,&nbsp;2025</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 0 auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;Commission File Number:
+001-32827&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 0 auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>MACRO BANK INC.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>(Translation of registrant&rsquo;s name into
+English)</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 0 auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Av. Eduardo Madero 1182</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Buenos Aires C1106ACY</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Tel: 54 11 5222 6500</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>(Address of registrant&rsquo;s principal executive
+offices)</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 0 auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark whether the registrant files or will file annual
+reports under cover of Form 20-F or Form 40-F.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; width: 35%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 25%"><FONT STYLE="font-size: 10pt">Form 20-F</FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Wingdings; font-size: 10pt"><FONT STYLE="font-family: Wingdings">&#120;</FONT></FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-size: 10pt">Form 40-F</FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Wingdings; font-size: 10pt"><FONT STYLE="font-family: Wingdings">&#168;</FONT></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark if the registrant is submitting the Form 6-K
+in paper as permitted by Regulation S-T Rule 101(b)(1):</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; width: 35%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 25%"><FONT STYLE="font-size: 10pt">Yes</FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Wingdings; font-size: 10pt"><FONT STYLE="font-family: Wingdings">&#168;</FONT></FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Wingdings; font-size: 10pt"><FONT STYLE="font-family: Wingdings">&#120;</FONT></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark if the registrant is submitting the Form 6-K
+in paper as permitted by Regulation S-T Rule 101(b)(7):</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; width: 35%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 25%"><FONT STYLE="font-size: 10pt">Yes</FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Wingdings; font-size: 10pt"><FONT STYLE="font-family: Wingdings">&#168;</FONT></FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Wingdings; font-size: 10pt"><FONT STYLE="font-family: Wingdings">&#120;</FONT></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0; margin-bottom: 0; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1; Options: NewSection -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;&nbsp;</P>
+
+<P STYLE="font: italic 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-style: normal"><U>INDEX</U></FONT></P>
+
+<P STYLE="font: italic 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-style: normal">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Translation of a submission from Banco Macro to
+the Comisi&oacute;n Nacional de Valores (Argentine Securities Exchange Commission) &ldquo;CNV&rdquo; dated on March 20, 2025.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right; text-indent: -0.1pt">Buenos Aires, March 20<SUP>th</SUP>
+2025</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"> To:</P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">CNV / BYMA / MAE</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right; text-indent: -0.1pt">Re. Relevant Event.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">Please find attached hereto
+the letter sent on the date hereof to <I>Fondo de Garant&iacute;a de Sustentabilidad &ndash; Administraci&oacute;n Nacional de Seguridad
+Social</I> (ANSES) in compliance with the information requirement related to the General and Special Shareholders&rsquo; Meeting of Banco
+Macro S.A. to be held on April 4<SUP>th</SUP> 2025.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">Sincerely,</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; width: 75%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; width: 100%; text-indent: 0">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt">&nbsp;</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt">&nbsp;</P></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt">Jorge Francisco Scarinci</P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt">Head of Market Relations</P></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right; text-indent: -0.1pt"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right; text-indent: -0.1pt">Buenos Aires, March 20<SUP>th</SUP>
+2025</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"> To</P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt"><I>Fondo de Garant&iacute;a de Sustentabilidad
+</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt"><I>Administraci&oacute;n Nacional de la Seguridad
+Social (ANSES)</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt">General Department of Corporate Affairs</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt">Mr. Hern&aacute;n Castrogiovanni</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt">Tucum&aacute;n 500, mezzanine</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><U>S&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D</U></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt">Re.: NOTE N&deg; NO-2025-25521831-ANSES-DGGEYAS#ANSES</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt">Dear Sirs,</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">We write to you in reply
+to your request of information regarding the General and Special Shareholders&rsquo; Meeting of Banco Macro S.A. called for April 4th
+2025, and in that respect, please be advised as follows:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B>a. Detailed description
+of the shareholders structure to date, including information taken from the Company&rsquo;s Stock Ledger indicating the participating
+interest percentage of each shareholder holding a participating interest above 5%, by class of shares; total number of shares, participating
+interest and number of votes. </B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">Please find below the shareholding
+structure as of February 28th 2025:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="background-color: #0193CF">
+    <TD STYLE="padding: 2.5pt; border: black 1pt solid; vertical-align: middle; width: 25%; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: white"><B>SHAREHOLDER&rsquo;S<BR>
+ NAME/ <BR>
+CORPORATE <BR>
+NAME</B></FONT></TD>
+    <TD STYLE="padding: 2.5pt; text-align: center; vertical-align: middle; width: 15%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; text-indent: 0">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt; color: white">&nbsp;<B>Class
+A </B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt; color: white"><B>Shares</B></P></TD>
+    <TD STYLE="padding: 2.5pt; text-align: center; vertical-align: middle; width: 15%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; text-indent: 0">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt; color: white">&nbsp;<B>Class
+B</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt; color: white"><B>Shares</B></P></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: middle; width: 15%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: white"><B>Capital Stock</B></FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: middle; width: 15%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: white"><B>Participating<BR>
+ Interest</B></FONT></TD>
+    <TD STYLE="padding: 2.5pt; text-align: center; vertical-align: middle; width: 15%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; text-indent: 0">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt; color: white">&nbsp;<B>Voting<BR>
+Interest</B></P></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black">Other Shareholders (Foreign Stock Exchange)</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black">143,373,720</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black">143,373,720</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black">22.42%</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black">20.95%</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black">ANSES-F.G.S. Law No. 26425</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black">184,156,124</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black">184,156,124</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black">28.80%</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black">26.91%</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: black">Delfin Jorge Ezequiel Carballo</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-indent: 0">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right; text-indent: -0.1pt">4,901,415</P></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">118,251,845</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">123,227,910</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">19.27%</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">20.87%</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Banco de Servicios y Transacciones S.A., trustee of Fideicomiso de Garant&iacute;a JHB BMA</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-indent: 0">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right; text-indent: -0.1pt">5,995,996</P></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-indent: 0">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right; text-indent: -0.1pt">104,473,881</P></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">110,469,877</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">17.28%</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">19.65%</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Other Shareholders (Local Stock Exchange)</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-indent: 0">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right; text-indent: -0.1pt">338,259</P></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">77,847,518</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">78,185,777</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12.23%</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">11.62%</FONT></TD></TR>
+  <TR STYLE="vertical-align: top; background-color: white">
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>TOTAL</B></FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>11,235,670</B></FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-indent: 0">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right; text-indent: -0.1pt"><B>628,177,738</B></P></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-indent: 0">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right; text-indent: -0.1pt"><B>639,413,408</B></P></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>100.00%</B></FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>100.00%</B></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B>b. Executed copy of the
+Minutes of the Board of Directors&rsquo; Meeting calling the General and Special Shareholders&rsquo; Meeting.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">Please be advised that the
+wording of the minutes of the Board of Directors&rsquo; Meeting calling a General and Special Shareholders&rsquo; Meeting for April 4th
+2025 at 11 AM is available in the Financial Information Highway (or AIF for its acronym in Spanish) of the CNV or Securities and Exchange
+Commission of the Republic of Argentina.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"></P>
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B><I>c. Express indication
+of the personnel authorized and/or empowered by the company to sign this request, attaching a copy of the document evidencing such authorization
+(if too long, please attach a copy of the relevant part of such authorizing document).</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The person signing this request is acting in his
+capacity as Head of Market Relations designated by the Board of Directors in its meeting held on December 18<SUP>th</SUP> 2015 and the
+relevant portion of the minutes of such meeting is published in AIF.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt"><B><I>d</I>. As to the following items of the
+Agenda, published in the Official Gazette:</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B><I>i. (Point 1) Appoint
+three shareholders to sign the minutes of the meeting.&nbsp;</I></B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Please inform who shall be the shareholders designated
+to such effect.</I></B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">The motion shall be submitted
+by the shareholders at the General and Special Shareholders&rsquo; Meeting called for April 4<SUP>th</SUP> 2025.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B><I>ii. (Point 2) Evaluate
+the documentation provided for in section 234, subsection 1 of Law No. 19550, for the fiscal year ended December 31st 2024. Please provide
+the following:</I></B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in">-</TD><TD STYLE="text-align: justify"><B><I>In the event such documentation is not published in the Autopista de Informaci&oacute;n Financiera
+(&ldquo;AIF&rdquo;) of the Argentine Securities Exchange Commission (or &ldquo;CNV&rdquo; for its acronym in Spanish), a copy of the accounting
+documentation under section 234 of Law No. 19550 as duly approved and executed by the Board of Directors, Syndics and Independent Auditor;</I></B></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in">-</TD><TD STYLE="text-align: justify"><B><I>A description of the general price index applied in case the Financial Statements submitted for
+discussion (financial year ended December 31<SUP>st</SUP> 2024) are restated in homogeneous currency (pursuant to General Resolution No.
+777/2018 issued by the CNV),</I></B></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in">-</TD><TD STYLE="text-align: justify"><B><I>Any current agreement with related companies for corporate and technical services (date of execution
+of the agreement or contract, subject matter, price, term, renewal and addendum), with a detailed description of the amounts paid as fees
+as of the end of the fiscal year ended December 31<SUP>st</SUP> 2024, if applicable;</I></B></TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>In addition, please provide any additional supporting
+data that may be relevant to discuss this item of the Agenda.</I></B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">The documentation provided
+for in section 234, subsection 1 of Law 19550 to be submitted to and evaluated by the next General and Special Shareholders&rsquo; Meeting
+was made available to the public in due time and manner and is currently available in the AIF.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">As described in Note 3 to
+the Consolidated Financial Statements for the fiscal year ended 31 December 2024, such financial statements have been adjusted so that
+the same are expressed in purchasing power currency to such date, as provided for in IAS 29 and taking into account, as well, the specific
+rules of the BCRA contained in Communiqu&eacute;s &ldquo;A&rdquo; 6651, 6849, as amended and supplemented. The above mentioned rules and
+standards established the compulsory application of such accounting method as of the financial statements for years beginning January
+1<SUP>st</SUP> 2020. In order to carry out such re-expression the index to be applied is the national consumer price index (CPI) published
+by <I>Instituto Nacional de Estad&iacute;sticas y Censos</I> (INDEC).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt; background-color: white">Please
+be advised that Banco Macro S.A. has not hired corporate and technical services from related companies pursuant which it might have been
+rendered corporate and technical services during the fiscal year ended December 31st 2024, and therefore it has made no payments for such
+description, this being the situation up to the present time.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt; background-color: white">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B><I>iii. (Point 3) Evaluate
+the management of the Board and the Supervisory Committee. </I></B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Please inform the current composition of the Board
+and Supervisory Committee (regular and alternate members), indicating the designation date, term of office and designation expiry date;</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Provide information of any resignation or changes in
+the composition of each body and new designations, provide complete name and designation dates as well as any relevant events published
+before the CNV;</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Inform about the management of the Board and the Supervisory
+Committee during the fiscal year ended December 31st 2024.</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left">-</TD><TD STYLE="text-align: justify"><B><I>In addition, please provide any additional supporting
+data that may be relevant to discuss this item of the Agenda.</I></B></TD>
+</TR></TABLE>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">The current composition of
+the Board of Directors is as follows:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"></P>
+
+<!-- Field: Page; Sequence: 5 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; width: 85%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="padding: 2.5pt; width: 34%; border: black 1pt solid; text-indent: 0">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0"><B>Name</B></P></TD>
+    <TD STYLE="padding: 2.5pt; width: 22%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; text-indent: 0"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0"><B>&nbsp;Position</B></P></TD>
+    <TD STYLE="padding: 2.5pt; width: 22%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; text-indent: 0">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0">&nbsp;<B>Designation
+</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt"><B>Date</B></P></TD>
+    <TD STYLE="padding: 2.5pt; width: 22%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Designation Expiry Date &ndash; Shareholders&rsquo; Meeting evaluating the Financial Statements of the fiscal year</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Jorge Pablo Brito</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Chairman</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">04/12/2024</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/31/2024</FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Carlos Alberto Giovanelli</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Vice Chairman</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">04/12/2024</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/31/2024</FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Nelson Dami&aacute;n Pozzoli</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Regular Director</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-indent: 0">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt"></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt">04/29/2022</P></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/31/2024</FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Fabi&aacute;n Alejandro de Paul <I>(*)</I></FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Regular Director</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-indent: 0">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt"></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt">04/29/2022</P></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/31/2024</FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Nicol&aacute;s Valenzuela <I>(*)</I></FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Regular Director</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">04/12/2024</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/31/2024</FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Constanza Brito</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Regular Director</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">04/12/2024</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/31/2026</FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Mario Luis Vicens <I>(*)</I></FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Regular Director</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-indent: 0">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt"></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt">04/12/2024</P></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/31/2026</FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Sebasti&aacute;n Palla <I>(*)</I></FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Regular Director</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-indent: 0">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt"></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt">04/12/2024</P></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/31/2026</FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Jos&eacute; Alfredo S&aacute;nchez</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Regular Director </FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">04/12/2024</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/31/2026</FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Delf&iacute;n Federico Ezequiel Carballo </FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Regular Director</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">04/25/2023</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/31/2025</FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Marcos Brito</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Regular Director</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">04/25/2023</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/31/2025</FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Guido Agust&iacute;n Gallino <I>(*)</I></FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Regular Director</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">05/14/2024</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/31/2024 <I>(1)</I></FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Santiago Horacio Seeber</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Alternate Director</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">04/29/2022</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/31/2024</FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Juan Ignacio Catalano</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Alternate Director</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">04/12/2024</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/31/2024</FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><I>(*) Independent Director.</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><I>&nbsp;</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><I></I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">(1) Guido Agust&iacute;n
+Gallino took office to replace J. Etchenique, whose term of office ends on 12/31/2026. The expiry of the term of office of G. Gallino
+(12/31/2024) corresponds to the office it held as alternate director.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">Additionally, we inform
+that during the year 2024 and up to date, the Board considered the following resignations:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt; background-color: white">On
+May 14<SUP>th</SUP> 2024 the Board accepted the resignation of Mr. Juan Facundo Etchenique as Regular Directors (ID 3199943).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt; background-color: white">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt; background-color: white">On
+September 25th 2024 the Board accepted the resignation of Mr. Hugo Ra&uacute;l Cayetano Lazzarini as Regular Director (ID 3258304).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt; background-color: white">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt; background-color: white">All
+the above listed resignations were strictly for personal reasons.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">The members of the Supervisory
+Committee are the following:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; width: 85%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="padding: 2.5pt; width: 34%; border: black 1pt solid; text-indent: 0">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt">&nbsp;<B>Name</B></P></TD>
+    <TD STYLE="padding: 2.5pt; width: 22%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Position</B></FONT></TD>
+    <TD STYLE="padding: 2.5pt; width: 22%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; text-indent: 0">
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt"><B>Designation</B></P>
+    <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt"><B>Date</B></P></TD>
+    <TD STYLE="padding: 2.5pt; width: 22%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Designation Expiry Date &ndash; Shareholders&rsquo; Meeting evaluating the Financial Statements of the fiscal year</B></FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Alejandro Almarza</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Regular Syndic</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">04/12/2024</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/31/2024</FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Carlos Javier Piazza</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Regular Syndic</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">04/12/2024</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/31/2024</FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Vivian Hayde&eacute; Stenghele </FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Regular Syndic</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">04/12/2024</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/31/2024</FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Horacio Roberto Della Rocca</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Alternate Syndic</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">04/12/2024</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/31/2024</FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Francisco Javier Piazza</FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Alternate Syndic</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">04/12/2024</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/31/2024</FONT></TD></TR>
+  <TR>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Claudia In&eacute;s Siciliano </FONT></TD>
+    <TD STYLE="padding: 2.5pt; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Alternate Syndic</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">04/12/2024</FONT></TD>
+    <TD STYLE="padding: 2.5pt; vertical-align: top; border-right: black 1pt solid; border-bottom: black 1pt solid; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">12/31/2024</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">The Board&rsquo;s administration
+and the actions of the Supervisory Committee were in accordance with the provisions of the applicable legal rules and provisions.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt"></P>
+
+<!-- Field: Page; Sequence: 6 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B><I>iv. (Item 4) Application
+of retained earnings as of December 31st 2024. The aggregate Retained Earnings expressed in constant currency on December 31<SUP>st</SUP>
+2024 totals AR$ 314,113,791,042.40, to be applied as follows: a) AR$ 62,524,569,405.95 to the Legal Reserve Fund; b) AR$ 6,926,474,246.94
+to the Personal Asset Tax on Business Companies (Impuesto a los Bienes Personales Sociedades y Participaciones) and c) AR$ 244,662,747,389.51
+to the Optional Reserve Fund for Future Distribution of Profits, pursuant to Communique &ldquo;A&rdquo; 6464 and supplementary communiques
+of the Central Bank of the Republic of Argentina (Banco Central de la Rep&uacute;blica Argentina or BCRA). </I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Please inform the income for the year and the proposal
+regarding the application of such income. In addition, please confirm whether such proposal is the same ad that mentioned in the Annual
+Report to the Board.</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>In the event the proposal to be evaluated is different
+from the one mentioned above, please provide details of the proposal regarding the application of the income for the year, indicating
+the reserves to be absorbed or to which the income for the year it to be applied, the percentage of each of them and/or the balance amount
+that shall remain as accumulated balance.</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Please provide detailed information on any changes
+in all Reserve Funds (Legal Reserve and Reserve Fund for distribution of profits pending authorization of the BCRA), specially indicating
+its current composition, date of creation and last transactions or operations.</I></B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B><I>In the event there
+is any motion to create or allocate any amounts to reserve funds:</I></B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Please inform the reason for and convenience of creating
+or allocating such amounts to any existing reserve funds. The explanation must be sufficiently clear and, under certain circumstances,
+must express whether they are reasonable and the result of a prudent administration, all in accordance with section 66, subsection 3
+and section 70 of Act No. 19550 (General Companies Act of the Republic of Argentina).</I></B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">The proposal for the distribution
+of retained earnings as of December 31st 2024 is that described under item 4 of the Agenda.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">Pursuant to the minutes of
+the General and Special Shareholders&rsquo; Meeting held on April 16th 2012 as published in the AIF, the Company created an &ldquo;Optional
+Reserve Fund for Future Distribution of Profits&rdquo; on the amount of AR$ 2,443,140,742.68. In addition, we inform that the &ldquo;Optional
+Reserve Fund for Future Distribution of Profits&rdquo; account was increased as a result of the resolution approved by the General and
+Special Shareholders&rsquo; Meeting dated April 11th 2013 and the General and Special Shareholders&rsquo; Meetings dated April 29th 2014,
+April 23rd 2015, April 26th 2016, April 28th 2017, April 27th 2018, April 30<SUP>th</SUP> 2019, April 30<SUP>th</SUP> 2020, April 25<SUP>th</SUP>
+2023 and April 12<SUP>th</SUP> 2024, which added to such account, the amount of AR$ 1,170,680,720.00; AR$ 1,911,651,322.50, AR$ 2,736,054,342.94,
+AR$ 3,903,591,780.29, AR$ 5,371,581,684.69, AR$ 7,511,017,454.84, AR$ 12,583,394,397.30, AR$ 32,428,893,419.28, AR$ 33,758,916,408.68
+and AR$ 468,715,308,515, respectively. In turn, the Shareholders&rsquo; Meetings held on April 29th 2014, April 23rd 2015, April 26th
+2016, April 27th 2017, April 28th 2018, April 30th 2019 and April 30th 2020 resolved to separate a portion of such reserve fund equal
+to AR$ 596,254,288.56, AR$ 596,254,288.56, AR$ 643,019,330.80, AR$ 701,475,633.60, AR$ 3,348,315,105.00, AR$ 6,393,977,460.00 and AR$
+12,788,268,160.00, respectively, in order to pay a cash dividend. In addition, the Shareholders&rsquo; Meeting held on October 21th 2020
+resolved to partially release such reserve fund in the amount of AR$ 3,791,721,509 for the payment of a supplementary dividend. Finally,
+the Shareholders&rsquo; Meeting held on April 30th 2021, April 25th 2023 and April 12th 2024 resolved to release the amount of AR$ 10,000,425,701.12,
+AR$ 75,040,918,149.47 and AR$ 294,130,167,680, respectively, for the payment of dividends in cash or in kind. On the other hand, pursuant
+to section 64 of Law No. 26831, in the fiscal year 2018 the Bank applied AR$ 4,407,907,175.42 and in the fiscal year 2019 such reserve
+was increased by the amount of AR$ 30,265,275 as a result of the capital reduction approved by the General and Special Shareholders&rsquo;
+Meeting held on April 30th 2019. In the fiscal year 2016 such optional reserve fund was adjusted in AR$ 368,546,288.56, since the BCRA
+authorized the payment of a cash dividend of AR$ 227,708,000 for the year 2014, which was paid in March 2016. All the above-mentioned
+resolutions were published in the AIF in due time and manner according to law. Be advised that the reserve fund expressed in constant
+currency as of December 31st 2024 totals AR$ 1,073,452,467,762.31.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">As expressed in the minutes
+of the General and Special Shareholders&rsquo; Meeting held on April 30th 2022 and published in the AIF, the company created a &ldquo;Reserve
+Fund for Dividends pending Authorization by the BCRA&rdquo; on the amount of AR$ 14,187,872,701.21 and reclassified the excess liabilities
+by dividends to the date of the above mentioned shareholders&rsquo; meeting for the amount of AR$ 6,828,971,026.38, pursuant to the temporary
+provisions of the BCRA rules in force. The aggregate reserve fund expressed in constant currency as of December 31st 2024 is AR$ 260,702,248,238.98.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">Pursuant to the provisions
+of the Financial Entities Act No. 21526, each year the Bank must apply to the legal reserve fund the proportion of its annual earnings
+that the BCRA shall determine, which shall neither be less than 10% nor more than 20%. According to the rules of such entity, the Bank
+shall maintain a legal reserve fund composed by 20%</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"></P>
+
+<!-- Field: Page; Sequence: 7 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">of the annual profits. The last transactions in the &ldquo;Legal Reserve Fund&rdquo;
+account are the following: AR$ 235,219,384.22, AR$ 298,724,146.29, AR$ 488,713,267.35, AR$ 695,907,205.55, AR$ 1,001,682,786.73, AR$ 1,308,459,923,
+AR$ 1,877,754,363.71, AR$ 3,145,848,599.32, AR$ 8,159,955,104.82, AR$ 3,640,434,200.37, AR$ 8,607,703,822.77 and AR$ 117,460,820,732 for
+the fiscal years 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022 and 2023, respectively. The legal reserve fund expressed
+in constant currency as of December 31<SUP>st</SUP> 2024 totals AR$ 1,002,094,050,895.24.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">The optional reserves, created
+by the above mentioned shareholders&rsquo; meetings, are reasonable and are the result of a prudent administration under the provisions
+of subsection 3, Section 66 of the General Companies Act.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B><I>v. (Item 5) Release
+of a portion of the Optional Reserve Fund for Future Distribution of Profits in order to allow the application of the amount of AR$ 300,000,000,000
+to the payment of a dividend in cash or in kind, herein valued at market price, or in any combination of both alternatives, subject to
+prior authorization of the BCRA. While such authorization is pending, such amount shall be applied to the optional reserve fund known
+as Reserve Fund for Dividends Pending Authorization by the BCRA (hereinafter referred to as the &ldquo;Reserve&rdquo;). Please be advised
+that such dividend is subject to a 7% withholding under section 97 of the Argentine Income Tax Law, as revised in 2019. Delegation to
+the Board of Directors of the powers to release of the Reserve and determine the time, currency and other payment terms and conditions,
+in accordance with the scope of the delegation resolved by the Shareholders&rsquo; Meeting. Amount expressed in constant currency as of
+December 31<SUP>st</SUP> 2024.</I></B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Provide the proposal for the distribution of dividends;</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Inform the reason for and convenience of paying such
+dividends;</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Inform the kind and/or type of currency (Argentine
+pesos, US dollars or other type of foreign currency) in which such proposed dividends are to be paid;</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Inform the total amount to be paid per outstanding
+share and the dividend percentage on the outstanding capital stock</I>;</B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Provide information as to the liquid assets the Company
+actually has to make the distribution of dividends;</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Inform whether the Company is subject to any restrictions
+and/or policies regarding the distributions of dividends in force at the time of the present Meeting;</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Since under Resolution No. 777/18 issued by the CNV
+(Argentine Securities Exchange Commission) any distribution of dividends is to be considered in the currency of the date on which the
+Shareholders&rsquo; Meeting held applying the price index of the month immediately preceding such meeting, please confirm if the proposal
+is to be re-expressed. In such case, indicate the index to be used and the amounts re-expressed.</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Inform whether you intend to delegate to the Board/subdelegate
+to certain authorized persons the powers to determine the manner and date for the payment of such dividends. If that is the intention,
+please indicate the estimated term for the effective distribution of dividends, the powers you shall delegate/subdelegate and to which
+members of the Board or other persons shall you delegate such powers.</I></B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">The proposal for the distribution
+of dividends is that described in item 5 of the Agenda.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">The motion to release a portion
+of the Optional Reserve Fund for Future Distribution of Profits, in order to allow the application of the amount of AR$ 300,000,000,000
+to the payment of a dividend in cash or in kind, subject to prior authorization of the BCRA, is based on the changes in income and the
+preservation of satisfactory ratios of liquidity and solvency.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">The total amount that the
+entity proposes to pay per share is AR $ 469.1800269540, which shall represent a total amount to be distributed of AR $300,000,000,000
+(46.918% of the Bank's capital of AR $639,413,408).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">Please be advised that, through
+Communique &quot;A&quot; 8214 issued on March 13th 2025, the BCRA established that up to December 31st 2025, the financial entities that
+have obtained the relevant prior authorization shall be able to distribute profits in 10 monthly equal and consecutive instalments as
+of June 30th 2025, and not before the second-to-last business day of the following months for up to 60% of the amount the entity would
+have been authorized to distribute under the provisions on &quot;Distribution of Income&quot; issued by the BCRA.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">The request of authorization
+for the payment of dividends shall be submitted to the BCRA once the distribution is approved by the Shareholders&rsquo; Meeting.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">As a financial institution,
+the Bank is subject to the rules of the BCRA, which does not provide that the distribution of profits shall be updated in the currency
+of the date of the Shareholders' Meeting.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"></P>
+
+<!-- Field: Page; Sequence: 8 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">Additionally, please be advised
+that as mentioned in item 5 of the Agenda, the motion to delegate powers to determine the time, currency, terms and other payment terms
+and conditions, shall be the responsibility of the Board as governing body.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B><I>vi. (Item 6) Evaluate
+the remuneration of the members of the Board for the fiscal year ended December 31st 2024 within the limit as to profits provided for
+in section 261 of Act 19550 and the Rules of the CNV. </I></B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Please provide the proposed remunerations for the fiscal
+year ended December 31st 2024.</I></B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B><I>In addition, please
+provide the following information:</I></B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>number of Board members and how many of them are paid
+a remuneration;</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>the aggregate amount of advance payments allocated
+as fees to the Board as of December 31<SUP>st</SUP> 2024. If such payments were made, please indicate the amount received by each director
+in advance;</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>inform if the global amount proposed includes additional
+payments for the performance of technical and administrative tasks, for participating as member of the Audit Committee and/or of any
+other Special Committees. In case such additional payments were made, please specify the amount received for the technical and administrative
+tasks including a description of the work done, the amounts received by the Special Committees and/or the amounts received for participating
+in the Audit Committee by director;</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>inform whether the global amount proposed includes
+remunerations to directors employed by the Bank.</I></B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B><I>If yes, please provide the number of directors who are
+working in this situation, the received by each of them and the tasks and functions each director performs. </I></B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Finally, please inform whether the Board shall be authorized
+to advance any fees for the fiscal year beginning on January 1<SUP>st</SUP> 2025. Also, please indicate the term within which such advance
+payments shall be made and the amounts thereof. In addition, please provide a detailed description of the parameters you would use to
+determine the amount of such advance fees.</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Additionally, please provide comparative information
+of the amount approved for the last fiscal year and the proposal for the fiscal year ended December 31<SUP>st</SUP> 2024, identifying
+the number of members in each fiscal year.</I></B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B><I>&nbsp;</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">The proposal of fees to the
+directors for the above mentioned period was made available to the public in due time and manner according to law by publishing it in
+the AIF, as provided for by the Rules of the CNV.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">The financial statements
+for the period ended December 31st 2024 include in the Statements of Income the amount of AR$ 13,002,492,728 as remunerations to the members
+of the Board. Such proposal, as in previous years, does not exceed the limits established under section 261 of Act 19550 and the Rules
+of de CNV. The values in nominal currency amount to AR$ 12,072,408,576.17 and the adjustment to express such values in constant currency
+as of December 31st 2024 amount to AR$ 930,084,152.83.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">To date, the Board is composed
+of twelve regular members and two alternate members. The allocation of the individual remuneration to the directors shall be submitted
+in due time to the Board and the Board shall comply with the provisions of section 75 of Decree 471/2018, as provided for in the Construction
+Criterion No. 45 of the CNV.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">During the fiscal year 2024,
+all the directors performed technical and administrative tasks, save for the independent directors.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">No director is employed by
+the Bank.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">The members of the Audit
+Committee receive no additional fees to those they are entitled to for the performance as directors.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">As is standard practice
+in the Bank, advance payments are made on a monthly basis to the directors for their performance in such capacity. Each year, the total
+amount of fees paid under this description during the financial year is submitted to the Shareholders' Meeting for consideration.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">In this regard, we inform
+the following:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 80%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="text-indent: 0; vertical-align: bottom; width: 40%; border: black 1pt solid; padding: 2.5pt; background-color: #4A86E8; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: #222222">Remunerations to the Board</FONT></TD>
+    <TD STYLE="text-indent: 0; width: 30%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; background-color: #4A86E8; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: #222222">Approved for Year ended 12/31/2023</FONT></TD>
+    <TD STYLE="text-indent: 0; width: 30%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; background-color: #B6D7A8; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: #222222">Approved for Year ended 12/31/2024</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-indent: 0; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding: 2.5pt; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Global Amount</FONT></TD>
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">AR$ 18,632,681,333.330</FONT></TD>
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">AR$ 12,072,408,576.17</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-indent: 0; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding: 2.5pt; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: #222222; background-color: white">Nominal increase/ decrease</FONT></TD>
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; text-align: right; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AR$ 6,560,272,757.16</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-indent: 0; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding: 2.5pt; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: #222222; background-color: white">Nominal increase/ decrease</FONT></TD>
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; text-align: right; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">-35.21%</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"></P>
+
+<!-- Field: Page; Sequence: 9 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">Figures expressed in nominal
+values of each moment.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B><I>&nbsp;</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B><I>vii. (Item 7) Evaluate
+the remuneration of the members of the Supervisory Committee for the fiscal year ended December 31st 2024. Please provide the following
+information:</I></B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>the proposed remunerations to the members of the Supervisory
+Committee for the fiscal year ended December 31st 2024;</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>the breakdown of the total amount proposed and the
+amount per syndic as well as any amounts paid in advance per member during the fiscal year ended December 31<SUP>st</SUP> 2024;</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Finally, please inform whether the Board shall be authorized
+to advance any fees to the Supervisory Committee for the fiscal year beginning on January 1<SUP>st</SUP> 2025. Identify advance fees
+of each syndic. Also, please indicate the term within which such advance payments shall be made and the amounts thereof. In addition,
+please provide a detailed description of the parameters you would use to determine the amount of such advance fees.</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>In addition, please provide comparative information
+of the amount approved for the last fiscal year and the proposal for the fiscal year ended December 31<SUP>st</SUP> 2024, identifying
+the number of members in each fiscal year.</I></B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">Please be advised that the
+amount proposed as fees to the members of the supervisory committee in nominal currency amounts to AR$ 135,027,000. Please be advised
+that it includes the amount of AR$ 36,000,000, which corresponds to fees for the work of 3 syndics of Banco BMA S.A. during the fiscal
+year 2024. The adjustment to express such amount in constant currency on December 31st 2024 is AR$ 26,111,528.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">As to the breakdown of the
+individual amount paid to each syndic for his performance during the year 2024, the Bank shall comply with the provisions of section 75
+of the Decree No. 471/2018, all in accordance with the provisions of the Construction Criterion No. 45 issued by the CNV.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">As is standard practice
+in the Bank, advance payments are made on a monthly basis to the syndics for their performance in such capacity. Each year, the total
+amount of fees paid under this description during the financial year is submitted to the Shareholders' Meeting for consideration.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">In this regard, we inform
+the following:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 80%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="text-indent: 0; vertical-align: bottom; width: 40%; border: black 1pt solid; padding: 2.5pt; background-color: #4A86E8; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: #222222">Remunerations to the Supervisory Committee</FONT></TD>
+    <TD STYLE="text-indent: 0; width: 30%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; background-color: #4A86E8; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: #222222">Approved for Year ended 12/31/2023</FONT></TD>
+    <TD STYLE="text-indent: 0; width: 30%; border-top: black 1pt solid; border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; background-color: #B6D7A8; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: #222222">Approved for Year ended 12/31/2024</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-indent: 0; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding: 2.5pt; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Global Amount</FONT></TD>
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">AR$ 27,585,000</FONT></TD>
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">AR$ 135,027,000</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-indent: 0; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding: 2.5pt; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: #222222; background-color: white">Nominal increase/ decrease</FONT></TD>
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; text-align: right; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="text-indent: 0; border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; text-align: right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">AR$ 107,442,000</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-indent: 0; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding: 2.5pt; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt; color: #222222; background-color: white">Nominal increase/ decrease</FONT></TD>
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; text-align: right; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">389.49%</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">Figures expressed in nominal
+values of each moment.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B><I>viii. (Point 8) Evaluate
+the remuneration of the independent auditor for the fiscal year ended December 31st 2024.&nbsp;</I></B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Please provide the proposal of the remuneration to
+be paid to the independent auditor for the fiscal year ended December 31<SUP>st</SUP> 2024 and the real amount paid under such description
+for the previous fiscal year, indicating whether there were any changes in tasks as compared with those performed for the immediately
+preceding financial statements.</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>If there is a considerable increase, please provide
+the reasons for such increase.</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>In addition, please inform the amount paid with respect
+to the last fiscal year, indicating whether such amount includes any taxes or not.</I></B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">The independent auditor&acute;s
+fees for the year ended 31 December 2024 amounts to AR$ 1,103,139,164 plus VAT. The effective amount enforced for the year 2023 is the
+same as the amount approved by the Shareholders&rsquo; Meeting held on April 2023, i.e. AR$ 353,388,900 plus VAT. Please be advised there
+have been no changes in tasks or functions compared to those performed for the immediately preceding financial statements. <FONT STYLE="color: #222222">Please
+be advised there have been no changes in tasks or functions compared to those performed for the immediately preceding financial statements,
+except for those related to the special balance sheet prepared as a result of the merger with Banco BMA S.A.U.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"></P>
+
+<!-- Field: Page; Sequence: 10 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt; color: #222222">The increase
+corresponds to the variation in the CPI during the 2024 financial year and to the tasks indicated in connection with the merger.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B><I>ix. (Item 9) Appoint
+five regular directors and three alternate directors to hold office for three fiscal years, in order to fill the vacancies originated
+by the termination of the relevant terms of office. </I></B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Please inform the proposed designation of regular and
+alternate members of the Board, indicating the complete name of all nominees proposed, term of office and their background information
+and/or resumes evidencing their suitability for the position, as well as whether they will be independent.</I></B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">In connection with the next
+General and Special Shareholders&rsquo; Meeting, as evidenced by the relevant event published in the AIF last March 7th, Mr. Delf&iacute;n
+Jorge Ezequiel Carballo, in his capacity as shareholders, and the attorneys-in-fact of Banco de Servicios y Transacciones S.A., trustee
+of the shareholder Fideicomiso de Garant&iacute;a JHB BMA, communicated they intend to propose as regular directors, for three years,
+the designation of Mr. Jorge Pablo Brito, Carlos Alberto Giovanelli, Nelson Dami&aacute;n Pozzoli and Fabi&aacute;n Alejandro de Paul
+and as alternate directors for three years, the designation of Mr. Santiago Horacio Seeber and Juan Ignacio Catalano.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">Please be advised that Mr.
+Jorge Pablo Brito, Carlos Alberto Giovanelli, Nelson Dami&aacute;n Pozzoli and Fabi&aacute;n Alejandro de Paul are regular directors and
+Mr. Santiago Horacio Seeber and Juan Ignacio Catalano are alternate directors of the Bank, and were authorized by the BCRA in accordance
+with the Revised Text &ldquo;Financial Entity Authorities&rdquo;. The character of independence will be expressed in the Shareholder&acute;s
+meeting at the time of its appointment.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">Below, please find the background
+information of the nominees to be proposed by the above mentioned shareholders:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0.25in; text-align: justify">Jorge Pablo Brito was born on June
+29, 1979. Mr. Brito is the Chairman of our Board of Directors since March 15, 2023. Previously he was the Vice Chairman of our Board since
+November 30, 2020, Director since April 30, 2020 until November 30, 2020 and the vice chairman of our board since April 27, 2018 until
+April 30, 2020. He has been a member of our Board of Directors since 2002 and our Chief Financial Officer since April 16, 2012 until November
+8, 2017. In the financial sector, he held the position of incumbent director of Nuevo Banco de Suqu&iacute;a S.A. (2004-2007), Nuevo Banco
+Bisel S.A. (2006-2009), Banco Privado de Inversiones S.A. (2010-2013), Mercado Abierto Electr&oacute;nico S.A. (2013-2015), Macro Securities
+S.A. (2004-2022) and Banco BMA S.A.U. (2023-2024). He also serves as chairman of the Board of Directors of BMA Valores S.A., Inversora
+Juramento S.A. and Fiduciaria JHB S.A. and as incumbent director of Genneia S.A.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 10.05pt 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0.25in; text-align: justify">Carlos Alberto Giovanelli was born
+on April 6, 1957. He is a Vice Chairman of our Board of Directors since March 15, 2023 and he has been a member of our Board since April
+26, 2016. In the financial sector, he worked as Deputy Credit Manager (1980-1983), Branch Deputy Manager (1983-1986), Credit Officer (1986-1989)
+and Deputy Commercial Manager (1991-1997) of La Sucursal de Citibank N.A., established in Argentina. He was Vice President of Investment
+Banking in Citibank, N.A. (1989-1991) and Vice President of Planning in La Sucursal de Citibank N.A., established in Argentina (1997-2003).
+He also held the position of Deputy Chairman of Asociaci&oacute;n de Bancos (2001-2002), incumbent director of Banco Patagonia S.A. (2007-2016)
+and Deputy Chairman of Banco BMA S.A.U, (2023-2024). Mr. Giovanelli also serves as chairman of Havanna S.A, and Inverlat Investments S.A.
+He is also Vice-Chairman of BMA Valores S.A., Impresora Contable S.A, Havanna Holding S.A., Desarrollo Epsilon S.A. and Aspro Servicios
+Petroleros S.A.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 10.05pt 0pt 6pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0.25in; text-align: justify">Nelson Dami&aacute;n Pozzoli was
+born on May 6, 1966. He has been a member of our Board of Directors since April 26, 2016. Mr. Pozzoli holds a degree in public accounting
+from Universidad Cat&oacute;lica Argentina. In the financial sector, he was Director of La Sucursal de Citibank N.A., established in the
+Rep&uacute;blica Argentina (1989-1992), Head of Capital Markets (1992-1994) and Corporate Banking Manager (1996-1997) of ABN AMRO Bank
+Argentina, Head of Equity (LATAM origination) of ABN AMRO Netherlands (1994- 1995) and Corporate Banking Manager of ABN AMRO Bank USA
+(1995- 1996). He also held the position of Director of Banco Liniers Sudamericano (1997-1998), Investment Banking Manager of the Bankers
+Trust (1997- 1999) and worked for the Chase Manhattan Bank and the First National Bank of Chicago from 1998 to 1999. He was also General
+Manager of Deutsche Bank Argentina (1999-2003). He also serves as chairman of Aspro Servicios Petroleros S.A. He is also Vice-Chairman
+of Inverlat Investments S.A. and he is incumbent director of Macro Bank Limited, Impresora Contable S.A., Desarrollo Epsilon S.A and Cablevisi&oacute;n
+Holding S.A. Furthermore, he serves as alternate Director of Havanna S.A. and Havanna Holding S.A.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 10.05pt 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 10.05pt 0pt 0; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 11 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 10.05pt 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0.25in; text-align: justify">Fabi&aacute;n Alejandro de Paul
+was born on September 6, 1963. He was appointed as director on April 30, 2019. He has been an alternate member of our Board of Directors
+since April 28, 2017. Mr. de Paul holds a degree in accounting from Universidad de Buenos Aires. Mr. de Paul worked in the Corporate Finance
+area of Citibank, N.A. (1989-1994), was Director of Investment Banking at Merrill Lynch &amp; Co. (1994-1997), was Manager of CEI Citicorp
+Holdings S.A. (1997-2000), he served as Regional Financial Director of Louis Dreyfus Commodities (2001-2009) and served as Regional Executive
+Director of Louis Dreyfus Commodities (2007-2009). He also held the position of incumbent director of Mercado Abierto Electr&oacute;nico
+S.A. and Argencontrol S.A. in 2019.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 10.05pt 0pt 6pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0.25in; text-align: justify">Santiago Horacio Seeber was born
+on March 27, 1977. Mr. Seeber was appointed as alternate director on April 29, 2022 and previously was appointed as director from November
+30, 2020 through April 29, 2022 and he has been an alternate member since 2018 to 2020 and since 2012 to 2016. Mr. Seeber served in different
+positions in the Bank since November 2002. He also serves as chairman of the Board of Directors of LAB Real Estate S.A., Bricsa Holding
+S.A., New Lines S.A., MediaInvest S.A. and Hangar NB S.A., as vice-chairman of Anglia S.A. and as director of Inversora Juramento S.A.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 10.05pt 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0.25in; text-align: justify">Juan Ignacio Catalano was born on
+January 25, 1984. He was appointed as alternate director on April 12, 2024. Mr. Catalano holds a degree in Business Economics from Universidad
+Torcuato Di Tella and a Postgraduate Degree in Finance from Universidad Cat&oacute;lica Argentina. Previously, he held different positions
+at Macro Securities S.A.U. from 2009 to 2018.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 10.05pt 0pt 6pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B><I>x. (Item 10) Appoint
+one regular director for one fiscal and one regular director for two fiscal years to fill the vacancy created as a consequence of the
+resignation submitted by Mr. Hugo Ra&uacute;l Lazzarini and Juan Facundo Etchenique, respectively and to complete the term of office
+of both. </I></B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Please inform the proposal to designate the vacancies
+mentioned in the item of the Agenda, indicating the complete name of the nominee proposed, term of office and their background information
+and/or resumes evidencing their suitability for the position.</I></B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">The proposal shall be made
+by the shareholders at the General and Special Shareholders&rsquo; Meeting called for April 4th 2025.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt; color: red">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B><I>xi. (Point 11) Establish
+the number and designate the regular and alternate members of the Supervisory Committee who shall hold office for one fiscal year. </I></B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Inform the number of regular and alternate members
+that shall compose the Supervisory Committee.</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Please inform the proposal for the appointment of the
+regular and alternate members of the Supervisory Committee, indicating the complete name of all nominees proposed, term of office and
+their background information and/or resumes evidencing their suitability for the position.</I></B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">The proposal shall be made
+by the shareholders at the General and Special Shareholders&rsquo; Meeting called for April 4th 2025.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt; color: red">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B><I>xii. (Point 12) Appoint
+the independent auditor for the fiscal year to end on December 31st 2025.</I></B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Please inform the proposal for the appointment of such
+independent auditor (complete names of all nominees and name of the audit and/or accounting firm), both regular and alternate, including
+their background information evidencing they are qualified to hold office.</I></B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">Pursuant to the sworn statements
+published in the AIF, the Accountants Eleonora Prieto Rodriguez and Ignacio Alberto P&iacute;o Hecquet, members of the audit company Pistrelli,
+Henry Martin y Asociados S.A., shall be proposed as candidates to be designated as Regular Independent Auditor and Alternate Independent
+Auditor, respectively, the eligibility and suitability of both is supported by such sworn affidavits.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B><I>xiii. (Point 13) Determine
+the Audit Committee&rsquo;s budget. </I></B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Please inform who shall be the members of this Committee
+as well as the budget for the year to end 12/31/2025.</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>In addition, please inform the amount actually disbursed
+for this same description in the last fiscal year.</I></B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B><I>&nbsp;</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">The members of the Audit
+Committee are Mr. Mario Luis Vicens, Fabi&aacute;n Alejandro de Paul and Sebasti&aacute;n Palla.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">The budget to be proposed
+for the Audit Committee for the year 2025 is AR$ 2,000,000.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"></P>
+
+<!-- Field: Page; Sequence: 12 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 80%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="border: black 1pt solid; vertical-align: bottom; width: 40%; padding: 2.5pt; background-color: #4A86E8; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Audit Committee&rsquo;s budget</FONT></TD>
+    <TD STYLE="border-top: black 1pt solid; width: 30%; border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; background-color: #4A86E8; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Approved Fiscal Year 2024</FONT></TD>
+    <TD STYLE="border-top: black 1pt solid; width: 30%; border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; background-color: #B6D7A8; text-align: center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Proposal Fiscal Year 2025</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding: 2.5pt; text-align: justify; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Global Amount</FONT></TD>
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">AR$ 24,300,000</FONT></TD>
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">AR$ 2,000,000</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding: 2.5pt; text-align: justify; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Nominal Increase (vs previous year)</FONT></TD>
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">AR$ 13,996,500</FONT></TD>
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">AR$ -22,300,000</FONT></TD></TR>
+  <TR STYLE="vertical-align: bottom">
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding: 2.5pt; text-align: justify; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Percentage Increase</FONT></TD>
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">135.84%</FONT></TD>
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; padding: 2.5pt; text-align: right; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">-91.77%</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The Budget for the year 2024 included the hiring
+of external consultants and training that in the end we did not hire.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B><I>xiv. (Point 14) Evaluate the amendment of
+sections 25, 26, 28 and 31 of the bylaws.</I></B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left">-</TD><TD STYLE="text-align: justify"><B><I>Please inform about the reasonableness and convenience
+of the proposed amendments.</I></B></TD>
+</TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left">-</TD><TD STYLE="text-align: justify"><B><I>In addition, please provide a comparative table with
+the current text and the proposed changes and inform as well the status of the proceedings filed with Comisi&oacute;n Nacional de Valores
+(CNV) pursuant to section 8 of Article II of Chapter IV (Corporate Supervision) under Title II (Issuers) of General Resolution No. 622/2013
+issued by CNV (Revised 2013). In the event there are any objections by the CNV, please inform such objections by attaching a copy of
+the relevant document or text.</I></B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The Company thinks the amendment of sections 25,
+26, 28 and 31 of the bylaws is reasonable and convenient, since they are aimed at incorporating the possibility of holding Shareholders'
+Meetings and meetings of the Supervisory Committee remotely.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Attached as Exhibit I is the proposed amendment
+to the bylaws in a comparative table showing the current wording of such sections, the proposed wording and a mark-up version, with no
+objections from CNV so far.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B><I>xv. (Point 15) Approval of the amended and
+restated bylaws.</I></B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Please provide a copy of the final proposed amended
+and restated bylaws for approval.</I></B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Attached as Exhibit II is the draft of the amended
+and restated bylaws to be discussed and evaluated by the Shareholders&rsquo; Meeting.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt"><B><I>xvi. (Point 16) Authorization
+to carry out all acts and filings that are necessary to obtain the administrative approval and registration of the resolutions adopted
+at the Shareholders&rsquo; Meeting.</I></B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.25in; text-align: left"><B><I>-</I></B></TD><TD STYLE="text-align: justify"><B><I>Please provide the names of the persons that shall
+be authorized to such effect, their labor relationship with the Company, if any, and their position within the Company, if applicable.</I></B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B><I>In addition, please provide any additional
+supporting data that may be relevant to discuss this item of the Agenda.</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">The proposal shall be made
+by the shareholders at the General and Special Shareholders&rsquo; Meeting called for April 4th 2025.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"> Sincerely,</P>
+
+
+
+<P STYLE="margin-top: 0pt; margin-bottom: 0pt; font: 10pt Times New Roman, Times, Serif">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt"><B>Jorge Francisco Scarinci</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: -0.1pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Head of Market Relations</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 13 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: -0.1pt"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">SIGNATURE</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Pursuant to the requirements of the Securities Exchange Act of 1934,
+the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Date: March 20, 2025&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding: 0; text-indent: 0"><FONT STYLE="font-size: 10pt">MACRO BANK INC.</FONT></TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; width: 55%; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; width: 5%; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; width: 35%; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; width: 5%; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0"><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="padding: 0; border-bottom: Black 1pt solid; text-indent: 0"><FONT STYLE="font-size: 10pt">/s/ Jorge F. Scarinci </FONT></TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0"><FONT STYLE="font-size: 10pt">Name: </FONT></TD>
+    <TD STYLE="padding: 0; text-indent: 0"><FONT STYLE="font-size: 10pt">Jorge F. Scarinci</FONT></TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0"><FONT STYLE="font-size: 10pt">Title: </FONT></TD>
+    <TD STYLE="padding: 0; text-indent: 0"><FONT STYLE="font-size: 10pt">Chief Financial Officer</FONT></TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;&nbsp;</P>
+
+<!-- Field: Page; Sequence: 24; Options: Last -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

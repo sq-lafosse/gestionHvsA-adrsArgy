@@ -1,0 +1,587 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>form6k.htm
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<html>
+<head>
+<!-- Document created using Blueprint(R) - powered by Issuer Services - www.issuerservices.net -->
+<!-- Copyright 2025 Issuer Services -->
+<title>form6k</title>
+</head>
+<body style="font-family: Times New Roman; font-size: 13px;">
+<div id="pgbrk" style="width: 100%; margin-left: 0px; text-indent: 0px; margin-right: 0px">
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div id="ftr" style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 24px; font-family: Times New Roman">SECURITIES
+AND EXCHANGE COMMISSION</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">Washington,
+D.C.&#xA0;&#xA0;20549</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;<font style="font-weight: bold; font-size: 24px; font-family: Times New Roman">FORM
+6-K</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">&#xA0;REPORT
+OF FOREIGN ISSUER</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">PURSUANT
+TO RULE 13a-16 OR 15b-16 OF</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">THE
+SECURITIES EXCHANGE ACT OF 1934</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">For
+the month of October, 2025</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;<font style="font-weight: bold; font-size: 24px; font-family: Times New Roman">IRSA
+Inversiones y Representaciones Sociedad Anonima</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+(Exact name of Registrant as specified in its charter)</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 24px; font-family: Times New Roman">IRSA
+Investments and Representations Inc.</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+(Translation of registrant&#xB4;s name into English)</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">Republic
+of Argentina</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+(Jurisdiction of incorporation or organization)</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">Carlos
+Della Paolera 261 9th Floor<br></font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">(C1001ADA)</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">Buenos
+Aires, Argentina</font></font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold">&#xA0;(</font>Address of principal
+executive offices)</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;Form 20-F&#xA0;&#x2327;<font id="TAB2" style="letter-spacing: 3pt; color: black">&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;</font>Form
+40-F&#xA0;&#xA0;&#x2610;</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font id="TAB1" style="margin-left: 96px">&#xA0;</font>Indicate by
+check mark whether the registrant by furnishing the information
+contained in this Form is also thereby furnishing the information
+to the Commission pursuant to Rule 12g3-2(b) under the Securities
+Exchange Act of 1934.</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;</font></div>
+<div style="text-align: center; line-height: 1; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+Yes&#xA0;&#x2610;<font id="TAB2" style="letter-spacing: 3pt; color: black">&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;</font>No
+x</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font>&#xA0;</font></div>
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">IRSA
+INVERSIONES Y REPRESENTACIONES SOCIEDAD ANONIMA</font></font></div>
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">(THE
+&#x201C;COMPANY&#x201D;)</font></font></div>
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+&#xA0;</font></div>
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px; color: #000; letter-spacing: normal; white-space: normal; background-color: #ffffff"><font style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; font-family: Times New Roman">
+<font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">REPORT
+ON FORM 6-K</font></font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px; width: 100%"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+<div style="text-align: center; margin-left: 0px; margin-right: 0px; text-indent: 0px; width: 100%"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</div>
+<div id="pb" style="margin-left: 0px; margin-right: 0px; text-align: center; margin-bottom: 6px; page-break-after: always; width: 100%; height: 2px; background-color: #000000"><!--page break--></div>
+<div id="hdr" style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px; width: 100%"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</div>
+</div>
+<font style="font-family: Times New Roman; font-size: 13px">Attached is an
+English translation of the letter dated October 31, 2025, filed by
+the Company with the Bolsa de Comercio de Buenos Aires and the
+Comisi&#xF3;n Nacional de Valores.</font></div>
+<div id="pgbrk" style="width: 100%; margin-left: 0px; text-indent: 0px; margin-right: 0px">
+<div id="ftr">
+<div style="text-align: left; width: 100%"><font style="font-family: Times New Roman; font-size: 11px">&#xA0;</font></div>
+</div>
+<div id="pb" style="text-align: center; margin-left: 0px; margin-right: 0px; margin-bottom: 6px; page-break-after: always; width: 100%; height: 1px; background-color: #000000">
+<!--page break line--></div>
+<div id="hdr">
+<div style="text-align: right; width: 100%"><font style="font-family: Times New Roman; font-size: 11px">&#xA0;</font></div>
+</div>
+</div>
+<div id="pgbrk" style="width: 100%; margin-left: 0px; text-indent: 0px; margin-right: 0px">
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px">Buenos
+Aires -&#xA0; Argentina, October 31, 2025 &#x2013; IRSA Inversiones
+y Representaciones Sociedad An&#xF3;nima (NYSE:IRS;BYMA:IRSA),
+transcribes below a summary of what was resolved in the Ordinary
+and Extraordinary General Shareholders' Meeting held
+on&#xA0;October 30, 2025</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px;">&#xA0;<br></font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px">&#xA0;</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px">
+<font style="font-weight: bold; font-family: Times New Roman; font-size: 13px">FIRST
+ITEM: APPOINTMENT OF TWO SHAREHOLDERS TO SIGN THE MEETING&#x2019;S
+MINUTES.</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px">It was
+resolved, by majority vote, to authorize the appointment of the
+representatives of shareholders ANSES-FGS and CRESUD S.A.C.I.F. Y
+A. (&#x201C;CRESUD&#x201D;) for them to approve and sign the
+meeting&#x2019;s minutes together with the chairman.</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px">&#xA0;</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px">
+<font style="font-weight: bold; font-family: Times New Roman; font-size: 13px">SECOND
+ITEM: CONSIDERATION OF DOCUMENTS CONTEMPLATED IN SECTION 234,
+PARAGRAPH 1, OF LAW NO. 19,550 FOR THE FISCAL YEAR ENDED JUNE 30,
+2025.</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px">It was
+resolved, by majority vote, to approve the documents contemplated
+in section 234, paragraph 1, of Argentine General Companies Law no.
+19,550 (&#x201C;AGCL&#x201D;) for the fiscal year ended June 30,
+2025.</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px">&#xA0;</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px">
+<font style="font-weight: bold"><font style="font-family: Times New Roman; font-size: 13px; font-weight: bold;">THIRD
+ITEM:&#xA0;</font>CONSIDERATION OF THE FINANCIAL RESULT FOR THE
+FISCAL YEAR ENDED JUNE 30, 2025, AMOUNTING A PROFIT OF $
+195,677,675,452.86 (ONE HUNDRED NINETYFIVE BILLION SIX HUNDRED
+SEVENTY-SEVEN MILLION SIX HUNDRED SEVENTY-FIVE THOUSAND FOUR
+HUNDRED FIFTY-TWO PESOS WITH 86/100). CONSIDERATION OF THE
+DISTRIBUTION OF DIVIDENDS PAYABLE IN CASH AND/OR IN KIND FOR UP TO
+$ 164,000,000,000 (ONE HUNDRED SIXTY-FOUR BILLION
+PESOS).</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px">It was
+resolved, by majority vote&#xA0;</font><font>that from the net
+income for the fiscal year, which amounted to ARS
+195,677,675,452.86 (one hundred ninety-five billion six hundred
+seventy-seven million six hundred seventy-five thousand four
+hundred fifty-two pesos with eighty-six cents), and which, restated
+as of the date of the Meeting, amounts to ARS 207,356,244,929.26
+(two hundred seven billion three hundred fifty-six million two
+hundred forty-four thousand nine hundred twenty-nine pesos with
+twentysix cents):</font></div>
+<div style="margin-left: 24px; display: table">
+<div style="display: table-row">
+<div style="text-align: left; display: table-cell; width: 48px">
+<font style="font-family: Times New Roman; font-size: 13px">(i)</font></div>
+<div style="text-align: justify; display: table-cell"><font>That 5% of
+the restated net income, equivalent to ARS 10,367,812,246.46 (ten
+billion three hundred sixty-seven million eight hundred twelve
+thousand two hundred forty-six pesos with forty-six cents), be
+allocated to the legal reserve.</font></div>
+</div>
+</div>
+<div style="margin-left: 24px; display: table">
+<div style="display: table-row">
+<div style="text-align: left; display: table-cell; width: 48px">
+<font style="font-family: Times New Roman; font-size: 13px">(ii)</font></div>
+<div style="text-align: justify; display: table-cell"><font>That a cash
+dividend be distributed to the shareholders in proportion to their
+shareholdings, in the amount of ARS 164,000,000,000 (one hundred
+sixty-four billion pesos), which, restated according to the index
+previously mentioned by the Chair, amounts to ARS
+173,787,960,684.31 (one hundred seventy-three billion seven hundred
+eighty-seven million nine hundred sixty thousand six hundred
+eighty-four pesos with thirty-one cents), delegating to the Board
+of Directors the implementation of its payment within the legal
+time limits.</font></div>
+</div>
+</div>
+<div style="margin-left: 24px; display: table">
+<div style="display: table-row">
+<div style="text-align: left; display: table-cell; width: 48px">
+<font style="font-family: Times New Roman; font-size: 13px">(iii)</font></div>
+<div style="text-align: justify; display: table-cell"><font>That the
+remaining balance of the net income for the fiscal year, after
+deducting the legal reserve and the dividend, amounting to ARS
+23,200,471,998.49 (twenty-three billion two hundred million four
+hundred seventy-one thousand nine hundred ninety-eight pesos with
+forty-nine cents), be allocated to a discretionary reserve called
+&#x201C;special reserve&#x201D;, which may be used for future
+dividend distributions, share repurchases, and/or new projects
+related to the Company&#x2019;s business plan, delegating to the
+Board of Directors the timing of its implementation based on the
+aforementioned purposes and, if applicable, the payment thereof in
+case a dividend distribution is decided</font> <font style="font-family: Times New Roman; font-size: 13px;">&#xA0;</font></div>
+</div>
+</div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px">&#xA0;</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -14px; text-indent: 0px">
+<font style="font-weight: bold; font-family: Times New Roman; font-size: 13px">FOURTH
+ITEM:&#xA0;</font><font><font style="font-weight: bold">CONSIDERATION OF BOARD OF DIRECTORS&#x2019;
+PERFORMANCE FOR THE FISCAL YEAR ENDED JUNE 30,
+2025</font></font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px"><font>It
+was resolved, by majority vote, to approve the performance of the
+Board of Directors for the fiscal year ended June 30, 2025, with
+respect to each of its members, as well as the performance of the
+Directors who also serve as members of the Audit and Executive
+Committees, for the activities carried out during the fiscal year
+under consideration.</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px">&#xA0;</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px">
+<font style="font-weight: bold; font-family: Times New Roman; font-size: 13px">FIFTH
+ITEM:&#xA0;</font><font><font style="font-weight: bold">CONSIDERATION OF SUPERVISORY COMMITTEE&#x2019;S
+PERFORMANCE FOR THE FISCAL YEAR ENDED JUNE 30,
+2025.</font></font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px"><font>It
+was resolved, by majority vote, to approve the performance of the
+Supervisory Committee for the fiscal year ended June 30,
+2025.</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px">&#xA0;</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px">
+<font style="font-weight: bold; font-family: Times New Roman; font-size: 13px">SIXTH
+ITEM:&#xA0;</font><font><font style="font-weight: bold">CONSIDERATION OF COMPENSATION PAYABLE TO THE
+BOARD OF DIRECTORS $ 18,192,594,071.06 (TOTAL COMPENSATION) IN
+EXCESS OF ARS 7,988,274,783.50 OVER THE FIVE PERCENT (5%) LIMIT OF
+ACCRUED PROFITS PURSUANT TO SECTION 261 OF LAW NO. 19,550 AND
+RELATED REGULATIONS, IN VIEW OF THE PROPOSED DIVIDEND
+DISTRIBUTION</font></font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px"><font>It
+was resolved, by majority vote: (I) to approve the compensation of
+the Board of Directors of the Company for a total amount of ARS
+18,192,594,071.06 (eighteen billion one hundred ninety-two million
+five hundred ninety-four thousand seventy-one pesos with six cents)
+corresponding to the fiscal year ended June 30, 2025. Such
+compensation includes technical and administrative functions
+performed by the Directors and is consistent with reasonable
+standards for executive compensation, taking into account the
+technical, operational, and business expertise of the Board
+members, their commitment to their duties, and comparable market
+practices in companies of similar size, all in accordance with the
+corporate governance practices established in the Company&#x2019;s
+Corporate Governance Code; and (II) to authorize the Board of
+Directors to (i) proceed with the timely allocation and
+distribution of such compensation in accordance with the specific
+duties performed by its members, and (ii) make monthly advance
+payments of directors&#x2019; fees, ad referendum of the next
+Ordinary Shareholders&#x2019; Meeting.</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px">&#xA0;</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -14px; text-indent: 0px">
+<font style="font-weight: bold; font-family: Times New Roman; font-size: 13px">SEVENTH
+ITEM:</font><font><font style="font-weight: bold">&#xA0;CONSIDERATION OF COMPENSATION PAYABLE TO
+THE SUPERVISORY COMMITTEE FOR $ 31,559,086 (THIRTY-ONE MILLION FIVE
+HUNDRED FIFTY-NINE THOUSAND EIGHTY-SIX PESOS, ALLOCATED SUM) FOR
+THE FISCAL YEAR ENDED JUNE 30, 2025.</font></font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px"><font>It
+was resolved, by majority vote, to pay the Supervisory Committee a
+total amount of ARS 31,559,086 (thirty-one million five hundred
+fifty-nine thousand eighty-six pesos) for the tasks performed
+during the fiscal year ended June 30, 2025, delegating to the
+Supervisory Committee itself the individual allocation of such
+amount.</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px">&#xA0;</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -14px; text-indent: 0px">
+<font style="font-weight: bold; font-family: Times New Roman; font-size: 13px">EIGHTH
+ITEM:&#xA0;</font><font><font style="font-weight: bold">DETERMINATION OF THE NUMBER AND APPOINTMENT OF
+REGULAR DIRECTORS AND ALTERNATE DIRECTORS, AND DETERMINATION OF
+THEIR TERMS OF OFFICE FOR UP TO THREE FISCAL YEARS, AS PER SECTION
+TWELVE OF THE BYLAW.</font></font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px">&#xA0;</font><font>It
+was resolved, by majority vote: (i) to maintain at twelve (12) the
+number of Regular Directors and to set at two (2) the number of
+Alternate Directors; (ii) to renew the appointments of Alejandro
+Gustavo Elsztain, David Williams, Mar&#xED;a Julia Bearzi, and
+Liliana de Nadai as Regular Directors for a three-year term, i.e.,
+until June 30, 2028; and (iii) not to renew the position of the
+Alternate Director whose term of office expires. It is hereby
+recorded that Mr. Alejandro Gustavo Elsztain, Regular Director,
+qualifies as nonindependent, and that Mr. David Williams, Ms.
+Mar&#xED;a Julia Bearzi, and Ms. Liliana de Nadai, Regular
+Directors, qualify as independent, all in accordance with Section
+11, Chapter III, Title II of the CNV rules (2013
+revision).</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px">&#xA0;</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px">
+<font style="font-weight: bold; font-family: Times New Roman; font-size: 13px">NINETH
+ITEM:&#xA0;</font><font><font style="font-weight: bold">APPOINTMENT
+OF REGULAR AND ALTERNATE MEMBERS OF THE SUPERVISORY COMMITTEE FOR A
+TERM OF ONE FISCAL YEAR.</font></font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px"><font>It
+was resolved, by majority vote, to approve: (i) the appointment of
+Messrs. Jos&#xE9; Daniel Abelovich and Marcelo H&#xE9;ctor Fuxman
+and Ms. Noem&#xED; Ivonne Cohn as regular members of the
+Supervisory Committee, and Messrs. Juan Renna and Mart&#xED;n
+Ghirardotti and Ms. Paula Sotelo as alternate members of the
+Supervisory Committee for a term of one fiscal year, putting on
+record that, pursuant to the CNV Rules, the nominees act in their
+independent capacity and that they have provided remunerated
+professional assistance in connection with companies under Section
+33 of the AGCL; and (ii) that authorization be granted to the
+proposed members of the Supervisory Committee to discharge duties
+in such capacity in other companies pursuant to the provisions of
+Sections 273 and 298 of the AGCL.</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px">&#xA0;</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px">
+<font style="font-weight: bold; font-family: Times New Roman; font-size: 13px">TENTH
+ITEM:&#xA0;</font><font><font style="font-weight: bold">APPOINTMENT
+OF CERTIFYING ACCOUNTANTS FOR THE FISCAL YEAR ENDING JUNE 30,
+2026.</font></font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px"><font>It
+was resolved, by majority vote, to approve the appointment, as
+certifying accountants for the fiscal year ending June 30, 2026,
+of: (a) PRICEWATERHOUSE &amp; Co., member firm of
+PricewaterhouseCoopers, with Mr. Carlos Mart&#xED;n Barbafina as
+Regular External Auditor and Mr. Andr&#xE9;s Su&#xE1;rez as
+Alternate External Auditor; and (b) Estudio Lisicki, Litvin
+Auditores S.A., with Mr. Jos&#xE9; Daniel Abelovich as Regular
+External Auditor and Messrs. Alejandro Javier De Simone and Ms.
+Paula Andrea Sotelo as Alternate External Auditors.</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px">&#xA0;</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px">&#xA0;</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px">
+<font style="font-weight: bold; font-family: Times New Roman; font-size: 13px">ELEVENTH
+ITEM:&#xA0;</font><font><font style="font-weight: bold">APPROVAL OF
+COMPENSATION PAYABLE TO CERTIFYING ACCOUNTANTS FOR THE FISCAL YEAR
+ENDED JUNE 30, 2025.</font></font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px"><font>It
+was resolved, by majority vote, to approve fees in the amount of
+ARS 785,998,870 (seven hundred eighty-five million nine hundred
+ninety-eight thousand eight hundred seventy pesos) for the tasks
+performed by the certifying accountants for the fiscal year ended
+June 30, 2025.</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px">&#xA0;</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px">
+<font style="font-weight: bold; font-family: Times New Roman; font-size: 13px">TWELFTH
+ITEM:&#xA0;</font><font><font style="font-weight: bold">TREATMENT
+OF THE AMOUNTS PAID AS PERSONAL ASSETS TAX BY THE COMPANY ACTING AS
+SUBSTITUTE RESPONSIBLE PARTY ON BEHALF OF THE
+SHAREHOLDERS.</font></font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px"><font>It
+was resolved, by majority vote, that the amounts previously paid by
+the Company as substitute taxpayer on behalf of the shareholders,
+totaling ARS 1,800,111,736.16 (one billion eight hundred million
+one hundred eleven thousand seven hundred thirty-six pesos with
+sixteen cents), be fully absorbed by the Company.</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px">&#xA0;</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px">
+<font style="font-weight: bold; font-family: Times New Roman; font-size: 13px">THIRTEENTH
+ITEM:&#xA0;</font><font><font style="font-weight: bold">CONSIDERATION OF THE SUBSCRIPTION OF AN
+ADDENDUM TO THE WARRANT AGREEMENT DATED APRIL 29, 2021, AS AMENDED
+ON SEPTEMBER 17, 2021 (THE &#x201C;WARRANT AGREEMENT&#x201D;),
+EXECUTED WITHIN THE FRAMEWORK OF THE CAPITAL INCREASE AUTHORIZED BY
+THE ARGENTINE SECURITIES COMMISSION BASED ON THE ISSUANCE
+PROSPECTUS PUBLISHED ON APRIL 12, 2021, BETWEEN THE COMPANY AND
+COMPUTERSHARE, INC. AND COMPUTERSHARE TRUST COMPANY, N.A., TO
+INCORPORATE THE POSSIBILITY OF EXERCISING THE OPTIONS TO SUBSCRIBE
+SHARES WITHOUT CASH PAYMENT, THROUGH THE DELIVERY OF SHARES FOR THE
+DIFFERENTIAL AMOUNT BETWEEN THE EXERCISE VALUE WITH CASH PAYMENT
+AND THE EQUIVALENT MARKET VALUE. DELEGATION TO THE BOARD OF
+DIRECTORS FOR ITS IMPLEMENTATION WITH THE BROADEST
+POWERS.</font></font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px"><font>It
+was resolved, by majority vote, to approve: (i) the execution of an
+addendum to the Warrant Agreement introducing the cashless exercise
+alternative (except for the payment of the par value of the
+shares), that is, allowing the delivery of shares for an amount
+equal to the difference between the exercise price of such options
+with cash payment and the equivalent market value of the shares,
+net of the payment of their par value. The purpose of this
+amendment is to include an additional exercise alternative for the
+warrant holders, under which no cash payment is required (except
+for the payment of the par value of the shares). This alternative
+implies a lower number of shares to be issued by the Company if
+investors choose to exercise their options in this manner, thus
+resulting in less dilution for the other shareholders of the
+Company due to the exercise of such options under this modality. It
+is expressly stated that the inclusion of the cashless exercise
+alternative (except for the payment of the par value of the shares)
+does not affect the right of the beneficiaries to exercise their
+options through the other methods provided for in the Warrant
+Agreement but rather is added as an additional alternative. It is
+also recorded that the proposed modality does not affect the
+economic rights of the other shareholders. This alternative also
+avoids an increased trading volume and fluctuations in the prices
+of the Company&#x2019;s warrants and shares that could otherwise
+arise from arbitrage opportunities or share sales made to fund the
+exercise of options, which might negatively affect their market
+quotations; and (ii) to delegate to the Board of Directors of the
+Company and/or to such persons as it may designate, the
+implementation of the necessary amendments to the Warrant
+Agreement, the establishment of the terms for the exercise of the
+options under this modality, the determination of the exercise
+methodology based on market conditions, and the execution of all
+actions, negotiations, and/or the setting of any other terms and
+conditions that may be necessary or advisable for the
+implementation of the proposed process.</font><font style="font-family: Times New Roman; font-size: 13px">.</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px">&#xA0;</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -14px; text-indent: 0px">
+<font style="font-weight: bold; font-family: Times New Roman; font-size: 13px">FOURTEENTH
+ITEM:&#xA0;</font><font><font style="font-weight: bold">CONSIDERATION OF THE ANNUAL BUDGET FOR THE
+IMPLEMENTATION OF THE AUDIT COMMITTEE&#x2019;S ANNUAL
+PLAN.</font></font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -14px; text-indent: 0px"><font>It
+was resolved, by majority vote, to approve a budget of ARS
+2,100,000 for the implementation of the Annual Plan of the
+Company&#x2019;s Audit Committee.</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px">&#xA0;</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px">
+<font style="font-weight: bold; font-family: Times New Roman; font-size: 13px">FIFTEENTH
+ITEM:&#xA0;</font><font><font style="font-weight: bold">AUTHORIZATION TO CARRY OUT REGISTRATION
+PROCEEDINGS RELATING TO THIS SHAREHOLDERS&#x2019; MEETING BEFORE THE
+ARGENTINE SECURITIES COMMISSION, BOLSAS Y MERCADOS ARGENTINOS S.A.,
+CAJA DE VALORES S.A. AND THE GENERAL SUPERINTENDENCY OF
+CORPORATIONS.</font></font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: -4px; text-indent: 0px"><font>It
+was resolved, by majority vote, to approve the appointment of
+attorneys Mmes. Mar&#xED;a Laura Barbosa, Carolina Zang, Mar&#xED;a
+Ang&#xE9;lica Grisol&#xED;a, Lucila Huidobro, Pilar Isaurralde,
+Nadia Dib, Gaston Di Iorio and Gonzalo Sifon, and Ms. Andrea
+Mu&#xF1;oz, so that, acting individually and separately, they may
+carry out all such actions and/or formalities as may be required to
+secure authorization and/or registration of the resolutions adopted
+at this Shareholders&#x2019; Meeting by the Argentine Securities
+Commission, Bolsas y Mercados Argentinos S.A., Caja de Valores
+S.A., and the General Inspection of Corporations, with powers to
+file applications, sign briefs, accept and implement changes, be
+served notice, answer notices and/or objections, be served notice
+of resolutions, publish legal notices, and carry out all such
+ancillary acts as may be required in connection with the
+authorization and/or registration referred to above.</font></div>
+<div style="text-align: justify; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<font style="font-family: Times New Roman; font-size: 13px">&#xA0;</font></div>
+</div>
+<div id="pgbrk" style="width: 100%; margin-left: 0px; text-indent: 0px; margin-right: 0px">
+<font style="font-family: Times New Roman; font-size: 13px;">&#xA0;</font></div>
+<div id="pgbrk" style="width: 100%; margin-left: 0px; text-indent: 0px; margin-right: 0px">
+<font style="font-family: Times New Roman; font-size: 13px;">&#xA0;</font></div>
+<div id="pgbrk" style="width: 100%; margin-left: 0px; text-indent: 0px; margin-right: 0px">
+<div id="pb" style="margin-left: 0px; margin-right: 0px; text-align: center; margin-bottom: 6px; page-break-after: always; width: 100%; height: 2px; background-color: #000000"><!--page break--></div>
+<div id="hdr" style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px">
+<div style="text-align: right; margin-left: 0px; margin-right: 0px; text-indent: 0px; width: 100%"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</div>
+</div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font>&#xA0;</font></div>
+<div style="text-align: center; margin-left: auto; margin-right: auto; text-indent: 0px"><font style="font-weight: bold; font-size: 13px; font-family: Times New Roman">SIGNATURES</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font>&#xA0;</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font>&#xA0;</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">Pursuant to the
+requirements of the Securities and Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized, in the city of
+Buenos Aires, Argentina.</font></div>
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font>&#xA0;</font></div>
+<div style="text-align: left; margin-left: auto; margin-right: auto;">
+<table cellpadding="0" cellspacing="0" style="text-align: left; font-family: inherit; font-size: inherit;text-align: left; width: 100%;">
+<tr>
+<td style="width: 50%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td colspan="2" style="width: 38%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman"><font style="font-weight: bold">IRSA Inversiones y Representaciones Sociedad
+An&#xF3;nima</font></font></div>
+</td>
+<td style="width: 12%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+</tr><tr>
+<td style="width: 50%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 12px"><font style="font-family: Times New Roman;">&#xA0;</font></font></div>
+</td>
+<td style="width: 3%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="width: 35%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="width: 12%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+</tr><tr>
+<td style="width: 50%; border-bottom: 2px solid #ffffff">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 12px">October 31, <font style="font-family: Times New Roman;">2025</font></font></div>
+</td>
+<td style="width: 3%; border-bottom: 2px solid #ffffff">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">By:</font></div>
+</td>
+<td style="width: 35%; border-bottom: 2px solid black">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">/s/&#xA0;Sa&#xFA;l
+Zang</font></div>
+</td>
+<td style="width: 12%; border-bottom: 2px solid #ffffff">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+</tr><tr>
+<td style="width: 50%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="width: 3%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="width: 35%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">Sa&#xFA;l
+Zang</font></div>
+</td>
+<td style="width: 12%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+</tr><tr>
+<td style="width: 50%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="width: 3%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="width: 35%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">Responsible for the
+Relationship with the Markets</font></div>
+</td>
+<td style="width: 12%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+</tr><tr>
+<td style="width: 50%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="width: 3%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="width: 35%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+<td style="width: 12%">
+<div style="text-align: left; margin-left: 0px; margin-right: 0px; text-indent: 0px"><font style="font-size: 13px; font-family: Times New Roman">&#xA0;</font></div>
+</td>
+</tr></table>
+</div>
+
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>

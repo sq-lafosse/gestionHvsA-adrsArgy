@@ -1,0 +1,637 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>tm2516377d1_6k.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin: 0"></P>
+
+<p style="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Washington</B></FONT><B>,
+D.C.&nbsp;&nbsp;20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 25%"><DIV STYLE="border-top: Black 1pt solid; font-size: 1pt">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FORM&nbsp;6-K</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>REPORT OF FOREIGN PRIVATE ISSUER</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">May&nbsp;28,&nbsp;2025</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 25%"><DIV STYLE="border-top: Black 1pt solid; font-size: 1pt">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Commission File Number: 001-32827</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 25%"><DIV STYLE="border-top: Black 1pt solid; font-size: 1pt">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-size: 14pt"><B>MACRO BANK INC.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>(Translation of registrant&rsquo;s name into
+English)</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 25%"><DIV STYLE="border-top: Black 1pt solid; font-size: 1pt">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Avenida Eduardo Madero 1182</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Ciudad Aut&oacute;noma de Buenos Aires C1106 ACY</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Tel: 54 11 5222 6500</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>(Address of registrant&rsquo;s principal executive
+offices)</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 25%"><DIV STYLE="border-top: Black 1pt solid; font-size: 1pt">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark whether the registrant files or will file annual
+reports under cover of Form&nbsp;20-F or Form&nbsp;40-F.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; width: 30%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Form&nbsp;20-F</FONT></TD>
+    <TD STYLE="padding-left: 0.125in; text-align: left; width: 25%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">&#120;</FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Form&nbsp;40-F</FONT></TD>
+    <TD STYLE="padding-left: 0.125in; text-align: left; width: 25%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">&#168;</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark if the registrant is submitting the Form&nbsp;6-K
+in paper as permitted by Regulation S-T Rule&nbsp;101(b)(1):</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; width: 30%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD>
+    <TD STYLE="padding-left: 0.125in; width: 25%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">&#168;</FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD STYLE="padding-left: 0.125in; width: 25%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">&#120;</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark if the registrant is submitting the Form&nbsp;6-K
+in paper as permitted by Regulation S-T Rule&nbsp;101(b)(7):</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; width: 30%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD>
+    <TD STYLE="padding-left: 0.125in; width: 25%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">&#168;</FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD STYLE="padding-left: 0.125in; width: 25%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">&#120;</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<div><div align="center"><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg001.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">1Q25
+Earnings
+Release
+MAY 28
+TH, 2025</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg002.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+2
+Index
+01 Summary
+02 Disclaimer
+03 Results
+04 Financial Assets
+05 Public Sector Assets
+06 Funding
+07 Liquid Assets
+08 Solvency
+09 Asset Quality
+10 4Q24 Snapshot
+11 Relevant and Recent Events
+12 Regulatory Changes
+13 CER Exposure and Foreign Currency Position</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg003.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+3
+Banco Macro
+Announces Results for
+the First Quarter of
+2025
+Buenos Aires, Argentina, May 28, 2025 &#x2013; Banco Macro S.A.
+(NYSE: BMA; BYMA: BMA) (&#x201C;Banco Macro&#x201D; or &#x201C;BMA&#x201D; or the
+ &#x201C;Bank&#x201D;) announced today its results for the first quarter
+ended March 31, 2025 (&#x201C;1Q25&#x201D;). All figures are in Argentine
+pesos (Ps.) and have been restated in terms of the measuring
+unit current at the end of the reporting period. For ease of
+comparison, figures of previous quarters of 2024 have been
+restated applying IAS 29 to reflect the accumulated effect of
+the inflation adjustment for each period through March 31,
+2025.</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg004.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+4
+NET INCOME
+Ps. 45.7 billion
+1Q25
+OPERATING INCOME
+Ps. 347.8 billion
+1Q25
+RETURN ON AVERAGE EQUITY &amp; RETURN ON AVERAGE ASSETS
+3.8% 1.2%
+ROAE 1Q25 ROAA 1Q25
+BANCO MACRO&#x2019;S TOTAL FINANCING
+Ps. 7.7 trillion +22%
+1Q25 HIGHER THAN 4Q24
+BANCO MACRO&#x2019;S TOTAL DEPOSITS
+Ps. 9.6 trillion +5%
+1Q25 HIGHER THAN 4Q24</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg005.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+5
+BANCO MACRO&#x2019;S TOTAL DEPOSITS REPRESENTED PRIVATE SECTOR DEPOSITS 1Q25
+82% Ps. 8.8 trillion
+OF TOTAL LIABILITIES +4% HIGHER THAN 4Q24
+EXCESS CAPITAL CAPITAL ADEQUACY RATIO
+Ps. 3.2 trillion 34.3%
+319% EXCESS IN 1Q25
+TIER 1 RATIO LIQUID ASSETS / TOTAL DEPOSITS RATIO
+33.6% 68%
+IN 1Q25 IN 1Q25
+BANK&#xB4;S NON-PERFORMING TO TOTAL FINANCING RATIO COVERAGE RATIO
+1.44% 163.34%
+IN 1Q25 IN 1Q25
+RETAIL CUSTOMERS CORPORATE CUSTOMERS
+6.23 million 205,816
+IN 1Q25 IN 1Q25</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg006.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+6
+Summary .01
+ &#x2022; THE BANK&#x2019;S NET INCOME totaled Ps.45.7 billion in
+1Q25. This result was 59% or Ps.65.3 billion lower than
+the result posted in 4Q24. In 1Q25, the annualized return
+on average equity (&#x201C;ROAE&#x201D;) and the annualized return on
+average assets (&#x201C;ROAA&#x201D;) were 3.8% and 1.2%,
+respectively.
+ &#x2022; In 1Q25, OPERATING INCOME (before G&amp;A and
+personnel expenses) totaled Ps.801 billion, 9% or Ps.82.6
+billion lower than in 4Q24 and 68% or Ps.1.7 trillion lower
+than the same period of last year.
+ &#x2022; In 1Q24, OPERATING INCOME (after G&amp;A and
+personnel expenses) totaled Ps.347.8 billion, 11% or
+Ps.43 billion lower than in 4Q24 and 82% or Ps.1.6 trillion
+lower than the same period of last year.
+ &#x2022; In 1Q25, BANCO MACRO&#x2019;S TOTAL FINANCING
+increased 22% or Ps.1.4 trillion quarter over quarter
+(&#x201C;QoQ&#x201D;) totaling Ps.7.7 trillion and increased 97% or
+Ps.3.8 trillion year over year (&#x201C;YoY&#x201D;). In 1Q25 both peso
+an USD financing increased 21% and 22% respectively.
+ &#x2022; In 1Q25, BANCO MACRO&#x2019;S TOTAL DEPOSITS increased
+5% or Ps.485.4 billion QoQ and increased 23% or Ps.1.8
+trillion YoY, totaling Ps.9.6 trillion and representing 82%
+of the Bank&#x2019;s total liabilities. Private sector deposits
+increased 4% or Ps.349.6 billion QoQ. In1Q25, Peso
+deposits increased 15% while USD deposits decreased,
+17%.
+ &#x2022; Banco Macro continued showing a strong solvency
+ratio, with an EXCESS CAPITAL of Ps.3.2 trillion, 34.3%
+Capital Adequacy Ratio &#x2013; Basel III and 33.6% Tier 1 Ratio.
+In addition, the Bank&#x2019;s LIQUID ASSETS remained at an
+adequate level, reaching 68% of its total deposits in
+1Q25.
+ &#x2022; In 1Q25, the Bank&#x2019;s NON-PERFORMING TO TOTAL
+FINANCING RATIO was 1.44% and the COVERAGE RATIO
+reached 163.34%.
+ &#x2022; As of 1Q25, through its 505 branches and 8,903
+employees Banco Macro serves 6.23 million retail
+customers (2.6 million digital customers) across 23 of the
+24 Provinces in Argentina and over 205,816 corporate
+customers.</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg007.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+7
+Disclaimer .02
+This press release includes forward-looking statements. We have based these forward-looking statements largely on our
+current beliefs, expectations and projections about future events and financial trends affecting our business. Many important
+factors could cause our actual results to differ substantially from those anticipated in our forward-looking statements,
+including, among other things: inflation; changes in interest rates and the cost of deposits; government regulation; adverse
+legal or regulatory disputes or proceedings; credit and other risks of lending, such as increases in defaults by borrowers;
+fluctuations and declines in the value of Argentine public debt; competition in banking and financial services; deterioration in
+regional and national business and economic conditions in Argentina; and fluctuations in the exchange rate of the peso.
+The words &#x201C;believe,&#x201D; &#x201C;may,&#x201D; &#x201C;will,&#x201D; &#x201C;aim,&#x201D; &#x201C;estimate,&#x201D; &#x201C;continue,&#x201D; &#x201C;anticipate,&#x201D; &#x201C;intend,&#x201D; &#x201C;expect&#x201D; and similar words are
+intended to identify forward-looking statements. Forward-looking statements include information concerning our possible or
+assumed future results of operations, business strategies, financing plans, competitive position, industry environment,
+potential growth opportunities, the effects of future regulation and the effects of competition. Forward-looking statements
+speak only as of the date they were made, and we undertake no obligation to update publicly or to revise any forward-looking
+statements after we distribute this press release because of new information, future events or other factors. In light of the
+risks and uncertainties described above, the forward-looking events and circumstances discussed in this press release might
+not occur and are not guarantees of future performance.
+This report is a summary analysis of Banco Macro's financial condition and results of operations as of and for the period
+indicated. For a correct interpretation, this report must be read in conjunction with all other material periodically filed with
+the Comisi&#xF3;n Nacional de Valores (www.cnv.gob.ar), the Securities and Exchange Commission (www.sec.gov), Bolsas y
+mercados Argentinos (www.byma.com.ar) and the New York Stock Exchange (www.nyse.com). In addition, the Central Bank
+(www.bcra.gov.ar) may publish information related to Banco Macro as of a date subsequent to the last date for which the
+Bank has published information.
+Readers of this report must note that this is a translation made from an original version written and expressed in Spanish.
+Consequently, any matters of interpretation should be referred to the original version in Spanish.
+This Earnings Release has been prepared in accordance with the accounting framework established by the Central Bank of
+Argentina (&#x201C;BCRA&#x201D;), based on International Financial Reporting Standards (&#x201C;I.F.R.S.&#x201D;) and the resolutions adopted by the
+International Accouting Standards Board (&#x201C;I.A.S.B&#x201D;) and by the Federaci&#xF3;n Argentina de Consejos Profesionales de Ciencias
+Econ&#xF3;micas (&#x201C;F.A.C.P.E.&#x201D;). As of January 2020 the Bank started reporting with the application of (i) Expected losses of IFRS 9
+ &#x201C;Financial Instruments&#x201D; and (ii) IAS 29 &#x201C;Financial Reporting in Hyperinflationary Economies&#x201D;. Data and figures shown in this
+Earnings Release may differ from the ones shown in the 20-F annual report. As of fiscal year 2021, the monetary result accrued
+by items of a monetary nature measured at fair value with changes in Other Comprehensive Income (OCI), is recorded in the
+Result form the Net Monetary Position integrating the Net Result of the period in accordance with Communication &#x201C;A&#x201D; 7211
+of the Central Bank of Argentina. Previous quarters of 2024 have been restated in accordance with said Communication in
+order to make a comparison possible</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg008.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+8
+Results .03
+1Q25 Earnings Release
+Conference Call
+Thursday, May 29, 2025
+Time:
+11:00 a.m. Eastern Time
+12:00 p.m. Buenos Aires Time
+To participate, please register here:
+Banco Macro 1Q25 Earnings Call
+IR Contacts in Buenos Aires:
+Jorge Scarinci
+Chief Financial Officer
+Nicol&#xE1;s A. Torres
+Investor Relations
+Phone: (54 11) 5222 6682
+E-mail: investorelations@macro.com.ar
+Visit our website at:
+www.macro.com.ar/relaciones-inversores </font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg009.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+9
+Earnings per outstanding share were Ps.70.14 in 1Q25, 60% lower than in 4Q24 and 90% lower than the result posted
+a year ago.
+Banco Macro&#x2019;s 1Q25 net income of Ps.45.7 billion was 59% or Ps.65.3 billion lower than the previous quarter. This result
+was mainly due to lower net income from financial assets and liabilities at fair value through profit or loss and the bigger
+loss related to the result from the net monetary position (higher inflation in the quarter) which was partially offset by
+higher other operating income, and lower employee benefits and administrative expenses. This result represented an
+annualized ROAE and ROAA of 3.8% and 1.2% respectively. Total comprehensive income for the quarter totaled Ps.43.5
+billion, 65% lower than the result posted in the previous quarter.
+Net operating income (before G&amp;A and personnel expenses) was Ps.801 billion in 1Q25, 9% or Ps.82.6 billion lower
+compared to 4Q24 due to lower income from interest on government securities. On a yearly basis, Net Operating Income
+(before G&amp;A and personnel expenses) decreased 68% or Ps.1.7 trillion.
+In 1Q25, Provision for loan losses totaled Ps.66 billion, 62% or Ps.25.3 billion higher than in 4Q24, given the loan growth
+experienced in the quarter. On a yearly basis provision for loan losses increased 124% or Ps.36.6 billion.
+Operating income (after G&amp;A and personnel expenses) was Ps.347.8 billion in 1Q25, 11% or Ps.43 billion lower than in
+4Q24 and 82% or Ps.1.6 trillion lower than a year ago.
+It is important to emphasize that this
+result was obtained with a leverage of
+only 3.6x assets to equity ratio. </font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg010.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+10
+The Bank&#x2019;s 1Q25 net interest income totaled Ps.579.2 billion, Ps.1 billion higher than in 4Q24 and 122% or Ps.318 billion
+higher YoY. This result is due to a 8% decrease in interest expense and an 3% decrease in interest income and (a 21%
+decrease in income from interest from government securities stands out).
+In 1Q25 interest income totaled Ps.866.7 billion, 3% or Ps.22.6 billion lower than in 4Q24 and 22% or Ps.247.8 billion
+lower than in 1Q24.
+Income from interest on loans and other financing totaled Ps.592.3 billion, 9% or Ps.49.6 billion higher compared with
+the previous quarter mainly due to an 18% increase in the average volume of private sector loans which was partially
+offset by a 200 basis points decease in the average lending rate. On a yearly basis Income from interest on loans
+decreased 18% or Ps.132.2 billion.
+In 1Q25, income from government and private securities decreased 21% or Ps.71.5 billion QoQ (mainly Bonos del Tesoro
+Nacional in pesos BONTE, and inflation adjusted bonds BONCER) and increased 83% or Ps.123 billion compared with the
+same period of last year. This result is explained 93% by income from government and private securities at amortized </font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg011.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+11
+cost and the remaining 7% is explained by income from government securities valued at fair value through other
+comprehensive income.
+In 1Q25, income from Repos totaled Ps.864 million, 79% or Ps.382 million higher than the previous quarter and 100%
+or Ps.236 billion lower than a year ago. It is worth noting that as of July 22, 2024 the Central Bank decided to terminate
+Repos and replaced them with LEFIs (issued by the Treasury)
+In 1Q25 FX income totaled a Ps.6.4 billion gain, 95% or Ps.118.7 billion lower than a year ago. In the quarter the
+Argentine peso depreciated 4% against the USD as the Central Bank of Argentina lowered the crawling peg from 2% per
+month to 1% per month effective as of February 2025. </font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg012.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+12
+The Bank&#x2019;s 1Q25 interest expense totaled Ps.287.6 billion, decreasing 8% or Ps.23.5 billion compared to the previous
+quarter and 66% (Ps.565.8 billion) lower compared to 1Q24.
+In 1Q25, interest on deposits represented 95% of the Bank&#x2019;s total interest expense, decreasing 8% or Ps.22.3 billion
+QoQ, due to a 274 basis points decrease in the average rate paid on deposits while the average volume of private sector
+deposits increased 15%. On a yearly basis, interest on deposits decreased 67% or Ps.547.9billion.</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg013.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+13
+In 1Q25, the Bank&#x2019;s net interest margin (including FX) was 23.2%, lower than the 24.7% posted in 4Q24 and the 26.1%
+posted in 1Q24.</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg014.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+14
+In 1Q25 Banco Macro&#x2019;s net fee income totaled Ps.146.5 billion, Ps.17 million higher than in 4Q24 and was 27% or Ps.31
+billion higher than the same period of last year.
+In the quarter, fee income totaled Ps.169.8 billion, 1% or Ps.943 million lower than in 4Q24. In the quarter ATM
+transaction fees decreased 18% or Ps.1.9 billion and credit card fees decreased 2% or Ps.635 million which were partially
+offset by a 3% or Ps.1.7 billion increase in fees charged on deposit accounts. On a yearly basis, fee income increased 29%
+or Ps.38.5 billion.
+In the quarter, total fee expense decreased 4% or Ps.960 million. On a yearly basis, fee expenses increased 48% or Ps.7.5
+billion.</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg015.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+15
+In 1Q25 Net Income from financial assets and liabilities at fair value through profit or loss totaled a Ps.66.4 billion gain,
+decreasing 55% or Ps.80 billion compared to 4Q24. This result is mainly due lower income from Government Securities.
+On a yearly basis Net Income from financial assets and liabilities at fair value through profit or loss decreased 97% or
+Ps.1.9 trillion.
+On a quarterly basis Net Income from financial
+assets and liabilities at fair value through profit
+or loss decreased 55%.</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg016.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+16
+In the quarter, Other Operating Income totaled Ps.68.5 billion, 29% or Ps.15.5 billion higher than in 4Q24 due to higher
+other service related fees (+29% or Ps.6.2 billion) and higher income from credit and debit cards (+35% or Ps.4 billion).
+On a yearly basis, Other Operating Income decreased 2% or Ps.1.4 billion.
+In 1Q25 Banco Macro&#x2019;s administrative expenses plus employee benefits totaled Ps.257 billion, 10% or Ps.27.3 billion
+lower than the previous quarter, due to lower employee benefits (-9%) and lower (-11%) administrative expenses. On a
+yearly basis, administrative expenses plus employee benefits decreased 19% or Ps.58.5 billion.
+Employee benefits decreased 9% or Ps.16.4 billion QoQ, remunerations decreased 6% or Ps.7.7 billion while
+compensation and bonuses decreased 18% or Ps.4.6 billion. On a yearly basis, Employee benefits decreased 18% or
+Ps.37.6 billion.
+In 1Q25, administrative expenses decreased 11% or Ps.10.9 billion, due to lower (71% or Ps.5.7 billion) Directors and
+statutory auditors fees and lower Other administrative expenses (27% or Ps.8 billion) On a yearly basis administrative
+expenses decreased 19% or Ps.20.9 billion.
+In 1Q25, the efficiency ratio reached 38.2%, improving from the 39.4% posted in 4Q24 and deteriorating form the 14.7%
+posted a year ago. In 1Q25 expenses (employee benefits + G&amp;A expenses + depreciation and impairment of assets)
+decreased 10%, while income (net interest income + net fee income + differences in quoted prices of gold and foreign
+currency + other operating income + net income from financial assets at fair value through profit or loss &#x2013; (Turnover Tax
++ Insurance on deposits)) decreased 7% compared to 4Q24.</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg017.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+17
+In 1Q25, Other Operating Expenses totaled Ps.159.2 billion, decreasing 5% or Ps.8.7 billion QoQ. On a yearly basis, Other
+Operating Expenses decreased 27% or Ps.59.2 billion.</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg018.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+18
+In 1Q25, the result from the net monetary position totaled a Ps.267.1 billion loss, 11% or Ps.27.1 billion higher than
+the loss posted in 4Q24 and 81% or Ps.1.1 trillion lower than the loss posted one year ago. Higher inflation was
+observed during the quarter (54 b.p. above 4Q24 level, up to 8.6% from 8% in 4Q24).
+In 1Q25, Banco Macro's effective income tax rate was 43%, higher than the one registered in 4Q24.
+For more information, please see note 21 &#x201C;Income Tax&#x201D; of our Financial
+Statements. </font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg019.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+19
+Financial Assets .04
+Loans and other financing
+The volume of financing (including loans, financial trust and leasing portfolio) totaled Ps.7.7 trillion, increasing 22% or
+Ps.1.4 trillion QoQ and increasing 97% or Ps.3.8 trillion YoY. In 1Q25 Private sector loans increased 22% or Ps.1.3 trillion.
+On a yearly basis Private sector loans increased 94% or Ps.3.6 trillion.
+Within commercial loans, Overdrafts and Others stand out with a 107% or Ps.628.7 billion increase and a 16% or
+Ps.188.4 billion increase, respectively.
+Within consumer lending, almost all product lines increased during 1Q25, personal loans and credit card loans stand
+out with a 28% or Ps.354.1 billion and a 4% or Ps.65.2 billion increase respectively.
+Within private sector financing, peso financing increased 21% or Ps.1 trillion, while US dollar financing increased 22% or
+USD 262 million.
+As of 1Q25, Banco Macro&#x2019;s market share over private sector loans was 9.5%.</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg020.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+20
+Public Sector Assets .05
+In 1Q25, the Bank&#x2019;s public sector assets to total assets ratio was 26.7%, lower than the 27.4% registered in the previous
+quarter, and lower than the 47.7% posted in 1Q24.
+In 1Q25, a 85% or Ps.568.9 billion decrease
+in CER adjusted Government securities at
+fair value through P&amp;L stands out.</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg021.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+21
+Funding .06
+Deposits
+Banco Macro&#x2019;s deposit base totaled Ps.9.6 trillion in 1Q25, increasing 5% or Ps.485.4 billion QoQ and increasing 23% or
+Ps.1.8 trillion YoY and representing 82% of the Bank&#x2019;s total liabilities.
+On a quarterly basis private sector deposits increased 4% or Ps.349.6 billion while public sector deposits increased 20%
+or Ps.136.6 billion.
+Within private sector deposits, demand deposits decreased 22% or Ps.1.2 trillion, while time deposits increased 83% or
+Ps.1.8 trillion QoQ.
+Within private sector deposits, peso deposits increased 15% or Ps.899.5 billion, while US dollar deposits decreased 17%
+or USD 497 million.
+As of 1Q25, Banco Macro&#x2019;s market share over private sector deposits was 7.8%.
+Banco Macro&#x2019;s transactional deposits represent approximately 48% of its total deposit base as of 4Q24. These
+accounts are low cost and are not sensitive to interest rate increases.</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg022.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+22
+Other sources of funds
+In 1Q25, the total amount of other sources of funds increased 1% or Ps.31.2 billion compared to 4Q24 mainly due to a 1% or
+Ps.42.6 billion increase in Shareholders&#x2019; equity generated by the positive net income registered during the period while
+Subordinated Corporate bonds decreased 3% or Ps.12.1 billion. On a yearly basis, other sources of funds decreased 16% or
+Ps.973 billion. </font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg023.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+23
+Liquid Assets .07
+In 1Q25, the Bank&#x2019;s liquid assets amounted to Ps.6.5 trillion, showing a 10% or Ps.714.5 billion decrease QoQ, and a 33% or
+Ps.3.2 trillion decrease on a yearly basis. In 1Q25 Cash decreased 27% or Ps.774 biillion while Other government and private
+securities decreased 2% or Ps.65.7 billion which were partially offset by a 552% or Ps.57.8 billion increase in Call and a Ps.76.9
+billion increase in Repo transactions.
+In 1Q25 Cash decreased 27% or Ps.774
+billion while Other government and
+private securities decreased 2% or
+Ps.65.7 billion.
+In 1Q25, Banco Macro&#x2019;s liquid assets to
+total deposits ratio reached 68%.
+LIQUID ASSETS
+In MILLION $ (Measuring Unit Current at EOP) 1Q24 2Q24 3Q24 4Q24 1Q25 QoQ YoY
+Cash 1,792,371 2,148,171 4,067,708 2,921,202 2,146,800 -27% 20%
+Guarantees for compensating chambers 155,332 139,266 148,083 150,472 141,385 -6% -9%
+Call -13,194.00 5,787.00 16,420 10,479 68,293 552% -
+Net Repos 432,680 0 1 -20,581 56,268 - -100%
+Other government &amp; private securities 7,378,843 6,405,129 4,387,269 4,187,501 4,121,820 -2% -44%
+Total 9,746,032 8,698,353 8,619,481 7,249,073 6,534,566 -10% -33%
+Liquid assets to total deposits 124% 98% 91% 79% 68%
+MACRO Consolidated Change</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg024.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+24
+Banco Macro continued showing high solvency levels in 1Q25 with an integrated capital (RPC) of Ps.4.2 trillion over a total
+capital requirement of Ps.999 billion. Banco Macro&#x2019;s excess capital in 1Q25 was 319% or Ps.3.2 trillion.
+The Capital Adequacy Ratio (as a percentage of risk-weighted assets- RWA) was 34.3% in 1Q25; TIER1 Ratio stood at 33.6%.
+The Bank&#x2019;s aim is to make THE BEST
+USE OF THIS EXCESS CAPITAL.
+Solvency .08</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg025.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+25
+Asset Quality .09
+In 1Q25, Banco Macro&#x2019;s non-performing to total financing ratio (under Central Bank rules) reached a level of 1.44%, up from
+1.28% in 4Q24, and from the 1.14% posted in 1Q24.
+Consumer portfolio non-performing loans deteriorated 37b.p. (up to 1.81% from 1.44% in 4Q24) while Commercial portfolio
+non-performing loans improved 22 b.p. in 1Q25 (down to 0.66% from 0.88%).
+The coverage ratio (measured as total allowances under Expected Credit Losses over Non Performing loans under Central
+Bank rules) reached 163.34% in 1Q25. Write-offs over total loans totaled 0.07%.
+The Bank is committed to continue working in this area to maintain excellent asset quality standards.
+Expected Credit Losses (E.C.L) (I.F.R.S.9)
+The Bank records an allowance for expected credit losses for all loans and other debt financial assets not held
+at fair value through profit or loss, together with loan commitments and financial guarantee contracts, in this
+section all referred to as &#x2018;financial instruments&#x2019;. Equity instruments are not subject to impairment under IFRS 9.
+The ECL allowance is based on the credit losses expected to arise over the life of the asset (the lifetime expected
+credit loss), unless there has been no significant increase in credit risk since origination, in which case, the
+allowance is based on the 12 months expected credit loss.(For further information please see our 2024 20-F)</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg026.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+26
+1Q25 Snapshot .10
+In AR$ Million. Figures of previous quarters have been restated to reflect the accumulated effect of the inflation adjustment
+for each period through March 31, 2025</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg027.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+27</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg028.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+28</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg029.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+29
+Relevant and Recent Events .11
+ &#xB7; Interest Payment Series A Subordinated Notes
+On May 4th, 2025 the Bank paid semiannual interest on Series A subordinated notes in the amount of
+USD 13,286,000
+ &#xB7; Interest Payment Series 32 UVA adjusted Notes
+On May 19
+th, 2025 the Bank paid quarterly interest on Class 32 UVA denominated notesin the amount
+of Ps. 117,840,032.48
+ &#xB7;Shareholders&#x2019; Meeting
+On April 4th the Shareholders&#x2019; Meeting resolved to separate a portion of the Optional Reserve Fund for
+Future Profit Distributions, in order to pay a cash or in kind dividend, in the latter case valued at market
+price, or in any combination of both options, in the amount of AR$ 300,000,000,000 (amount expressed
+in constant currency as of 31 December 2024), which expressed in constant currency as of 28
+February 2025 amounts to AR$ 313,997,329,740 and represents AR$ 491.0709187697 per share,
+subject to prior authorization from the Banco Central de la Rep&#xFA;blica Argentina (BCRA). The above
+stated amount is subject to a 7% tax withholding under section 97 of the Income Tax Law as revised in
+2019.
+Pursuant to the provisions of Communication &#x201C;A&#x201D; 8214, financial entities shall be able to distribute
+profits in 10 monthly equal and consecutive instalments as of June 30th 2025. The amount of each
+dividend instalment shall be paid in constant currency as of each payment date, after re-expression of
+the relevant payable amount by applying the most recently published rate before the date on which
+each of the above mentioned instalments is made available according to the payment schedule duly
+fixed by the Board.
+Please be advised that for all references contained herein as to re-expressing any amounts in constant
+currency, the applicable rate shall be the national consumer price index (CPI) published by Instituto
+Nacional de Estad&#xED;sticas y Censos (INDEC).
+Accordingly, pursuant to the provisions of Communique &#x201C;A&#x201D; 7984 mentioned above, Banco Macro S.A. </font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg030.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+30
+shall request the BCRA authorization for the distribution of the dividends approved by the Shareholders&#x2019;
+Meeting first above mentioned.
+ &#xB7;New CEO. Mr. Juan Parma appointed as Banco Macro&#x2019;s new CEO
+On March 31st 2025 the Board of Directors, at its meeting held on the date designated Mr. Juan Mart&#xED;n
+Parma as General Manager to hold office as of next April 1st, under the terms of section 270 of the
+Argentine General Business Company Law.
+Mr. Parma graduated from Universidad Nacional de La Plata with a Business Administration degree and
+holds an MBA from CEMA University, and has attended several international leadership programs in
+Singapore, France and the United States of America.
+Mr. Parma has built a strong and solid career in the international financial sector with more than 28 years
+of experience in top management positions at institutions established in different countries worldwide.</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg031.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+31
+Regulatory Changes .12
+ &#xB7; Fx. Controls
+On April 14th 2025 through Communication &#x201C;A&#x201D; 8226 the Central Bank of Argentina decided to relax
+some Fx Controls. The Central Bank introduced modifications to the foreign exchange market access
+controls Among other issues, the USD 200 limit for individuals to access the MLC (Single Free Exchange
+Market) is eliminated, and all restrictions related to government assistance received during the
+pandemic, subsidies, public employment, and others are removed. The cross-restriction to operate in
+the MLC and MEP/CCL and the limitations on their settlement (prohibition of doing so in banknotes or
+deposit in custody or third-party accounts), as well as the affidavit referring to 90 days (previous and
+subsequent), and the cross-restriction for collecting payments for service exports and operating
+MEP/CCL are also eliminated
+Regarding payment of new imports, it is established that:
+For imports of all types of goods officially registered as of 04/14/25, the payment term will be 0 calendar
+days from the date of customs entry registration. Imports of goods by *SMEs may be paid from the
+dispatch from the port of origin.
+Regarding imports of capital goods, they may be paid with a 30% advance, 50% upon dispatch from the
+port of origin, and 20% upon customs entry registration.
+Furthermore, it is established that entities may grant their clients access to the foreign exchange market
+to transfer foreign currency abroad for profits and dividends to non-resident shareholders within the
+framework established in Foreign Exchange Regulations when these correspond to distributable profits
+obtained from earnings realized in regular and audited annual financial statements for fiscal years
+starting on or after January 2025
+On April 21st, 2025 through Communication &#x201C;A&#x201D; 8230 the Central Bank of Argentina eliminated the
+prior approval requirement for non-resident investors to access the foreign exchange market in the
+following cases:
+(i) Payments of financial debt: With related parties, with an average life of the debt greater than or
+equal to
+180 days, and funds entered and settled as of April 21st
+, 2025
+(ii) Repatriation of investments by non-residents in non-controlling companies of local financial entities,
+provided that the contribution has been entered and settled since April 21st 2025, and the repatriation
+occurs at least 180 days after the settlement of the contribution.
+(iii) Repatriation of portfolio investments by non-residents, provided that the investment was made
+with funds settled as of April 21st
+, 2025, and 180 days have passed since the settlement of the funds.</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg032.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+32
+CER Exposure and Foreign Currency Position .13</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg033.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+33</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg034.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+34</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg035.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+35</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" style="width:100%;border-collapse:collapse;"><tr style="page-break-inside:avoid;"><td width="92.3%" valign="top" style="padding:0in 5.4pt 0in 5.4pt;width:92.3%;"><p align="center" style="margin:0in 0in .0001pt;text-align:center;"><img src="tm2516377d1_6kimg036.jpg" alt="GRAPHIC"></p></td><td width="7.7%" valign="middle" style="padding:0in 5.4pt 0in 5.4pt;width:7.7%;"><p style="margin:0in 0in .0001pt;"><font size="1" color="white" face="Arial" style="color:white;font-size:1.0pt;">BANCO MACRO 1Q25 EARNINGS RELEASE
+36
+1Q25
+Earnings
+Release</font></p></td></tr></table></div><div style="margin-left:2.6515151515151%;margin-right:2.65151515151515%;page-break-after:always;" ><div style="background-color:#000000;clear:both;height:2pt;border:0;margin:30pt 0pt 30pt 0pt;"></div></div></div></div>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">SIGNATURE</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Pursuant to the requirements of the Securities Exchange Act of 1934,
+the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="vertical-align: top">
+    <TD>Date: May&nbsp;28, 2025</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">MACRO BANK INC.</FONT></TD>
+    </TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 3%">&nbsp;</TD>
+    <TD STYLE="width: 47%">&nbsp;</TD>
+    </TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/ Jorge Francisco Scarinci</FONT></TD>
+    </TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name: Jorge Francisco Scarinci </FONT></TD>
+    </TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title: Chief Financial Officer</FONT></TD>
+    </TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin: 0">&nbsp;&nbsp;</P>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

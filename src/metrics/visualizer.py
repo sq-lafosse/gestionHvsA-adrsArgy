@@ -15,6 +15,7 @@ from pathlib import Path
 
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
+import pandas as pd
 
 from src.backtest import BacktestResult
 
@@ -22,25 +23,35 @@ logger = logging.getLogger(__name__)
 
 _PORTFOLIO_COLOR = "#1a2e6b"
 _BENCHMARK_COLORS = {
-    "ew_bnh":       "#e07b26",
-    "al30d_static": "#2a9d8f",
-    "merval_usd":   "#c1121f",
+    "ew_bnh":             "#e07b26",
+    "al30d_static":       "#2a9d8f",
+    "merval_usd":         "#c1121f",
+    "fima_acciones_usd":  "#6a0dad",
 }
 _BENCHMARK_LABELS = {
-    "ew_bnh":       "EW B&H ADRs",
-    "al30d_static": "AL30D (static)",
-    "merval_usd":   "Merval USD",
+    "ew_bnh":             "EW B&H ADRs",
+    "al30d_static":       "AL30D (static)",
+    "merval_usd":         "Merval USD",
+    "fima_acciones_usd":  "FIMA Acciones USD",
 }
 
 
 # ─── Public API ───────────────────────────────────────────────────────────────
 
-def plot_equity_curves(result: BacktestResult, output_dir: Path | str) -> Path:
+def plot_equity_curves(
+    result: BacktestResult,
+    output_dir: Path | str,
+    *,
+    date_range: tuple[str | pd.Timestamp, str | pd.Timestamp] | None = None,
+) -> Path:
     """
     Plot portfolio equity curve vs. three benchmarks.
 
     Legend entries include total return. Vertical dashed lines show rebalance dates.
     Saves equity_curves.png (DPI 300) and equity_curves.pdf to output_dir.
+
+    date_range: optional (start, end) to slice all series before plotting.
+                Each series is re-normalized to 1.0 at the first point in range.
     """
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -48,7 +59,12 @@ def plot_equity_curves(result: BacktestResult, output_dir: Path | str) -> Path:
     fig, ax = plt.subplots(figsize=(12, 6))
     _apply_academic_style(ax)
 
+    rebalance_dates = result.rebalance_dates
+
     for name, equity in result.benchmarks.items():
+        if equity.empty:
+            continue
+        equity = _slice_range(equity, date_range)
         if equity.empty:
             continue
         total = equity.iloc[-1] - 1
@@ -61,16 +77,22 @@ def plot_equity_curves(result: BacktestResult, output_dir: Path | str) -> Path:
             zorder=2,
         )
 
-    total_port = result.portfolio.iloc[-1] - 1
+    portfolio = _slice_range(result.portfolio, date_range)
+    total_port = portfolio.iloc[-1] - 1
     ax.plot(
-        result.portfolio.index, result.portfolio.values,
+        portfolio.index, portfolio.values,
         label=f"Portfolio ({total_port:+.1%})",
         color=_PORTFOLIO_COLOR,
         linewidth=2.2,
         zorder=3,
     )
 
-    for date in result.rebalance_dates:
+    if date_range is not None:
+        start = pd.Timestamp(date_range[0])
+        end   = pd.Timestamp(date_range[1])
+        rebalance_dates = [d for d in rebalance_dates if start <= d <= end]
+
+    for date in rebalance_dates:
         ax.axvline(date, color="#aaaaaa", linewidth=0.6, linestyle="--", alpha=0.6, zorder=1)
 
     ax.axhline(1.0, color="#cccccc", linewidth=0.5, zorder=0)
@@ -90,17 +112,24 @@ def plot_equity_curves(result: BacktestResult, output_dir: Path | str) -> Path:
     return path
 
 
-def plot_drawdown(result: BacktestResult, output_dir: Path | str) -> Path:
+def plot_drawdown(
+    result: BacktestResult,
+    output_dir: Path | str,
+    *,
+    date_range: tuple[str | pd.Timestamp, str | pd.Timestamp] | None = None,
+) -> Path:
     """
     Plot portfolio drawdown as a filled area below zero.
 
     The maximum drawdown date and magnitude are annotated on the chart.
     Saves drawdown.png (DPI 300) and drawdown.pdf to output_dir.
+
+    date_range: optional (start, end) to slice the portfolio before computing drawdown.
     """
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    equity   = result.portfolio.dropna()
+    equity   = _slice_range(result.portfolio, date_range).dropna()
     drawdown = equity / equity.cummax() - 1
     max_dd   = float(drawdown.min())
     max_dd_date = drawdown.idxmin()
@@ -144,6 +173,20 @@ def plot_drawdown(result: BacktestResult, output_dir: Path | str) -> Path:
 
 
 # ─── Internal helpers ─────────────────────────────────────────────────────────
+
+def _slice_range(
+    series: pd.Series,
+    date_range: tuple[str | pd.Timestamp, str | pd.Timestamp] | None,
+) -> pd.Series:
+    """Slice series to date_range and re-normalize so the first point = 1.0."""
+    if date_range is None or series.empty:
+        return series
+    start, end = pd.Timestamp(date_range[0]), pd.Timestamp(date_range[1])
+    sliced = series.loc[start:end]
+    if sliced.empty or sliced.iloc[0] == 0:
+        return sliced
+    return sliced / sliced.iloc[0]
+
 
 def _apply_academic_style(ax: plt.Axes) -> None:
     ax.spines["top"].set_visible(False)

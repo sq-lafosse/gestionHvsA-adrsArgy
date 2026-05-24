@@ -1,0 +1,556 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>tm2511718d1_6k.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 12pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Washington</B></FONT><B>,
+D.C.&nbsp;&nbsp;20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FORM&nbsp;6-K</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>REPORT OF FOREIGN PRIVATE ISSUER</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">April&nbsp;7,&nbsp;2025</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Commission File Number: 001-32827</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-size: 14pt"><B>MACRO BANK INC.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>(Translation of registrant&rsquo;s name into
+English)</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Av. Eduardo Madero 1182</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Buenos Aires C1106ACY</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Tel: 54 11 5222 6500</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>(Address of registrant&rsquo;s principal executive
+offices)</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 25%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark whether the registrant files or will file annual
+reports under cover of Form&nbsp;20-F or Form&nbsp;40-F.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; width: 50%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Form&nbsp;20-F</FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><FONT STYLE="font-family: Wingdings">&#120;</FONT></FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Form&nbsp;40-F</FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Wingdings; font-size: 10pt"><FONT STYLE="font-family: Wingdings">&#168;</FONT></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark if the registrant is submitting the Form&nbsp;6-K
+in paper as permitted by Regulation S-T Rule&nbsp;101(b)(1):</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; width: 50%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Wingdings; font-size: 10pt"><FONT STYLE="font-family: Wingdings">&#168;</FONT></FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><FONT STYLE="font-family: Wingdings">&#120;</FONT></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark if the registrant is submitting the Form&nbsp;6-K
+in paper as permitted by Regulation S-T Rule&nbsp;101(b)(7):</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; width: 50%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yes</FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Wingdings">&#168;</FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">No</FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><FONT STYLE="font-family: Wingdings">&#120;</FONT></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 12pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><U>INDEX</U></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Translation of a submission from Banco Macro to
+the CNV dated on April&nbsp;7, 2025.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="text-align: right; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><IMG SRC="tm2511718d1_6kimg001.jpg" ALT=""></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B><U>RESOLUTIONS ADOPTED BY THE GENERAL AND SPECIAL
+SHAREHOLDERS&rsquo; MEETING </U></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B><U>HELD ON 04/04/2025</U></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B><U>PUNTO N&ordm; 1</U>:</B> For a majority
+of 587,570,881 votes for, 5,630,830 abstentions and 15,120 votes against this motion, the Shareholders decided to appoint the representatives
+of Dr. Delf&iacute;n Jorge Ezequiel Carballo, ANSES-FGS and The Bank of New York Mellon, to sign the minutes of this meeting.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B><U>PUNTO N&ordm; 2</U>: </B>For a majority
+of 584,948,621 votes for, 8,247,200 abstentions and 21,010 votes against this motion, the Shareholders resolved to approve the documents
+under Section 234, subsection 1, of Law 19550, for the Company&rsquo;s fiscal year ended December 31, 2024.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B><U>PUNTO N&ordm; 3</U>:</B> For a majority
+of 308,605,665 votes for, 284,592,916 abstentions and 18,250 votes against this motion, with the appropriate abstention of Jorge Pablo
+Brito, member of the Board, with respect to their own performance, the Shareholders resolved to approve the performance of the Board and
+the acts and proceedings carried out by the Supervisory Committee during the fiscal year 2024.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B><U>PUNTO N&deg; 4</U>:</B> For a majority of
+586,959,001 votes for, 5,551,470 abstentions and 706,360 votes against this motion, the Shareholders resolved the following:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">To apply the Retained Earnings as of December
+31, 2024 totaling AR$ $314,113,791,042.40 as follows:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">a) the amount of AR$&nbsp;&nbsp;62,524,569,405.95
+to the Legal Reserve Fund;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">b) AR$&nbsp;6,926,474,246.94
+to the Personal Asset Tax on Business Companies (<I>Impuesto a los Bienes Personales Sociedades y Participaciones</I>); and</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">c) AR$&nbsp;244,662,747,389.51
+to the Optional Reserve Fund for Future Distribution of Profits, pursuant to Communique &ldquo;A&rdquo; 6464 and supplementary regulations
+of the Central Bank of the Republic of Argentina, so that the total amount of the opcional reserve fund for future distribution of profits
+would be &nbsp;AR $1,578,817,463,390.80.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">It was&nbsp;expressly stated that the above mentioned
+figures are expressed in constant currency as of 31 December 2024.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B><U>PUNTO N&ordm; 5</U>:</B> For a majority
+of 587.612.391 votes for, 5.547.690 abstentions and 56,750 votes against this motion, the Shareholders&rsquo; Meeting resolved: (i) the
+separate a portion of the Optional Reserve Fund for Future Profit Distributions, in order to pay a cash or in kind dividend, in the latter
+case valued at market price, or in any combination of both options, in the amount of AR$ 300,000,000,000 (amount expressed in constant
+currency as of 31 December 2024), which expressed in constant currency as of 28 February 2025 amounts to AR$ 313,997,329,740 and represents
+AR$ 491.0709187697 per share, subject to prior authorization from the Banco Central de la Rep&uacute;blica Argentina (BCRA). It was informed
+that pursuant to the provisions of Communique &ldquo;A&rdquo; 8214, the amount of each dividend instalment shall be paid in constant
+currency as of each payment date, after re-expression of the relevant payable amount by applying the most recently published rate before
+the date on which each of the above mentioned instalments is made available according to the payment schedule duly fixed by the Board.
+We made clear that in all cases reference is made &nbsp;to figures expressed in constant currency we use the national IPC (consumer price
+index) published by&nbsp;<FONT STYLE="font-family: Times New Roman, Times, Serif">Instituto Nacional de Estad&iacute;sticas y Censos
+(INDEC) and that as to the total amount of dividends to be distributed, we informed such amount is subject to a 7% tax withholding under
+section 97 of the Income Tax Act, as revised in 2019; and (ii) to delegate to the Board: (a) the separation of the relevant amount of
+the Optional Reserve Fund for Future Profit Distributions to pay the dividend after receiving the approval from the above mentioned entity;
+and (b) the powers to determine the time, currency, kind and other terms and conditions of payment pursuant to the scope of the delegation
+decided by this Shareholders&rsquo; Meeting.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B><U>PUNTO N&ordm; 6</U>:</B> For a majority
+of 587,102,301 votes for, 5,507,140 abstentions and 544,390 votes against this motion, the Shareholders&rsquo; Meeting resolved to approve
+the remunerations payable to the members of the Board of Directors for the fiscal year ended December 31, 2024, on the amount of AR$ 13,002,492,728,
+representing 4.94 % of the computable profit. It was informed that the values in nominal currency amount to AR$ 12,072,408,576.17 and
+the adjustment to state such values in constant currency as of 31 December 2024 totals AR$ 930,084,151.83.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">For a majority of 402,946,177 votes for, 189,726,264 abstentions and
+544,390 votes against this motion, the Shareholders resolved to delegate on the Board of Directors the allocation of the proposed remunerations
+to each member of the Board.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B><U>PUNTO N&ordm; 7</U>:</B> For a majority
+of 574,943,530 votes for, 16,836,861 abstentions and 1,436,440 votes against this motion, the Shareholders&rsquo; Meeting resolved to
+approve an amount of fees for the Supervisory Committee equal to AR$ 161,138,528, such amount being reported in the statement of income
+for the fiscal year ended December 31, 2024. It was informed that the values in nominal currency amount to AR$ 135,027,000 and the adjustment
+to state such values in constant currency as of 31 December 2024 totals AR$ 26,111,528.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-size: 10pt">For a majority of
+390,787,406 votes for, 200,992,985 abstentions and 1,436,440 votes against this motion, </FONT><FONT STYLE="color: #222222">the Shareholders
+resolved to delegate to the Board the allocation of the proposed remuneration to each one of the syndics.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B><IMG SRC="tm2511718d1_6kimg001.jpg" ALT=""></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B><U>PUNTO N&ordm; 8</U>: </B>For a majority
+of 574,891,710 votes for, 16,834,181 abstentions and 1,490,940 votes against this motion, the Shareholders resolved to approve the Auditor&rsquo;s
+remuneration of AR$ 1,103,139,164 plus VAT, payable for such Auditor&rsquo;s work related to the audit of the Company&rsquo;s financial
+statements for the fiscal year ended December 31, 2024.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white"><B><U>PUNTO N&deg; 9</U>:
+</B>For a majority of 561,010,210 votes for, 6,340,361 abstentions and 25,866,260 against this motion, the Shareholders resolved to approve
+the appointment of Mr. Jorge Pablo Brito as regular non-independent director for three fiscal years.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">For a majority of 550,349,980 votes for, 6,279,151
+abstentions and 36,587,700 votes against this motion, the Shareholders resolved to approve the appointment of Mr. Carlos Alberto Giovanelli
+as regular non-independent director for three fiscal years.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">For a majority of 550,307,120 votes for, 6,308,441
+abstentions and 36,601,270 votes against this motion, the Shareholders resolved to approve the appointment of Mr. Nelson Dami&aacute;n
+Pozzoli as regular non-independent director for three fiscal years.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">For a majority of 586,274,110 votes for, 5,634,271
+abstentions and 1,308,450 votes against this motion, the Shareholders resolved to approve the appointment of Mr. Fabi&aacute;n Alejandro
+de Paul as regular independent director for three fiscal years.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">For a majority of 548,254,810 votes for, 16,588,321
+abstentions and 28,373,700 votes against this motion, the Shareholders resolved to approve the appointment of Mr. Agust&iacute;n Mariano
+ &Aacute;lvarez as regular independent director for three fiscal years.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">For a majority of 586,879,780 votes for, 6,292,871
+abstentions and 44,180 votes against this motion, the Shareholders resolved to approve the appointment of Santiago Horacio Seeber as alternate
+non-independent director for three fiscal years.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">For a majority of 586,904,190 votes for, 6,274,151
+abstentions and 38,490 votes against this motion, the Shareholders resolved to approve the appointment of Mr. Juan Ignacio Catalano as
+alternate non-independent director for three fiscal years.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">For a majority of 549,412,910 votes for, 16,164,771
+abstentions and 27,639,150 votes against this motion, the Shareholders resolved to approve the appointment of Mr. Lucas Mat&iacute;as
+Gregorio as alternate independent director for three fiscal years.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B><U>PUNTO N&deg; 10</U>: </B>For a majority
+of 548,906,300 votes for, 15,917,841 abstentions and 28,392,690 votes against this motion, the Shareholders resolved to approve the appointment
+of Mr. Guido Agust&iacute;n Gallino as regular independent director for one fiscal year.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">For a majority of 548,924,000 votes for, 15,899,771
+abstentions and 28,393,060 votes against this motion, the Shareholders resolved to approve the appointment of Mss. Daniela Anah&iacute;
+Rivarola Meil&aacute;n as regular independent director for two fiscal years.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B><U>PUNTO N&deg; 11</U>:</B> For a majority
+of 575,719,400 votes for, 16,196,081 abstentions and 1,301,350 votes against this motion, the Shareholders&rsquo; Meeting resolved that
+the Supervisory Committee shall be composed of three regular members and three alternate members and designated the Accountants Alejandro
+Almarza, Carlos Javier Piazza and Vivian Hayde&eacute; Stenghele as regular syndics and the Accountants Horacio Della Rocca, Francisco
+Javier Piazza and Claudia In&eacute;s Siciliano as alternate syndics, to hold office for one fiscal year. All of them are independent
+members.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B><U>PUNTO N&deg; 12</U>:</B> For a majority
+of 586,647,281 votes for, 5,599,060 abstentions and 970,490 votes against this motion, the Shareholders&rsquo; Meeting resolved to designate
+as Independent Auditors for the fiscal year ending December 31, 202, the Certified Public Accountant Eleonora Prieto Rodriguez, who shall
+act as regular auditor and the Certified Public Accountant Ignacio Alberto P&iacute;o Hecquet as alternate auditor, both partners at the
+accounting and auditing firm Pistrelli, Henry Martin y Asociados S.A.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="text-align: right; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><IMG SRC="tm2511718d1_6kimg001.jpg" ALT=""></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B><U>PUNTO N&deg; 13</U>:</B> For a majority
+of 575,095,350 votes for, 16,843,951 abstentions and 1,277,530 votes against this motion, the Shareholders&rsquo; Meeting resolved to
+establish the budget for the Audit Committee in AR$ 2,000,000.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B><U>PUNTO N&deg; 14</U>: </B>For a majority
+of 572,602,050 votes for, abstentions 17,624,801 and 2,989,980 votes against this motion, the Shareholders&rsquo; Meeting resolved to
+approve the amendment of sections 25, 26, 28 and 31 of the bylaws, with the following wording:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&ldquo;SECTION 25. </B>The corporate body contemplated
+in the paragraph above shall supervise the Company to the extent provided under Law 19550, as amended. The Supervisory Committee shall
+be composed of three (3) regular members and three (3) alternate members, and the remuneration of its members shall be determined by the
+Shareholders&rsquo; Meeting. Regular members of the Supervisory Committee shall be replaced in the event of impediment or absence by any
+designated alternate member. The Supervisory Committee shall meet at least every three months and shall hold meetings and adopt resolutions
+with the presence and affirmative vote of at least two (2) of its members. The meetings of the Supervisory Committee may be held in person
+or remotely with its members communicated among each other through any means allowing simultaneous sound, image and word transmission
+such as video conferences or any similar tools, pursuant to the rules and regulations of the Comisi&oacute;n Nacional de Valores. When
+meetings are held remotely, free accessibility and participation with voice and vote of all members must be guaranteed, leaving a record
+in the minutes of those who participated remotely and the regularity of the decisions adopted. The resolutions shall be transcribed in
+the corresponding book of minutes and must be signed within five (5) business days of the meeting.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>SECTION 26. </B>The Meetings shall be Ordinary
+or Special, according to the business to be transacted, and according to the competence in each case provided under the legal rules in
+effect. The annual Ordinary Meeting shall be held to the purposes established under Law 19550, as amended, and by the rules of Comisi&oacute;n
+Nacional de Valores, within four months after the close the fiscal year. Likewise, a meeting shall be held upon request of each Board
+of Directors, the Supervisory Committee or shareholders representing at least five percent (5%) of the capital stock, whenever they deem
+it appropriate. The Meetings may be held with their participants present or remotely, communicated with each other by means of simultaneous
+transmission of sound, images and words such as videoconferences or any other similar tools, and must guarantee, in all cases, the equal
+treatment of the participants and the participation in person by the shareholders who so decide. When the Meetings are held with remote
+participation, the following minimum requirements must be guaranteed and/or those that the regulations in force provide at the time of
+holding the Meeting: 1) free access to meetings and participation, with the right to speak and vote, for all shareholders who have duly
+proved their identity; 2) notice of the Meeting and its communication through the applicable legal and statutory means, shall clearly
+and simply state the means of communication chosen to hold the Meeting, the way to access that shall allow such remote participation,
+and such notice of meeting may be sent by e-mail from the Company&rsquo;s e-mail address to the electronic address established for this
+purpose by each shareholder, without prejudice to the official notices that must be made as well; 3) record in the minutes of the meeting
+the persons who attended the meeting, the place where they were at that time and the capacity in which they participated in the meeting
+held remotely; 4) ensure access to the recording of the meeting in digital format from its registered office for a period of five (5)
+years, which recording must be available to the Comisi&oacute;n Nacional de Valores and to any shareholder who requests it; 5) the minutes
+of the meetings held as described above, shall be transcribed in the corresponding corporate book and signed, within five (5) business
+days, by the Chairman, by the shareholders designated for that purpose and a representative of the supervisory committee; 6) the supervisory
+committee must: (i) exercise its powers during all stages of the meeting, (ii) verify that all shareholders present can exercise their
+right to speak and vote throughout the course of the meeting, (iii) record the regularity of the decisions adopted in accordance with
+legal, regulatory and statutory provisions in force, particularly meeting the minimum requirements provided for in the rules of Comision
+Nacional de Valores for the holding of remote meetings. The powers of the supervisory committee may be exercised by one of its members
+acting on its behalf.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>SECTION 28</B>. The resolutions of the ordinary
+and special meetings, on a first or second call, shall be adopted by an absolute majority vote. For the purposes of quorum and majorities,
+both the shareholders present in person and those who participate remotely will be computed.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>SECTION 31. </B>Shareholders may be represented
+at Meetings through a power of attorney passed into a private instrument, whose signatures shall be duly authenticated by any court, notarial
+or bank authority. Shareholders or its representatives shall affix their signatures in the Book of Attendance provided to that end. Those
+shareholders or representatives who participate remotely must be recorded in the Attendance Book, who will be exempt from signing it,
+and the President and a representative of the Supervisory Committee must certify with their signature the presence of such shareholders
+or representatives who participated remotely. The minute of the Meeting that shall summarize the representations and resolutions resulting
+from the agenda discussed at the Meeting shall be prepared and signed by the Chairman, the shareholders appointed to the effect and the
+representative of the Supervisory Committee. The Ordinary Shareholders&rsquo; Meeting shall be held at the date fixed by the Board of
+Directors or by whoever is authorized to convene it. The meeting shall discuss all subjects listed under Law 19550, as amended. The Meeting
+shall also be informed about the ongoing business of the Company, and the principal politics and main projects in the fiscal year, accounting
+criteria, and rules followed in the preparation of the financial information. The Special Shareholders&rsquo; Meeting shall be entrusted
+the treatment of the items described under Law 19550, as amended. The Special Shareholders&rsquo; Meetings shall be held exclusively to
+consider those matters with effects on the shareholders of the relevant class of shares. Any amendments to the Bylaws approved by the
+Special Shareholders&rsquo; Meeting shall be subject to the controlling agencies&rsquo; approval.&rdquo;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B></B></P>
+
+<!-- Field: Page; Sequence: 5 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B><IMG SRC="tm2511718d1_6kimg001.jpg" ALT=""></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B><U>PUNTO N&deg; 15:</U></B> For a majority
+of 573,257,110 votes for, abstentions 16,275,961 and 3,683,760 votes against this motion, the Shareholders&rsquo; Meeting resolved to
+approve the amended and restated bylaws including the sections as amended above.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B><U>PUNTO N&deg; 16:</U></B> For a majority
+of 586,790,801 votes for, abstentions 6,391,420 and 34,610 votes against this motion, the Shareholders&rsquo; Meeting resolved to authorize
+Hugo Nicol&aacute;s Luis Bruzone, Carolina Paola Leonhart, Carla Valeria Lorenzo, Paola Beatriz Gayoso, Mar&iacute;a Luj&aacute;n Daqua,
+Alejandro Senillosa and Gabriela Eliana Blanco, so that any one of them acting jointly, severally or individually, may carry out before
+the relevant entities any acts or proceedings that are necessary for the administrative approval and registration of the resolutions approved
+by this Shareholders&rsquo; Meeting, as applicable, with powers to execute and deliver all public and private instruments that may be
+appropriate or convenient for the above mentioned purpose, including the powers to publish official notices, answer notices and withdraw
+documentation.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Signed: Jorge Pablo Brito (Chairman of the Board);
+Mat&iacute;as Carballo (representing Mr. Delf&iacute;n Jorge Ezequiel Carballo); Tom&aacute;s Mart&iacute;n Manocchio (representing The
+Bank of New York Mellon); Hern&aacute;n Castrogiovanni&nbsp;(representing ANSES-FGS); Alejandro Almarza (member of the Supervisory Committee).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 6 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">SIGNATURE</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="text-align: justify; font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Pursuant to the requirements of the Securities Exchange Act of 1934,
+the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Date: April&nbsp;7, 2025</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">MACRO BANK INC.</FONT></TD>
+    </TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 5%">&nbsp;</TD>
+    <TD STYLE="width: 45%">&nbsp;</TD>
+    </TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-bottom: 1.5pt">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 1.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/ Jorge
+    F. Scarinci</FONT></TD>
+    </TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name:</FONT></TD>
+    <TD> <FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Jorge F. Scarinci</FONT></TD>
+    </TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title:</FONT></TD>
+    <TD> <FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Chief Financial Officer</FONT></TD>
+    </TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 7; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

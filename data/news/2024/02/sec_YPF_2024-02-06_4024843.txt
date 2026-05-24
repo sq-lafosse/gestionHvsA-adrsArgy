@@ -1,0 +1,255 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>d93055d6k.htm
+<DESCRIPTION>6-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>6-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE" STYLE="line-height:Normal">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION
+</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM <FONT
+STYLE="white-space:nowrap">6-K</FONT></B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>REPORT OF
+FOREIGN PRIVATE ISSUER </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>PURSUANT TO RULE <FONT STYLE="white-space:nowrap">13A-16</FONT> OR
+<FONT STYLE="white-space:nowrap">15D-16</FONT> </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>UNDER THE SECURITIES EXCHANGE ACT OF 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>For the month of February 2024 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Commission File Number: <FONT STYLE="white-space:nowrap">001-12102</FONT></B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>YPF Sociedad An&oacute;nima </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Macacha
+G&uuml;emes 515 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>C1106BKK Buenos Aires, Argentina </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Address of principal executive office) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether
+the registrant files or will file annual reports under cover of Form <FONT STYLE="white-space:nowrap">20-F</FONT> or Form <FONT STYLE="white-space:nowrap">40-F:</FONT></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Form <FONT STYLE="white-space:nowrap">20-F&#8194;&#9746;&#8195;&#8195;&#8195;</FONT> Form
+<FONT STYLE="white-space:nowrap">40-F&#8194;&#9744;</FONT></P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>YPF Sociedad An&oacute;nima </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>TABLE OF CONTENT </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>ITEM 1</B><B>
+</B>Translation of letter to the Argentine Securities Commission dated February&nbsp;6, 2024. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g93055g0205224154686.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right">Buenos Aires, February&nbsp;6, 2024 </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Gentlemen </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>COMISI&Oacute;N NACIONAL DE VALORES
+(&#147;CNV&#148;) </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">25 de Mayo 175 </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">City of Buenos Aires
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>MERCADO ABIERTO ELECTR&Oacute;NICO S.A. (&#147;MAE&#148;) </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Maipu 1210 </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">City of Buenos Aires </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>BOLSAS Y MERCADOS ARGENTINOS S.A. (&#147;ByMA&#148;) </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Sarmiento 299 </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">City of Buenos Aires </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>Present </U></B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><U>Ref</U>: YPF S.A. -
+Offer to Purchase </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Our highest consideration: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We are hereby
+writing to you in order to attach the press release relating to the expiration and final results for the cash tender offer for any and all of the outstanding US$346,313,047.20 aggregate principal amount (post-amortization) of the 8.75%
+Class&nbsp;XXVIII notes due April&nbsp;4, 2024 (the &#147;<U>Tender Offer</U>&#148; and the &#147;<U>2024 Notes</U>&#148;, respectively), as announced through a relevant fact published on January&nbsp;5, 2024. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Sincerely yours, </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Margarita Chun </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Market Relations Manager </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">YPF S.A.
+</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>YPF Sociedad An&oacute;nima Announces Expiration and Final Results with respect to its
+Tender Offer for Cash for Any and All of its 8.75% Senior Amortizing Notes due 2024 </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Buenos Aires, February&nbsp;6, 2024 &#150; YPF Sociedad
+An&oacute;nima (&#147;<U>YPF</U>&#148;) today announced the expiration and final results as of 5:00 p.m. (New York City time) on February&nbsp;5, 2024 (the &#147;<U>Expiration Date</U>&#148;) of its previously announced cash tender offer (the
+&#147;<U>Tender Offer</U>&#148;) for any and all of its outstanding US$346,313,047.20 aggregate principal amount of 8.75% Senior Amortizing Notes due 2024 (the &#147;<U>Securities</U>&#148;) on the terms and subject to the conditions set forth in
+YPF&#146;s Offer to Purchase dated January&nbsp;5, 2024 (the &#147;<U>Offer to Purchase</U>&#148;). Capitalized terms used in this press release but not otherwise defined have the meanings given to them in the Offer to Purchase. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The table below sets forth certain information relating to the Securities and the Tender Offer, including, among other things, the aggregate principal amount
+of Securities tendered on or prior to the Expiration Date. We were advised by the Tender Agent and Information Agent (as defined below), that as of the Expiration Date, the aggregate principal amounts of Securities specified in the table below were
+validly tendered and not validly withdrawn. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="26%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="21%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="21%"></TD>
+
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="13%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="13%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Times New Roman; "><B>Title of Security</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>CUSIP and ISIN Numbers</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Principal Amount Outstanding</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Aggregate&nbsp;Principal<BR>Amount Tendered as<BR>of Expiration
+Date<SUP STYLE="font-size:75%; vertical-align:top">(1)</SUP></B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000">
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Percentage&nbsp;of<BR>Aggregate&nbsp;
+Principal<BR>Amount<BR>Outstanding<BR>Tendered<SUP STYLE="font-size:75%; vertical-align:top">(1)</SUP></B></P></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">8.75% Senior Amortizing Notes due 2024</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">CUSIP:984245 AK6</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">P989MJ AY7</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">ISIN:US984245AK63</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">USP989MJAY76</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">U.S.$346,313,047.20</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">U.S.$138,071,200</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">39.87%</TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:75%; vertical-align:top">(1)</SUP></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Including the US$137,722,800 aggregate principal amount of Securities validly tendered (and not validly
+withdrawn) at or prior to the Early Tender Date, and the US$348,400 aggregate principal amount of Securities validly tendered (and not validly withdrawn) after the Early Tender Date but at or prior to the Expiration Date. </P></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the Offer to Purchase, eligible Holders were required to validly tender and not validly withdraw their Securities prior to the Early Tender Date
+to be eligible to receive the Early Tender Consideration. However, Holders were able to participate in the Tender Offer by validly tendering Securities after the Early Tender Date and at or prior to the Expiration Date. In such instances, the
+Holders will have been eligible to receive only the Late Tender Consideration (which excludes the Early Tender Consideration). The Late Tender Consideration payable for each US$1,000 principal amount of Securities that were validly tendered (and not
+validly withdrawn) after the Early Tender Date and at or prior the Expiration Date will be US$950. In addition to the Late Tender Consideration, Holders whose Securities were accepted for purchase pursuant to the Tender Offer will also receive
+accrued and unpaid interest on their accepted Securities up to, but excluding, the Expiration Date, and any additional amounts thereon, if any. Securities that have been validly tendered after the Early Tender Date and on or prior to the Expiration
+Date cannot be withdrawn, except as may be required by applicable law. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Securities that have been validly tendered (and not validly withdrawn) after the
+Early Tender Date but at or prior to the Expiration Date and accepted for purchase by YPF pursuant to the Tender Offer are expected to be purchased by YPF on February&nbsp;7, 2024 (the &#147;<U>Final Settlement Date</U>&#148;) and cancelled. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The complete terms and conditions of the Tender Offer are described in the Offer to Purchase, copies of which may be obtained from D.F. King&nbsp;&amp; Co.,
+Inc., the tender agent and information agent (the &#147;<U>Tender Agent and Information Agent</U>&#148;) for the Tender Offer by telephone at (800) <FONT STYLE="white-space:nowrap">859-8509</FONT> (U.S. toll free) and (212) <FONT
+STYLE="white-space:nowrap">269-5550</FONT> (banks and brokers), in writing at 48 Wall Street, 22nd Floor New York, New York 10005, or by email to <U>ypf@dfking.com</U>. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">YPF has engaged Citigroup Global Markets Inc., J.P. Morgan Securities LLC and Santander US Capital Markets
+LLC to act as the dealer managers (the &#147;<U>Dealer Managers</U>&#148;) and Banco Santander Argentina S.A. and Banco de Galicia y Buenos Aires S.A.U., as local dealer managers (the &#147;<U>Local Dealer Managers</U>&#148;) in connection with the
+Tender Offer. Questions regarding the terms of the Tender Offer may be directed to Citigroup Global Markets Inc. by telephone at +1 (800) <FONT STYLE="white-space:nowrap">558-3745</FONT> (U.S. toll free) or +1 (212)
+<FONT STYLE="white-space:nowrap">723-6106</FONT> (collect), J.P. Morgan Securities LLC by telephone at +1 (866) <FONT STYLE="white-space:nowrap">846-2874</FONT> (U.S. toll free) or + 1 (212) <FONT STYLE="white-space:nowrap">834-7279</FONT> (collect)
+and Santander US Capital Markets LLC by telephone at +1 (855) 404 3636 (U.S. toll free) or +1 (212) 940 1442 (collect). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">None of YPF, the Dealer Managers,
+the Local Dealer Managers, the Tender Agent and Information Agent or the trustee for the Securities, or any of their respective affiliates, is making any recommendation as to whether Holders should or should not tender any Securities in response to
+the Tender Offer or expressing any opinion as to whether the terms of the Tender Offer are fair to any holder. Holders must make their own decision as to whether to tender any of their Securities and, if so, the principal amount of Securities to
+tender. Please refer to the Offer to Purchase for a description of the offer terms, conditions, disclaimers and other information applicable to the Tender Offer. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This press release is for informational purposes only and does not constitute an offer to purchase or the solicitation of an offer to sell the Securities. The
+Tender Offer is being made solely by means of the Offer to Purchase. The Tender Offer is not being made to holders of Securities in any jurisdiction in which the making or acceptance thereof would not be in compliance with the securities, blue sky
+or other laws of such jurisdiction. In those jurisdictions where the securities, blue sky or other laws require any tender offer to be made by a licensed broker or dealer, the Tender Offer will be deemed to be made on behalf of YPF by the Dealer
+Managers or one or more registered brokers or dealers licensed under the laws of such jurisdiction. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Disclaimer </I></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This release may contain forward-looking statements within the meaning of Section&nbsp;27A of the Securities Act and Section&nbsp;21E of the United States
+Securities Exchange Act of 1934, as amended, including those related to the tender for Securities and whether or not YPF will consummate the Tender Offer. Forward-looking information involves important risks and uncertainties that could
+significantly affect anticipated results in the future, and, accordingly, such results may differ from those expressed in any forward-looking statements. These risks and uncertainties include, but are not limited to, general economic, political and
+business conditions in Argentina and South America, existing and future governmental regulations, fluctuations in the price of petroleum and petroleum products, supply and demand levels, currency fluctuations, exploration, drilling and production
+results, changes in reserves estimates, success in partnering with third parties, loss of market share, industry competition, environmental risks, physical risks, the risks of doing business in developing countries, legislative, tax, legal and
+regulatory developments, economic and financial market conditions in various countries and regions, political risks, wars and acts of terrorism, natural disasters, project delays or advancements and lack of approvals. Additional information
+concerning potential factors that could affect YPF&#146;s financial results is included in the filings made by YPF and its affiliates before the Comisi&oacute;n Nacional de Valores in Argentina and with the U.S. Securities and Exchange Commission,
+in particular, in YPF&#146;s Annual Report on Form <FONT STYLE="white-space:nowrap">20-F</FONT> for the fiscal year ended December&nbsp;31, 2022 and its current reports filed with the U.S. Securities and Exchange Commission. In light of the
+foregoing, the forward-looking statements included in this document may not occur. Except as required by law, YPF does not undertake to publicly update or revise these forward-looking statements even if experience or future changes make it clear
+that the projected performance, conditions or events expressed or implied therein will not be realized. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="44%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="5%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3"><B>YPF Sociedad An&oacute;nima</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Date: February 6, 2024</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Margarita Chun</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Name:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Margarita Chun</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Title:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Market Relations Officer</TD></TR>
+</TABLE>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>

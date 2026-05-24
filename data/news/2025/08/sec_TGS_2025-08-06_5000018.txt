@@ -1,0 +1,345 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>tgs.htm
+<DESCRIPTION>2ND QUARTER FINANCIAL RESULTS
+<TEXT>
+<HTML>
+<!-- Produced by EDGARsuite software, Advanced Computer Innovations, Inc., Copyright (C) 2008-2025 [PPXVPY40XJV0VA2H80ZZ]. www.edgarsuite.com -->
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<DIV style=margin-left:85.05pt;width:453.6pt><HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:10pt Arial;margin:0'><FONT style='font-family:Times New Roman'><IMG src=tgs_1.jpg width=756 height=1069 alt='Imagen 2' title='Imagen 2'></FONT>&nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+</DIV>
+<DIV style=margin-left:63.8pt;width:474.85pt><P style='font:9pt Verdana;margin:0;text-indent:-7.1pt;color:#0070C0'>&nbsp;</P>
+<P style='font:9pt Verdana;margin:0;text-indent:-7.1pt;color:#0070C0'>&nbsp;</P>
+<P style='font:9pt Verdana;margin:0;text-indent:-7.1pt;color:#0070C0'>&nbsp;</P>
+<P style='font:10pt Times New Roman;margin:0;text-indent:-7.1pt'><IMG src=tgs_2.jpg width=84 height=30 alt='Picture 3' title='Picture 3'><FONT style='font:9pt Verdana;color:#0070C0'><B>2Q2025</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=center style='font:14pt Verdana;margin:0;text-indent:36pt;margin-left:-21.3pt;color:#0070C0'><B>tgs announces results for the second quarter (&#8220;2Q&#8221;)</B></P>
+<P align=center style='font:14pt Verdana;margin:0;text-indent:36pt;margin-left:-21.3pt;color:#0070C0'><B>ended on June 30, 2025 <SUP>(1)</SUP></B></P>
+<P align=center style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+</DIV>
+<DIV style=margin-left:85.05pt;width:446.55pt><P align=justify style='font:7pt Verdana;margin-top:6pt;margin-bottom:6pt;margin-left:-14.2pt'><I>Transportadora de Gas del Sur (&quot;</I><B><I>tgs</I></B><I>&quot;, &quot;the Company&quot;, &#8220;us&#8221;, &#8220;our&#8221;, or &#8220;we&#8221;) is the leader in Argentina in the transportation of natural gas, transporting approximately 60% of the gas consumed in the country, through more than 5,700 miles of gas pipelines, with a firm-contracted capacity of 89.1 MMm<SUP>3</SUP>/d. We are one of the main natural gas processors. In addition, our infrastructure investment in the Vaca Muerta formation places us as one of the main Midstreamers in Argentina.</I></P>
+<P align=justify style='font:7pt Verdana;margin-top:6pt;margin-bottom:6pt;margin-left:-14.2pt'><I>Our shares are traded on NYSE (New York Stock Exchange) and BYMA (Bolsas y Mercados Argentinos S.A.).</I></P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:-14.2pt'><I>Our controlling company is Compa&#241;&#237;a de Inversiones de Energ&#237;a S.A. (&quot;CIESA&quot;), which owns 51% of the total shares. CIESA&#8217;s shareholders are: (i) Pampa Energ&#237;a S.A. with 50%, (ii) led by the Sielecki family, Grupo Investor Petroqu&#237;mica S.L. (GIP), and PCT L.L.C. hold the remaining 50%.</I></P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:-14.2pt'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:-14.2pt'><I>For further information, see our website </I><FONT style='border-bottom:1px solid #000000'><I>https://www.tgs.com.ar/inversores/servicio-para-inversores?lang=EN</I></FONT></P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:-14.2pt'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:-14.2pt;color:#0070C0'><B><I>Stock Information</I></B></P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:-14.2pt'><B><I>BYMA Symbol:</I></B><I> TGSU2</I></P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:-14.2pt'><B><I>NYSE Symbol:</I></B><I> TGS (1 ADS = 5 ordinary shares)</I></P>
+<P align=justify style='font:2pt Verdana;margin:0;margin-left:-14.2pt'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:-14.2pt;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:-14.2pt;color:#0070C0'><B><I>Shareholding structure as of June 30, 2025</I></B></P>
+<P style='font:7pt Verdana;margin:0;margin-left:-14.2pt;margin-right:14.15pt'><B><I>tgs</I></B><I> holds 752,761,058 outstanding shares.</I></P>
+<P align=center style='font:7pt Verdana;margin:0;margin-left:-14.2pt;margin-right:14.15pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-left:-49.65pt;margin-right:-14.2pt;color:#000000'><FONT style=font-size:7pt;color:#2C7FCE> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-left:-35.45pt;margin-right:-21.25pt;color:#000000'><FONT style='font-family:Times New Roman'><IMG src=tgs_3.jpg width=319 height=208 alt='Imagen 2' title='Imagen 2'></FONT>&nbsp;</P>
+<P align=justify style='font:8pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:-14.2pt'><I><SUP>(1)</SUP> The financial information included in this press release is based, unless otherwise stated, on the interim condensed financial statements and is presented in millions of constant Argentine pesos as of June 30, 2025 (Ps.), which is based on the application of International Financial Reporting Standards (&#8220;IFRS&#8221;).</I></P>
+<P align=justify style='font:8pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:8pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:8pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:8pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:8pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:8pt Verdana;margin:0;color:#0070C0'><B>Buenos Aires, Argentina, August 5, 2025</B></P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-21.25pt;color:#000000'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-21.25pt;color:#000000'>During the 2Q2025, total comprehensive income amounted to Ps. 40,278 million, or a Ps. 53.51 per share (Ps. 267.53 per ADS), compared to a total comprehensive income of Ps. 119,739 million, or Ps. 159.07 per share (Ps. 795.33 per ADS) in the second quarter ended on June 30, 2024 (&#8220;2Q2024&#8221;).</P>
+<P align=justify style='font:10pt Arial;margin:0'><FONT style='font:9pt Verdana'> </FONT>&nbsp;</P>
+<P align=justify style='font:10pt Arial;margin:0;margin-right:-28.35pt'><FONT style='font-family:Times New Roman'><IMG src=tgs_4.jpg width=324 height=149 alt='Picture 1' title='Picture 1'></FONT>&nbsp;</P>
+<P align=justify style='font:10pt Arial;margin:0;margin-right:-28.35pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-21.25pt;color:#000000'>Operating profit for 2Q2025 totaled Ps. 122,575 million, Ps. 54,360 million below 2Q2024. This variation was mainly due to lower revenues in the Production and Commercialization of Liquids (&#8220;Liquids&#8221;) segment and the Natural Gas Transportation segment amounting to Ps. 25,216 million and Ps. 12,982 million, respectively. </P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-21.25pt;color:#000000'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-21.25pt;color:#000000'>The net cost of sales, administrative, and selling expenses increased by Ps. 17,445 million while Other Operating Results, net, recorded a negative variation of Ps. 15,265 million.</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-21.25pt;color:#000000'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-21.25pt;color:#000000'>Revenues in the Midstream segment increased by Ps. 16,548 million, contributing to partially offset the negative effects mentioned above.</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-21.25pt;color:#000000'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-21.25pt;color:#000000'>Financial results reflected a negative variation of Ps. 76,660 million.</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:8pt Verdana;margin:0;color:#1F497D'><A name=_Hlk142003785 /><KBD style='position:absolute;font:8pt Verdana;margin-left:0pt'><B>Transportadora de Gas del Sur S.A. </B></KBD><KBD style='position:absolute;text-align:right;font:8pt Verdana;width:425.25pt'>1</KBD>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0'><I>Madero Office Building</I> &#8211;&nbsp;355 Cecilia Grierson St. 26<SUP>th</SUP> floor</P>
+<P style='font:8pt Verdana;margin:0'>(C1107CPG), Autonomous City of Buenos Aires, Argentina.</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+</DIV>
+<DIV style=margin-left:56.7pt;width:481.9pt><P style='font:10pt Times New Roman;margin:0;text-indent:-7.1pt'><IMG src=tgs_5.jpg width=84 height=30 alt='Picture 3' title='Picture 3'><FONT style='font:9pt Verdana;color:#0070C0'><B>2Q2025</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=justify style='font:10pt Verdana;margin:0;color:#0070C0'><B>Highlights during 2Q2025 and beyond</B></P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-left:36pt'><KBD style='position:absolute;font:9pt Wingdings;margin-left:-18pt'>&#216;</KBD>Following two months of intensive recovery efforts, the Company successfully restored full operations at the Cerri Complex during the first week of May, after the unprecedented weather event that occurred on March 7, 2025, in Bah&#237;a Blanca and surrounding areas. Thanks to the commitment of our teams and the coordinated work of more than 150 suppliers and contractors, we were able to overcome the damage caused by the flooding and resume natural gas liquids processing under the highest standards of safety and efficiency.&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-left:36pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-left:36pt'><KBD style='position:absolute;font:9pt Wingdings;margin-left:-18pt'>&#216;</KBD>On May 22, 2025, Energ&#237;a Argentina S.A. (&#8220;ENARSA&#8221;) launched a national and international public tender for the expansion of the Perito Moreno Gas Pipeline (&#8220;GPM&#8221;), aiming to increase the natural gas transportation capacity at Vaca Muerta in 14 MMm&#179;/d. The submission of bids, in which <B>tgs</B> was the only bidder, took place on July 28, 2025, while the tender winner is scheduled to be awarded on October 13, 2025. Works are expected to begin thereafter and would take approximately 18 months to be completed. &nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-left:36pt'><KBD style='position:absolute;font:9pt Wingdings;margin-left:-18pt'>&#216;</KBD>At the Board of Directors meeting held on May 28, 2025, a cash dividend was approved totaling Ps. 202,704 million (equivalent to Ps. 269.28 per share), following the approval by the Ordinary, Extraordinary, and Special General Shareholders' Meeting of April 30, 2025.&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-left:36pt'><KBD style='position:absolute;font:9pt Wingdings;margin-left:-18pt'>&#216;</KBD>Under Decree No. 371/2025, the Secretariat of Energy was appointed as the enforcement authority responsible for implementing contractual and tariff modifications. Accordingly, on June 4, 2025, Resolution No. 241/2025 was issued, establishing a monthly update mechanism for transportation tariffs (the &#8220;Periodic Adjustment&#8221;), replacing the previous semiannual scheme. This new methodology is based on a composite adjustment equally weighted between the monthly variation of the Consumer Price Index (&#8220;CPI&#8221;) and the Wholesale Domestic Price Index (&#8220;WPI&#8221;).&nbsp;</P>
+<P style='font:9pt Verdana;margin:0;margin-left:36pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-left:36pt'><KBD style='position:absolute;font:9pt Wingdings;margin-left:-18pt'>&#216;</KBD>On July 24, 2025, Decree No. 495/2025 was published in the Official Gazette, through which the National Executive Branch granted an extension of the license awarded to <B>tgs</B> under Decree No. 2458/1992. The extension covers an additional 20-year period starting on December 28, 2027.&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Verdana;margin:0;color:#0070C0'><B>Analysis of the results</B></P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>Total revenues amounting to Ps. 347,615 million in 2Q2025 were Ps. 21,650 million below the Ps. 369,264 million recorded in 2Q2024.</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0;margin-left:-7.1pt'><IMG src=tgs_6.jpg width=470 height=199 alt='Picture 2' title='Picture 2'>&nbsp;</P>
+<P style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>The breakdown of <FONT style=color:#0070C0><B>net </B><B>cost of sales</B><B>, administrative and </B><B>selling</B><B> expenses</B></FONT>, excluding depreciation, for 2Q2025 and 2Q2024 is shown in the table below:</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=right style='font:10pt Arial;margin:0'><FONT style='font:8pt Verdana'>2</FONT></P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:14.2pt;margin-right:-35.45pt;color:#0070C0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#1F497D'><B>Transportadora de Gas del Sur S.A. </B></P>
+<P style='font:8pt Verdana;margin:0'><I>Madero Office Building</I> &#8211;&nbsp;355 Cecilia Grierson St. 26<SUP>th</SUP> floor</P>
+<P style='font:8pt Verdana;margin:0'>(C1107CPG), Autonomous City of Buenos Aires, Argentina.</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0;text-indent:-7.1pt'><IMG src=tgs_5.jpg width=84 height=30 alt='Picture 3' title='Picture 3'><FONT style='font:9pt Verdana;color:#0070C0'><B>2Q2025</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=justify style='font:9pt Verdana;margin:0'><FONT style='font-family:Times New Roman'><IMG src=tgs_7.jpg width=612 height=93 alt='Picture 3' title='Picture 3'></FONT>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0'> &nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt;color:#000000'><FONT style=color:#0070C0><B>Net c</B><B>ost</B><B> of sale</B><B>s and administrative and selling expenses</B></FONT> increased by Ps. 17,445 million, mainly due to higher: (i) depreciation of Ps. 8,941 million, (ii) impairment of financial assets corresponding to a customer in the Natural Gas Transportation segment of Ps. 8,383 million, (iii) labor costs of Ps. 6,302 million, and (iv) repair and maintenance expenses of Ps. 2,992 million. These effects were partially offset by lower costs for natural gas purchased for liquid production (mainly due to lower consumption and, to a lesser extent, the decrease in the restated price in accordance with IAS 29) of Ps. 8,769 million and lower taxes, fees, and contributions of Ps. 2,100 million (mainly due to lower export taxes).</P>
+<P style='font:9pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'><FONT style=color:#0070C0><B>Financial results </B></FONT>are presented<B> </B>in gross terms considering the effect of change in the currency purchasing power (&#8220;Loss on monetary position&quot;) in a single separate line. In 2Q2025, financial results represented a negative variation of Ps. 76,660 million compared to 2Q2024. This variation is mainly due to lower financial assets results of Ps. 65,843 million and a higher negative exchange rate difference of Ps. 15,678 million. These effects were partially offset by the lower loss on monetary position of Ps. 4,177 million.</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'><FONT style=color:#0070C0><B>Other operating results, net</B></FONT> for 2Q2025 reported a loss of Ps. 17,960 million, Ps. 15,265 million higher than the figure recorded in 2Q2024. This negative variation is mainly attributable to a Ps. 18,636 million loss recognized under expenses and impairment of materials and other PPE items related to the unprecedented climate event that occurred on March 7, 2025, at the Cerri Complex. This impact was partially offset by a lower charge for the write-off of tax credits amounting to Ps. 1,058 million and insurance recoveries totaling Ps. 709 million.</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0;margin-right:-0.05pt'><IMG src=tgs_8.jpg width=496 height=321 alt='Picture 3' title='Picture 3'>&nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=right style='font:10pt Arial;margin:0'><FONT style='font:8pt Verdana'>3</FONT></P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:14.2pt;margin-right:-35.45pt;color:#0070C0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#1F497D'><B>Transportadora de Gas del Sur S.A. </B></P>
+<P style='font:8pt Verdana;margin:0'><I>Madero Office Building</I> &#8211;&nbsp;355 Cecilia Grierson St. 26<SUP>th</SUP> floor</P>
+<P style='font:8pt Verdana;margin:0'>(C1107CPG), Autonomous City of Buenos Aires, Argentina.</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0;text-indent:-7.1pt'><IMG src=tgs_5.jpg width=84 height=30 alt='Picture 3' title='Picture 3'><FONT style='font:9pt Verdana;color:#0070C0'><B>2Q2025</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:10pt Verdana;margin:0;color:#0070C0'><B>Natural Gas Transportation</B></P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>Operating profit of the <FONT style=color:#0070C0><B>Natural Gas Transportation </B></FONT>segment totaled Ps. 62,623 million in 2Q2025 and was Ps. 31,942 million below 2Q2024. </P>
+<P align=justify style='font:9pt Verdana;margin:0'> &nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'><FONT style='font-family:Times New Roman'><IMG src=tgs_9.jpg width=612 height=160 alt='Picture 5' title='Picture 5'></FONT>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>Natural gas transportation revenues accounted for approximately 43% and 44% of total revenues in 2Q2025 and 2Q2024, respectively.</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>Revenues from this segment are derived mainly from firm natural gas transportation contracts, which represented approximately 81% and 85% of the total revenues for this segment in 2Q2025 and 2Q2024, respectively.</P>
+<P style='font:9pt Verdana;margin:0;color:#156082'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-left:-49.65pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'><IMG src=tgs_10.jpg width=621 height=211 alt='Picture 4' title='Picture 4'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>During the second quarter of 2025, the Secretariat of Energy approved the monthly adjustment methodology applicable following the completion of the Five-Year Tariff Review (RQT) process. </P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>The negative variation in operating profit was mainly explained by a decrease in revenues of Ps. 12,982 million, derived from the negative impact of the restatement according to IAS 29, for Ps. 49,030 million. This effect was partially offset mainly by the tariff increases received (Ps. 23,739 million) and higher revenues from natural gas transportation services (Ps. 10,913 million).</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>Net cost of sales, administrative and selling expenses increased by Ps.19,623 million, mainly due to: (i) impairment of financial assets corresponding to a single customer (Ps. 8,383 million), (ii) higher depreciation (Ps. 3,422 million), (iii) increased labor costs (Ps. 3,485 million), and (iv) higher repair and maintenance expenses (Ps. 3,276 million).</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=right style='font:10pt Arial;margin:0'><FONT style='font:8pt Verdana'>4</FONT></P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:14.2pt;margin-right:-35.45pt;color:#0070C0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#1F497D'><B>Transportadora de Gas del Sur S.A. </B></P>
+<P style='font:8pt Verdana;margin:0'><I>Madero Office Building</I> &#8211;&nbsp;355 Cecilia Grierson St. 26<SUP>th</SUP> floor</P>
+<P style='font:8pt Verdana;margin:0'>(C1107CPG), Autonomous City of Buenos Aires, Argentina.</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0;text-indent:-7.1pt'><IMG src=tgs_5.jpg width=84 height=30 alt='Picture 3' title='Picture 3'><FONT style='font:9pt Verdana;color:#0070C0'><B>2Q2025</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=justify style='font:10pt Verdana;margin:0;margin-right:-0.05pt;color:#0070C0'><B>Liquids Production and Commercialization </B></P>
+<P align=justify style='font:8pt Verdana;margin:0;margin-right:-0.05pt;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'><FONT style=color:#0070C0><B>Liquids Production and Commercialization</B> </FONT>revenues accounted for approximately 35% and 39% of total revenues in 2Q2025 and 2Q2024, respectively. During 2Q2025, production decreased by 54,748 tons, reaching 224,253 tons.</P>
+<P align=justify style='font:8pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=center style='font:10pt Arial;margin:0;margin-right:-0.05pt'><FONT style='font-family:Times New Roman'><IMG src=tgs_11.jpg width=612 height=137 alt='Picture 7' title='Picture 7'></FONT>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'><KBD style=margin-left:481.95pt></KBD>During 2Q2025, operating profit for this business segment reached Ps. 22,310 million, representing a decrease of Ps. 27,411 million compared to the same period in 2024 (Ps. 49,721 million). This decline was mainly due to a reduction in revenues of Ps. 25,216 million and higher other operating results, net of Ps. 16,651 million attributable to the impact of the climate event. These effects were partially offset by lower natural gas costs (Ps. 8,769 million), due to both a decrease in the price measured in constant currency and a reduction in volume, lower repair and maintenance expenses (Ps. 1,954 million), and a decrease in taxes, fees, and contributions (Ps. 1,378 million), mainly due to lower tax on exports and turnover tax.&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>Revenues totaled Ps. 120,399 million in 2Q2025, compared to Ps. 145,615 million in 2Q2024. The decline was mainly explained by the loss of Ps. 44,662 million from restatement under IAS 29, lower volumes sold amounting to Ps. 21,074 million, lower reference prices of Ps. 3,985 million and a decline in trading activity of Ps. 1,479 million. These effects were partially offset by an increase in the nominal exchange rate of Ps. 26,103 million and higher domestic market prices for propane and butane totaling Ps. 11,640 million and for ethane totaling Ps.7,399 million, including the latter higher income from the execution of contractual price adjustment and take-or-pay clauses.</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>Sales volumes decreased 38,523 tons (or 15%) compared to 2Q2024. This decline was mainly due to the operational interruption of the Cerri Complex starting of March 7, 2025, as a result of the climate event. Operations began to gradually recover in mid-April and reached optimal production levels on May 8<SUP>th</SUP>.</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>The breakdown of volumes dispatched by market and product and revenues by market is included below:</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0;margin-right:-0.05pt'><FONT style='font-family:Times New Roman'><IMG src=tgs_12.jpg width=612 height=217 alt='Picture 8' title='Picture 8'></FONT>&nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=right style='font:10pt Arial;margin:0'><FONT style='font:8pt Verdana'>5</FONT></P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:14.2pt;margin-right:-35.45pt;color:#0070C0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#1F497D'><B>Transportadora de Gas del Sur S.A. </B></P>
+<P style='font:8pt Verdana;margin:0'><I>Madero Office Building</I> &#8211;&nbsp;355 Cecilia Grierson St. 26<SUP>th</SUP> floor</P>
+<P style='font:8pt Verdana;margin:0'>(C1107CPG), Autonomous City of Buenos Aires, Argentina.</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0;text-indent:-7.1pt'><IMG src=tgs_5.jpg width=84 height=30 alt='Picture 3' title='Picture 3'><FONT style='font:9pt Verdana;color:#0070C0'><B>2Q2025</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=center style='font:9pt Verdana;margin:0;color:#0070C0'><B><IMG src=tgs_13.jpg width=575 height=300 alt='Picture 5' title='Picture 5'></B>&nbsp;</P>
+<P style='font:9pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P style='font:10pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P style='font:10pt Verdana;margin:0;color:#0070C0'><B>Midstream and Telecommunications</B></P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>Midstream and Telecommunications business segment includes mainly services provided by <B>tgs</B> at Vaca Muerta, representing approximately 22% and 16% of our total revenues for 2Q2025 and 2Q2024, respectively. </P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'><FONT style='font-family:Times New Roman'><IMG src=tgs_14.jpg width=612 height=134 alt='Picture 10' title='Picture 10'></FONT>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0;margin-left:-7.1pt;margin-right:-0.05pt'> &nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>The operating profit increased by Ps. 4,992 million, mainly explained by higher revenues of Ps. 16,548 million in 2Q2025 compared to 2Q2024. This effect was partially offset by higher net cost of sales and administrative and selling expenses of Ps. 12,541 million.</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>The increase in revenues was mainly due to: (i) increased natural gas transportation and conditioning services at Vaca Muerta for Ps. 18,073 million, (ii) the nominal exchange rate effect on revenues denominated in US dollars for Ps. 13,087 million, and (iii) higher other services, mainly related to the Transport.AR program, for Ps. 1,831 million. These effects were partially offset by the impact of the restatement in accordance with IAS 29 for Ps. 16,621 million.</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=right style='font:10pt Arial;margin:0'><FONT style='font:8pt Verdana'>6</FONT></P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:14.2pt;margin-right:-35.45pt;color:#0070C0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#1F497D'><B>Transportadora de Gas del Sur S.A. </B></P>
+<P style='font:8pt Verdana;margin:0'><I>Madero Office Building</I> &#8211;&nbsp;355 Cecilia Grierson St. 26<SUP>th</SUP> floor</P>
+<P style='font:8pt Verdana;margin:0'>(C1107CPG), Autonomous City of Buenos Aires, Argentina.</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0;text-indent:-7.1pt'><IMG src=tgs_5.jpg width=84 height=30 alt='Picture 3' title='Picture 3'><FONT style='font:9pt Verdana;color:#0070C0'><B>2Q2025</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=center style='font:9pt Verdana;margin:0;margin-right:-0.05pt'><IMG src=tgs_15.jpg width=569 height=343 alt='Picture 7' title='Picture 7'>&nbsp;</P>
+<P style='font:9pt Verdana;margin:0;margin-left:-7.1pt;margin-right:-0.05pt'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P style='font:10pt Verdana;margin:0;color:#0070C0'><B>Financial position analysis</B></P>
+<P align=justify style='font:9pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:10pt Verdana;margin:0;color:#0070C0'><B>Net debt</B></P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>As of June 30, 2025, our net financial debt amounted a negative balance of Ps. 2,303 million, compared to Ps. 249,669 million as of December 31, 2024. On both dates, the entirety of our financial debt was denominated in foreign currency.</P>
+<P style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>The table below shows a reconciliation of our net debt:</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=center style='font:10pt Verdana;margin:0;color:#0E2841'><FONT style='font-family:Times New Roman;color:#000000'><IMG src=tgs_16.jpg width=612 height=207 alt='Picture 11' title='Picture 11'></FONT>&nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=right style='font:10pt Arial;margin:0'><FONT style='font:8pt Verdana'>7</FONT></P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:14.2pt;margin-right:-35.45pt;color:#0070C0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#1F497D'><B>Transportadora de Gas del Sur S.A. </B></P>
+<P style='font:8pt Verdana;margin:0'><I>Madero Office Building</I> &#8211;&nbsp;355 Cecilia Grierson St. 26<SUP>th</SUP> floor</P>
+<P style='font:8pt Verdana;margin:0'>(C1107CPG), Autonomous City of Buenos Aires, Argentina.</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0;text-indent:-7.1pt'><IMG src=tgs_5.jpg width=84 height=30 alt='Picture 3' title='Picture 3'><FONT style='font:9pt Verdana;color:#0070C0'><B>2Q2025</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:11pt Verdana;margin:0;color:#0E2841'><FONT style=color:#0070C0><B>Liquidity and capital resources</B></FONT></P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>The net variation in cash and cash equivalents for 2Q2025 and 2Q2024 is broken down as follows:</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0;margin-right:-0.05pt'><FONT style='font-family:Times New Roman'><IMG src=tgs_17.jpg width=619 height=128 alt='Picture 15' title='Picture 15'></FONT>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>As of June 30, 2025 and December 31, 2024, the funds allocation was as follows:</P>
+<P align=center style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0'><FONT style='font-family:Times New Roman'><IMG src=tgs_18.jpg width=612 height=136 alt='Picture 12' title='Picture 12'></FONT>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:10pt Arial;margin:0;margin-right:-0.05pt'><FONT style='font:9pt Verdana'>The table below shows a reconciliation of the free cash flows for the 2Q2025 and 2Q2024 periods:</FONT><FONT style='font-family:Times New Roman'> </FONT></P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=center style='font:10pt Verdana;margin:0;margin-right:-0.05pt;color:#0070C0'><FONT style='font-family:Times New Roman;color:#000000'><IMG src=tgs_19.jpg width=612 height=151 alt='Picture 14' title='Picture 14'></FONT>&nbsp;</P>
+<P style='font:10pt Verdana;margin:0;margin-right:-0.05pt;color:#0070C0'>&nbsp;</P>
+<P style='font:10pt Verdana;margin:0;margin-right:-0.05pt;color:#0070C0'>&nbsp;</P>
+<P style='font:10pt Verdana;margin:0;margin-right:-0.05pt;color:#0070C0'><B>2Q2025 vs. 2Q2024</B></P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>During 2Q2025, cash flows provided by operating activities amounted to Ps. 88,300 million, representing a decrease of Ps. 49,080 million compared to 2Q2024. This variation was mainly explained by a decline in net income (Ps. 40,278 million compared to Ps. 119,739 million in 2Q2024) and an increase in income tax payments, which reached Ps. 51,682 million compared to Ps. 493 million in 2Q2024. These effects were partially offset by higher adjustments for eliminations (Ps. 119,052 million vs. Ps. 75,954 million) and lower outflows due to changes in working capital. In addition, no interest payments were recorded in the quarter, in contrast to 2Q2024, when Ps. 23,726 million were paid for this item.</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=right style='font:10pt Arial;margin:0'><FONT style='font:8pt Verdana'>8</FONT></P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:14.2pt;margin-right:-35.45pt;color:#0070C0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#1F497D'><B>Transportadora de Gas del Sur S.A. </B></P>
+<P style='font:8pt Verdana;margin:0'><I>Madero Office Building</I> &#8211;&nbsp;355 Cecilia Grierson St. 26<SUP>th</SUP> floor</P>
+<P style='font:8pt Verdana;margin:0'>(C1107CPG), Autonomous City of Buenos Aires, Argentina.</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0;text-indent:-7.1pt'><IMG src=tgs_5.jpg width=84 height=30 alt='Picture 3' title='Picture 3'><FONT style='font:9pt Verdana;color:#0070C0'><B>2Q2025</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=center style='font:9pt Verdana;margin:0;color:#0070C0'><FONT style='font-family:Times New Roman;color:#000000'><IMG src=tgs_20.jpg width=573 height=127 alt='Picture 18' title='Picture 18'></FONT>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'><FONT style=color:#0070C0><B>Cash flow </B><B>provided by</B><B> investing activities</B> </FONT>amounted to Ps. 86,405 million, reversing the outflows recorded in 2Q2024 (Ps. 115,731 million negative). This positive variation of Ps. 202,136 million was mainly explained by collections from the sale of investments not classified as funds under IFRS, which totaled Ps. 142,146 million, compared to payments of Ps. 44,782 million in 2Q2024. In addition, there was a reduction in investments in PPE, which declined from Ps. 70,950 million in 2Q2024 to Ps. 55,741 million in the same period of 2025, implying a decrease in the use of funds of Ps. 15,209 million.</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'><FONT style='font-family:Times New Roman'><IMG src=tgs_21.jpg width=612 height=71 alt='Picture 26' title='Picture 26'></FONT>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'>During 2Q2025, <FONT style=color:#0070C0><B>cash flow used in financing activities</B></FONT> amounted to Ps. 202,904 million, representing an increase compared to the same period last year, when there was a net outflow of Ps. 19,551 million. This negative variation of Ps. 183,353 million was mainly explained by the cash payment for dividends during the quarter amounting to Ps. 202,704 million, while in 2Q2024 there were no distributions made. Additionally, in the current period, no new loans were drawn, and no debt was repaid, unlike 2Q2024, when loans totaling Ps. 6,249 million were drawn and obligations amounting to Ps. 25,597 million were repaid.</P>
+<P align=justify style='font:9pt Verdana;margin:0'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0;margin-left:-7.1pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0'><FONT style='font-family:Times New Roman'><IMG src=tgs_22.jpg width=612 height=80 alt='Picture 15' title='Picture 15'></FONT>&nbsp;</P>
+<P style='font:10pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:10pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P align=justify style='font:10pt Verdana;margin:0;color:#0070C0'><B>2Q2025 earnings videoconference </B></P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>We invite you to participate in the videoconference to discuss this 2Q2025 announcement on <FONT style=color:#0070C0><B>Wednesday August 6, </B><B>2025</B><B> at 10</B><B>:00 a.m. Eastern Time / </B><B>11</B><B>:00 a.m. Buenos Aires time</B></FONT>. </P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>For those interested in participating in our earnings videoconference, there will be a live webcast that you can access at: &nbsp;</P>
+<P align=justify style='font:10pt Arial;margin:0;margin-right:-0.05pt'><FONT style='font-family:Times New Roman;color:#0000FF;border-bottom:1px solid #0000FF'>https://us02web.zoom.us/webinar/register/WN_kocdeqdsRmOW1q678Rsrqg</FONT></P>
+<P align=justify style='font:7pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:9pt Verdana;margin:0;margin-right:-0.05pt'>The following section includes financial information.</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=right style='font:10pt Arial;margin:0'><FONT style='font:8pt Verdana'>9</FONT></P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:14.2pt;margin-right:-35.45pt;color:#0070C0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#1F497D'><B>Transportadora de Gas del Sur S.A. </B></P>
+<P style='font:8pt Verdana;margin:0'><I>Madero Office Building</I> &#8211;&nbsp;355 Cecilia Grierson St. 26<SUP>th</SUP> floor</P>
+<P style='font:8pt Verdana;margin:0'>(C1107CPG), Autonomous City of Buenos Aires, Argentina.</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0;text-indent:-7.1pt'><IMG src=tgs_5.jpg width=84 height=30 alt='Picture 3' title='Picture 3'><FONT style='font:9pt Verdana;color:#0070C0'><B>2Q2025</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=justify style='font:10pt Verdana;margin:0;margin-right:-0.05pt;color:#0070C0'><B>Forward-Looking Statements</B></P>
+<P align=justify style='font:7pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0'>This press release contains forward-looking statements. These forward-looking statements include, but are not limited to, all statements other than statements of historical facts contained in this press release, including, without limitation, those regarding our future financial position and results of operations, our strategy, plans, objectives, goals and targets, future developments in the markets in which we operate or are seeking to operate or anticipated regulatory changes in the markets in which we operate or intend to operate. In some cases, you can identify forward-looking statements by terminology such as &quot;anticipate,&quot; &quot;believe,&quot; &quot;continue,&quot; &quot;could,&quot; &quot;estimate,&quot; &quot;expect,&quot; &quot;guidance,&quot; &quot;may,&quot;, &quot;should&quot; or &quot;will&quot; or the negative of such terms or other similar expressions or terminology.</P>
+<P align=justify style='font:7pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0'>By their nature, forward-looking statements involve risks and uncertainties because they relate to events and depend on circumstances that may or may not occur in the future. Forward-looking statements speak only as of the date of this press release and are not guarantees of future performance and are based on numerous assumptions. Our actual results of operations, financial condition and the development of events may differ materially from (and be more negative than) those made in, or suggested by, the forward-looking statements. Except as required by law, we do not undertake any obligation to update any forward-looking statements to reflect events or circumstances after the date hereof or to reflect anticipated or unanticipated events or circumstances.</P>
+<P align=justify style='font:7pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0'>Investors should read the section entitled &quot;<FONT style='font-family:Times New Roman'> </FONT>Item 3. Key Information&#8212;D. Risk Factors &quot; and the description of our segments and business sectors in the section entitled &quot;Item 4.B. Information on the Company&#8212;Business Overview&quot;, each in our Annual Report on Form 20-F for the year ended December 31, 2024, filed with the Securities and Exchange Commission (&#8220;SEC&#8221;), for a more complete discussion of the risks and factors that could affect us. </P>
+<P align=justify style='font:7pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0'>Forward-looking statements include, but are not limited to, statements relating to: operating profits, new investments and projects, including their expected development, completion, commercial operations date, expected financial and operating performance (including enterprise value to EBITDA multiples), expected output capacity, anticipated synergies and market dynamics relating to such investments and projects; the Inflation Reduction Act in the U.S (&#8220;IRA&#8221;) and benefits thereunder; our anticipated limited exposure to current market risks, including our position with respect current market risks and the potential impact from foreign exchange rates and interest rates on CAFD; the impact from potential caps on market prices in the net value of our assets; taxes on energy companies in Spain; equity investments; estimates and targets; escalation factors in relation to inflation; net corporate leverage based on CAFD estimates; financial flexibility; the use of non-IFRS measures as a useful predicting tool for investors; and various other factors, including those factors discussed under &#8220;Item 3. Key Information&#8212;D. Risk Factors&#8221; and &#8220;Item 5.A&#8212;Operating Results&#8221; in our Annual Report on Form 20-F for the year ended December 31, 2024, filed with the SEC. </P>
+<P style='font:7pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P style='font:7pt Verdana;margin:0;color:#0070C0'>&nbsp;</P>
+<P style='font:7pt Verdana;margin:0;color:#0070C0'><B>Non-IFRS Financial Measures</B></P>
+<P align=justify style='font:7pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0'>This press release also includes certain non-IFRS financial measures. Non-IFRS financial measures are not measurements of our performance or liquidity under IFRS as issued by IASB and should not be considered alternatives to operating profit or profit for the period or net cash provided by operating activities or any other performance measures derived in accordance with IFRS as issued by the IASB or any other generally accepted accounting principles or as alternatives to cash flow from operating, investing or financing activities. </P>
+<P align=justify style='font:7pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0'>We present non-IFRS financial measures because we believe that they and other similar measures are widely used by certain investors, securities analysts and other interested parties as supplemental measures of performance and liquidity. The non-IFRS financial measures may not be comparable to other similarly titled measures employed by other companies and may have limitations as analytical tools. These measures may not be fit for isolated consideration or as a substitute for analysis of our operating results as reported under IFRS as issued by the IASB. Non-IFRS financial measures and ratios are not measurements of our performance or liquidity under IFRS as issued by the IASB. Thus, they should not be considered as alternatives to operating profit, profit for the period, any other performance measures derived in accordance with IFRS as issued by the IASB, any other generally accepted accounting principles or as alternatives to cash flow from operating, investing or financing activities.</P>
+<P align=justify style='font:7pt Verdana;margin:0'>&nbsp;</P>
+<P align=justify style='font:7pt Verdana;margin:0'>Rounding: Certain figures included in this press release have been rounded for ease of presentation. Percentage figures included in this press release have not, in all cases, been calculated on the basis of such rounded figures but on the basis of such amounts prior to rounding. For this reason, percentage amounts in this press release may vary from those obtained by performing the same calculations using the figures in our Financial Statements. Certain numerical figures shown as totals in some tables may not be an arithmetic aggregation of the figures that preceded them due to rounding.</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=right style='font:10pt Arial;margin:0'><FONT style='font:8pt Verdana'>10</FONT></P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:14.2pt;margin-right:-35.45pt;color:#0070C0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#1F497D'><B>Transportadora de Gas del Sur S.A. </B></P>
+<P style='font:8pt Verdana;margin:0'><I>Madero Office Building</I> &#8211;&nbsp;355 Cecilia Grierson St. 26<SUP>th</SUP> floor</P>
+<P style='font:8pt Verdana;margin:0'>(C1107CPG), Autonomous City of Buenos Aires, Argentina.</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0;text-indent:-7.1pt'><IMG src=tgs_5.jpg width=84 height=30 alt='Picture 3' title='Picture 3'><FONT style='font:9pt Verdana;color:#0070C0'><B>2Q2025</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:9pt Verdana;margin:0'><FONT style='font-family:Times New Roman'> &nbsp;&nbsp;</FONT><B> &nbsp;&nbsp;</B><FONT style='font-family:Times New Roman'><IMG src=tgs_23.jpg width=612 height=325 alt='Picture 16' title='Picture 16'></FONT></P>
+<P align=center style='font:9pt Verdana;margin:0;margin-left:-21.3pt'>&nbsp;</P>
+<P style='font:9pt Verdana;margin:0;margin-left:-21.3pt'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0;margin-left:-7.1pt'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0;margin-left:-7.1pt'>&nbsp;</P>
+<P align=center style='font:9pt Verdana;margin:0;margin-left:-7.1pt'><FONT style='font-family:Times New Roman'><IMG src=tgs_24.jpg width=612 height=278 alt='Picture 22' title='Picture 22'></FONT>&nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=right style='font:10pt Arial;margin:0'><FONT style='font:8pt Verdana'>11</FONT></P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:14.2pt;margin-right:-35.45pt;color:#0070C0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#1F497D'><B>Transportadora de Gas del Sur S.A. </B></P>
+<P style='font:8pt Verdana;margin:0'><I>Madero Office Building</I> &#8211;&nbsp;355 Cecilia Grierson St. 26<SUP>th</SUP> floor</P>
+<P style='font:8pt Verdana;margin:0'>(C1107CPG), Autonomous City of Buenos Aires, Argentina.</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0;text-indent:-7.1pt'><IMG src=tgs_5.jpg width=84 height=30 alt='Picture 3' title='Picture 3'><FONT style='font:9pt Verdana;color:#0070C0'><B>2Q2025</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=center style='font:9pt Verdana;margin:0;margin-left:-21.3pt'><FONT style='font-family:Times New Roman'><IMG src=tgs_25.jpg width=612 height=803 alt='Picture 17' title='Picture 17'></FONT>&nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=right style='font:10pt Arial;margin:0'><FONT style='font:8pt Verdana'>12</FONT></P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:14.2pt;margin-right:-35.45pt;color:#0070C0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#1F497D'><B>Transportadora de Gas del Sur S.A. </B></P>
+<P style='font:8pt Verdana;margin:0'><I>Madero Office Building</I> &#8211;&nbsp;355 Cecilia Grierson St. 26<SUP>th</SUP> floor</P>
+<P style='font:8pt Verdana;margin:0'>(C1107CPG), Autonomous City of Buenos Aires, Argentina.</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0;text-indent:-7.1pt'><IMG src=tgs_5.jpg width=84 height=30 alt='Picture 3' title='Picture 3'><FONT style='font:9pt Verdana;color:#0070C0'><B>2Q2025</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=center style='font:9pt Verdana;margin:0;margin-left:28.35pt'><FONT style='font-family:Times New Roman'><IMG src=tgs_26.jpg width=524 height=782 alt='Picture 1' title='Picture 1'></FONT>&nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=right style='font:10pt Arial;margin:0'><FONT style='font:8pt Verdana'>13</FONT></P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:14.2pt;margin-right:-35.45pt;color:#0070C0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#1F497D'><B>Transportadora de Gas del Sur S.A. </B></P>
+<P style='font:8pt Verdana;margin:0'><I>Madero Office Building</I> &#8211;&nbsp;355 Cecilia Grierson St. 26<SUP>th</SUP> floor</P>
+<P style='font:8pt Verdana;margin:0'>(C1107CPG), Autonomous City of Buenos Aires, Argentina.</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0;text-indent:-7.1pt'><IMG src=tgs_5.jpg width=84 height=30 alt='Picture 3' title='Picture 3'><FONT style='font:9pt Verdana;color:#0070C0'><B>2Q2025</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=center style='font:10pt Arial;margin:0'><FONT style='font-family:Times New Roman'><IMG src=tgs_27.jpg width=554 height=770 alt='Picture 1' title='Picture 1'></FONT>&nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=right style='font:10pt Arial;margin:0'><FONT style='font:8pt Verdana'>14</FONT></P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:14.2pt;margin-right:-35.45pt;color:#0070C0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#1F497D'><B>Transportadora de Gas del Sur S.A. </B></P>
+<P style='font:8pt Verdana;margin:0'><I>Madero Office Building</I> &#8211;&nbsp;355 Cecilia Grierson St. 26<SUP>th</SUP> floor</P>
+<P style='font:8pt Verdana;margin:0'>(C1107CPG), Autonomous City of Buenos Aires, Argentina.</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0;text-indent:-7.1pt'><IMG src=tgs_5.jpg width=84 height=30 alt='Picture 3' title='Picture 3'><FONT style='font:9pt Verdana;color:#0070C0'><B>2Q2025</B><B> EARNINGS RELEASE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P style='font:10pt Arial;margin:0'><FONT style='font-family:Times New Roman'><IMG src=tgs_28.jpg width=756 height=1069 alt='Imagen 3' title='Imagen 3'></FONT>&nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=right style='font:10pt Arial;margin:0'><FONT style='font:8pt Verdana'>15</FONT></P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:14.2pt;margin-right:-35.45pt;color:#0070C0'>&nbsp;</P>
+<P style='font:8pt Verdana;margin:0;color:#1F497D'><B>Transportadora de Gas del Sur S.A. </B></P>
+<P style='font:8pt Verdana;margin:0'><I>Madero Office Building</I> &#8211;&nbsp;355 Cecilia Grierson St. 26<SUP>th</SUP> floor</P>
+<P style='font:8pt Verdana;margin:0'>(C1107CPG), Autonomous City of Buenos Aires, Argentina.</P>
+<P style='font:8pt Verdana;margin:0;color:#00B0F0'>https://www.tgs.com.ar/investors/Press-releases</P>
+<P align=justify style='font:7pt Verdana;margin:0;margin-left:14.2pt;margin-right:-35.45pt;color:#0070C0'>&nbsp;</P>
+<P align=center style='font:10pt Arial;margin:0;margin-left:36pt'>&nbsp;</P>
+</DIV>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,331 @@
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>tm2417217d1_6k.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Washington, D.C.&nbsp;&nbsp;20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 20%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FORM 6-K</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>REPORT OF FOREIGN PRIVATE ISSUER</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES EXCHANGE ACT OF 1934</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">June 13,&nbsp;2024</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 20%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Commission File Number: 001-32827</P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 20%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-size: 14pt"><B>MACRO BANK INC.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>(Translation of registrant&rsquo;s name into
+English)</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>&nbsp;</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 20%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Av. Eduardo Madero 1182</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Buenos Aires C1106ACY</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Tel: 54 11 5222 6500</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>(Address of registrant&rsquo;s principal executive
+offices)</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>&nbsp;</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin: 3pt auto; width: 20%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark whether the registrant files or will file annual
+reports under cover of Form 20-F or Form 40-F.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; width: 40%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 20%"><FONT STYLE="font-size: 10pt">Form 20-F</FONT></TD>
+    <TD STYLE="width: 30%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">x</FONT></TD>
+    <TD STYLE="width: 20%"><FONT STYLE="font-size: 10pt">Form 40-F</FONT></TD>
+    <TD STYLE="width: 30%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">o</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark if the registrant is submitting the Form 6-K
+in paper as permitted by Regulation S-T Rule 101(b)(1):</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; width: 40%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 20%"><FONT STYLE="font-size: 10pt">Yes</FONT></TD>
+    <TD STYLE="width: 30%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">o</FONT></TD>
+    <TD STYLE="width: 20%"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="width: 30%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">x</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark if the registrant is submitting the Form 6-K
+in paper as permitted by Regulation S-T Rule 101(b)(7):</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER" STYLE="font: 10pt Times New Roman, Times, Serif; width: 40%">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 20%"><FONT STYLE="font-size: 10pt">Yes</FONT></TD>
+    <TD STYLE="width: 30%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">o</FONT></TD>
+    <TD STYLE="width: 20%"><FONT STYLE="font-size: 10pt">No</FONT></TD>
+    <TD STYLE="width: 30%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">x</FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 3pt; margin-bottom: 3pt; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;&nbsp;</P>
+
+<P STYLE="font: italic 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-style: normal"><U>INDEX</U></FONT></P>
+
+<P STYLE="font: italic 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><FONT STYLE="font-style: normal">&nbsp;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Translation of a submission from Banco Macro to
+the CNV dated on June 13, 2024.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><B>Payment of Cash Dividend</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 28.35pt 0pt 42.55pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify">We hereby inform to the
+Shareholders of Banco Macro S.A. that, pursuant to (i) the resolutions adopted by the General and Special Shareholders&rsquo; Meeting
+held on April 12<SUP>th</SUP> 2024, (ii) Communique &ldquo;A&rdquo; 7984 and Communique &ldquo;A&rdquo; 7997 authorizing the financial
+entities with authorization of the Central Bank of the Republic of Argentina to distribute dividends in 3 equal and consecutive monthly
+instalments expressed in constant currency, (iii) the authorization by the Superintendency of Financial and Exchange Entities of the
+Central Bank of the Republic of Argentina obtained last May 6<SUP>th</SUP>, and (iv) the resolutions adopted by the Board of Directors
+at the meeting held on June 13<SUP>th</SUP> 2024, Banco Macro S.A. shall make available and pay to its shareholders instalment No. 2
+of the cash dividend of AR $168,541,001,211.86, (i.e., AR $263.5869049712 per share representing 26,358.6905% of the capital stock of
+AR $639,413,408).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 42.45pt 0pt 28.35pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify">Available as of 06/26/2024</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 42.45pt 0pt 28.35pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify">Record date: 06/25/2024</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 42.45pt 0pt 28.35pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify">As to the aggregate amount of
+dividends Banco Macro S.A. shall distribute, please be advised that such amount is subject to a 7% withholding under section 97 of the
+Income Tax Law as revised in 2019.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 42.45pt 0pt 28.35pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify">Such cash dividend shall be
+made available as of the above stated date at Caja de Valores S.A. located in 25 de Mayo 362, Autonomous City of Buenos Aires, Mondays
+to Fridays from 10 AM to 3 PM.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 42.45pt 0pt 28.35pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify">Shareholders holding American
+Depositary Receipts (ADRs) shall receive the relevant dividend under the applicable depositary agreement through The Bank of New York
+Mellon, as depositary agent of such certificates&rsquo; underlying Class B Shares as of the relevant date under the rules applicable in
+the jurisdiction in which such ADRs of the Company are listed.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 42.45pt 0pt 28.35pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify">We further inform to the non-resident
+shareholders that they may choose to apply the amount of dividends to the subscription of &ldquo;Bonds for the Reconstruction of a Free
+Argentina&rdquo; (BOPREALs), Series 3 issued by the CENTRAL BANK OF THE REPUBLIC OF ARGENITNA (BCRA), pursuant to the provisions of Communique
+ &ldquo;A&rdquo; 7997 of the BCRA.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 42.45pt 0pt 28.35pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 42.45pt 0pt 28.35pt; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 42.45pt 0pt 28.35pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify">Each non-resident shareholder
+who chooses this option (hereinafter, the &ldquo;Subscribing Shareholder&rdquo;) shall send to the email address <U>productosfinancieros@macro.com.ar</U>,
+at least forty-eight (48) business hours in advance of the record date, the following information and/or documents: a) an irrevocable
+instruction letter indicating its intention to subscribe BOPREALs with the funds to be received by such shareholders as dividend under
+this dividend payment notice. Such instruction letter shall be sent: i) in the case of legal entities, by its legal representative in
+the Republic of Argentina with such representative&rsquo;s signature and powers duly certified by notary public and legalized as applicable,
+and with proof of such legal entity&rsquo;s registration with the Public Registry of Commerce or signed by the legal representative of
+the foreign company or agent pursuant to the power of attorney granted abroad with all required formalities, in compliance with all legal
+authentication requirements applicable in the country of origin as well as with the relevant rules and regulations applicable in the
+Republic of Argentina to render any document issued in other countries valid in the Republic of Argentina, duly apostilled or certified
+by the Ministry of Foreign Affairs, as applicable; and ii) in the case of individuals, through a letter signed before a notary public
+and legalized as applicable; b) the amount in Argentine pesos for which the Shareholder intends subscribe BOPREALs, which amount shall
+not exceed the amount in Argentine pesos such Shareholder is to receive as dividend, after: i) the 7% tax withholding under section 97
+of the Income Tax Law, as revised in 2019; and ii) the 17.5% tax withholding as Tax for an Inclusive and Solidarity-based Argentina (PA&Iacute;S)
+under Decree No. 385/2024; c) proof of Shareholder&rsquo;s non-resident condition; and d) the custody account to which the Company shall
+send the bonds under Communique &ldquo;A&rdquo; 7997 issued by the BCRA.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 42.45pt 0pt 28.35pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify">Banco Macro undertakes to participate
+in the BOPREAL bid immediately following the dividend payment date for the amount requested &ndash;less the above mentioned 7% tax withholding
+under section 97 of the Argentine Income Tax Law, as revised in 2019 and the 17.5% withholding as Tax for an Inclusive and Solidarity-based
+Argentina (PA&Iacute;S)- for each Subscribing Shareholder and once credited, it shall transfer the relevant BOPREAL to the custody account
+informed by the Subscribing Shareholder, under the terms of Communique &ldquo;A&rdquo; 7997.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 42.45pt 0pt 28.35pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify">In the event the BCRA does not
+call for a BOPREAL bid in which the Subscribing Shareholder is able to participate within 30 calendar days from the date of this notice
+Banco Macro S.A. shall return the relevant amount of Argentine pesos to the Subscribing Shareholder to the account the latter may indicate,
+free of interests.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 42.45pt 0pt 28.35pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify">Sending an email to the email
+address mentioned above informing the Shareholder&rsquo;s decision to choose this regime, implies Banco Macro S.A. shall no be responsible
+in case that &ndash;for any reason whatsoever- the Subscribing Shareholder is unable to get the BOPREALs.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 42.45pt 0pt 28.35pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>&nbsp;</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">SIGNATURE</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Pursuant to the requirements of the Securities Exchange Act of 1934,
+the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Date: June 13, 2024</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt">MACRO BANK INC.</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 3%">&nbsp;</TD>
+    <TD STYLE="width: 30%">&nbsp;</TD>
+    <TD STYLE="width: 17%">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="padding-bottom: 1.5pt">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 1.5pt"><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt"><U STYLE="text-decoration: none">/s/ Jorge F. Scarinci </U></FONT></TD>
+    <TD STYLE="padding-bottom: 1.5pt">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt">Name: Jorge F. Scarinci</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt">Title: Chief Financial Officer</FONT></TD>
+    <TD>&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 5; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
