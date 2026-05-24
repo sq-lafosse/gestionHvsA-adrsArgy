@@ -55,8 +55,96 @@ _HEADERS_WWW = {
     "Host":            "www.sec.gov",
 }
 
+# ── Macro sources ─────────────────────────────────────────────────────────────
+
+_MONTHS_ES = ["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"]
+
+_BCRA_BASE = "https://www.bcra.gob.ar"
+_FED_BASE  = "https://www.federalreserve.gov"
+
+_HEADERS_BCRA = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "Accept":     "application/pdf,*/*",
+}
+_HEADERS_FED = {
+    "User-Agent": "gestionHvsA research@example.com",
+    "Accept":     "text/html,*/*",
+}
+
+# Exact FOMC meeting dates as released by the Federal Reserve (2024–2025)
+_FOMC_DATES = [
+    "20240131", "20240320", "20240501", "20240612",
+    "20240731", "20240918", "20241107", "20241218",
+    "20250129", "20250319", "20250507", "20250618",
+    "20250730", "20250917", "20251105", "20251210",
+]
+
 
 # ─── Public API ───────────────────────────────────────────────────────────────
+
+def download_macro_documents(start: str, end: str) -> dict[str, dict[str, int]]:
+    """
+    Download BCRA and Fed macro documents for each month in [start, end].
+
+    Sources (approved):
+      bcra_monetario — BCRA Informe Monetario Mensual (PDF). Available from
+                       2024-06 onward; 2024-01..05 are 404 and skipped.
+                       Published ~2 weeks after month-close → saved in M+1 folder.
+      bcra_rem       — BCRA Relevamiento de Expectativas de Mercado (PDF).
+                       Published last business day of the covered month → same-month folder.
+      fed_fomc       — Federal Reserve FOMC minutes page (HTML saved as .txt).
+                       16 hardcoded meeting dates for 2024–2025.
+
+    Parameters
+    ----------
+    start, end : str
+        Format 'YYYY-MM'. Both inclusive (coverage month).
+
+    Returns
+    -------
+    dict mapping 'YYYY-MM' → {'bcra_monetario': N, 'bcra_rem': N, 'fed_fomc': N}
+    for every month in [start, end]. Counts are by coverage month.
+    All errors are logged as warnings; the function never raises.
+    """
+    start_ts = pd.Timestamp(start + "-01")
+    end_ts   = pd.Timestamp(end   + "-01") + pd.offsets.MonthEnd(0)
+    months   = _month_range(start_ts, end_ts)
+
+    counts: dict[str, dict[str, int]] = {
+        m: {"bcra_monetario": 0, "bcra_rem": 0, "fed_fomc": 0}
+        for m in months
+    }
+
+    for month_key in months:
+        ts    = pd.Timestamp(month_key + "-01")
+        year  = ts.year
+        month = ts.month
+        mes   = _MONTHS_ES[month - 1]
+        yy    = str(year)[-2:]
+
+        # BCRA Monetario — published in M+1, saved there
+        pub_ts  = ts + pd.offsets.MonthBegin(1)
+        pub_dir = Path("data/news") / pub_ts.strftime("%Y") / pub_ts.strftime("%m")
+        if _download_bcra_monetario(mes, yy, str(year), pub_dir):
+            counts[month_key]["bcra_monetario"] += 1
+
+        # BCRA REM — published same month
+        rem_dir = Path("data/news") / f"{year}" / f"{month:02d}"
+        if _download_bcra_rem(mes, str(year), rem_dir):
+            counts[month_key]["bcra_rem"] += 1
+
+    # FOMC — fixed dates, count under coverage month
+    for date_str in _FOMC_DATES:
+        fomc_ts = pd.Timestamp(date_str)
+        if not (start_ts <= fomc_ts <= end_ts):
+            continue
+        month_key = fomc_ts.strftime("%Y-%m")
+        fomc_dir  = Path("data/news") / fomc_ts.strftime("%Y") / fomc_ts.strftime("%m")
+        if _download_fomc(date_str, fomc_dir):
+            counts[month_key]["fed_fomc"] += 1
+
+    return counts
+
 
 def download_news_for_period(start: str, end: str) -> dict[str, dict[str, int]]:
     """
@@ -243,3 +331,124 @@ def _month_range(start: pd.Timestamp, end: pd.Timestamp) -> list[str]:
         months.append(current.strftime("%Y-%m"))
         current += pd.offsets.MonthBegin(1)
     return months
+
+
+# ─── Macro source helpers ─────────────────────────────────────────────────────
+
+def _download_bcra_monetario(mes: str, yy: str, year: str, out_dir: Path) -> bool:
+    """
+    Download BCRA Informe Monetario Mensual for the given month.
+
+    mes  : Spanish abbreviation (e.g. 'ene')
+    yy   : 2-digit year (e.g. '24')
+    year : 4-digit year string for the filename (e.g. '2024')
+    out_dir : publication-month folder (M+1)
+
+    Returns True if file is on disk after the call.
+    Logs a warning and returns False for 2024-01..05 (404 on BCRA server).
+    """
+    filename = f"bcra_monetario_{mes}_{year}.pdf"
+    out_path = out_dir / filename
+    if out_path.exists():
+        logger.debug("bcra_monetario: already on disk — %s", filename)
+        return True
+
+    url = (
+        f"{_BCRA_BASE}/Pdfs/PublicacionesEstadisticas/"
+        f"informe-monetario-mensual-{mes}-{yy}.pdf"
+    )
+    try:
+        time.sleep(_RATE_LIMIT)
+        resp = requests.get(url, headers=_HEADERS_BCRA, timeout=_TIMEOUT)
+        if resp.status_code == 404:
+            logger.warning("bcra_monetario: 404 para %s-%s (no publicado)", mes, year)
+            return False
+        if resp.status_code != 200:
+            logger.warning("bcra_monetario: HTTP %d para %s-%s", resp.status_code, mes, year)
+            return False
+        if resp.content[:4] != b"%PDF":
+            logger.warning("bcra_monetario: respuesta no es PDF para %s-%s", mes, year)
+            return False
+
+        out_dir.mkdir(parents=True, exist_ok=True)
+        out_path.write_bytes(resp.content)
+        logger.info("bcra_monetario: saved %s (%d bytes)", filename, len(resp.content))
+        return True
+
+    except Exception as exc:
+        logger.warning("bcra_monetario: excepción para %s-%s — %s", mes, year, exc)
+        return False
+
+
+def _download_bcra_rem(mes: str, year: str, out_dir: Path) -> bool:
+    """
+    Download BCRA REM (Relevamiento de Expectativas de Mercado).
+
+    Uses variant A URL pattern only (confirmed 24/24 months via verification).
+
+    Returns True if file is on disk after the call.
+    """
+    filename = f"bcra_rem_{mes}_{year}.pdf"
+    out_path = out_dir / filename
+    if out_path.exists():
+        logger.debug("bcra_rem: already on disk — %s", filename)
+        return True
+
+    url = (
+        f"{_BCRA_BASE}/Pdfs/PublicacionesEstadisticas/"
+        f"relevamiento-expectativas-mercado-{mes}-{year}.pdf"
+    )
+    try:
+        time.sleep(_RATE_LIMIT)
+        resp = requests.get(url, headers=_HEADERS_BCRA, timeout=_TIMEOUT)
+        if resp.status_code != 200:
+            logger.warning("bcra_rem: HTTP %d para %s-%s", resp.status_code, mes, year)
+            return False
+        if resp.content[:4] != b"%PDF":
+            logger.warning("bcra_rem: respuesta no es PDF para %s-%s", mes, year)
+            return False
+
+        out_dir.mkdir(parents=True, exist_ok=True)
+        out_path.write_bytes(resp.content)
+        logger.info("bcra_rem: saved %s (%d bytes)", filename, len(resp.content))
+        return True
+
+    except Exception as exc:
+        logger.warning("bcra_rem: excepción para %s-%s — %s", mes, year, exc)
+        return False
+
+
+def _download_fomc(date_str: str, out_dir: Path) -> bool:
+    """
+    Download one FOMC minutes page as .txt (HTML content).
+
+    date_str : YYYYMMDD (e.g. '20240131')
+    out_dir  : meeting-month folder
+
+    Returns True if file is on disk after the call.
+    """
+    filename = f"fed_fomc_{date_str}.txt"
+    out_path = out_dir / filename
+    if out_path.exists():
+        logger.debug("fed_fomc: already on disk — %s", filename)
+        return True
+
+    url = f"{_FED_BASE}/monetarypolicy/fomcminutes{date_str}.htm"
+    try:
+        time.sleep(_RATE_LIMIT)
+        resp = requests.get(url, headers=_HEADERS_FED, timeout=_TIMEOUT)
+        if resp.status_code != 200:
+            logger.warning("fed_fomc: HTTP %d para %s", resp.status_code, date_str)
+            return False
+        if b"html" not in resp.content[:64].lower():
+            logger.warning("fed_fomc: respuesta inesperada para %s", date_str)
+            return False
+
+        out_dir.mkdir(parents=True, exist_ok=True)
+        out_path.write_bytes(resp.content)
+        logger.info("fed_fomc: saved %s (%d bytes)", filename, len(resp.content))
+        return True
+
+    except Exception as exc:
+        logger.warning("fed_fomc: excepción para %s — %s", date_str, exc)
+        return False
