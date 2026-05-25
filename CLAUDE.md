@@ -260,6 +260,7 @@ gestionHvsA-adrsArgy/
 │   └── settings.yaml
 │
 ├── data/
+├   ├── benchmarks/
 │   ├── cache/
 │   │   ├── prices/          ← ADRs, Merval (cache histórico inmutable)
 │   │   ├── macro/           ← CCL, inflación, reservas BCRA

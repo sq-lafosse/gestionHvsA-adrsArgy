@@ -195,3 +195,21 @@ def _apply_academic_style(ax: plt.Axes) -> None:
     ax.grid(axis="y", color="#eeeeee", linewidth=0.8, zorder=0)
     ax.set_facecolor("white")
     ax.figure.set_facecolor("white")
+
+
+def _apply_chart_style(ax: plt.Axes, title: str) -> None:
+    """
+    Canonical academic chart style for all paper figures.
+
+    Applies spine removal, soft grid, white background, and sets title.
+    All new figures should call this instead of _apply_academic_style.
+    """
+    ax.spines["top"].set_visible(False)
+    ax.spines["right"].set_visible(False)
+    ax.spines["left"].set_color("#cccccc")
+    ax.spines["bottom"].set_color("#cccccc")
+    ax.tick_params(axis="both", labelsize=11, colors="#333333")
+    ax.grid(axis="y", color="#e8e8e8", linewidth=0.8, linestyle="-", zorder=0)
+    ax.set_facecolor("white")
+    ax.figure.set_facecolor("white")
+    ax.set_title(title, fontsize=14, fontweight="bold", color="#222222", pad=10)
