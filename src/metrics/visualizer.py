@@ -197,19 +197,77 @@ def _apply_academic_style(ax: plt.Axes) -> None:
     ax.figure.set_facecolor("white")
 
 
+# ─── Paleta definitiva ────────────────────────────────────────────────────────
+PALETTE: dict[str, str] = {
+    "pga":  "#1a3a6b",   # azul oscuro
+    "fima": "#e8751a",   # naranja
+    "spy":  "#8b1a1a",   # rojo vino
+    "eem":  "#2e6b3e",   # verde oscuro
+}
+
+_DEC2024_LINE = pd.Timestamp("2025-01-01")   # separador visual 2024 | 2025
+
+
 def _apply_chart_style(ax: plt.Axes, title: str) -> None:
     """
-    Canonical academic chart style for all paper figures.
+    Estilo base definitivo para todos los gráficos del paper.
 
-    Applies spine removal, soft grid, white background, and sets title.
-    All new figures should call this instead of _apply_academic_style.
+    Tipografía Arial, fondo blanco, grilla horizontal suave,
+    sin bordes superior/derecho. Llamar siempre antes de plotear datos.
     """
+    import matplotlib
+    matplotlib.rcParams["font.family"] = "Arial"
+
+    ax.set_facecolor("#ffffff")
+    ax.figure.set_facecolor("#ffffff")
+
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
     ax.spines["left"].set_color("#cccccc")
     ax.spines["bottom"].set_color("#cccccc")
+
     ax.tick_params(axis="both", labelsize=11, colors="#333333")
-    ax.grid(axis="y", color="#e8e8e8", linewidth=0.8, linestyle="-", zorder=0)
-    ax.set_facecolor("white")
-    ax.figure.set_facecolor("white")
-    ax.set_title(title, fontsize=14, fontweight="bold", color="#222222", pad=10)
+    ax.grid(axis="y", color="#e0e0e0", linewidth=0.5, linestyle="-", zorder=0)
+    ax.grid(axis="x", visible=False)
+
+    ax.set_title(title, fontsize=14, fontweight="bold", color="#222222",
+                 fontfamily="Arial", pad=10)
+
+
+def _add_period_bands(
+    ax: plt.Axes,
+    *,
+    x_label_2024: pd.Timestamp | None = None,
+    x_label_2025: pd.Timestamp | None = None,
+) -> None:
+    """
+    Agrega bandas sombreadas 2024/2025, etiquetas de período y línea
+    separadora en diciembre 2024. Llamar DESPUÉS de plotear los datos.
+
+    x_label_2024 / x_label_2025: posición X de las etiquetas de período.
+        Por defecto: centro de cada año (2024-07-01 y 2025-07-01).
+        Pasar un Timestamp custom para evitar solapamiento con leyendas.
+    """
+    from matplotlib.transforms import blended_transform_factory
+
+    if x_label_2024 is None:
+        x_label_2024 = pd.Timestamp("2024-07-01")
+    if x_label_2025 is None:
+        x_label_2025 = pd.Timestamp("2025-07-01")
+
+    # Bandas de color muy suave
+    ax.axvspan(pd.Timestamp("2024-01-01"), pd.Timestamp("2024-12-31"),
+               color="#1a3a6b", alpha=0.06, zorder=0, lw=0)
+    ax.axvspan(pd.Timestamp("2025-01-01"), pd.Timestamp("2025-12-31"),
+               color="#e8751a", alpha=0.06, zorder=0, lw=0)
+
+    # Etiquetas de período en la parte superior del área del gráfico
+    trans = blended_transform_factory(ax.transData, ax.transAxes)
+    for label, x_mid in [("2024", x_label_2024), ("2025", x_label_2025)]:
+        ax.text(x_mid, 0.975, label, transform=trans,
+                ha="center", va="top", fontsize=10,
+                color="#888888", fontfamily="Arial", zorder=5)
+
+    # Línea separadora diciembre 2024 / enero 2025
+    ax.axvline(_DEC2024_LINE, color="#888888", linewidth=1.0,
+               linestyle="-", alpha=0.6, zorder=3)
