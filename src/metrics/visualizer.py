@@ -2,7 +2,7 @@
 Matplotlib figures for gestionHvsA-adrsArgy academic paper.
 
 D28: Two PNG/PDF figures per run:
-    equity_curves.png — portfolio + 3 benchmarks, each normalized to 1.0 at start.
+    equity_curves.png — portfolio + 2 benchmarks, each normalized to 1.0 at start.
                         Vertical dashed lines mark rebalance execution dates.
     drawdown.png      — portfolio drawdown as filled area; max drawdown annotated.
 
@@ -23,16 +23,14 @@ logger = logging.getLogger(__name__)
 
 _PORTFOLIO_COLOR = "#1a2e6b"
 _BENCHMARK_COLORS = {
-    "ew_bnh":             "#e07b26",
-    "al30d_static":       "#2a9d8f",
-    "merval_usd":         "#c1121f",
-    "fima_acciones_usd":  "#6a0dad",
+    "ew_bnh":            "#e07b26",
+    "merval_usd":        "#c1121f",
+    "fima_acciones_usd": "#6a0dad",
 }
 _BENCHMARK_LABELS = {
-    "ew_bnh":             "EW B&H ADRs",
-    "al30d_static":       "AL30D (static)",
-    "merval_usd":         "Merval USD",
-    "fima_acciones_usd":  "FIMA Acciones USD",
+    "ew_bnh":            "EW B&H ADRs",
+    "merval_usd":        "Merval USD",
+    "fima_acciones_usd": "FIMA Acciones USD",
 }
 
 

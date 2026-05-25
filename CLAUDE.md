@@ -1,5 +1,5 @@
 # CLAUDE.md — gestionHvsA-adrsArgy
-# To update
+
 ## Qué es este proyecto
 
 Sistema de **Monthly Tactical Asset Allocation** sobre un universo de activos argentinos denominados en USD.
@@ -14,24 +14,22 @@ El informe final está dirigido a lectores no técnicos, pero con rigor académi
 
 ## Universo de activos
 
-### Renta variable — ADRs argentinos
-| Ticker | Empresa |
-|--------|---------|
-| YPF | YPF S.A. |
-| GGAL | Grupo Financiero Galicia |
-| BMA | Banco Macro |
-| PAM | Pampa Energía |
-| TGS | Transportadora de Gas del Sur |
-| CEPU | Central Puerto |
-| EDN | Empresa Distribuidora Norte |
-| LOMA | Loma Negra |
-| CRESY | Cresud |
-| IRS | IRSA Inversiones y Representaciones |
+### Renta variable — ADRs argentinos (100% equity)
+| Ticker | Empresa | Sector |
+|--------|---------|--------|
+| YPF | YPF S.A. | Energía petrolera |
+| GGAL | Grupo Financiero Galicia | Bancario |
+| BMA | Banco Macro | Bancario |
+| PAM | Pampa Energía | Energía eléctrica |
+| TGS | Transportadora de Gas del Sur | Infraestructura energética |
+| CEPU | Central Puerto | Generación eléctrica |
+| EDN | Empresa Distribuidora Norte | Distribución eléctrica |
+| LOMA | Loma Negra | Construcción / materiales |
+| CRESY | Cresud | Agro / Real Estate |
+| IRS | IRSA Inversiones y Representaciones | Real Estate |
 
-### Renta fija soberana
-| Ticker | Instrumento |
-|--------|-------------|
-| AL30D | Bono soberano argentino en USD — scraping automático (ver módulo data) |
+**El portfolio es 100% equity. No hay instrumentos de renta fija.**
+AL30D fue eliminado del universo por falta de datos históricos en fuentes reguladas equivalentes a SEC.
 
 ### Reglas sobre el universo
 - El universo define los **candidatos posibles**, no los activos obligatorios.
@@ -48,21 +46,16 @@ El informe final está dirigido a lectores no técnicos, pero con rigor académi
 2015-01  →  2023-12   PERÍODO IN-SAMPLE
                        Cache histórico. Se descarga UNA SOLA VEZ y queda inmutable.
                        Aquí se entrena PCA + SVM.
-                       Si un activo no tiene datos desde 2015, se usa desde donde esté disponible.
-                       Fechas dispares entre activos son aceptables — se documenta en el log.
 
-2024-01  →  adelante   PERÍODO LIVE (walk-forward mes a mes)
-                       El sistema agrega UN MES a la vez con información nueva.
-                       Nunca re-descarga el cache histórico ya almacenado.
+2024-01  →  2024-12   PERÍODO OUT-OF-SAMPLE — Bull market
+2025-01  →  2025-12   PERÍODO OUT-OF-SAMPLE — Bear market
 ```
 
 **Regla crítica:** al correr el período live, el modelo ve **solo** lo que existiría en esa fecha real:
 - Precios hasta el cierre del mes en curso
 - Datos macro disponibles hasta ese mes
-- Noticias curadas de ese mes (PDFs/TXT en `data/news/`)
+- Documentos curados del mes (PDFs en `data/news/`)
 - Sin acceso a meses futuros — zero data leakage
-
-El código **nunca recibe como parámetro** si un período es "bull" o "bear". Esa es una etiqueta que se asigna **a posteriori** para el análisis académico.
 
 ---
 
@@ -70,9 +63,8 @@ El código **nunca recibe como parámetro** si un período es "bull" o "bear". E
 
 ### Modo histórico (corre UNA sola vez)
 - Descarga y almacena toda la serie disponible hasta diciembre 2023
-- Llena `data/cache/` con precios, AL30D, CCL y datos macro
+- Llena `data/cache/` con precios, CCL y datos macro
 - Una vez generado, este cache es **inmutable**
-- Si un activo tiene datos desde 2018 y otro desde 2015: se acepta, se documenta, se continúa
 
 ### Modo live (corre mes a mes desde enero 2024)
 - Lee el cache histórico existente
@@ -82,67 +74,56 @@ El código **nunca recibe como parámetro** si un período es "bull" o "bear". E
 
 ---
 
-## Fuentes de datos — todo por scraping automático
+## Fórmula de ponderación dinámica
 
-**No se usan CSVs manuales en ningún momento.**
+Los pesos ya **no son equal weight**. Cada mes se calculan dinámicamente con 5 variables:
 
-| Dato | Fuente principal | Fallback | Almacenamiento |
-|------|-----------------|----------|----------------|
-| Precios ADRs | yfinance (`Adj Close`, semanal) | scraping alternativo | `data/cache/prices/` |
-| AL30D en USD | Scraping automático (Investing.com u otras) | fuente alternativa disponible | `data/cache/prices/` |
-| CCL histórico | Scraping automático (Ámbito, Investing u otras) | fuente alternativa disponible | `data/cache/macro/` |
-| Merval (`^MERV`) | yfinance | scraping alternativo | `data/cache/prices/` |
-| Datos macro AR | Scraping automático (ver detalle abajo) | fuente alternativa disponible | `data/cache/macro/` |
+```
+peso_i = señal_técnica_i      × 0.40
+       + volatilidad_inversa_i × 0.30
+       + correlación_inversa_i × 0.10
+       + nlp_empresa_i         × 0.10
+       + nlp_macro             × 0.10
+```
 
-### Lógica de fallback para scraping
-Si la fuente principal falla → intenta fuente alternativa → si ambas fallan → usa último dato cacheado disponible y registra warning en log. El pipeline nunca se detiene por falla de una fuente.
+### Definición de cada variable
 
----
+**señal_técnica_i (40%)**
+`price_to_sma30` del activo i — qué tan por encima de su promedio de 30 semanas está el precio. Mayor valor = más peso.
 
-## Datos macroeconómicos de Argentina
+**volatilidad_inversa_i (30%)**
+`1 / realized_vol_12` del activo i — activos más estables reciben más peso. Se normaliza entre 0 y 1 antes de aplicar.
 
-Se descargan y almacenan en `data/cache/macro/` como contexto para el clasificador de régimen.
-Período: post-pandemia (desde 2020 aprox.) hasta el mes en curso.
+**correlación_inversa_i (10%)**
+Qué tan poco correlacionado está el activo con el resto del portfolio ese mes. Activos que se mueven de forma independiente reciben más peso — mejora la diversificación real.
 
-| Variable | Fuente sugerida |
-|----------|----------------|
-| Inflación mensual (IPC) | INDEC / scraping |
-| Tipo de cambio CCL histórico | Ámbito / Investing |
-| Riesgo país (EMBI Argentina) | Ámbito / scraping |
-| Reservas BCRA | BCRA / scraping |
-| Tipo de cambio oficial | BCRA / scraping |
+**nlp_empresa_i (10%)**
+Score FinBERT de los 6-K presentados por ese ticker en SEC Edgar ese mes. Distinto por cada activo. Rango: -1.0 a +1.0.
 
-Estos datos enriquecen el contexto del clasificador de régimen y el análisis académico del paper.
+**nlp_macro (10%)**
+Score FinBERT agregado de los documentos macro del mes: REM, BCRA Monetario Mensual, INDEC Informa, Fed FOMC. El mismo valor para todos los activos ese mes. Rango: -1.0 a +1.0.
 
----
-
-## Benchmark
-
-| Benchmark | Ticker / Fuente | Conversión |
-|-----------|----------------|------------|
-| EW Buy & Hold ADRs | Los 10 ADRs en equal weight estático | Ya en USD |
-| AL30D estático | Scraping automático | Ya en USD |
-| Merval en USD | `^MERV` via yfinance | Dividido por CCL histórico scrapeado |
-
-**Tipo de cambio para Merval:** se usa **CCL (Contado con Liquidación)** — es el tipo de cambio relevante para inversores que operan ADRs y activos argentinos en USD. Es el estándar en research de mercados emergentes argentinos.
+### Parámetros configurables
+Los pesos (0.40, 0.30, 0.10, 0.10, 0.10) viven en `config/settings.yaml` y son editables sin tocar el código.
 
 ---
 
 ## Lógica de asignación
 
 ### Régimen Risk-On
-- Capital en **equal weight** entre los ADRs con señal positiva ese mes
-- ADRs con señal negativa → 0% ese mes (pueden volver el siguiente)
-- AL30D: 0%
+- Ponderación dinámica sobre **todos los ADRs con señal positiva** ese mes
+- ADRs con señal negativa → 0% ese mes
 
 ### Régimen Risk-Off
-- **80%** en ADRs activos (equal weight entre los con señal positiva)
-- **20%** AL30D
+- Ponderación dinámica aplicada únicamente sobre los **top 5 ADRs** por score combinado
+- Los 5 activos con peor score reciben 0% ese mes
+- Risk-On/Off es una variable de contexto que modifica el número de activos activos, no los pesos relativos entre ellos
 
 ### Rebalanceo
 - Se dispara **solo cuando cambia el régimen** (Risk-On ↔ Risk-Off)
 - Pesos siempre suman 100%
 - Sin cash, sin short selling, sin apalancamiento
+- Sin renta fija — portfolio 100% equity
 
 ---
 
@@ -158,14 +139,12 @@ Estos datos enriquecen el contexto del clasificador de régimen y el análisis a
 
 ## Señales técnicas
 
-Calculadas sobre el **retorno agregado del portfolio** (promedio del universo activo ese mes):
+Calculadas sobre el **retorno agregado del portfolio** (promedio del universo activo ese mes) para el clasificador de régimen, y **por activo individual** para la ponderación dinámica:
 
 - SMA 20
 - SMA 30
-- Momentum
-- Volatilidad realizada
-
-Las señales individuales por activo determinan si ese ADR entra o no ese mes.
+- Momentum (rolling sum 12 semanas)
+- Volatilidad realizada (rolling std 12 semanas)
 
 ---
 
@@ -175,16 +154,59 @@ Las señales individuales por activo determinan si ese ADR entra o no ese mes.
 - **SVM** para clasificación binaria: Risk-On / Risk-Off
 - Entrenado en período in-sample: 2015-01 → 2023-12
 - Aplicado walk-forward mes a mes desde enero 2024
+- El régimen es una variable de contexto — no el único determinante de los pesos
 
 ---
 
-## NLP — Sentimiento
+## NLP — Sentimiento (dos componentes)
 
-- Score mensual agregado (positivo / negativo) sobre el universo completo
-- Noticias curadas **manualmente**: PDFs y TXT en `data/news/{año}/{mes}/`
-- Modelo: **FinBERT**
-- El score se alimenta como input adicional al clasificador de régimen
-- Integración exacta con SVM: a definir al construir el módulo
+### NLP por empresa — nlp_empresa_i
+- Input: 6-K y 20-F de cada ticker en SEC Edgar del mes en curso
+- Modelo: FinBERT
+- Output: score por ticker, rango [-1.0, +1.0]
+- Entra en la fórmula de pesos como variable individual por activo
+
+### NLP macro — nlp_macro
+- Input: documentos macro del mes (ver Dataset de documentos abajo)
+- Modelo: FinBERT
+- Output: score agregado único para todo el portfolio ese mes, rango [-1.0, +1.0]
+- Entra en la fórmula de pesos igual para todos los activos
+
+---
+
+## Dataset de documentos — data/news/
+
+993 documentos totales organizados en `data/news/{año}/{mes}/`.
+Todos los archivos van en la carpeta del mes en que se **publican** (regla anti-leakage), no del mes que cubren.
+
+### Fuentes automatizadas
+| Fuente | Tipo | Cobertura | Archivos |
+|--------|------|-----------|---------|
+| SEC Edgar (6-K y 20-F) | Por empresa | Ene 2024 → Dic 2025 | 911 |
+| BCRA REM | Macro AR | Ene 2024 → Dic 2025 | 24 |
+| BCRA Monetario Mensual | Macro AR | Jun 2024 → Dic 2025 | 19 |
+| INDEC Informa | Macro AR | Ene 2024 → Dic 2025 | 24 |
+| Fed FOMC Minutes | Macro Global | Ene 2024 → Dic 2025 | 15 |
+
+### Limitación documentada — enero a mayo 2024
+El BCRA no publicó el Informe Monetario Mensual durante enero-mayo 2024 (gestión Milei). Esos meses tienen REM + SEC filings pero sin Monetario Mensual. Esta limitación se documenta en el paper como restricción de disponibilidad de datos, no como error del sistema.
+
+### Fuentes manuales (agregar cuando estén disponibles)
+- IEF BCRA (Informe de Estabilidad Financiera) — semestral, mayo y noviembre
+- Reportes FMI sobre Argentina
+- Reportes de calificadoras (Fitch, Moody's) sobre Argentina
+
+---
+
+## Benchmarks
+
+| Benchmark | Descripción | Conversión |
+|-----------|-------------|------------|
+| EW Buy & Hold ADRs | Equal weight estático de los 10 ADRs | Ya en USD |
+| Merval en USD | `^MERV` via yfinance | Dividido por CCL (Contado con Liquidación) |
+| FIMA Acciones USD | FCI de acciones argentinas | Pendiente — datos no disponibles públicamente sin auth |
+
+**AL30D fue eliminado de los benchmarks** — datos históricos no disponibles en fuentes reguladas.
 
 ---
 
@@ -193,21 +215,16 @@ Las señales individuales por activo determinan si ese ADR entra o no ese mes.
 ```
 Python 3.11+
 pandas / numpy          → manipulación de datos
-scikit-learn            → PCA, SVM
+scikit-learn            → PCA, SVM, correlación
 vectorbt                → motor de backtest
-transformers / FinBERT  → NLP
-matplotlib              → visualización estilo académico (PNG/PDF para el paper)
+transformers / FinBERT  → NLP empresa y macro
+matplotlib              → visualización estilo académico
 yfinance                → descarga de precios ADRs y Merval
-requests / BeautifulSoup → scraping de AL30D, CCL y datos macro
+requests / BeautifulSoup → scraping macro
 python-dotenv           → variables de entorno
 pyyaml                  → configuración
+pdfminer.six            → extracción texto de PDFs
 ```
-
-### Visualización
-- **matplotlib** con estilo académico
-- Outputs: PNG/PDF exportables para incluir directamente en el informe
-- Tablas de métricas: impresas en terminal y exportadas como CSV
-- Sin dashboards interactivos, sin HTML
 
 ---
 
@@ -215,12 +232,20 @@ pyyaml                  → configuración
 
 ```
 config/
-├── assets.yaml      → lista de tickers y metadatos
+├── assets.yaml      → lista de tickers, sectores y metadatos
 ├── periods.yaml     → fechas in-sample y out-of-sample
-└── settings.yaml    → parámetros del modelo (ventanas SMA, umbrales, etc.)
+└── settings.yaml    → parámetros del modelo incluyendo pesos de la fórmula
 ```
 
-Variables sensibles → `.env`, nunca en YAML ni en el código.
+Pesos de la fórmula en settings.yaml:
+```yaml
+allocation_weights:
+  signal_weight: 0.40
+  vol_weight: 0.30
+  corr_weight: 0.10
+  nlp_company_weight: 0.10
+  nlp_macro_weight: 0.10
+```
 
 ---
 
@@ -236,39 +261,38 @@ gestionHvsA-adrsArgy/
 │
 ├── data/
 │   ├── cache/
-│   │   ├── prices/          ← ADRs, AL30D, Merval (cache histórico inmutable post-primera-corrida)
-│   │   └── macro/           ← CCL, inflación, riesgo país, reservas BCRA
+│   │   ├── prices/          ← ADRs, Merval (cache histórico inmutable)
+│   │   ├── macro/           ← CCL, inflación, reservas BCRA
+│   │   └── models/          ← regime_pipeline.joblib + .meta.json
 │   ├── news/
 │   │   ├── 2024/
-│   │   │   ├── 01/          ← noticias curadas enero 2024
-│   │   │   ├── 02/
+│   │   │   ├── 01/          ← SEC filings + REM ene 2024
 │   │   │   └── ...
 │   │   └── 2025/
-│   │       ├── 01/
 │   │       └── ...
-│   └── exports/             ← datos procesados listos para análisis
+│   └── exports/
 │
-├── notebooks/               ← exploración y validación
+├── notebooks/
 │
 ├── results/
-│   ├── 2024/                ← outputs período out-of-sample bull
-│   └── 2025/                ← outputs período out-of-sample bear
+│   ├── 2024/
+│   └── 2025/
 │
 ├── src/
 │   ├── data/                ← descarga, scraping, validación y cache
-│   ├── features/            ← cálculo de señales técnicas
-│   ├── signals/             ← generación de señales y clasificación de régimen
-│   ├── allocation/          ← motor de asignación de pesos
-│   ├── backtest/            ← walk-forward con vectorbt
-│   ├── metrics/             ← Sharpe, drawdown, Treynor, Jensen
-│   ├── nlp/                 ← pipeline FinBERT y score mensual
-│   └── utils/               ← logging, helpers, I/O
+│   │   └── news_downloader.py ← SEC Edgar + BCRA + INDEC + FOMC
+│   ├── features/            ← señales técnicas (SMA, momentum, volatilidad)
+│   ├── signals/             ← clasificación de régimen (PCA + SVM)
+│   ├── allocation/          ← ponderación dinámica 5 variables
+│   ├── backtest/            ← walk-forward, benchmarks
+│   ├── metrics/             ← Sharpe, drawdown, Treynor, Jensen, Calmar
+│   ├── nlp/                 ← FinBERT empresa + macro
+│   └── utils/               ← logging, helpers, snapshots
 │
 ├── tests/
-│
-├── main.py                  ← pipeline integrado, outputs separados por año
+├── main.py
 ├── requirements.txt
-├── .env                     ← API keys (NO commitear)
+├── .env
 ├── .gitignore
 └── CLAUDE.md
 ```
@@ -277,39 +301,37 @@ gestionHvsA-adrsArgy/
 
 ## Pipeline — main.py
 
-`main.py` contiene el pipeline completo integrado. Flujo secuencial:
-
 ```
 [MODO HISTÓRICO — solo primera corrida]
-1. Scraping y descarga de serie histórica 2015→2023 (precios + macro + CCL)
-2. Almacenamiento en data/cache/ (inmutable después de esta corrida)
-3. Entrenamiento PCA + SVM sobre período in-sample
+1. Descarga 2015→2023, almacena data/cache/ (inmutable)
+2. Entrena Pipeline(StandardScaler → PCA≥95% → SVC RBF)
+3. Guarda regime_pipeline.joblib
 
 [MODO LIVE — corre mes a mes desde enero 2024]
-4. Lee cache histórico + agrega datos del mes en curso
-5. Descarga noticias curadas del mes (data/news/)
-6. Cálculo de señales técnicas sobre datos disponibles hasta ese mes
-7. Procesamiento NLP del mes (FinBERT → score de sentimiento)
-8. Clasificación de régimen (PCA + SVM)
-9. Decisión de allocación mensual (pesos por activo)
-10. Registro en log (activos incluidos, pesos, régimen, señales)
-11. Simulación walk-forward acumulada (vectorbt)
-12. Cálculo de métricas de performance vs. benchmarks
-13. Exportación en results/{año}/ + figuras matplotlib
+4. Lee cache histórico + agrega datos del mes
+5. Calcula señales técnicas (SMA, momentum, volatilidad) por activo
+6. Procesa documentos del mes con FinBERT:
+   - nlp_empresa_i por cada ticker (sus 6-K en SEC)
+   - nlp_macro del mes (REM + Monetario + INDEC + FOMC)
+7. Clasifica régimen (PCA + SVM)
+8. Calcula pesos dinámicos con fórmula de 5 variables
+9. Registra decisión en log (activos, pesos, régimen, señales, NLP scores)
+10. Simulación walk-forward acumulada
+11. Calcula métricas vs benchmarks (Sharpe, drawdown, Treynor, Jensen, Calmar)
+12. Exporta en results/{año}/
 ```
-
-**Regla absoluta:** ningún paso puede usar información posterior a la fecha del mes en curso.
 
 ---
 
-## Outputs y persistencia
+## Outputs por corrida
 
-Por cada corrida en `results/{año}/`:
+En `results/{año}/`:
 - `portfolio_weights.csv` — pesos mensuales por activo
-- `performance_metrics.csv` — métricas vs. benchmarks
-- `snapshot_{timestamp}.json` — snapshot reproducible (parámetros + datos usados)
-- `figures/` — gráficos PNG/PDF para el informe
-- `logs/run_{timestamp}.log` — trazabilidad completa de decisiones
+- `performance_metrics.csv` — métricas vs benchmarks
+- `snapshot_{timestamp}.json` — reproducible completo
+- `figures/equity_curves.png/.pdf`
+- `figures/drawdown.png/.pdf`
+- `logs/run_{timestamp}.log`
 
 ---
 
@@ -317,116 +339,61 @@ Por cada corrida en `results/{año}/`:
 
 1. **Sin data leakage** — el modelo solo ve lo que existiría en esa fecha real
 2. **El modelo no conoce los labels bull/bear** — son etiquetas analíticas a posteriori
-3. **Sin CSVs manuales** — todo dato llega por scraping o API automática
+3. **Sin CSVs manuales para precios** — todo por scraping o API automática
 4. **Cache histórico inmutable** — una vez generado, no se re-descarga
-5. **Reproducibilidad** — toda corrida genera snapshot JSON con parámetros y datos usados
-6. **Trazabilidad** — toda decisión de portfolio queda en el log con su señal
-7. **Modularidad** — cada módulo de `src/` tiene una sola responsabilidad
-8. **Un solo `src/`** — separación de períodos en `config/` y `results/`, nunca en el código
-9. **Universo inmutable** — los candidatos no cambian; solo cambian los pesos mensuales
-10. **Fechas dispares aceptadas** — si un activo tiene menos historia, se usa lo disponible y se documenta
+5. **Reproducibilidad** — toda corrida genera snapshot JSON
+6. **Trazabilidad** — toda decisión queda en el log con su señal y scores NLP
+7. **Modularidad** — cada módulo de src/ tiene una sola responsabilidad
+8. **Portfolio 100% equity** — sin renta fija, sin AL30D
+9. **Universo inmutable** — los candidatos no cambian durante el proyecto
+10. **Fechas dispares aceptadas** — se documenta en el log
 
 ---
 
 ## Contexto académico
 
-- El paper compara gestión **humana** (sesgos conductuales) vs. **algorítmica** (sistemática)
-- Los períodos bull/bear son etiquetas **analíticas a posteriori**, no inputs del modelo
+- El paper compara gestión **humana** vs. **algorítmica**
+- Los períodos bull/bear son etiquetas **analíticas a posteriori**
 - El informe está dirigido a lectores **no técnicos** con profundidad académica
-- Toda decisión de diseño debe poder **justificarse metodológicamente** en el paper
+- Toda decisión de diseño debe poder **justificarse metodológicamente**
+
+### Limitaciones documentadas para el paper
+- AL30D: datos históricos no disponibles en fuentes equivalentes a SEC
+- EMBI: endpoint de Ámbito removido — feature ausente en el SVM
+- BCRA Monetario Mensual: no publicado enero-mayo 2024 bajo gestión Milei
+- FIMA Acciones: API requiere autenticación — benchmark pendiente
+- FOMC Nov 2025: minuta aún no publicada al momento de la descarga
 
 ---
 
-## Orden de construcción sugerido
-
-```
-1. src/data/          → scraping, descarga, cache (histórico + live)
-2. src/features/      → señales técnicas
-3. src/signals/       → clasificación de régimen (PCA + SVM)
-4. src/allocation/    → motor de pesos
-5. src/backtest/      → walk-forward con vectorbt
-6. src/metrics/       → métricas y benchmarks (incluye conversión Merval a USD con CCL)
-7. src/nlp/           → FinBERT y score de sentimiento
-8. src/utils/         → logging y helpers (se construye en paralelo desde el inicio)
-9. main.py            → integración final de los dos modos
-```
-
-## Estado actual del proyecto (actualizar con cada módulo completado)
+## Estado actual del proyecto
 
 ### Completado ✅
-- `src/data/` — 8 archivos completos y verificados
-  - `downloader.py` — yfinance ADRs + Merval (Adj Close semanal, ticker a ticker)
-  - `scraper_al30d.py` — AY24.BA proxy 2015-2020 → AL30D.BA, fallback BYMA API
-  - `scraper_ccl.py` — Ámbito API primaria, fallback ratio GGAL implícito
-  - `scraper_macro.py` — IPC/EMBI/reservas/TC via datos.gob.ar + BCRA API
-  - `cache_manager.py` — Parquet + JSON sidecar + manifest, guard doble inmutabilidad
-  - `validator.py` — gaps/NaN/outliers, coverage report, ValidationReport dataclass
-  - `loader.py` — orquestador run_historical() + run_live_month(), anti-leakage
-  - `__init__.py` — API pública del paquete
+- `src/data/` — 8 archivos + news_downloader.py
+- `src/features/` — señales técnicas
+- `src/signals/` — PCA + SVM
+- `src/allocation/` — **pendiente actualizar a ponderación dinámica**
+- `src/backtest/` — walk-forward + benchmarks
+- `src/metrics/` — métricas + visualización con date_range
+- `src/nlp/` — **pendiente separar en nlp_empresa + nlp_macro**
+- `src/utils/` — logging y helpers
+- `main.py` — pipeline integrado
+- `config/` — assets, periods, settings
+- `data/news/` — 993 documentos (911 SEC + 82 macro)
+- Primera corrida histórica y live completadas
 
-- `src/features/` — 2 archivos completos y verificados
-  - `features.py` — SMA20/30, momentum (rolling sum), volatilidad realizada, granularidad dual portfolio/asset
-  - `__init__.py` — exporta compute_features y FeatureMatrix
+### Cambios pendientes 🔨
+1. Eliminar AL30D de todo el código
+2. Actualizar `src/allocation/allocator.py` — ponderación dinámica 5 variables
+3. Actualizar `src/nlp/nlp.py` — separar en nlp_empresa_i y nlp_macro
+4. Actualizar `config/settings.yaml` — agregar allocation_weights
+5. Re-correr pipeline completo con NLP activo y nueva ponderación
 
-- `src/signals/` — 2 archivos completos y verificados
-  - `regime.py` — Pipeline(StandardScaler → PCA ≥95% → SVC RBF); train_regime_classifier() + predict_regime(); label rule price_to_sma30 > 1.0; slot NLP [7] = 0.0 hasta src/nlp/; sidecar .meta.json
-  - `__init__.py` — exporta train_regime_classifier, predict_regime, FEATURE_COLS
-
-- `src/allocation/` — 2 archivos completos y verificados
-  - `allocator.py` — compute_weights(regime_result, assets_features) → AllocationResult; resampleo semanal→mensual interno; Risk-On EW ADRs activos / Risk-Off 80% ADRs + 20% AL30D; edge case double-filter defensive; assert suma=1.0
-  - `__init__.py` — exporta compute_weights, AllocationResult
-
-- `src/backtest/` — 3 archivos completos y verificados
-  - `engine.py` — run_backtest(monthly_allocations, adrs, sovereign_bond, merval, ccl) → BacktestResult; rebalanceo solo en cambio de régimen; execution lag M+1; simulación manual pandas (vbt.from_weights() removido en v1.0.0); BacktestResult dataclass
-  - `benchmarks.py` — compute_benchmarks() → dict[str, pd.Series]; _ew_buy_and_hold, _al30d_static, _merval_usd (Merval/CCL); curvas normalizadas a 1.0
-  - `__init__.py` — exporta run_backtest, BacktestResult
-
-- `src/metrics/` — 3 archivos completos y verificados
-  - `metrics.py` — compute_metrics(BacktestResult) → MetricsResult; _compute_series_metrics (total_return, ann_return, ann_vol, Sharpe, max_dd, Calmar, beta, Treynor, Jensen); save_metrics_csv → performance_metrics.csv; rf=0.0, factor=52, proxy mercado=ew_bnh
-  - `visualizer.py` — plot_equity_curves (portfolio + 3 benchmarks, líneas de rebalanceo, PNG+PDF DPI300); plot_drawdown (área rellena, anotación max dd, PNG+PDF)
-  - `__init__.py` — exporta compute_metrics, save_metrics_csv, MetricsResult, plot_equity_curves, plot_drawdown
-
-- `src/utils/` — 2 archivos completos y verificados
-  - `utils.py` — setup_logging (console + file, logs/run_{ts}.log); ensure_dir; save_snapshot (snapshot_{ts}.json, default=str para tipos no serializables); timer() context manager con [START]/[DONE] y segundos
-  - `__init__.py` — exporta setup_logging, ensure_dir, save_snapshot, timer
-
-- `src/nlp/` — 2 archivos completos y verificados
-  - `nlp.py` — compute_monthly_sentiment(year, month, base_dir, _pipeline) → float [-1,1]; _load_documents (pdf+txt, encoding fallback); _chunk_tokens (450 tok / 50 overlap vía tokenizer FinBERT); _score_chunk P(pos)–P(neg) top_k=None; singleton lazy _pipeline_instance; retorna 0.0+warning si dir ausente o vacía
-  - `__init__.py` — exporta compute_monthly_sentiment
-
-- `main.py` — completo y verificado (AST parse OK + módulos resueltos)
-  - `run_mode_historical`: download → features → train_regime_classifier
-  - `run_mode_live`: loop mensual walk-forward → backtest → outputs por año
-  - `_process_live_month`: anti-leakage (todos los loads capeados a month_end)
-  - `_save_year_outputs`: slice por año, re-normaliza a 1.0, filtra rebalance_dates al año (D40)
-  - CLI: `--mode {historical,live}` + `--month YYYY-MM` opcional
-  - Carry-forward en error de mes; RuntimeError si 0 meses exitosos
-
-- `config/` — 3 archivos completos
-  - `assets.yaml` — 10 ADRs + sovereign_bond AL30D + merval_yf
-  - `periods.yaml` — in_sample_start/end + live_start (live_end via CLI)
-  - `settings.yaml` — sma_short/long, momentum/vol windows, model_path, news_base_dir, results_base_dir, log_level
-
-- `requirements.txt` — completo (pandas, numpy, pyarrow, scikit-learn, joblib, yfinance, requests, beautifulsoup4, lxml, transformers, torch, pdfminer.six, matplotlib, pyyaml, python-dotenv)
-
-### Pendiente ⏳
-Ninguno. Proyecto completo — listo para primera corrida real.
-
----
-
-## Decisiones de diseño consolidadas (D1–D41)
-
-| # | Módulo | Decisión |
-|---|--------|----------|
-| D23 | metrics | Pandas puro — sin vectorbt para métricas |
-| D24 | metrics | rf = 0.0 anualizado (supuesto documentado en el paper) |
-| D25 | metrics | Proxy de mercado para beta/Treynor/Jensen = ew_bnh |
-| D26 | metrics | MetricsResult dataclass: portfolio dict + benchmarks dict + summary_df |
-| D27 | metrics | Factor anualización = 52 (retornos), √52 (volatilidad) |
-| D28 | metrics | equity_curves.png + drawdown.png (PNG DPI300 + PDF); tabla → performance_metrics.csv |
-| D29 | metrics | metrics.py + visualizer.py + __init__.py |
-| D37 | main | CLI: --mode {historical,live} requerido; --month YYYY-MM opcional para live_end |
-| D38 | main | Loop live: live_start desde periods.yaml; live_end desde --month o datetime.now() |
-| D39 | main | Error por mes: try/except → log + carry-forward; RuntimeError si 0 meses exitosos |
-| D40 | main | Una corrida continua; outputs por año en results/{año}/; re-normalización a 1.0 en cada año; rebalance_dates filtrados al año |
-| D41 | main | config/: assets.yaml + periods.yaml + settings.yaml; live_end fuera de YAML (CLI) |
+### Orden de implementación sugerido
+```
+1. Eliminar AL30D (allocation + backtest + metrics)
+2. Actualizar settings.yaml con allocation_weights
+3. Actualizar src/nlp/ — nlp_empresa + nlp_macro
+4. Actualizar src/allocation/ — fórmula dinámica 5 variables
+5. Re-correr python main.py --mode live --month 2025-12
+```

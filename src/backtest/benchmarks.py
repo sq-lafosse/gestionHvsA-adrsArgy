@@ -1,12 +1,16 @@
 """
 Benchmark equity curves for gestionHvsA-adrsArgy.
 
-Four benchmarks, each normalized to 1.0 at the start of the evaluation period:
+Two active benchmarks plus one pending, each normalized to 1.0 at the start of
+the evaluation period:
 
     ew_bnh              — Equal-weight Buy & Hold across all ADRs (no rebalancing)
-    al30d_static        — 100 % AL30D from start (static hold)
     merval_usd          — Merval ARS / CCL (Contado con Liquidación) buy & hold
     fima_acciones_usd   — FIMA Acciones FCI (fondo_id=21, clase_id=21) in USD via CCL
+                          (returns empty Series — CAFCI API requires Bearer JWT)
+
+AL30D was removed from the universe (D8: portfolio 100 % equity; historical data
+not available in regulated sources equivalent to SEC).
 
 CCL is the relevant FX for ADR/local arbitrage and for investors operating in
 the USD-denominated space of Argentine markets — consistent with the project
@@ -35,21 +39,18 @@ _REQUEST_TIMEOUT = 10
 
 def compute_benchmarks(
     adrs: pd.DataFrame,
-    sovereign_bond: pd.Series,
     merval: pd.Series,
     ccl: pd.Series,
     start_date: pd.Timestamp,
     end_date: pd.Timestamp,
 ) -> dict[str, pd.Series]:
     """
-    Compute equity curves for all three benchmarks over [start_date, end_date].
+    Compute equity curves for all active benchmarks over [start_date, end_date].
 
     Parameters
     ----------
     adrs : pd.DataFrame
         Weekly ADR adjusted-close prices (columns = tickers).
-    sovereign_bond : pd.Series
-        Weekly AL30D USD prices.
     merval : pd.Series
         Weekly Merval ARS prices.
     ccl : pd.Series
@@ -59,14 +60,14 @@ def compute_benchmarks(
 
     Returns
     -------
-    dict with keys "ew_bnh", "al30d_static", "merval_usd".
+    dict with keys "ew_bnh", "merval_usd", "fima_acciones_usd".
     Each value is a pd.Series normalized to 1.0 at start_date.
+    AL30D removed (D8: portfolio 100 % equity).
     """
     return {
-        "ew_bnh":             _ew_buy_and_hold(adrs, start_date, end_date),
-        "al30d_static":       _al30d_static(sovereign_bond, start_date, end_date),
-        "merval_usd":         _merval_usd(merval, ccl, start_date, end_date),
-        "fima_acciones_usd":  fima_acciones_usd(
+        "ew_bnh":            _ew_buy_and_hold(adrs, start_date, end_date),
+        "merval_usd":        _merval_usd(merval, ccl, start_date, end_date),
+        "fima_acciones_usd": fima_acciones_usd(
             start_date.strftime("%Y-%m-%d"),
             end_date.strftime("%Y-%m-%d"),
             ccl,
@@ -292,24 +293,6 @@ def _ew_buy_and_hold(
     equity.name = "ew_bnh"
     return equity
 
-
-def _al30d_static(
-    sovereign_bond: pd.Series,
-    start_date: pd.Timestamp,
-    end_date: pd.Timestamp,
-) -> pd.Series:
-    """100 % AL30D held from start_date to end_date without rebalancing."""
-    prices = sovereign_bond.loc[start_date:end_date].ffill().dropna()
-
-    if prices.empty:
-        logger.warning(
-            "_al30d_static: no AL30D data for %s → %s", start_date.date(), end_date.date()
-        )
-        return pd.Series(dtype=float, name="al30d_static")
-
-    equity = prices / prices.iloc[0]
-    equity.name = "al30d_static"
-    return equity
 
 
 def _merval_usd(

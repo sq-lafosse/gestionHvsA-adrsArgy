@@ -15,6 +15,8 @@ Rebalancing rule (D17): triggered only on regime change (Risk-On ↔ Risk-Off).
 
 Execution lag (D22, anti-look-ahead): weights decided at end of month M take
 effect at the first weekly close of month M+1.
+
+Portfolio is 100 % equity — sovereign_bond removed (D8).
 """
 from __future__ import annotations
 
@@ -28,8 +30,6 @@ from src.allocation import AllocationResult
 from .benchmarks import compute_benchmarks
 
 logger = logging.getLogger(__name__)
-
-_AL30D = "AL30D"
 
 
 # ─── Public types ─────────────────────────────────────────────────────────────
@@ -46,7 +46,6 @@ class BacktestResult:
 def run_backtest(
     monthly_allocations: dict[pd.Timestamp, AllocationResult],
     adrs: pd.DataFrame,
-    sovereign_bond: pd.Series,
     merval: pd.Series,
     ccl: pd.Series,
 ) -> BacktestResult:
@@ -60,8 +59,6 @@ def run_backtest(
         Keys must be month-end timestamps (e.g., pd.Timestamp("2024-01-31")).
     adrs : pd.DataFrame
         Weekly ADR adjusted-close prices (columns = tickers).
-    sovereign_bond : pd.Series
-        Weekly AL30D USD prices.
     merval : pd.Series
         Weekly Merval ARS prices (for Merval-in-USD benchmark).
     ccl : pd.Series
@@ -69,13 +66,13 @@ def run_backtest(
 
     Returns
     -------
-    BacktestResult with portfolio equity curve, three benchmark curves,
+    BacktestResult with portfolio equity curve, benchmark curves,
     and the list of rebalance execution dates.
     """
     if not monthly_allocations:
         raise ValueError("monthly_allocations is empty — nothing to backtest.")
 
-    prices = _build_consolidated_prices(adrs, sovereign_bond)
+    prices = adrs.ffill()
 
     rebalance_weights, rebalance_dates = _identify_rebalance_events(
         monthly_allocations, prices.index
@@ -91,7 +88,7 @@ def run_backtest(
 
     start_date = equity.index[0]
     end_date = equity.index[-1]
-    benchmarks = compute_benchmarks(adrs, sovereign_bond, merval, ccl, start_date, end_date)
+    benchmarks = compute_benchmarks(adrs, merval, ccl, start_date, end_date)
 
     logger.info(
         "Backtest complete: %s → %s | %d weeks | %d rebalances",
@@ -106,21 +103,6 @@ def run_backtest(
 
 
 # ─── Internal helpers ─────────────────────────────────────────────────────────
-
-def _build_consolidated_prices(
-    adrs: pd.DataFrame,
-    sovereign_bond: pd.Series,
-) -> pd.DataFrame:
-    """
-    Join ADR prices and AL30D into a single weekly price DataFrame.
-
-    sovereign_bond is renamed to "AL30D" to match AllocationResult.weights keys.
-    Gaps are forward-filled so the simulation has continuous price data.
-    """
-    al30d = sovereign_bond.rename(_AL30D).to_frame()
-    prices = adrs.join(al30d, how="outer").ffill()
-    return prices
-
 
 def _identify_rebalance_events(
     monthly_allocations: dict[pd.Timestamp, AllocationResult],

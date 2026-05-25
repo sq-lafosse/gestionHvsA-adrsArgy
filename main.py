@@ -30,7 +30,6 @@ from src.data import (
     load_ccl_up_to,
     load_macro_up_to,
     load_merval_up_to,
-    load_sovereign_bond_up_to,
     run_historical,
     run_live_month,
 )
@@ -231,14 +230,12 @@ def run_mode_live(
 
     with timer("backtest"):
         adrs_bt   = load_adrs_up_to(last_me)
-        sov_bt    = load_sovereign_bond_up_to(last_me)
         merval_bt = load_merval_up_to(last_me)
         ccl_bt    = load_ccl_up_to(last_me)
 
         result = run_backtest(
             monthly_allocations=monthly_allocations,
             adrs=adrs_bt,
-            sovereign_bond=sov_bt,
             merval=merval_bt,
             ccl=ccl_bt,
         )
@@ -297,28 +294,29 @@ def _process_live_month(
         vol_window=vol_window,
     )
 
-    nlp_score = compute_monthly_sentiment(year, month, base_dir=news_base_dir)
+    nlp_result = compute_monthly_sentiment(year, month, base_dir=news_base_dir)
 
     regime_result = predict_regime(
         portfolio_features=features.portfolio,
         macro=macro,
         ccl=ccl,
         model_path=model_path,
-        nlp_score=nlp_score,
+        nlp_score=nlp_result["macro_score"],
     )
 
     allocation = compute_weights(
         regime_result=regime_result,
         assets_features=features.assets,
+        nlp_result=nlp_result,
     )
 
     monthly_allocations[month_end] = allocation
 
     logger.info(
-        "%d-%02d | %s (p=%.3f) | nlp=%.4f | active=%d excluded=%d",
+        "%d-%02d | %s (p=%.3f) | nlp_macro=%.4f | active=%d excluded=%d",
         year, month,
         allocation.regime, allocation.probability,
-        nlp_score,
+        nlp_result["macro_score"],
         len(allocation.active_adrs), len(allocation.excluded_adrs),
     )
 

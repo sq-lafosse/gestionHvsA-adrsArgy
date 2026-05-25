@@ -19,3 +19,11 @@ results_base_dir: "results"
 # Logging
 log_level: "INFO"
 log_dir:   "logs"
+
+# Dynamic allocation formula weights (must sum to 1.0)
+allocation_weights:
+  signal_weight:      0.40
+  vol_weight:         0.30
+  corr_weight:        0.10
+  nlp_company_weight: 0.10
+  nlp_macro_weight:   0.10

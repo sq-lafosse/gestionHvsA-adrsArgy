@@ -1,0 +1,160 @@
+2026-05-25 10:07:19 | INFO     | src.utils.utils                | Logging initialized — level=INFO  file=logs\run_20260525_130719.log
+2026-05-25 10:07:19 | INFO     | __main__                       | === gestionHvsA-adrsArgy | mode=live ===
+2026-05-25 10:07:19 | INFO     | __main__                       | Live mode: 2 months | 2024-01 → 2024-02
+2026-05-25 10:07:19 | INFO     | src.utils.utils                | [START] live 2024-01
+2026-05-25 10:07:19 | INFO     | src.data.loader                | Starting live-month download: 2024-01-01 → 2024-01-31 (cutoff: 2024-01-31) | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-25 10:07:31 | INFO     | src.data.downloader            | [YPF] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-25 10:07:31 | INFO     | src.data.downloader            | [GGAL] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-25 10:07:31 | INFO     | src.data.downloader            | [BMA] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-25 10:07:31 | INFO     | src.data.downloader            | [PAM] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-25 10:07:31 | INFO     | src.data.downloader            | [TGS] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-25 10:07:31 | INFO     | src.data.downloader            | [CEPU] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-25 10:07:31 | INFO     | src.data.downloader            | [EDN] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-25 10:07:31 | INFO     | src.data.downloader            | [LOMA] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-25 10:07:31 | INFO     | src.data.downloader            | [CRESY] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-25 10:07:31 | INFO     | src.data.downloader            | [IRS] 5 weekly rows (2024-01-01 → 2024-01-29)
+2026-05-25 10:07:35 | ERROR    | yfinance                       | HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: AL30D.BA"}}}
+2026-05-25 10:07:36 | ERROR    | yfinance                       | $AL30D.BA: possibly delisted; no timezone found
+2026-05-25 10:07:36 | WARNING  | src.data.scraper_al30d         | [AL30D.BA] all sources failed and no cache available
+2026-05-25 10:07:36 | WARNING  | src.data.scraper_al30d         | sovereign_bond: all sources failed — returning empty series
+2026-05-25 10:07:37 | INFO     | src.data.scraper_ccl           | CCL: GGAL ratio fallback used (5 observations)
+2026-05-25 10:07:38 | INFO     | src.data.scraper_macro         | [macro/ipc] datos.gob.ar: 1 rows
+2026-05-25 10:07:38 | WARNING  | src.data.scraper_macro         | [macro/embi] using cached fallback for 2024-01-01 → 2024-01-31
+2026-05-25 10:07:39 | INFO     | src.data.scraper_macro         | [macro/reservas] datos.gob.ar: 1 rows
+2026-05-25 10:07:40 | INFO     | src.data.scraper_macro         | [macro/tc_oficial] datos.gob.ar: 1 rows
+2026-05-25 10:07:40 | INFO     | src.data.validator             | Coverage report [prices]
+2026-05-25 10:07:40 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-25 10:07:40 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-25 10:07:40 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-25 10:07:40 | INFO     | src.data.validator             | YPF                   2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-25 10:07:40 | INFO     | src.data.validator             | GGAL                  2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-25 10:07:40 | INFO     | src.data.validator             | BMA                   2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-25 10:07:40 | INFO     | src.data.validator             | PAM                   2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-25 10:07:40 | INFO     | src.data.validator             | TGS                   2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-25 10:07:40 | INFO     | src.data.validator             | CEPU                  2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-25 10:07:40 | INFO     | src.data.validator             | EDN                   2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-25 10:07:40 | INFO     | src.data.validator             | LOMA                  2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-25 10:07:40 | INFO     | src.data.validator             | CRESY                 2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-25 10:07:40 | INFO     | src.data.validator             | IRS                   2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-25 10:07:40 | ERROR    | src.data.validator             | sovereign_bond        MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-25 10:07:40 | INFO     | src.data.validator             | merval                2024-01-01    2024-01-29        5      0   0.00%  LATE +3287d
+2026-05-25 10:07:40 | INFO     | src.data.validator             | ccl                   2024-01-05    2024-02-02        5      0   0.00%  LATE +3291d
+2026-05-25 10:07:40 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-25 10:07:40 | INFO     | src.data.validator             | Coverage report [macro]
+2026-05-25 10:07:40 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-25 10:07:40 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-25 10:07:40 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-25 10:07:40 | INFO     | src.data.validator             | ipc                   2024-01-31    2024-01-31        1      0   0.00%  LATE +3317d
+2026-05-25 10:07:40 | ERROR    | src.data.validator             | embi                  MISSING       MISSING           1      1  100.00%  ERROR     
+2026-05-25 10:07:40 | INFO     | src.data.validator             | reservas              2024-01-31    2024-01-31        1      0   0.00%  LATE +3317d
+2026-05-25 10:07:40 | INFO     | src.data.validator             | tc_oficial            2024-01-31    2024-01-31        1      0   0.00%  LATE +3317d
+2026-05-25 10:07:40 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-25 10:07:40 | WARNING  | src.data.loader                | 17 validation warning(s) — data will still be appended.
+2026-05-25 10:07:40 | INFO     | src.data.cache_manager         | Appending live month to cache
+2026-05-25 10:07:40 | INFO     | src.data.cache_manager         | Live month appended. New last cached date: 2024-02-02
+2026-05-25 10:07:40 | INFO     | src.data.loader                | Live month appended successfully. Cutoff: 2024-01-31
+2026-05-25 10:07:41 | INFO     | src.features.features          | compute_features: 789 weekly rows | 10 tickers | warm-up = 30 rows
+2026-05-25 10:07:50 | INFO     | src.nlp.nlp                    | Loaded from data\news\2024\01 — macro=2 docs, company=35 docs across 6 tickers
+2026-05-25 10:08:46 | INFO     | src.nlp.nlp                    | Loading FinBERT (ProsusAI/finbert) on CPU — first call...
+2026-05-25 10:08:47 | INFO     | httpx                          | HTTP Request: HEAD https://huggingface.co/ProsusAI/finbert/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-05-25 10:08:47 | INFO     | httpx                          | HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ProsusAI/finbert/4556d13015211d73dccd3fdd39d39232506f3e43/config.json "HTTP/1.1 200 OK"
+2026-05-25 10:08:47 | INFO     | httpx                          | HTTP Request: HEAD https://huggingface.co/ProsusAI/finbert/resolve/main/model.safetensors "HTTP/1.1 404 Not Found"
+2026-05-25 10:08:47 | WARNING  | huggingface_hub.utils._http    | Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-05-25 10:08:47 | INFO     | httpx                          | HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert "HTTP/1.1 200 OK"
+2026-05-25 10:08:48 | INFO     | httpx                          | HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert/commits/main "HTTP/1.1 200 OK"
+2026-05-25 10:08:48 | INFO     | httpx                          | HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert/discussions?p=0 "HTTP/1.1 200 OK"
+2026-05-25 10:08:49 | INFO     | httpx                          | HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert/commits/refs%2Fpr%2F29 "HTTP/1.1 200 OK"
+2026-05-25 10:08:49 | INFO     | httpx                          | HTTP Request: HEAD https://huggingface.co/ProsusAI/finbert/resolve/refs%2Fpr%2F29/model.safetensors.index.json "HTTP/1.1 404 Not Found"
+2026-05-25 10:08:49 | INFO     | httpx                          | HTTP Request: HEAD https://huggingface.co/ProsusAI/finbert/resolve/refs%2Fpr%2F29/model.safetensors "HTTP/1.1 302 Found"
+2026-05-25 10:08:52 | INFO     | httpx                          | HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-05-25 10:08:52 | INFO     | httpx                          | HTTP Request: GET https://huggingface.co/api/models/ProsusAI/finbert/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-05-25 10:08:52 | INFO     | src.nlp.nlp                    | FinBERT loaded.
+2026-05-25 10:10:14 | INFO     | src.nlp.nlp                    | Monthly sentiment 2024-01 — macro=-0.0211 | company=[BMA=0.000 CEPU=0.006 CRESY=-0.024 EDN=-0.010 GGAL=0.000 IRS=-0.014 LOMA=-0.027 PAM=0.000 TGS=0.000 YPF=0.002]
+2026-05-25 10:10:14 | WARNING  | src.signals.regime             | _build_monthly_feature_matrix: 'embi' is entirely NaN — filling with 0.0
+2026-05-25 10:10:14 | INFO     | src.signals.regime             | Regime prediction: risk_off (p=0.431) | month=2024-01 | nlp_score=-0.0211
+2026-05-25 10:10:14 | INFO     | src.allocation.allocator       | compute_weights: risk_off (p=0.431) | active=[BMA(sma=1.495,score=0.4859), CEPU(sma=1.506,score=0.8198), EDN(sma=1.448,score=0.4885), GGAL(sma=1.509,score=0.5128), IRS(sma=1.311,score=0.3982)] | excluded=[CRESY=1.269, LOMA=1.126, PAM=1.172, TGS=1.238, YPF=1.300] | BMA=0.1796 CEPU=0.3031 EDN=0.1806 GGAL=0.1895 IRS=0.1472
+2026-05-25 10:10:14 | INFO     | __main__                       | 2024-01 | risk_off (p=0.431) | nlp_macro=-0.0211 | active=5 excluded=5
+2026-05-25 10:10:14 | INFO     | src.utils.utils                | [DONE]  live 2024-01 — 174.81s
+2026-05-25 10:10:14 | INFO     | src.utils.utils                | [START] live 2024-02
+2026-05-25 10:10:14 | INFO     | src.data.loader                | Starting live-month download: 2024-02-03 → 2024-02-29 (cutoff: 2024-02-29) | tickers: ['YPF', 'GGAL', 'BMA', 'PAM', 'TGS', 'CEPU', 'EDN', 'LOMA', 'CRESY', 'IRS']
+2026-05-25 10:10:20 | INFO     | src.data.downloader            | [YPF] 4 weekly rows (2024-02-05 → 2024-02-26)
+2026-05-25 10:10:20 | INFO     | src.data.downloader            | [GGAL] 4 weekly rows (2024-02-05 → 2024-02-26)
+2026-05-25 10:10:20 | INFO     | src.data.downloader            | [BMA] 4 weekly rows (2024-02-05 → 2024-02-26)
+2026-05-25 10:10:20 | INFO     | src.data.downloader            | [PAM] 4 weekly rows (2024-02-05 → 2024-02-26)
+2026-05-25 10:10:20 | INFO     | src.data.downloader            | [TGS] 4 weekly rows (2024-02-05 → 2024-02-26)
+2026-05-25 10:10:20 | INFO     | src.data.downloader            | [CEPU] 4 weekly rows (2024-02-05 → 2024-02-26)
+2026-05-25 10:10:20 | INFO     | src.data.downloader            | [EDN] 4 weekly rows (2024-02-05 → 2024-02-26)
+2026-05-25 10:10:20 | INFO     | src.data.downloader            | [LOMA] 4 weekly rows (2024-02-05 → 2024-02-26)
+2026-05-25 10:10:20 | INFO     | src.data.downloader            | [CRESY] 4 weekly rows (2024-02-05 → 2024-02-26)
+2026-05-25 10:10:20 | INFO     | src.data.downloader            | [IRS] 4 weekly rows (2024-02-05 → 2024-02-26)
+2026-05-25 10:10:22 | ERROR    | yfinance                       | HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: AL30D.BA"}}}
+2026-05-25 10:10:23 | ERROR    | yfinance                       | $AL30D.BA: possibly delisted; no timezone found
+2026-05-25 10:10:23 | WARNING  | src.data.scraper_al30d         | [AL30D.BA] all sources failed and no cache available
+2026-05-25 10:10:23 | WARNING  | src.data.scraper_al30d         | sovereign_bond: all sources failed — returning empty series
+2026-05-25 10:10:24 | INFO     | src.data.scraper_ccl           | CCL: GGAL ratio fallback used (4 observations)
+2026-05-25 10:10:28 | WARNING  | src.data.scraper_macro         | [macro/ipc] using cached fallback for 2024-02-03 → 2024-02-29
+2026-05-25 10:10:29 | WARNING  | src.data.scraper_macro         | [macro/embi] using cached fallback for 2024-02-03 → 2024-02-29
+2026-05-25 10:10:30 | WARNING  | src.data.scraper_macro         | [macro/reservas] using cached fallback for 2024-02-03 → 2024-02-29
+2026-05-25 10:10:31 | INFO     | src.data.scraper_macro         | [macro/tc_oficial] datos.gob.ar: 1 rows
+2026-05-25 10:10:31 | INFO     | src.data.validator             | Coverage report [prices]
+2026-05-25 10:10:31 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-25 10:10:31 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-25 10:10:31 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-25 10:10:31 | INFO     | src.data.validator             | YPF                   2024-02-05    2024-02-26        4      0   0.00%  LATE +3322d
+2026-05-25 10:10:31 | INFO     | src.data.validator             | GGAL                  2024-02-05    2024-02-26        4      0   0.00%  LATE +3322d
+2026-05-25 10:10:31 | INFO     | src.data.validator             | BMA                   2024-02-05    2024-02-26        4      0   0.00%  LATE +3322d
+2026-05-25 10:10:31 | INFO     | src.data.validator             | PAM                   2024-02-05    2024-02-26        4      0   0.00%  LATE +3322d
+2026-05-25 10:10:31 | INFO     | src.data.validator             | TGS                   2024-02-05    2024-02-26        4      0   0.00%  LATE +3322d
+2026-05-25 10:10:31 | INFO     | src.data.validator             | CEPU                  2024-02-05    2024-02-26        4      0   0.00%  LATE +3322d
+2026-05-25 10:10:31 | INFO     | src.data.validator             | EDN                   2024-02-05    2024-02-26        4      0   0.00%  LATE +3322d
+2026-05-25 10:10:31 | INFO     | src.data.validator             | LOMA                  2024-02-05    2024-02-26        4      0   0.00%  LATE +3322d
+2026-05-25 10:10:31 | INFO     | src.data.validator             | CRESY                 2024-02-05    2024-02-26        4      0   0.00%  LATE +3322d
+2026-05-25 10:10:31 | INFO     | src.data.validator             | IRS                   2024-02-05    2024-02-26        4      0   0.00%  LATE +3322d
+2026-05-25 10:10:31 | ERROR    | src.data.validator             | sovereign_bond        MISSING       MISSING           0      0  100.00%  ERROR     
+2026-05-25 10:10:31 | INFO     | src.data.validator             | merval                2024-02-05    2024-02-26        4      0   0.00%  LATE +3322d
+2026-05-25 10:10:31 | INFO     | src.data.validator             | ccl                   2024-02-09    2024-03-01        4      0   0.00%  LATE +3326d
+2026-05-25 10:10:31 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-25 10:10:31 | INFO     | src.data.validator             | Coverage report [macro]
+2026-05-25 10:10:31 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-25 10:10:31 | INFO     | src.data.validator             | asset                 first_date    last_date      rows    nan    nan%  status    
+2026-05-25 10:10:31 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-25 10:10:31 | INFO     | src.data.validator             | ipc                   2024-02-29    2024-02-29        1      0   0.00%  LATE +3346d
+2026-05-25 10:10:31 | ERROR    | src.data.validator             | embi                  MISSING       MISSING           1      1  100.00%  ERROR     
+2026-05-25 10:10:31 | INFO     | src.data.validator             | reservas              2024-02-29    2024-02-29        1      0   0.00%  LATE +3346d
+2026-05-25 10:10:31 | INFO     | src.data.validator             | tc_oficial            2024-02-29    2024-02-29        1      0   0.00%  LATE +3346d
+2026-05-25 10:10:31 | INFO     | src.data.validator             | ----------------------------------------------------------------------------------
+2026-05-25 10:10:31 | WARNING  | src.data.loader                | 17 validation warning(s) — data will still be appended.
+2026-05-25 10:10:31 | INFO     | src.data.cache_manager         | Appending live month to cache
+2026-05-25 10:10:31 | INFO     | src.data.cache_manager         | Live month appended. New last cached date: 2024-03-01
+2026-05-25 10:10:31 | INFO     | src.data.loader                | Live month appended successfully. Cutoff: 2024-02-29
+2026-05-25 10:10:31 | INFO     | src.features.features          | compute_features: 793 weekly rows | 10 tickers | warm-up = 30 rows
+2026-05-25 10:11:32 | INFO     | src.nlp.nlp                    | Loaded from data\news\2024\02 — macro=2 docs, company=33 docs across 7 tickers
+2026-05-25 10:12:45 | INFO     | src.nlp.nlp                    | Monthly sentiment 2024-02 — macro=0.0340 | company=[BMA=0.001 CEPU=0.072 CRESY=-0.022 EDN=-0.015 GGAL=0.000 IRS=-0.016 LOMA=-0.031 PAM=0.000 TGS=0.000 YPF=0.001]
+2026-05-25 10:12:45 | WARNING  | src.signals.regime             | _build_monthly_feature_matrix: 'embi' is entirely NaN — filling with 0.0
+2026-05-25 10:12:45 | INFO     | src.signals.regime             | Regime prediction: risk_on (p=0.973) | month=2024-02 | nlp_score=0.0340
+2026-05-25 10:12:45 | INFO     | src.allocation.allocator       | compute_weights: risk_on (p=0.973) | active=[BMA(sma=1.672,score=0.6277), CEPU(sma=1.200,score=0.5696), CRESY(sma=1.052,score=0.3091), EDN(sma=1.166,score=0.3160), GGAL(sma=1.464,score=0.4231), IRS(sma=1.123,score=0.4685), LOMA(sma=1.032,score=0.3839), PAM(sma=1.002,score=0.3616), TGS(sma=1.072,score=0.3150), YPF(sma=1.247,score=0.4991)] | excluded=[none] | BMA=0.1469 CEPU=0.1333 CRESY=0.0723 EDN=0.0739 GGAL=0.0990 IRS=0.1096 LOMA=0.0898 PAM=0.0846 TGS=0.0737 YPF=0.1168
+2026-05-25 10:12:45 | INFO     | __main__                       | 2024-02 | risk_on (p=0.973) | nlp_macro=0.0340 | active=10 excluded=0
+2026-05-25 10:12:45 | INFO     | src.utils.utils                | [DONE]  live 2024-02 — 150.34s
+2026-05-25 10:12:45 | INFO     | __main__                       | Live loop complete: 2/2 months succeeded.
+2026-05-25 10:12:45 | INFO     | src.utils.utils                | [START] backtest
+2026-05-25 10:12:45 | INFO     | src.backtest.engine            | Rebalance: decision=2024-01 | initial → risk_off | execution=2024-02-05
+2026-05-25 10:12:45 | WARNING  | src.backtest.engine            | No price data after 2024-03-01 — rebalance for 2024-02 skipped
+2026-05-25 10:12:49 | WARNING  | src.backtest.benchmarks        | fima daily: 4/4 requests failed — endpoint puede no soportar ?fecha
+2026-05-25 10:12:49 | INFO     | src.backtest.benchmarks        | fima_acciones_usd: Opción A falló — intentando fallback Opción B
+2026-05-25 10:12:50 | WARNING  | src.backtest.benchmarks        | fima rendimiento: HTTP 403 — https://api.cafci.org.ar/fondo/21/clase/21/rendimiento/2024-02-05/2024-02-26
+2026-05-25 10:12:50 | WARNING  | src.backtest.benchmarks        | fima_acciones_usd: ambas opciones fallaron — retornando serie vacía
+2026-05-25 10:12:50 | INFO     | src.backtest.engine            | Backtest complete: 2024-02-05 → 2024-02-26 | 4 weeks | 1 rebalances
+2026-05-25 10:12:50 | INFO     | src.utils.utils                | [DONE]  backtest — 5.18s
+2026-05-25 10:12:50 | INFO     | src.utils.utils                | [START] metrics + outputs 2024
+2026-05-25 10:12:50 | INFO     | src.metrics.metrics            | Portfolio — total_return=5.42%  ann_return=98.69%  sharpe=3.28  max_dd=-2.96%
+2026-05-25 10:12:50 | INFO     | src.metrics.metrics            | EW B&H ADRs      — total_return=3.07%  ann_return=48.13%  sharpe=1.52
+2026-05-25 10:12:50 | INFO     | src.metrics.metrics            | Merval USD       — total_return=-2.29%  ann_return=-18.22%  sharpe=-0.36
+2026-05-25 10:12:50 | INFO     | src.metrics.metrics            | FIMA Acciones USD — total_return=nan%  ann_return=nan%  sharpe=nan
+2026-05-25 10:12:50 | INFO     | src.metrics.metrics            | Saved: results\2024\performance_metrics.csv
+2026-05-25 10:12:55 | INFO     | src.metrics.visualizer         | Saved: results\2024\figures\equity_curves.png (+ .pdf)
+2026-05-25 10:12:56 | INFO     | src.metrics.visualizer         | Saved: results\2024\figures\drawdown.png (+ .pdf)
+2026-05-25 10:12:56 | INFO     | __main__                       | portfolio_weights.csv → results\2024\portfolio_weights.csv (2 rows)
+2026-05-25 10:12:56 | INFO     | src.utils.utils                | [DONE]  metrics + outputs 2024 — 6.07s
+2026-05-25 10:12:56 | INFO     | src.utils.utils                | Snapshot saved: results\2024\snapshot_20260525_131256.json
+2026-05-25 10:12:56 | INFO     | __main__                       | Year 2024 outputs saved → results\2024 | rebalances=1 | total_return=5.42%
+2026-05-25 10:12:56 | INFO     | __main__                       | Live mode complete. All outputs written to results/

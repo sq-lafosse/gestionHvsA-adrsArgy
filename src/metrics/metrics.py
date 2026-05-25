@@ -40,9 +40,9 @@ _METRIC_KEYS = [
 ]
 
 _BENCHMARK_LABELS = {
-    "ew_bnh":       "EW B&H ADRs",
-    "al30d_static": "AL30D Static",
-    "merval_usd":   "Merval USD",
+    "ew_bnh":            "EW B&H ADRs",
+    "merval_usd":        "Merval USD",
+    "fima_acciones_usd": "FIMA Acciones USD",
 }
 
 
