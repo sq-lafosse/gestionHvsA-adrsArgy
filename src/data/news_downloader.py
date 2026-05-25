@@ -59,10 +59,15 @@ _HEADERS_WWW = {
 
 _MONTHS_ES = ["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"]
 
-_BCRA_BASE = "https://www.bcra.gob.ar"
-_FED_BASE  = "https://www.federalreserve.gov"
+_BCRA_BASE  = "https://www.bcra.gob.ar"
+_FED_BASE   = "https://www.federalreserve.gov"
+_INDEC_BASE = "https://www.indec.gob.ar/ftp/cuadros/publicaciones/indecinforma"
 
 _HEADERS_BCRA = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "Accept":     "application/pdf,*/*",
+}
+_HEADERS_INDEC = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
     "Accept":     "application/pdf,*/*",
 }
@@ -87,13 +92,15 @@ def download_macro_documents(start: str, end: str) -> dict[str, dict[str, int]]:
     Download BCRA and Fed macro documents for each month in [start, end].
 
     Sources (approved):
-      bcra_monetario — BCRA Informe Monetario Mensual (PDF). Available from
-                       2024-06 onward; 2024-01..05 are 404 and skipped.
-                       Published ~2 weeks after month-close → saved in M+1 folder.
-      bcra_rem       — BCRA Relevamiento de Expectativas de Mercado (PDF).
-                       Published last business day of the covered month → same-month folder.
-      fed_fomc       — Federal Reserve FOMC minutes page (HTML saved as .txt).
-                       16 hardcoded meeting dates for 2024–2025.
+      bcra_monetario  — BCRA Informe Monetario Mensual (PDF). Available from
+                        2024-06 onward; 2024-01..05 are 404 and skipped.
+                        Published ~2 weeks after month-close → saved in M+1 folder.
+      bcra_rem        — BCRA Relevamiento de Expectativas de Mercado (PDF).
+                        Published last business day of the covered month → same-month folder.
+      fed_fomc        — Federal Reserve FOMC minutes page (HTML saved as .txt).
+                        16 hardcoded meeting dates for 2024–2025.
+      indec_informa   — INDEC Informa resumen mensual (PDF). Full coverage 2024-2025.
+                        Published ~3-4 weeks after month-close → saved in M+1 folder.
 
     Parameters
     ----------
@@ -102,7 +109,7 @@ def download_macro_documents(start: str, end: str) -> dict[str, dict[str, int]]:
 
     Returns
     -------
-    dict mapping 'YYYY-MM' → {'bcra_monetario': N, 'bcra_rem': N, 'fed_fomc': N}
+    dict mapping 'YYYY-MM' → {'bcra_monetario': N, 'bcra_rem': N, 'fed_fomc': N, 'indec_informa': N}
     for every month in [start, end]. Counts are by coverage month.
     All errors are logged as warnings; the function never raises.
     """
@@ -111,7 +118,7 @@ def download_macro_documents(start: str, end: str) -> dict[str, dict[str, int]]:
     months   = _month_range(start_ts, end_ts)
 
     counts: dict[str, dict[str, int]] = {
-        m: {"bcra_monetario": 0, "bcra_rem": 0, "fed_fomc": 0}
+        m: {"bcra_monetario": 0, "bcra_rem": 0, "fed_fomc": 0, "indec_informa": 0}
         for m in months
     }
 
@@ -132,6 +139,11 @@ def download_macro_documents(start: str, end: str) -> dict[str, dict[str, int]]:
         rem_dir = Path("data/news") / f"{year}" / f"{month:02d}"
         if _download_bcra_rem(mes, str(year), rem_dir):
             counts[month_key]["bcra_rem"] += 1
+
+        # INDEC Informa — published M+1, saved in same pub_dir as bcra_monetario
+        mm = f"{month:02d}"
+        if _download_indec_informa(mm, yy, pub_dir):
+            counts[month_key]["indec_informa"] += 1
 
     # FOMC — fixed dates, count under coverage month
     for date_str in _FOMC_DATES:
@@ -415,6 +427,46 @@ def _download_bcra_rem(mes: str, year: str, out_dir: Path) -> bool:
 
     except Exception as exc:
         logger.warning("bcra_rem: excepción para %s-%s — %s", mes, year, exc)
+        return False
+
+
+def _download_indec_informa(mm: str, yy: str, out_dir: Path) -> bool:
+    """
+    Download INDEC Informa monthly summary PDF.
+
+    mm  : zero-padded month (e.g. '01')
+    yy  : 2-digit year (e.g. '24')
+    out_dir : publication-month folder (M+1, same rule as bcra_monetario)
+
+    Returns True if file is on disk after the call.
+    """
+    filename = f"indec_informa_{mm}_{yy}.pdf"
+    out_path = out_dir / filename
+    if out_path.exists():
+        logger.debug("indec_informa: already on disk — %s", filename)
+        return True
+
+    url = f"{_INDEC_BASE}/indec_informa_{mm}_{yy}.pdf"
+    try:
+        time.sleep(_RATE_LIMIT)
+        resp = requests.get(url, headers=_HEADERS_INDEC, timeout=_TIMEOUT)
+        if resp.status_code == 404:
+            logger.warning("indec_informa: 404 para %s_%s (no publicado)", mm, yy)
+            return False
+        if resp.status_code != 200:
+            logger.warning("indec_informa: HTTP %d para %s_%s", resp.status_code, mm, yy)
+            return False
+        if resp.content[:4] != b"%PDF":
+            logger.warning("indec_informa: respuesta no es PDF para %s_%s", mm, yy)
+            return False
+
+        out_dir.mkdir(parents=True, exist_ok=True)
+        out_path.write_bytes(resp.content)
+        logger.info("indec_informa: saved %s (%d bytes)", filename, len(resp.content))
+        return True
+
+    except Exception as exc:
+        logger.warning("indec_informa: excepción para %s_%s — %s", mm, yy, exc)
         return False
 
 
