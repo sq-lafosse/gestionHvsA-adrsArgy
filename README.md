@@ -228,8 +228,8 @@ gestionHvsA-adrsArgy/
 │
 ├── data/
 │   ├── benchmarks/
-│   │   ├── fima_benchmark_usd.csv   ← serie mensual del FCI en USD (manual)
-│   │   └── fima_acciones_monthly_composition.xlsx
+│   │   ├── f_benchmark_usd.csv   ← serie mensual del FCI en USD (manual)
+│   │   └── f_acciones_monthly_composition.xlsx
 │   ├── cache/                       ← generado automáticamente (.gitignore)
 │   │   ├── prices/adrs.parquet      ← precios históricos 2015–2025
 │   │   ├── macro/ccl.parquet        ← tipo de cambio CCL
@@ -294,7 +294,7 @@ Sí: `python main.py --mode live --month 2024-03` corre solo enero, febrero y ma
 Sí, siempre que uses el mismo cache histórico y los mismos documentos NLP. El sistema es completamente determinístico dado el mismo input.
 
 **¿Dónde están los datos del FCI Acciones Argentina?**
-En `data/benchmarks/fima_benchmark_usd.csv`. Son datos provistos manualmente por el equipo de investigación (la API del fondo está bloqueada para acceso público). El nombre del fondo no se divulga a pedido del director del trabajo.
+En `data/benchmarks/f_benchmark_usd.csv`. Son datos provistos manualmente por el equipo de investigación (la API del fondo está bloqueada para acceso público). El nombre del fondo no se divulga a pedido del director del trabajo.
 
 **¿Puedo cambiar los coeficientes de la fórmula de ponderación?**
 Sí. Los pesos (0.40, 0.30, 0.10, 0.10, 0.10) viven en `config/settings.yaml` bajo la clave `allocation_weights`. Son editables sin tocar el código fuente.
